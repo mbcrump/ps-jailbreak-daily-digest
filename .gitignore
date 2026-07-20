@@ -1,0 +1,10 @@
+# This repository is intentionally limited to the daily digest.
+*
+!.gitignore
+!README.md
+!reddit_telegram_summary.js
+!.github/
+!.github/workflows/
+!.github/workflows/daily-digest.yml
+!docs/
+!docs/**
