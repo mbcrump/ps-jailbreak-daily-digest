@@ -2,6 +2,7 @@
 
 This repository generates a daily digest from:
 
+- Same-day videos from the `PlayStation Hacks & Exploits | Michael Crump` YouTube RSS feed
 - r/ps4homebrew
 - r/ps5homebrew
 - r/PS5_Jailbreak

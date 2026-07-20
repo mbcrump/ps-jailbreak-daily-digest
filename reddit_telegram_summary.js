@@ -18,6 +18,9 @@ const BLUESKY_QUERIES = [
   "ps4 homebrew",
 ];
 
+const YOUTUBE_FEED_URL =
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCCjHMUEzoCauYet8NG4sCog";
+
 const EXCLUDED_POST_TEXT = String(process.env.EXCLUDED_POST_TEXT || "")
   .split(/[\r\n,]+/)
   .map((text) => text.trim().toLocaleLowerCase("en-US"))
@@ -31,7 +34,7 @@ const USER_AGENT = "PSJailbreakDailyDigest/2.0";
 const DAY_MS = 24 * 60 * 60 * 1000;
 const SITE_NAME = "PS Jailbreak Daily Digest";
 const SITE_DESCRIPTION =
-  "A daily roundup of PlayStation jailbreak and homebrew news from Reddit and Bluesky.";
+  "A daily roundup of PlayStation jailbreak and homebrew news from YouTube, Reddit, and Bluesky.";
 const SITE_URL = `${String(
   process.env.DIGEST_SITE_URL || "https://mbcrump.github.io/ps-jailbreak-daily-digest/"
 ).replace(/\/+$/, "")}/`;
@@ -107,6 +110,70 @@ async function fetchWithRetry(url, options = {}, label = "request") {
     if (attempt < 4) await sleep(750 * 2 ** (attempt - 1));
   }
   throw new Error(`${label}: ${shortError(lastError)}`);
+}
+
+function decodeXml(value) {
+  return String(value)
+    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(Number.parseInt(code, 16)))
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replaceAll("&quot;", '"')
+    .replaceAll("&apos;", "'")
+    .replaceAll("&lt;", "<")
+    .replaceAll("&gt;", ">")
+    .replaceAll("&amp;", "&");
+}
+
+function xmlElement(xml, name) {
+  const escapedName = name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const match = String(xml).match(
+    new RegExp(`<${escapedName}(?:\\s[^>]*)?>([\\s\\S]*?)</${escapedName}>`, "i")
+  );
+  return decodeXml(match?.[1] || "").trim();
+}
+
+function parseYouTubeFeed(xml) {
+  const entryMatch = String(xml).match(/<entry(?:\s[^>]*)?>([\s\S]*?)<\/entry>/i);
+  if (!entryMatch) throw new Error("YouTube RSS did not contain a video entry");
+
+  const channelXml = String(xml).slice(0, entryMatch.index);
+  const entry = entryMatch[1];
+  const videoId = xmlElement(entry, "yt:videoId");
+  const title = xmlElement(entry, "title");
+  const published = xmlElement(entry, "published");
+  const publishedAt = new Date(published);
+  if (!videoId || !title || Number.isNaN(publishedAt.getTime())) {
+    throw new Error("YouTube RSS latest entry was incomplete");
+  }
+
+  return {
+    platform: "YouTube",
+    community: xmlElement(channelXml, "title") || "YouTube",
+    title,
+    url: `https://www.youtube.com/watch?v=${encodeURIComponent(videoId)}`,
+    createdAt: publishedAt.toISOString(),
+  };
+}
+
+async function fetchYouTube(now = new Date()) {
+  try {
+    const response = await fetchWithRetry(
+      YOUTUBE_FEED_URL,
+      { headers: { Accept: "application/atom+xml, application/xml", "User-Agent": USER_AGENT } },
+      "YouTube RSS"
+    );
+    const latest = parseYouTubeFeed(await response.text());
+    const publishedToday = dateKeyPacific(new Date(latest.createdAt)) === dateKeyPacific(now);
+    return {
+      latest: publishedToday ? latest : null,
+      sources: [{ name: "YouTube RSS", ok: true, count: publishedToday ? 1 : 0 }],
+    };
+  } catch (error) {
+    return {
+      latest: null,
+      sources: [{ name: "YouTube RSS", ok: false, count: 0, error: shortError(error) }],
+    };
+  }
 }
 
 async function getRedditAccessToken() {
@@ -294,7 +361,7 @@ async function fetchBluesky(now) {
   return { posts, sources };
 }
 
-function buildDigest(now, reddit, bluesky) {
+function buildDigest(now, reddit, bluesky, youtube) {
   const start = new Date(now.getTime() - DAY_MS);
   const topOverall = reddit.posts[0] || null;
   const topByCommunity = Object.fromEntries(
@@ -303,13 +370,19 @@ function buildDigest(now, reddit, bluesky) {
       reddit.posts.find((post) => post.community === subreddit) || null,
     ])
   );
-  const failures = [...reddit.sources, ...bluesky.sources].filter((source) => !source.ok);
+  const failures = [...reddit.sources, ...bluesky.sources, ...youtube.sources].filter((source) => !source.ok);
   return {
     generatedAt: now.toISOString(),
     runTimePacific: formatPacific(now),
     windowStartPacific: formatPacific(start),
     windowEndPacific: formatPacific(now),
-    status: reddit.posts.length || bluesky.posts.length ? (failures.length ? "partial" : "complete") : "unavailable",
+    status:
+      reddit.posts.length || bluesky.posts.length || youtube.latest
+        ? failures.length
+          ? "partial"
+          : "complete"
+        : "unavailable",
+    youtube,
     reddit: {
       posts: reddit.posts,
       topOverall,
@@ -347,6 +420,16 @@ function renderPage(digest, { archived = false } = {}) {
   const articleMetadata = archived
     ? `  <meta property="article:published_time" content="${escapeHtml(digest.generatedAt)}">\n`
     : "";
+  const leadPost = digest.youtube.latest || digest.reddit.topOverall;
+  const leadDetail = digest.youtube.latest
+    ? ` <span class="lead-meta">${escapeHtml(digest.youtube.latest.community)} · published ${escapeHtml(
+        formatPacific(new Date(digest.youtube.latest.createdAt))
+      )}</span>`
+    : digest.reddit.topOverall
+      ? ` <span class="lead-meta">r/${escapeHtml(digest.reddit.topOverall.community)} · score ${
+          digest.reddit.topOverall.score
+        }</span>`
+      : "";
   const communityItems = SUBREDDITS.map((subreddit) => {
     const post = digest.reddit.topByCommunity[subreddit];
     const detail = post ? ` <span>score ${post.score}</span>` : "";
@@ -421,6 +504,7 @@ ${articleMetadata}  <meta name="twitter:card" content="summary">
     a { color:var(--ink); text-decoration-thickness:1px; text-underline-offset:3px; }
     a:hover { color:var(--red); }
     li span:not(.tag),.empty { display:block; color:var(--muted); font-size:.85rem; }
+    .lead-meta { display:block; margin-top:8px; color:var(--muted); font:400 .85rem/1.4 Georgia,serif; letter-spacing:0; text-transform:none; }
     .tag { display:inline-block; margin-right:8px; }
     details { color:var(--muted); }
     summary { cursor:pointer; font-weight:bold; color:var(--ink); }
@@ -440,13 +524,8 @@ ${articleMetadata}  <meta name="twitter:card" content="summary">
   </header>
   <main>
     <section>
-      <div class="eyebrow">Top overall Reddit post</div>
-      <h2>${postLink(
-        digest.reddit.topOverall,
-        digest.reddit.topOverall
-          ? ` <span>r/${escapeHtml(digest.reddit.topOverall.community)} · score ${digest.reddit.topOverall.score}</span>`
-          : ""
-      )}</h2>
+      <div class="eyebrow">Top overall</div>
+      <h2>${postLink(leadPost, leadDetail)}</h2>
     </section>
     <section><h2>Top by community</h2><ul>${communityItems}</ul></section>
     <section><h2>Notable PS5 / PS4</h2><ul>${notableReddit || "<li class=\"empty\">No qualifying Reddit posts found</li>"}</ul></section>
@@ -533,14 +612,18 @@ function renderTelegram(digest) {
     `Run time: ${escapeHtml(digest.runTimePacific)}`,
     `Window: ${escapeHtml(digest.windowStartPacific)} to ${escapeHtml(digest.windowEndPacific)}`,
     "",
-    "<b>Top overall Reddit</b>",
+    "<b>Top overall</b>",
   ];
 
-  const top = digest.reddit.topOverall;
+  const top = digest.youtube.latest || digest.reddit.topOverall;
   lines.push(
-    top
-      ? `- <a href="${escapeHtml(top.url)}">${escapeHtml(top.title)}</a> (r/${escapeHtml(top.community)}, score ${top.score})`
-      : "- No qualifying posts found"
+    digest.youtube.latest
+      ? `- <a href="${escapeHtml(top.url)}">${escapeHtml(top.title)}</a> (${escapeHtml(top.community)})`
+      : top
+        ? `- <a href="${escapeHtml(top.url)}">${escapeHtml(top.title)}</a> (r/${escapeHtml(top.community)}, score ${
+            top.score
+          })`
+        : "- No qualifying posts found"
   );
   lines.push("", "<b>Top by community</b>");
   for (const subreddit of SUBREDDITS) {
@@ -628,8 +711,8 @@ async function sendTelegram(digest) {
 
 async function main() {
   const now = new Date();
-  const [reddit, bluesky] = await Promise.all([fetchReddit(now), fetchBluesky(now)]);
-  const digest = buildDigest(now, reddit, bluesky);
+  const [reddit, bluesky, youtube] = await Promise.all([fetchReddit(now), fetchBluesky(now), fetchYouTube(now)]);
+  const digest = buildDigest(now, reddit, bluesky, youtube);
   await publishFiles(digest);
   const telegram = await sendTelegram(digest);
   console.log(
@@ -641,6 +724,7 @@ async function main() {
         window_end_pt: digest.windowEndPacific,
         reddit_posts: digest.reddit.posts.length,
         bluesky_posts: digest.bluesky.posts.length,
+        youtube_latest: digest.youtube.latest?.url || null,
         source_warnings: digest.failures.length,
         output_dir: OUTPUT_DIR,
         telegram,
@@ -658,4 +742,12 @@ if (require.main === module) {
   });
 }
 
-module.exports = { isExcludedPost, publishFiles, renderArchiveIndex, renderPage, shouldSendTelegram };
+module.exports = {
+  fetchYouTube,
+  isExcludedPost,
+  parseYouTubeFeed,
+  publishFiles,
+  renderArchiveIndex,
+  renderPage,
+  shouldSendTelegram,
+};

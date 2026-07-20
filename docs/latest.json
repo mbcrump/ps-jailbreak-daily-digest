@@ -577,5 +577,15 @@
       }
     ]
   },
-  "failures": []
+  "failures": [],
+  "youtube": {
+    "latest": null,
+    "sources": [
+      {
+        "name": "YouTube RSS",
+        "ok": true,
+        "count": 0
+      }
+    ]
+  }
 }
