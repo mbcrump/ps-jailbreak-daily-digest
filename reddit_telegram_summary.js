@@ -29,6 +29,12 @@ const BLUESKY_FOLLOW_LIMIT = Number(process.env.BLUESKY_FOLLOW_LIMIT || 50);
 const BLUESKY_POSTS_PER_FOLLOW = Number(process.env.BLUESKY_POSTS_PER_FOLLOW || 5);
 const USER_AGENT = "PSJailbreakDailyDigest/2.0";
 const DAY_MS = 24 * 60 * 60 * 1000;
+const SITE_NAME = "PS Jailbreak Daily Digest";
+const SITE_DESCRIPTION =
+  "A daily roundup of PlayStation jailbreak and homebrew news from Reddit and Bluesky.";
+const SITE_URL = `${String(
+  process.env.DIGEST_SITE_URL || "https://mbcrump.github.io/ps-jailbreak-daily-digest/"
+).replace(/\/+$/, "")}/`;
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -335,6 +341,12 @@ function formatArchiveDate(dateKey) {
 }
 
 function renderPage(digest, { archived = false } = {}) {
+  const dateKey = dateKeyPacific(new Date(digest.generatedAt));
+  const pageTitle = archived ? `${formatArchiveDate(dateKey)} | ${SITE_NAME}` : SITE_NAME;
+  const canonicalUrl = archived ? `${SITE_URL}archive/${dateKey}.html` : SITE_URL;
+  const articleMetadata = archived
+    ? `  <meta property="article:published_time" content="${escapeHtml(digest.generatedAt)}">\n`
+    : "";
   const communityItems = SUBREDDITS.map((subreddit) => {
     const post = digest.reddit.topByCommunity[subreddit];
     const detail = post ? ` <span>score ${post.score}</span>` : "";
@@ -372,7 +384,21 @@ function renderPage(digest, { archived = false } = {}) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="color-scheme" content="light">
-  <title>PS Jailbreak Daily Digest</title>
+  <meta name="theme-color" content="#f4f0e5">
+  <meta name="description" content="${escapeHtml(SITE_DESCRIPTION)}">
+  <meta name="application-name" content="${escapeHtml(SITE_NAME)}">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="${archived ? "article" : "website"}">
+  <meta property="og:site_name" content="${escapeHtml(SITE_NAME)}">
+  <meta property="og:title" content="${escapeHtml(pageTitle)}">
+  <meta property="og:description" content="${escapeHtml(SITE_DESCRIPTION)}">
+  <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
+  <meta property="og:locale" content="en_US">
+${articleMetadata}  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="${escapeHtml(pageTitle)}">
+  <meta name="twitter:description" content="${escapeHtml(SITE_DESCRIPTION)}">
+  <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
+  <title>${escapeHtml(pageTitle)}</title>
   <style>
     :root { --ink:#10231d; --paper:#f4f0e5; --card:#fffdf7; --red:#d3422f; --green:#1d5a45; --muted:#64736d; }
     * { box-sizing:border-box; }
@@ -433,6 +459,8 @@ function renderPage(digest, { archived = false } = {}) {
 }
 
 function renderArchiveIndex(dateKeys) {
+  const pageTitle = `Archive | ${SITE_NAME}`;
+  const canonicalUrl = `${SITE_URL}archive/`;
   const items = dateKeys
     .map(
       (dateKey) =>
@@ -448,7 +476,21 @@ function renderArchiveIndex(dateKeys) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="color-scheme" content="light">
-  <title>Archive | PS Jailbreak Daily Digest</title>
+  <meta name="theme-color" content="#f4f0e5">
+  <meta name="description" content="Browse past editions of the ${escapeHtml(SITE_NAME)}.">
+  <meta name="application-name" content="${escapeHtml(SITE_NAME)}">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="${escapeHtml(SITE_NAME)}">
+  <meta property="og:title" content="${escapeHtml(pageTitle)}">
+  <meta property="og:description" content="Browse past editions of the ${escapeHtml(SITE_NAME)}.">
+  <meta property="og:url" content="${escapeHtml(canonicalUrl)}">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="${escapeHtml(pageTitle)}">
+  <meta name="twitter:description" content="Browse past editions of the ${escapeHtml(SITE_NAME)}.">
+  <link rel="canonical" href="${escapeHtml(canonicalUrl)}">
+  <title>${escapeHtml(pageTitle)}</title>
   <style>
     :root { --ink:#10231d; --paper:#f4f0e5; --card:#fffdf7; --red:#d3422f; --green:#1d5a45; --muted:#64736d; }
     * { box-sizing:border-box; }
