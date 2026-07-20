@@ -40,6 +40,7 @@ jobs:
           BLUESKY_HANDLE: ${{ vars.BLUESKY_HANDLE || 'crump-youtube.bsky.social' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEND_TELEGRAM: ${{ github.event_name == 'schedule' && github.event.schedule == '27 20 * * *' }}
         run: node reddit_telegram_summary.js
 
       - name: Configure GitHub Pages

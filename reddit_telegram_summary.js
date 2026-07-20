@@ -593,7 +593,13 @@ async function publishFiles(digest) {
   ]);
 }
 
+function shouldSendTelegram() {
+  return String(process.env.SEND_TELEGRAM || "").toLocaleLowerCase("en-US") === "true";
+}
+
 async function sendTelegram(digest) {
+  if (!shouldSendTelegram()) return { status: "skipped", reason: "not the final scheduled run" };
+
   const token = process.env.TELEGRAM_BOT_TOKEN;
   const chatId = process.env.TELEGRAM_CHAT_ID;
   if (!token || !chatId) return { status: "disabled" };
@@ -652,4 +658,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { isExcludedPost, publishFiles, renderArchiveIndex, renderPage };
+module.exports = { isExcludedPost, publishFiles, renderArchiveIndex, renderPage, shouldSendTelegram };
