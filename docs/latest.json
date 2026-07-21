@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T15:17:45.537Z",
-  "runTimePacific": "07/21/2026, 08:17 PDT",
-  "windowStartPacific": "07/20/2026, 08:17 PDT",
-  "windowEndPacific": "07/21/2026, 08:17 PDT",
+  "generatedAt": "2026-07-21T18:01:19.341Z",
+  "runTimePacific": "07/21/2026, 11:01 PDT",
+  "windowStartPacific": "07/20/2026, 11:01 PDT",
+  "windowEndPacific": "07/21/2026, 11:01 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -20,7 +20,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Found Ps4 at a used store, Now what?",
-        "score": 93,
+        "score": 102,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v1tg8o/found_ps4_at_a_used_store_now_what/",
         "createdAt": "2026-07-20T18:18:29.000Z"
       },
@@ -28,7 +28,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "New PS5 from Sony RMA with low firmware",
-        "score": 23,
+        "score": 20,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v236dd/new_ps5_from_sony_rma_with_low_firmware/",
         "createdAt": "2026-07-21T00:39:12.000Z"
       },
@@ -36,25 +36,9 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "I want to get a PS4 and softmod it. What should I do, and what is the best softmod for the PS4?",
-        "score": 4,
+        "score": 5,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v28uml/i_want_to_get_a_ps4_and_softmod_it_what_should_i/",
         "createdAt": "2026-07-21T05:07:50.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "WebKit Exploit for 9.03-9.60",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v1spm5/webkit_exploit_for_903960/",
-        "createdAt": "2026-07-20T17:52:22.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Ps4 games crashing",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v1tnh8/ps4_games_crashing/",
-        "createdAt": "2026-07-20T18:25:35.000Z"
       },
       {
         "platform": "Reddit",
@@ -63,6 +47,22 @@
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v1vek8/i_keep_getting_error_ce348780_on_days_gone_how_do/",
         "createdAt": "2026-07-20T19:27:49.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Jailbreak",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v2kke3/jailbreak/",
+        "createdAt": "2026-07-21T14:47:06.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Does Stellar Blade work on internal?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v22wyu/does_stellar_blade_work_on_internal/",
+        "createdAt": "2026-07-21T00:27:08.000Z"
       },
       {
         "platform": "Reddit",
@@ -90,19 +90,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Is there any possibility for this",
+        "community": "PS5_Jailbreak",
+        "title": "Ps4 games crashing",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v1tljx/is_there_any_possibility_for_this/",
-        "createdAt": "2026-07-20T18:23:43.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v1tnh8/ps4_games_crashing/",
+        "createdAt": "2026-07-20T18:25:35.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Does Stellar Blade work on internal?",
+        "title": "Trophies and DLCs not working in Stalker 2",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v22wyu/does_stellar_blade_work_on_internal/",
-        "createdAt": "2026-07-21T00:27:08.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2mm78/trophies_and_dlcs_not_working_in_stalker_2/",
+        "createdAt": "2026-07-21T16:00:07.000Z"
       },
       {
         "platform": "Reddit",
@@ -111,14 +111,6 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v2ag2o/went_on_a_spree_of_dumping_and_open_sourcing_some/",
         "createdAt": "2026-07-21T06:35:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Jailbreak",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v2kke3/jailbreak/",
-        "createdAt": "2026-07-21T14:47:06.000Z"
       },
       {
         "platform": "Reddit",
@@ -171,10 +163,26 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "FW 7.20: problems installing and running TLOU",
+        "title": "Buy a Ps5 slim to jailbreak",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v1p6kk/fw_720_problems_installing_and_running_tlou/",
-        "createdAt": "2026-07-20T15:44:55.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v2krv8/buy_a_ps5_slim_to_jailbreak/",
+        "createdAt": "2026-07-21T14:54:47.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Is there any possibility for this",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v1tljx/is_there_any_possibility_for_this/",
+        "createdAt": "2026-07-20T18:23:43.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Can i hacking my ps5 13.42 without ruter internet?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v2mfe7/can_i_hacking_my_ps5_1342_without_ruter_internet/",
+        "createdAt": "2026-07-21T15:53:24.000Z"
       },
       {
         "platform": "Reddit",
@@ -187,22 +195,6 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "FW 7.20: problems installing and running TLOU",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v1p6dk/fw_720_problems_installing_and_running_tlou/",
-        "createdAt": "2026-07-20T15:44:42.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Will there be stable fpkges for ps5 games?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2iht7/will_there_be_stable_fpkges_for_ps5_games/",
-        "createdAt": "2026-07-21T13:29:09.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "how to beat UNjailbreak to avoid ban I'm in 12.40 p2jb",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v22k2x/how_to_beat_unjailbreak_to_avoid_ban_im_in_1240/",
@@ -211,10 +203,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How much would a brand new ps5 on 7.61 sell for?",
+        "title": "Will there be stable fpkges for ps5 games?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v1oju4/how_much_would_a_brand_new_ps5_on_761_sell_for/",
-        "createdAt": "2026-07-20T15:21:15.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2iht7/will_there_be_stable_fpkges_for_ps5_games/",
+        "createdAt": "2026-07-21T13:29:09.000Z"
       },
       {
         "platform": "Reddit",
@@ -229,7 +221,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Found Ps4 at a used store, Now what?",
-      "score": 93,
+      "score": 102,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1v1tg8o/found_ps4_at_a_used_store_now_what/",
       "createdAt": "2026-07-20T18:18:29.000Z"
     },
@@ -238,23 +230,23 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Found Ps4 at a used store, Now what?",
-        "score": 93,
+        "score": 102,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v1tg8o/found_ps4_at_a_used_store_now_what/",
         "createdAt": "2026-07-20T18:18:29.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Is there any possibility for this",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v1tljx/is_there_any_possibility_for_this/",
-        "createdAt": "2026-07-20T18:23:43.000Z"
+        "title": "Buy a Ps5 slim to jailbreak",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v2krv8/buy_a_ps5_slim_to_jailbreak/",
+        "createdAt": "2026-07-21T14:54:47.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "New PS5 from Sony RMA with low firmware",
-        "score": 23,
+        "score": 20,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v236dd/new_ps5_from_sony_rma_with_low_firmware/",
         "createdAt": "2026-07-21T00:39:12.000Z"
       },
@@ -273,17 +265,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 11
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 2
+        "count": 3
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 10
+        "count": 9
       },
       {
         "name": "r/PS4Hacks2",
@@ -317,7 +309,7 @@
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "🚨💣 New Etahen work up to fw 12.70\ncdn.discordapp.com/attachments/...",
-        "score": 31,
+        "score": 32,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mr46admqgc2n",
         "createdAt": "2026-07-20T20:49:58.863Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mr46admqgc2n:bafyreightesknflbl442qns7dhzz2gd4uekch75fyotv775lw7jsszpfba"
@@ -326,7 +318,7 @@
         "platform": "Bluesky",
         "community": "following:maj0r",
         "title": "Check this guide to setup Autoload profiles for Che@ts and Patches:\n\ngithub.com/notmaj0r/Che...",
-        "score": 24,
+        "score": 25,
         "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mr42ktix3s22",
         "createdAt": "2026-07-20T19:44:39.494Z",
         "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mr42ktix3s22:bafyreie6kagpflmpmleiuflc73onmz5k36xufy4d5i5rdegtb6urm4hiz4"
@@ -335,7 +327,7 @@
         "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ NEW PS5 Game Dumps by Speed-007🧐",
-        "score": 22,
+        "score": 24,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mr465slvps23",
         "createdAt": "2026-07-20T20:48:37.669Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mr465slvps23:bafyreiaqugr3cd2sjnettvckgsfdfrqtk2c5mbisj7npzljyicqo775dy4"
@@ -360,9 +352,36 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ NEW PS5 Game Dumps by Speed-007 🧐",
+        "score": 13,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mr5n247nes2b",
+        "createdAt": "2026-07-21T10:47:40.472Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mr5n247nes2b:bafyreibwhatvrt44quuxufwvwhlu2t7fclcltpgwrteyojvyeiw6ntnhsi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Preserving video games!",
+        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThx to the \"Scene\" for the Files,drakmor for ampr-emu,Pkykzhack for DLCs and BestPig & DecKerr97 for BP. \n4.xx to 12.xx,enjoy.\n@siesptateam.bsky.social",
+        "score": 11,
+        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mr5s44fiu32c",
+        "createdAt": "2026-07-21T12:18:11.277Z",
+        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mr5s44fiu32c:bafyreiaotqruqvepbjrszy6rx33ov34a7vfl6nzt6ej7xy2o6eeuteu4nu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Preserving video games!",
+        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo   \nUse Base64Decode.\n\nThx to the \"Scene\" for the Files and BestPig & DecKerr97 for the BackPorts. \n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
+        "score": 10,
+        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mr5yczkcnu24",
+        "createdAt": "2026-07-21T14:09:25.574Z",
+        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mr5yczkcnu24:bafyreic3hgdzaxcl3m2763agykozzj4vegniarqqwi7mecfouyvsr7ve6m"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:Preserving video games!",
         "title": "(untitled post)",
-        "score": 8,
+        "score": 10,
         "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mr5tjrua2c2s",
         "createdAt": "2026-07-21T12:43:46.573Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mr5tjrua2c2s:bafyreihfzyjnacd756uzxjj3xeednkcda43gghdcd2ba5njzmkssdcwyb4"
@@ -378,30 +397,12 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ NEW PS5 Game Dumps by Speed-007 🧐",
+        "community": "following:TeRex777",
+        "title": "TheWizWikii            +PS5+\n\n-Y2JB App Downloader Pro\n\n\"Una página/herramienta para descargar y fusionar el patch de la app de YouTube + el SC\"\n\nX.:\nx.com/TheWizWiki/s...\n\nWeb.:\nthewizwikii.github.io/y2jb-app-dow...\n\nDescarga.:\ngithub.com/TheWizWikii/...",
         "score": 8,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mr5n247nes2b",
-        "createdAt": "2026-07-21T10:47:40.472Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mr5n247nes2b:bafyreibwhatvrt44quuxufwvwhlu2t7fclcltpgwrteyojvyeiw6ntnhsi"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Preserving video games!",
-        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThx to the \"Scene\" for the Files,drakmor for ampr-emu,Pkykzhack for DLCs and BestPig & DecKerr97 for BP. \n4.xx to 12.xx,enjoy.\n@siesptateam.bsky.social",
-        "score": 7,
-        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mr5s44fiu32c",
-        "createdAt": "2026-07-21T12:18:11.277Z",
-        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mr5s44fiu32c:bafyreiaotqruqvepbjrszy6rx33ov34a7vfl6nzt6ej7xy2o6eeuteu4nu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Preserving video games!",
-        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo   \nUse Base64Decode.\n\nThx to the \"Scene\" for the Files and BestPig & DecKerr97 for the BackPorts. \n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
-        "score": 7,
-        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mr5yczkcnu24",
-        "createdAt": "2026-07-21T14:09:25.574Z",
-        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mr5yczkcnu24:bafyreic3hgdzaxcl3m2763agykozzj4vegniarqqwi7mecfouyvsr7ve6m"
+        "url": "https://bsky.app/profile/terex777.bsky.social/post/3mr5zjlirec23",
+        "createdAt": "2026-07-21T14:31:04.574Z",
+        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3mr5zjlirec23:bafyreiequ2evwpt6epbyzvu6ca7vzl5cbox75v2embfgrw2iz3t5si2ham"
       },
       {
         "platform": "Bluesky",
@@ -416,10 +417,19 @@
         "platform": "Bluesky",
         "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
         "title": "Sorry for the lack of updates lately; I hurt my back helping a friend move into his new house. Luckily I have my tablet, since I can barely move\n\ndésolé pour le peu de news en ce moment, je me suis cassé le dos en aidant un ami a déménager, heureusement que j'ai ma tab je ne peux presque plus bouger",
-        "score": 5,
+        "score": 6,
         "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mr4etc57rc26",
         "createdAt": "2026-07-20T22:47:57.171Z",
         "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mr4etc57rc26:bafyreidajn2thi523wszjxgdjovuvfnpacargswkj4zunccoc3sm256fgy"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:TeRex777",
+        "title": "Philippe JoshProd               +DREAMCAST+\n\n\"Acabamos de empezar el desarrollo de un nuevo juego de terror y supervivencia en 3D\"\n\nDesarrolladora.:\nPixelHeart\n\nX.:\nx.com/knifesuisse/...\n\nOfficial Trailer.:\nwww.youtube.com/watch?v=U1Yc...",
+        "score": 6,
+        "url": "https://bsky.app/profile/terex777.bsky.social/post/3mr62ml34ps23",
+        "createdAt": "2026-07-21T14:50:47.666Z",
+        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3mr62ml34ps23:bafyreidf4jyavovlllul5dxnuhs742i7fetkaattyknc2povprkcsdqimu"
       },
       {
         "platform": "Bluesky",
@@ -429,15 +439,6 @@
         "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mr4eolopcs26",
         "createdAt": "2026-07-20T22:45:18.677Z",
         "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mr4eolopcs26:bafyreieg2tpnfo54njwk6jftkr4cfgno73waxv3djsknp4azex2hep2apu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:TeRex777",
-        "title": "TheWizWikii            +PS5+\n\n-Y2JB App Downloader Pro\n\n\"Una página/herramienta para descargar y fusionar el patch de la app de YouTube + el SC\"\n\nX.:\nx.com/TheWizWiki/s...\n\nWeb.:\nthewizwikii.github.io/y2jb-app-dow...\n\nDescarga.:\ngithub.com/TheWizWikii/...",
-        "score": 5,
-        "url": "https://bsky.app/profile/terex777.bsky.social/post/3mr5zjlirec23",
-        "createdAt": "2026-07-21T14:31:04.574Z",
-        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3mr5zjlirec23:bafyreiequ2evwpt6epbyzvu6ca7vzl5cbox75v2embfgrw2iz3t5si2ham"
       },
       {
         "platform": "Bluesky",
@@ -459,15 +460,6 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:mour0ne",
-        "title": "Mm ok , cuando encuentre un momento lo subo y lo posteo 👍",
-        "score": 4,
-        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mr44nxmtu222",
-        "createdAt": "2026-07-20T20:21:49.471Z",
-        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mr44nxmtu222:bafyreiachobuga3fwzpvyz6fh7kogchsfnyu3et7oekixv4tiwe4c3be6u"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "That's how I found out about this release! I weighed the two when purchasing and decided to go DualDisc as it seems to be the \"definitive\" remaster with DVD-Audio to boot. Plus I don't have the hardware to actually utilize SACD",
         "score": 3,
@@ -477,12 +469,12 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:TeRex777",
-        "title": "Philippe JoshProd               +DREAMCAST+\n\n\"Acabamos de empezar el desarrollo de un nuevo juego de terror y supervivencia en 3D\"\n\nDesarrolladora.:\nPixelHeart\n\nX.:\nx.com/knifesuisse/...\n\nOfficial Trailer.:\nwww.youtube.com/watch?v=U1Yc...",
-        "score": 2,
-        "url": "https://bsky.app/profile/terex777.bsky.social/post/3mr62ml34ps23",
-        "createdAt": "2026-07-21T14:50:47.666Z",
-        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3mr62ml34ps23:bafyreidf4jyavovlllul5dxnuhs742i7fetkaattyknc2povprkcsdqimu"
+        "community": "following:mour0ne",
+        "title": "? Están en mi perfil",
+        "score": 1,
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mr5vwexgsk2d",
+        "createdAt": "2026-07-21T13:26:34.371Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mr5vwexgsk2d:bafyreihgh5bjefhqnly4gpj4jaybfslnehfezrg3brcprkyrbd42vvm2di"
       },
       {
         "platform": "Bluesky",
@@ -505,11 +497,11 @@
       {
         "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "? Están en mi perfil",
+        "title": "Si t refieres a los de youtube , están x todas partes...",
         "score": 0,
-        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mr5vwexgsk2d",
-        "createdAt": "2026-07-21T13:26:34.371Z",
-        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mr5vwexgsk2d:bafyreihgh5bjefhqnly4gpj4jaybfslnehfezrg3brcprkyrbd42vvm2di"
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mr6durj4nc2z",
+        "createdAt": "2026-07-21T17:36:13.068Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mr6durj4nc2z:bafyreiejsz3x2ktygpz7b2goq4zhl3jsshpgv5cwh3r7lmj6lyen74bdhm"
       },
       {
         "platform": "Bluesky",
