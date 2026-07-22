@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T17:11:09.741Z",
-  "runTimePacific": "07/22/2026, 10:11 PDT",
-  "windowStartPacific": "07/21/2026, 10:11 PDT",
-  "windowEndPacific": "07/22/2026, 10:11 PDT",
+  "generatedAt": "2026-07-22T17:20:35.690Z",
+  "runTimePacific": "07/22/2026, 10:20 PDT",
+  "windowStartPacific": "07/21/2026, 10:20 PDT",
+  "windowEndPacific": "07/22/2026, 10:20 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -20,7 +20,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "What a lame guy",
-        "score": 39,
+        "score": 41,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v2qgy5/what_a_lame_guy/",
         "createdAt": "2026-07-21T18:15:03.000Z"
       },
@@ -36,7 +36,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Factory reset",
-        "score": 22,
+        "score": 24,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2y01s/factory_reset/",
         "createdAt": "2026-07-21T22:50:39.000Z"
       },
@@ -44,7 +44,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Update to Andrew2007",
-        "score": 17,
+        "score": 18,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v349wn/update_to_andrew2007/",
         "createdAt": "2026-07-22T03:23:42.000Z"
       },
@@ -52,7 +52,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "The End of Physical Media and my PS4 Mod",
-        "score": 11,
+        "score": 10,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v2pq98/the_end_of_physical_media_and_my_ps4_mod/",
         "createdAt": "2026-07-21T17:49:36.000Z"
       },
@@ -90,6 +90,14 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 on 9.05 - What to do next?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3efmk/ps5_on_905_what_to_do_next/",
+        "createdAt": "2026-07-22T12:15:43.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Vue didn't work anymore",
         "score": 2,
@@ -103,14 +111,6 @@
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v33x7v/bo3_dlcs/",
         "createdAt": "2026-07-22T03:07:32.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS5 on 9.05 - What to do next?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3efmk/ps5_on_905_what_to_do_next/",
-        "createdAt": "2026-07-22T12:15:43.000Z"
       },
       {
         "platform": "Reddit",
@@ -293,7 +293,7 @@
       "platform": "Reddit",
       "community": "PS4Mods",
       "title": "What a lame guy",
-      "score": 39,
+      "score": 41,
       "url": "https://www.reddit.com/r/PS4Mods/comments/1v2qgy5/what_a_lame_guy/",
       "createdAt": "2026-07-21T18:15:03.000Z"
     },
@@ -318,7 +318,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Factory reset",
-        "score": 22,
+        "score": 24,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2y01s/factory_reset/",
         "createdAt": "2026-07-21T22:50:39.000Z"
       },
@@ -328,7 +328,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "What a lame guy",
-        "score": 39,
+        "score": 41,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v2qgy5/what_a_lame_guy/",
         "createdAt": "2026-07-21T18:15:03.000Z"
       }
@@ -372,7 +372,7 @@
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "Beta test for non-APR version soon.",
-        "score": 72,
+        "score": 73,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mra7nl2orc2j",
         "createdAt": "2026-07-22T11:25:58.469Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mra7nl2orc2j:bafyreigqfn44cqhchljltctrugixsijukoor36mb3z6lf6uqm4kprv4th4"
@@ -380,8 +380,8 @@
       {
         "platform": "Bluesky",
         "community": "following:ArkSama (Playstation Hacker United - PHU )",
-        "title": "For firmware 10.xx, 11.xx, 12.xx, 13.xx you should wait for echostretch to do the porting. I did the porting from 4.xx to 9.xx. Also, AAA APR games don't work for now; I need to finish implementing APR, which is the last phase.",
-        "score": 44,
+        "title": "For firmware 10.xx, 11.xx, 12.xx, 13.xx you should wait for echostretch to do the porting. I did the porting from 4.xx to 9.xx. Also, AAA APR games don't work yet; I still need to finish implementing APR, which is the last phase.",
+        "score": 45,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mradbpwwns2h",
         "createdAt": "2026-07-22T12:30:52.165Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mradbpwwns2h:bafyreie55flcefiwkwf7ajguh7ioqsqptmwkygztd4kpo7s7klqecrybr4"
@@ -417,7 +417,7 @@
         "platform": "Bluesky",
         "community": "following:Preserving video games!",
         "title": "No multiple parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThanks to the \"Scene\" for the files with DLCs, drakmor for ampr-emu, and DecKerr97 for the BackPort.\n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
-        "score": 11,
+        "score": 12,
         "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mraao6tjvx25",
         "createdAt": "2026-07-22T11:44:09.475Z",
         "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mraao6tjvx25:bafyreiheawwig52d6sk3ztrsug7y754fvzhcjajrekk42cp4d2pfunvjh4"
@@ -425,8 +425,8 @@
       {
         "platform": "Bluesky",
         "community": "following:mustafa-ps4-ps5",
-        "title": "Explain how to transfer a y2jb file for beginners, via USB and Explore, as shown in the video step by step 🫡❤️",
-        "score": 9,
+        "title": "Explain how to transfer a y2jb file for beginners, via USB and Explorer, as shown in the video step by step 🫡❤️",
+        "score": 10,
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mraot3mq6c2v",
         "createdAt": "2026-07-22T15:57:28.763Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mraot3mq6c2v:bafyreidotwidh7cn2zbtoovemqqocrrkgi6byfuda6cgj4txd65xjc5ghy"
@@ -533,7 +533,7 @@
       {
         "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "That's because you need to delete the folders in the addcont path.",
+        "title": "That's because you need to delete the folders in the addcont path",
         "score": 1,
         "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mra3gt4usc2v",
         "createdAt": "2026-07-22T10:10:34.571Z",
@@ -551,7 +551,7 @@
       {
         "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "That one is in pkgzone.",
+        "title": "That one is in pkgzone",
         "score": 0,
         "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mra37u533s2v",
         "createdAt": "2026-07-22T10:06:40.765Z",
@@ -562,7 +562,7 @@
       "platform": "Bluesky",
       "community": "following:PS5 JAILBREAKS",
       "title": "Beta test for non-APR version soon.",
-      "score": 72,
+      "score": 73,
       "url": "https://bsky.app/profile/arksama.bsky.social/post/3mra7nl2orc2j",
       "createdAt": "2026-07-22T11:25:58.469Z",
       "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mra7nl2orc2j:bafyreigqfn44cqhchljltctrugixsijukoor36mb3z6lf6uqm4kprv4th4"
