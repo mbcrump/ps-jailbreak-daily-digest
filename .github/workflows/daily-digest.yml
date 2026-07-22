@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  models: read
   pages: write
   id-token: write
 
@@ -37,6 +38,8 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           EXCLUDED_POST_TEXT: ${{ secrets.EXCLUDED_POST_TEXT }}
+          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REQUIRE_ENGLISH_TRANSLATION: "true"
           BLUESKY_HANDLE: ${{ vars.BLUESKY_HANDLE || 'crump-youtube.bsky.social' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
