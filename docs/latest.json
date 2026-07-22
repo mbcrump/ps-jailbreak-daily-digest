@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T17:20:35.690Z",
-  "runTimePacific": "07/22/2026, 10:20 PDT",
-  "windowStartPacific": "07/21/2026, 10:20 PDT",
-  "windowEndPacific": "07/22/2026, 10:20 PDT",
+  "generatedAt": "2026-07-22T17:55:58.962Z",
+  "runTimePacific": "07/22/2026, 10:55 PDT",
+  "windowStartPacific": "07/21/2026, 10:55 PDT",
+  "windowEndPacific": "07/22/2026, 10:55 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -20,7 +20,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "What a lame guy",
-        "score": 41,
+        "score": 39,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v2qgy5/what_a_lame_guy/",
         "createdAt": "2026-07-21T18:15:03.000Z"
       },
@@ -44,17 +44,9 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Update to Andrew2007",
-        "score": 18,
+        "score": 19,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v349wn/update_to_andrew2007/",
         "createdAt": "2026-07-22T03:23:42.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "The End of Physical Media and my PS4 Mod",
-        "score": 10,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v2pq98/the_end_of_physical_media_and_my_ps4_mod/",
-        "createdAt": "2026-07-21T17:49:36.000Z"
       },
       {
         "platform": "Reddit",
@@ -63,6 +55,14 @@
         "score": 9,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2wbw3/i_did_all_of_this_to_the_letter_but_when_i_open/",
         "createdAt": "2026-07-21T21:45:40.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Is F1 25 crashing on PS5 Pro 10.1 after start screen?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v2v5wx/is_f1_25_crashing_on_ps5_pro_101_after_start/",
+        "createdAt": "2026-07-21T21:01:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -79,14 +79,6 @@
         "score": 3,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1v34bu9/ps5_using_ch341a_ic_clamp_for_bios_readwrite_can/",
         "createdAt": "2026-07-22T03:26:12.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Is F1 25 crashing on PS5 Pro 10.1 after start screen?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v2v5wx/is_f1_25_crashing_on_ps5_pro_101_after_start/",
-        "createdAt": "2026-07-21T21:01:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -111,6 +103,14 @@
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v33x7v/bo3_dlcs/",
         "createdAt": "2026-07-22T03:07:32.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Pegasus DL",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3n8mo/pegasus_dl/",
+        "createdAt": "2026-07-22T17:40:06.000Z"
       },
       {
         "platform": "Reddit",
@@ -155,10 +155,34 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
+        "title": "Just bought a new PS5 Pro, I want to know the firmware.",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v3mbbn/just_bought_a_new_ps5_pro_i_want_to_know_the/",
+        "createdAt": "2026-07-22T17:08:27.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
         "title": "JB PS5 stuck on closing game.",
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1v396w6/jb_ps5_stuck_on_closing_game/",
         "createdAt": "2026-07-22T07:40:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Just bought a new PS5 Pro, I want to know the firmware.",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3mirj/just_bought_a_new_ps5_pro_i_want_to_know_the/",
+        "createdAt": "2026-07-22T17:15:28.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Unpatch Blu-ray drive 11.0",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3m2o3/unpatch_bluray_drive_110/",
+        "createdAt": "2026-07-22T17:00:38.000Z"
       },
       {
         "platform": "Reddit",
@@ -219,14 +243,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Can I play original GTA Online with mod menus and jailbroken PS4?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3lpra/can_i_play_original_gta_online_with_mod_menus_and/",
-        "createdAt": "2026-07-22T16:48:10.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Weird PS4 jailbreak bug.",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3c769/wierd_ps4_jb_bug/",
@@ -235,10 +251,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Is this red stuff in the fan okay? It's like hard dried-up something.",
+        "title": "Is this red stuff in the fan okay? It’s like hard dried-up something.",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v39b5u/is_this_red_stuff_in_the_fan_okay_its_like_hard/",
         "createdAt": "2026-07-22T07:46:53.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Can I play original GTA Online with mod menus and a jailbroken PS4?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3lpra/can_i_play_original_gta_online_with_mod_menus_and/",
+        "createdAt": "2026-07-22T16:48:10.000Z"
       },
       {
         "platform": "Reddit",
@@ -259,18 +283,18 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "DLC entitlement in Avatar Frontiers of Pandora DUPLEX release.",
+        "title": "Moving or copying the Netflix N Hack app from a jailbroken PS5 to a non-jailbroken PS5.",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3izig/dlc_entitlement_in_avatar_frontiers_of_pandora/",
-        "createdAt": "2026-07-22T15:12:36.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3ldj2/moving_or_copying_the_netflix_n_hack_app_from_a/",
+        "createdAt": "2026-07-22T16:36:18.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Is F1 25 crashing on PS5 Pro 10.1 after start screen?",
+        "title": "DLC entitlement in Avatar Frontiers of Pandora DUPLEX release.",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2v69o/is_f1_25_crashing_on_ps5_pro_101_after_start/",
-        "createdAt": "2026-07-21T21:01:45.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3izig/dlc_entitlement_in_avatar_frontiers_of_pandora/",
+        "createdAt": "2026-07-22T15:12:36.000Z"
       },
       {
         "platform": "Reddit",
@@ -283,7 +307,7 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Is it possible to factory reset to the original factory firmware?",
+        "title": "Is it possible to factory reset to factory firmware?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v31a88/is_it_possible_to_factory_reset_to_factory/",
         "createdAt": "2026-07-22T01:09:09.000Z"
@@ -293,7 +317,7 @@
       "platform": "Reddit",
       "community": "PS4Mods",
       "title": "What a lame guy",
-      "score": 41,
+      "score": 39,
       "url": "https://www.reddit.com/r/PS4Mods/comments/1v2qgy5/what_a_lame_guy/",
       "createdAt": "2026-07-21T18:15:03.000Z"
     },
@@ -309,10 +333,10 @@
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "[PS5] Using CH341A IC clamp for BIOS read/write. Can it be done without desoldering?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v34bu9/ps5_using_ch341a_ic_clamp_for_bios_readwrite_can/",
-        "createdAt": "2026-07-22T03:26:12.000Z"
+        "title": "Is F1 25 crashing on PS5 Pro 10.1 after start screen?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v2v5wx/is_f1_25_crashing_on_ps5_pro_101_after_start/",
+        "createdAt": "2026-07-21T21:01:25.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
@@ -328,7 +352,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "What a lame guy",
-        "score": 41,
+        "score": 39,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v2qgy5/what_a_lame_guy/",
         "createdAt": "2026-07-21T18:15:03.000Z"
       }
@@ -337,17 +361,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 11
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 4
+        "count": 5
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 12
+        "count": 15
       },
       {
         "name": "r/PS4Hacks2",
@@ -372,16 +396,16 @@
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "Beta test for non-APR version soon.",
-        "score": 73,
+        "score": 79,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mra7nl2orc2j",
         "createdAt": "2026-07-22T11:25:58.469Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mra7nl2orc2j:bafyreigqfn44cqhchljltctrugixsijukoor36mb3z6lf6uqm4kprv4th4"
       },
       {
         "platform": "Bluesky",
-        "community": "following:ArkSama (Playstation Hacker United - PHU )",
-        "title": "For firmware 10.xx, 11.xx, 12.xx, 13.xx you should wait for echostretch to do the porting. I did the porting from 4.xx to 9.xx. Also, AAA APR games don't work yet; I still need to finish implementing APR, which is the last phase.",
-        "score": 45,
+        "community": "following:hyndrid.bsky.social",
+        "title": "For firmware 10.xx, 11.xx, 12.xx, 13.xx you should wait for echostretch to do the porting. I did the porting from 4.xx to 9.xx. Also, AAA APR games don't work for now; I need to finish implementing APR, which is the last phase.",
+        "score": 47,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mradbpwwns2h",
         "createdAt": "2026-07-22T12:30:52.165Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mradbpwwns2h:bafyreie55flcefiwkwf7ajguh7ioqsqptmwkygztd4kpo7s7klqecrybr4"
@@ -390,10 +414,19 @@
         "platform": "Bluesky",
         "community": "following:ArkSama (Playstation Hacker United - PHU )",
         "title": "I made the non-APR version so you can test it before the final version.",
-        "score": 17,
+        "score": 18,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mradf3eyac2j",
         "createdAt": "2026-07-22T12:32:45.170Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mradf3eyac2j:bafyreigvbvafbkmk6znqccn7v4f6vfa7r3esjna6sgfzqcmn6izhdp44ja"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:PS5 JAILBREAKS",
+        "title": "Explain how to transfer a y2jb file for beginners, via USB and Explore, as shown in the video step by step 🫡❤️.",
+        "score": 14,
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mraot3mq6c2v",
+        "createdAt": "2026-07-22T15:57:28.763Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mraot3mq6c2v:bafyreidotwidh7cn2zbtoovemqqocrrkgi6byfuda6cgj4txd65xjc5ghy"
       },
       {
         "platform": "Bluesky",
@@ -408,7 +441,7 @@
         "platform": "Bluesky",
         "community": "following:ArkSama (Playstation Hacker United - PHU )",
         "title": "However, games with APR emu work; I tested UFC5, the speed is increased but the stutters etc. are due to APR emu not working asynchronously.\n\nAs a reminder, the project has gone from POC version to ALPHA version, so the project is still young.",
-        "score": 12,
+        "score": 13,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mradeadrpk2j",
         "createdAt": "2026-07-22T12:32:17.772Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mradeadrpk2j:bafyreid6my3yi4o37hsyyxsrj5x2eqaoefvyjdb54j2zxrfwuj77cx347m"
@@ -424,21 +457,21 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "Explain how to transfer a y2jb file for beginners, via USB and Explorer, as shown in the video step by step 🫡❤️",
-        "score": 10,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mraot3mq6c2v",
-        "createdAt": "2026-07-22T15:57:28.763Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mraot3mq6c2v:bafyreidotwidh7cn2zbtoovemqqocrrkgi6byfuda6cgj4txd65xjc5ghy"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:ArkSama (Playstation Hacker United - PHU )",
         "title": "Thanks, my friend.",
         "score": 6,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mradteuruk23",
         "createdAt": "2026-07-22T12:40:45.173Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mradteuruk23:bafyreihpy6oylow4jputgczmkas5g3hyxm3ydqtdp2qj3toowd4th5tioi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:ArkSama (Playstation Hacker United - PHU )",
+        "title": "All the invitations were sent to the developers: echostretch, bestpig, idlesauce, drakmor.",
+        "score": 4,
+        "url": "https://bsky.app/profile/arksama.bsky.social/post/3mrauziqrzs23",
+        "createdAt": "2026-07-22T17:48:24.169Z",
+        "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mrauziqrzs23:bafyreihetddtwwjrlhezjdboaxwau54w4dvarzrh35dfkmcfrgrh7nhblm"
       },
       {
         "platform": "Bluesky",
@@ -461,7 +494,7 @@
       {
         "platform": "Bluesky",
         "community": "following:Preserving video games!",
-        "title": "You're welcome, my buddy.",
+        "title": "You're welcome, my friend.",
         "score": 2,
         "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mr6zyjplgk27",
         "createdAt": "2026-07-22T00:11:59.572Z",
@@ -497,7 +530,7 @@
       {
         "platform": "Bluesky",
         "community": "following:Grim Doe",
-        "title": "Thank you!",
+        "title": "Thank you !",
         "score": 2,
         "url": "https://bsky.app/profile/grimdoe.bsky.social/post/3mradl5lnes2g",
         "createdAt": "2026-07-22T12:36:08.474Z",
@@ -506,7 +539,7 @@
       {
         "platform": "Bluesky",
         "community": "following:Grim Doe",
-        "title": "Everything is coming along.\nAnd thank you.",
+        "title": "Everything is coming along\nAnd Thank you.",
         "score": 2,
         "url": "https://bsky.app/profile/grimdoe.bsky.social/post/3mradgxzun22g",
         "createdAt": "2026-07-22T12:33:48.769Z",
@@ -533,7 +566,7 @@
       {
         "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "That's because you need to delete the folders in the addcont path",
+        "title": "That's because you need to delete the folders from the addcont path",
         "score": 1,
         "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mra3gt4usc2v",
         "createdAt": "2026-07-22T10:10:34.571Z",
@@ -542,7 +575,7 @@
       {
         "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "?? This even works on e.g. 4.xx",
+        "title": "?? Does this even work for example on 4.xx?",
         "score": 1,
         "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mra3bbt4as2v",
         "createdAt": "2026-07-22T10:07:29.369Z",
@@ -550,8 +583,26 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:ArkSama (Playstation Hacker United - PHU )",
+        "title": "soon",
+        "score": 0,
+        "url": "https://bsky.app/profile/arksama.bsky.social/post/3mrauzylmrs23",
+        "createdAt": "2026-07-22T17:48:40.463Z",
+        "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mrauzylmrs23:bafyreigfic3qbqjech53nle6iocqqcdvxfm7bb36fatrluv2k5mgitekl4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:hyndrid.bsky.social",
+        "title": "discord.gg/7uERch5sr",
+        "score": 0,
+        "url": "https://bsky.app/profile/hyndrid.bsky.social/post/3mraupm2m3k2q",
+        "createdAt": "2026-07-22T17:42:51.666Z",
+        "key": "at://did:plc:cnhney4flhoifrgzaxp6kfs3/app.bsky.feed.post/3mraupm2m3k2q:bafyreib2q2mdmpswfchcdyhmw43als2c7buupvth7n77fx2f3u2ouqipae"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "That one is in pkgzone",
+        "title": "That one is on pkgzone",
         "score": 0,
         "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mra37u533s2v",
         "createdAt": "2026-07-22T10:06:40.765Z",
@@ -562,7 +613,7 @@
       "platform": "Bluesky",
       "community": "following:PS5 JAILBREAKS",
       "title": "Beta test for non-APR version soon.",
-      "score": 73,
+      "score": 79,
       "url": "https://bsky.app/profile/arksama.bsky.social/post/3mra7nl2orc2j",
       "createdAt": "2026-07-22T11:25:58.469Z",
       "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mra7nl2orc2j:bafyreigqfn44cqhchljltctrugixsijukoor36mb3z6lf6uqm4kprv4th4"
