@@ -617,6 +617,7 @@ ${articleMetadata}  <meta name="twitter:card" content="summary">
     a:hover { color:var(--red); }
     li span:not(.tag),.empty { display:block; color:var(--muted); font-size:.85rem; }
     .lead-meta { display:block; margin-top:8px; color:var(--muted); font:400 .85rem/1.4 Georgia,serif; letter-spacing:0; text-transform:none; }
+    .bluesky-section li > a { display:-webkit-box; overflow:hidden; -webkit-box-orient:vertical; -webkit-line-clamp:2; line-clamp:2; }
     .tag { display:inline-block; margin-right:8px; }
     details { color:var(--muted); }
     summary { cursor:pointer; font-weight:bold; color:var(--ink); }
@@ -641,7 +642,7 @@ ${articleMetadata}  <meta name="twitter:card" content="summary">
     </section>
     <section><h2>Top by community</h2><ul>${communityItems}</ul></section>
     <section><h2>Notable PS5 / PS4</h2><ul>${notableReddit || "<li class=\"empty\">No qualifying Reddit posts found</li>"}</ul></section>
-    <section><h2>Bluesky</h2><ul>${blueskyItems || "<li class=\"empty\">No qualifying Bluesky posts found</li>"}</ul></section>
+    <section class="bluesky-section"><h2>Bluesky</h2><ul>${blueskyItems || "<li class=\"empty\">No qualifying Bluesky posts found</li>"}</ul></section>
     ${failedSources}
   </main>
   <footer>Generated automatically from Reddit and the ${escapeHtml(BLUESKY_HANDLE)} Bluesky follow feed/search.</footer>
