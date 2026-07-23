@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T15:25:01.897Z",
-  "runTimePacific": "07/23/2026, 08:25 PDT",
-  "windowStartPacific": "07/22/2026, 08:25 PDT",
-  "windowEndPacific": "07/23/2026, 08:25 PDT",
+  "generatedAt": "2026-07-23T18:02:18.548Z",
+  "runTimePacific": "07/23/2026, 11:02 PDT",
+  "windowStartPacific": "07/22/2026, 11:02 PDT",
+  "windowEndPacific": "07/23/2026, 11:02 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -26,17 +26,25 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "HIGHLY recommend checking this video if you're interested in the new PS news, as well as how to liberate your Playstation 5, potentially for the newest firmware update.",
-        "score": 132,
+        "score": 138,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3pkg7/highly_recommend_checking_this_video_if_youre/",
         "createdAt": "2026-07-22T19:00:11.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Console on 10.00",
+        "title": "What am I supposed to do with this",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4caxm/what_am_i_supposed_to_do_with_this/",
+        "createdAt": "2026-07-23T12:19:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "OPINION: lowest practical yet viable firmware?",
         "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v41m1e/console_on_1000/",
-        "createdAt": "2026-07-23T03:00:35.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3ovb6/opinion_lowest_practical_yet_viable_firmware/",
+        "createdAt": "2026-07-22T18:35:48.000Z"
       },
       {
         "platform": "Reddit",
@@ -48,27 +56,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "OPINION: lowest practical yet viable firmware?",
+        "community": "ps4homebrew",
+        "title": "Console on 10.00",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3ovb6/opinion_lowest_practical_yet_viable_firmware/",
-        "createdAt": "2026-07-22T18:35:48.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v41m1e/console_on_1000/",
+        "createdAt": "2026-07-23T03:00:35.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "If I upgrade from 10.6 to 12.0 - does my patched BR drive stay patched?",
-        "score": 4,
+        "score": 5,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v40tug/if_i_upgrade_from_106_to_120_does_my_patched_br/",
         "createdAt": "2026-07-23T02:24:57.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "What am I supposed to do with this",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4caxm/what_am_i_supposed_to_do_with_this/",
-        "createdAt": "2026-07-23T12:19:36.000Z"
       },
       {
         "platform": "Reddit",
@@ -77,14 +77,6 @@
         "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3xqpk/firmware_1202_vs_803/",
         "createdAt": "2026-07-23T00:07:07.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Pegasus DL",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3n8mo/pegasus_dl/",
-        "createdAt": "2026-07-22T17:40:06.000Z"
       },
       {
         "platform": "Reddit",
@@ -105,10 +97,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "If we have a jailbroken PS4, why can't we access the terminal?",
+        "title": "I accidentally messed up the homebrew DNS and, by extension, the Vue after free jailbreak by changing the WiFi network. What do I do?",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3v936/if_we_have_a_jailbroken_ps4_why_cant_we_access/",
-        "createdAt": "2026-07-22T22:24:47.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3ufjz/i_accidentally_fucked_up_the_homebrew_dns_and_by/",
+        "createdAt": "2026-07-22T21:53:15.000Z"
       },
       {
         "platform": "Reddit",
@@ -120,27 +112,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Autoloader Y2JB backup for 12.60",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v49qze/autolaoder_y2jb_backup_for_1260/",
-        "createdAt": "2026-07-23T10:16:44.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Help With Force Install and Controller Disconnect",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1v3xeat/help_with_force_install_and_controller_disconnect/",
         "createdAt": "2026-07-22T23:52:56.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "The Crew 2 Patch update",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4em42/the_crew_2_patch_update/",
-        "createdAt": "2026-07-23T13:54:31.000Z"
       },
       {
         "platform": "Reddit",
@@ -169,14 +145,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "I accidentally messed up the homebrew DNS and, by extension, the Vue after free jailbreak by changing the WiFi network. What do I do?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3ufjz/i_accidentally_fucked_up_the_homebrew_dns_and_by/",
-        "createdAt": "2026-07-22T21:53:15.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Successfully jailbroken my PS4 12.00, needing some clarifications",
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3p9sg/successfully_jailbroken_my_ps4_1200_needing_some/",
@@ -193,10 +161,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Y2JB / P2JB on FW 12.40 failing repeatedly after updating Payload Manager to v0.5.0",
+        "title": "Autoloader Y2JB backup for 12.60",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4ar5w/y2jb_p2jb_on_fw_1240_failing_repeatedly_after/",
-        "createdAt": "2026-07-23T11:07:49.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v49qze/autolaoder_y2jb_backup_for_1260/",
+        "createdAt": "2026-07-23T10:16:44.000Z"
       },
       {
         "platform": "Reddit",
@@ -233,18 +201,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Is there any way to go online with games?",
+        "title": "The Crew 2 Patch update",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4dtxr/is_there_any_way_to_go_online_with_games/",
-        "createdAt": "2026-07-23T13:23:40.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4em42/the_crew_2_patch_update/",
+        "createdAt": "2026-07-23T13:54:31.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Is it possible to have mods on ARK with a jailbroken PS4?",
+        "title": "Is there any way to go online with games?",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v48qoo/is_it_possible_to_have_mods_on_ark_with_a/",
-        "createdAt": "2026-07-23T09:21:24.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4dtxr/is_there_any_way_to_go_online_with_games/",
+        "createdAt": "2026-07-23T13:23:40.000Z"
       },
       {
         "platform": "Reddit",
@@ -257,42 +225,42 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Need help with controller crash and WiFi relink.",
+        "title": "Need help with controller crash and WiFi reconnection.",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3x7sx/need_help_with_controller_crash_and_wifi_relink/",
         "createdAt": "2026-07-22T23:45:00.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Just bought a new PS5 Pro, I want to know the firmware.",
+        "community": "ps4homebrew",
+        "title": "Is it possible to have mods on ARK with a jailbroken PS4?",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v3mbbn/just_bought_a_new_ps5_pro_i_want_to_know_the/",
-        "createdAt": "2026-07-22T17:08:27.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v48qoo/is_it_possible_to_have_mods_on_ark_with_a/",
+        "createdAt": "2026-07-23T09:21:24.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "If we have a jailbroken PS4, why can't we access the terminal?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v3v936/if_we_have_a_jailbroken_ps4_why_cant_we_access/",
+        "createdAt": "2026-07-22T22:24:47.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Floor doesn’t appear in The Last Of Us: Part 1 Remastered.",
+        "title": "Y2JB / P2JB on FW 12.40 failing repeatedly after updating Payload Manager to v0.5.0.",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4ar5w/y2jb_p2jb_on_fw_1240_failing_repeatedly_after/",
+        "createdAt": "2026-07-23T11:07:49.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Floor doesn't appear in The Last Of Us: Part 1 Remastered.",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v42k6m/floor_doesnt_appear_in_the_last_of_us_part_1/",
         "createdAt": "2026-07-23T03:45:59.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How do I copy games from external HDD into internal storage without FTP? I can’t open ItemsFlow because I’m on firmware 12.02.",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3jmti/how_do_i_copy_games_from_external_hdd_into/",
-        "createdAt": "2026-07-22T15:35:35.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How to add languages to a game from a different version.",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v49j6u/how_to_add_languages_to_a_game_from_a_different/",
-        "createdAt": "2026-07-23T10:05:34.000Z"
       },
       {
         "platform": "Reddit",
@@ -305,17 +273,33 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "I have a Slim/Digital 30th Anniversary Edition I've never taken out of the box.",
+        "title": "I have a slim/digital 30th Anniversary Edition I've never taken out of the box.",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3tg85/i_have_a_slimdigital_30th_anniversary_edition_ive/",
         "createdAt": "2026-07-22T21:16:52.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "How to add languages to a game from a different version.",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v49j6u/how_to_add_languages_to_a_game_from_a_different/",
+        "createdAt": "2026-07-23T10:05:34.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Are there any kernel exploits in the works for version 13.40?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4j9ch/is_there_any_kernel_exploits_in_t_he_work_for_the/",
+        "createdAt": "2026-07-23T16:41:50.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "HIGHLY recommend checking this video if you're interested in the new PS news, as well as how to liberate your Playstation 5, potentially for the newest firmware update.",
-      "score": 132,
+      "score": 138,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3pkg7/highly_recommend_checking_this_video_if_youre/",
       "createdAt": "2026-07-22T19:00:11.000Z"
     },
@@ -323,10 +307,10 @@
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Console on 10.00",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v41m1e/console_on_1000/",
-        "createdAt": "2026-07-23T03:00:35.000Z"
+        "title": "What am I supposed to do with this",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4caxm/what_am_i_supposed_to_do_with_this/",
+        "createdAt": "2026-07-23T12:19:36.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
@@ -340,7 +324,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "HIGHLY recommend checking this video if you're interested in the new PS news, as well as how to liberate your Playstation 5, potentially for the newest firmware update.",
-        "score": 132,
+        "score": 138,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3pkg7/highly_recommend_checking_this_video_if_youre/",
         "createdAt": "2026-07-22T19:00:11.000Z"
       },
@@ -364,12 +348,12 @@
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 2
+        "count": 1
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 15
+        "count": 14
       },
       {
         "name": "r/PS4Hacks2",
@@ -392,27 +376,9 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:ArkSama (Playstation Hacker United - PHU )",
-        "title": "All the invitations have been sent to the developers: echostretch, bestpig, idlesauce, drakmor.",
-        "score": 47,
-        "url": "https://bsky.app/profile/arksama.bsky.social/post/3mrauziqrzs23",
-        "createdAt": "2026-07-22T17:48:24.169Z",
-        "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mrauziqrzs23:bafyreihetddtwwjrlhezjdboaxwau54w4dvarzrh35dfkmcfrgrh7nhblm"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "Explain how to transfer a file y2jb for beginners, via USB and Explore, as shown in the video step by step 🫡❤️.",
-        "score": 43,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mraot3mq6c2v",
-        "createdAt": "2026-07-22T15:57:28.763Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mraot3mq6c2v:bafyreidotwidh7cn2zbtoovemqqocrrkgi6byfuda6cgj4txd65xjc5ghy"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "🚨PS5 UPDATE 23/07/2026:\n💥 New kernel exploit \"celcius kex\" works up to version FW 12.70 \ndocs.google.com/spreadsheets...",
-        "score": 27,
+        "score": 28,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mrbgutyyps2x",
         "createdAt": "2026-07-22T23:07:57.965Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mrbgutyyps2x:bafyreigajkjjzsx3vrnn3636udzhblin672ljemy7rjtr4oe4y3hdhmn2u"
@@ -420,8 +386,8 @@
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "PS5 News: \n\nSony released a new firmware update for PS5: 13.60\n\nAs always DON'T UPDATE!\n\nYou have about 2 weeks to download your games from the store before it closes on 13.52.\n\nOnline games like Fortnite won’t work anymore then but that's alright. You'll get some back with jailbreak in the future.",
-        "score": 22,
+        "title": "PS5 News: \n\nSony released a new firmware update for PS5: 13.60\n\nAs always DON'T UPDATE!\n\nYou have about 2 weeks to download your games from the store before it closes on 13.52.\n\nOnline games like Fortnite won't work anymore then but that's alright. You'll get some back with jailbreak in the future.",
+        "score": 25,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrcjwburms26",
         "createdAt": "2026-07-23T09:35:08.269Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrcjwburms26:bafyreihf2ntsyw4ajhzfjxcck7fnhy6bdulaewbu5r3wavdn76atxkq4ci"
@@ -439,7 +405,7 @@
         "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ PS5 System Software Update 13.60 Now Available 🧐",
-        "score": 18,
+        "score": 22,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrchleduc225",
         "createdAt": "2026-07-23T08:53:12.464Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrchleduc225:bafyreihm6hygndd4zcjyarclyj7oi3kynbld2q666hf63vveu3m3ecxkea"
@@ -457,15 +423,33 @@
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "🚨 New update PS5 13.60:\n✍️✍️✍️ celcius kex",
-        "score": 14,
+        "score": 16,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mrcfuro7mc2b",
         "createdAt": "2026-07-23T08:22:41.463Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mrcfuro7mc2b:bafyreia7ky23gn2kik5vomtmnbaksyo2ihx2rufism6t5ugimuoo5xqa74"
       },
       {
         "platform": "Bluesky",
+        "community": "following:Preserving video games!",
+        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo   \nUse Base64Decode.\n\nThanks to the \"Scene\" for the files and DecKerr97 & BestPig for the BackPorts. \n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
+        "score": 12,
+        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mrcu7izn7u2s",
+        "createdAt": "2026-07-23T12:39:11.172Z",
+        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mrcu7izn7u2s:bafyreif33grktcmzr43yupbpog3bp6njtztzl3wym3zpb4on4bydbb5zj4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Preserving video games!",
+        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo   \nUse Base64Decode.\n\nThanks to the \"Scene\" for the files with DLCs. \n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
+        "score": 10,
+        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mrd5gy6ex325",
+        "createdAt": "2026-07-23T15:24:25.772Z",
+        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mrd5gy6ex325:bafyreiagcem4fv3gkbfu3uvgx3amten45rxiggxalpbvkviy3eronhal5i"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:ArkSama (Playstation Hacker United - PHU )",
-        "title": "The native APR once implemented will indeed solve all problems with the A53. Here I’m talking about APR emu which also works and is a functional solution and already very good while waiting for the native APR.",
+        "title": "The native APR once implemented will indeed solve all problems with the A53. Here I am talking about emulated APR which also works and is a functional solution and already very good while waiting for native APR.",
         "score": 9,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3mrcoobddec2z",
         "createdAt": "2026-07-23T11:00:04.763Z",
@@ -474,35 +458,17 @@
       {
         "platform": "Bluesky",
         "community": "following:Preserving video games!",
-        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo   \nUse Base64Decode.\n\nThanks to the \"Scene\" for the files and DecKerr97 & BestPig for the BackPorts.\n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
-        "score": 9,
-        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mrcu7izn7u2s",
-        "createdAt": "2026-07-23T12:39:11.172Z",
-        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mrcu7izn7u2s:bafyreif33grktcmzr43yupbpog3bp6njtztzl3wym3zpb4on4bydbb5zj4"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Preserving video games!",
         "title": "DON'T UPDATE 🚨🚨🚨🚨🚨🚨🚨🚫🚫🚫🚫🚫\n\nPS5 System Software Update 26.05-13.60.00 Now Available - Full Patch Notes Listed - PlayStation Universe share.google/62QNxcB4z1BO...",
-        "score": 7,
+        "score": 9,
         "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mrcivchkhk2j",
         "createdAt": "2026-07-23T09:16:39.267Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrcivchkhk2j:bafyreigkh4xvtoktb7i3b77pb5c5tzqzppwrl4vaih4peyu3uybggyklze"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Preserving video games!",
-        "title": "791...",
-        "score": 6,
-        "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mrbjrpbwks2j",
-        "createdAt": "2026-07-22T23:59:50.666Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrbjrpbwks2j:bafyreieagefltcpoqphjss7jigwnxuwhwy7r3lkdly2g56z4o2b74jc4aq"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS4 News:\n\nMore details on the new BD-J userland from Researcher MasterMaind have surfaced.\n\n- It works on 13.52\n- Different from Gezine's\n- Completed full userland chain on 12.02\n- Runs on stock firmware (obviously since CFW doesn't exist)\n\ntwitter-thread.com/t/2080127373...",
-        "score": 5,
+        "score": 7,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrcjfw4w722c",
         "createdAt": "2026-07-23T09:25:57.370Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrcjfw4w722c:bafyreiattgg4k3ns7lenkt5wwishkruu7w27cvwae5reauhwcnhjjumr3q"
@@ -510,7 +476,7 @@
       {
         "platform": "Bluesky",
         "community": "following:MasterPS",
-        "title": "New update is out. You know the drill.. never update",
+        "title": "New update is out. You know the drill.. never update.",
         "score": 5,
         "url": "https://bsky.app/profile/lucky777x.bsky.social/post/3mrckixpgc22t",
         "createdAt": "2026-07-23T09:45:33.263Z",
@@ -519,29 +485,29 @@
       {
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
-        "title": "Yes",
-        "score": 3,
+        "title": "Yes.",
+        "score": 4,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mrcgagymrc2b",
         "createdAt": "2026-07-23T08:29:11.568Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mrcgagymrc2b:bafyreib2cug3ddrbfxp5e4k3pvfeeyux2mzambj4lagrn4o6evxqn5yl64"
       },
       {
         "platform": "Bluesky",
+        "community": "following:Preserving video games!",
+        "title": "☠️",
+        "score": 4,
+        "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mrcvp33lks2l",
+        "createdAt": "2026-07-23T13:05:50.862Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrcvp33lks2l:bafyreiaridcxd4s7kedscqwefudwf7gmjr7njwo7m3kquo75ssw5njhnuq"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:mustafa-ps4-ps5",
-        "title": "Activate the custom payload",
+        "title": "Activate the custom payload.",
         "score": 3,
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mrbs3nhx6k2i",
         "createdAt": "2026-07-23T02:28:35.564Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mrbs3nhx6k2i:bafyreic5m2takdkkh4r3hlwgnuqfpusm4vj247mddlx5xqbrlcf2qmuopq"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:ArkSama (Playstation Hacker United - PHU )",
-        "title": "soon",
-        "score": 2,
-        "url": "https://bsky.app/profile/arksama.bsky.social/post/3mrauzylmrs23",
-        "createdAt": "2026-07-22T17:48:40.463Z",
-        "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mrauzylmrs23:bafyreigfic3qbqjech53nle6iocqqcdvxfm7bb36fatrluv2k5mgitekl4"
       },
       {
         "platform": "Bluesky",
@@ -554,26 +520,8 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:hyndrid.bsky.social",
-        "title": "discord.gg/7uERch5sr",
-        "score": 1,
-        "url": "https://bsky.app/profile/hyndrid.bsky.social/post/3mraupm2m3k2q",
-        "createdAt": "2026-07-22T17:42:51.666Z",
-        "key": "at://did:plc:cnhney4flhoifrgzaxp6kfs3/app.bsky.feed.post/3mraupm2m3k2q:bafyreib2q2mdmpswfchcdyhmw43als2c7buupvth7n77fx2f3u2ouqipae"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Preserving video games!",
-        "title": "☠️",
-        "score": 1,
-        "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mrcvp33lks2l",
-        "createdAt": "2026-07-23T13:05:50.862Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrcvp33lks2l:bafyreiaridcxd4s7kedscqwefudwf7gmjr7njwo7m3kquo75ssw5njhnuq"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "Soon I will make some corrections to the payload and I hope to fix it, I'll let you know so you can try... greetings",
+        "title": "I will soon make some corrections in the payload and hope to fix it, I'll let you know so you can try... greetings",
         "score": 1,
         "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mrcdmg7q6c24",
         "createdAt": "2026-07-23T07:42:11.872Z",
@@ -587,16 +535,34 @@
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrcjzec6us26",
         "createdAt": "2026-07-23T09:36:48.365Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrcjzec6us26:bafyreihzcb7evoccghk62xnmk4qmtb572w4tgpnfyrx6fzxbdy2osrmxfa"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:hyndrid.bsky.social",
+        "title": "discord.gg/7uERch5sr",
+        "score": 0,
+        "url": "https://bsky.app/profile/hyndrid.bsky.social/post/3mrdflqzwpc25",
+        "createdAt": "2026-07-23T17:50:15.681Z",
+        "key": "at://did:plc:cnhney4flhoifrgzaxp6kfs3/app.bsky.feed.post/3mrdflqzwpc25:bafyreict7bhts2v6ghppqfpkwxdcrpjcee7dj2ptyv2bumk2snhigs7baq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mour0ne",
+        "title": "It works for me.",
+        "score": 0,
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mrdcru6p722a",
+        "createdAt": "2026-07-23T17:00:04.372Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mrdcru6p722a:bafyreifr4oo7wiv5minqe4yntacm4g7lv4frzysbbkp7ssxlx7tsxcsdpa"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:ArkSama (Playstation Hacker United - PHU )",
-      "title": "All the invitations have been sent to the developers: echostretch, bestpig, idlesauce, drakmor.",
-      "score": 47,
-      "url": "https://bsky.app/profile/arksama.bsky.social/post/3mrauziqrzs23",
-      "createdAt": "2026-07-22T17:48:24.169Z",
-      "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mrauziqrzs23:bafyreihetddtwwjrlhezjdboaxwau54w4dvarzrh35dfkmcfrgrh7nhblm"
+      "community": "following:PS5 JAILBREAKS",
+      "title": "🚨PS5 UPDATE 23/07/2026:\n💥 New kernel exploit \"celcius kex\" works up to version FW 12.70 \ndocs.google.com/spreadsheets...",
+      "score": 28,
+      "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mrbgutyyps2x",
+      "createdAt": "2026-07-22T23:07:57.965Z",
+      "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mrbgutyyps2x:bafyreigajkjjzsx3vrnn3636udzhblin672ljemy7rjtr4oe4y3hdhmn2u"
     },
     "sources": [
       {
