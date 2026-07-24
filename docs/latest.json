@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T15:06:04.342Z",
-  "runTimePacific": "07/24/2026, 08:06 PDT",
-  "windowStartPacific": "07/23/2026, 08:06 PDT",
-  "windowEndPacific": "07/24/2026, 08:06 PDT",
+  "generatedAt": "2026-07-24T18:06:13.497Z",
+  "runTimePacific": "07/24/2026, 11:06 PDT",
+  "windowStartPacific": "07/23/2026, 11:06 PDT",
+  "windowEndPacific": "07/24/2026, 11:06 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -20,7 +20,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 Linux Manager Payload",
-        "score": 25,
+        "score": 31,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4vopu/ps5_linux_manager_payload/",
         "createdAt": "2026-07-24T00:24:18.000Z"
       },
@@ -28,7 +28,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Question about PS4 Pro version 12.02",
-        "score": 11,
+        "score": 10,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4mr1y/question_about_ps4_pro_version_1202/",
         "createdAt": "2026-07-23T18:43:53.000Z"
       },
@@ -36,25 +36,25 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS to/from PC Save Converter / Syncer",
-        "score": 7,
+        "score": 10,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v52bmq/ps_tofrom_pc_save_converter_syncer/",
         "createdAt": "2026-07-24T05:39:06.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Help me (( update can't install ))",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v5ace2/help_me_update_cant_install/",
-        "createdAt": "2026-07-24T12:44:11.000Z"
+        "community": "ps5homebrew",
+        "title": "PS5 Linux Manager Payload",
+        "score": 6,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v4vpic/ps5_linux_manager_payload/",
+        "createdAt": "2026-07-24T00:25:16.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "I want to update my JB",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4mw1c/i_want_to_update_my_jb/",
-        "createdAt": "2026-07-23T18:48:44.000Z"
+        "title": "Help me (( update can't install ))",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v5ace2/help_me_update_cant_install/",
+        "createdAt": "2026-07-24T12:44:11.000Z"
       },
       {
         "platform": "Reddit",
@@ -66,11 +66,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "PS5 Linux Manager Payload",
+        "community": "ps4homebrew",
+        "title": "I want to update my JB",
         "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v4vpic/ps5_linux_manager_payload/",
-        "createdAt": "2026-07-24T00:25:16.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4mw1c/i_want_to_update_my_jb/",
+        "createdAt": "2026-07-23T18:48:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Hitman 3 offline not working",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v5ezpu/hitman_3_offline_not_working/",
+        "createdAt": "2026-07-24T15:42:09.000Z"
       },
       {
         "platform": "Reddit",
@@ -83,14 +91,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Finally scored a decent firmware",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4y8ie/finally_scored_a_decent_frimware/",
-        "createdAt": "2026-07-24T02:20:04.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Is Los Santos Online usable on 9.0?",
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4wapo/is_los_santos_online_usable_on_90/",
@@ -99,10 +99,58 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "12.00 all in 1 ISO issue",
+        "title": "How to enable DLC for a game stored on exFAT?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v5gti3/how_to_enable_dlc_for_a_game_packed_in_exfat/",
+        "createdAt": "2026-07-24T16:47:18.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "12.00 all-in-1 ISO issue",
         "score": 2,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4vrsy/1200_all_in_1_iso_issue/",
         "createdAt": "2026-07-24T00:28:11.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Finally scored a decent firmware",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4y8ie/finally_scored_a_decent_frimware/",
+        "createdAt": "2026-07-24T02:20:04.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Having problems with The Sims: Bustin' Out on PS2 Classics Emulator (on PS4).",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v5gs2t/having_problems_with_the_sims_bustin_out_on_ps2/",
+        "createdAt": "2026-07-24T16:45:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What PS4 mods are there?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1v5h95u/what_ps4_mods_are_there/",
+        "createdAt": "2026-07-24T17:02:26.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Having problems with The Sims: Bustin' Out on PS2 Classics Emulator (on PS4).",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v5gr3s/having_problems_with_the_sims_bustin_out_on_ps2/",
+        "createdAt": "2026-07-24T16:44:56.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "My PS4 can't obtain IP address for some reason",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1v5fb0a/my_ps4_cant_obtain_ip_address_for_some_reason/",
+        "createdAt": "2026-07-24T15:53:27.000Z"
       },
       {
         "platform": "Reddit",
@@ -147,6 +195,14 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
+        "title": "ffpfsc pkg (PS4) games?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1v5ckmx/ffpfsc_pkgps4_games/",
+        "createdAt": "2026-07-24T14:13:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
         "title": "DNS to block updates but stay online",
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1v4qfo4/dns_to_block_updates_but_stay_online/",
@@ -163,7 +219,7 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Possibility of PS5 on Linux Peripherals",
+        "title": "Possibility of PS5 Linux Peripherals",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4zqyo/possiblility_of_ps5_on_linux_peripherals/",
         "createdAt": "2026-07-24T03:30:51.000Z"
@@ -171,7 +227,7 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "What's the best for 8.00",
+        "title": "What's the best for 8.00?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4piye/whats_the_best_for_800/",
         "createdAt": "2026-07-23T20:21:50.000Z"
@@ -203,25 +259,17 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Spider-Man 2: is it playable on 7.61 software?",
+        "title": "Is Spider-Man 2 playable on 7.61 software?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v55b7u/spider_man_2_is_it_playble_on_761_software/",
         "createdAt": "2026-07-24T08:23:03.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Is there any kernel exploits in the works for version 13.40?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4j9ch/is_there_any_kernel_exploits_in_t_he_work_for_the/",
-        "createdAt": "2026-07-23T16:41:50.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "PS5 Linux Manager Payload",
-      "score": 25,
+      "score": 31,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4vopu/ps5_linux_manager_payload/",
       "createdAt": "2026-07-24T00:24:18.000Z"
     },
@@ -230,7 +278,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Question about PS4 Pro version 12.02",
-        "score": 11,
+        "score": 10,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1v4mr1y/question_about_ps4_pro_version_1202/",
         "createdAt": "2026-07-23T18:43:53.000Z"
       },
@@ -238,7 +286,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "PS5 Linux Manager Payload",
-        "score": 3,
+        "score": 6,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1v4vpic/ps5_linux_manager_payload/",
         "createdAt": "2026-07-24T00:25:16.000Z"
       },
@@ -246,24 +294,31 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 Linux Manager Payload",
-        "score": 25,
+        "score": 31,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4vopu/ps5_linux_manager_payload/",
         "createdAt": "2026-07-24T00:24:18.000Z"
       },
       "PS4Hacks2": null,
       "PS4Jailbreak": null,
-      "PS4Mods": null
+      "PS4Mods": {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What PS4 mods are there?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1v5h95u/what_ps4_mods_are_there/",
+        "createdAt": "2026-07-24T17:02:26.000Z"
+      }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 11
+        "count": 15
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 3
+        "count": 4
       },
       {
         "name": "r/PS5_Jailbreak",
@@ -283,7 +338,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -292,8 +347,8 @@
       {
         "platform": "Bluesky",
         "community": "following:Preserving video games!",
-        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThanks to the \"Scene\" for the files with DLCs, drakmor for ampr-emu and DecKerr97 for the BackPort.\n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
-        "score": 23,
+        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThanks to the \"Scene\" for the Files with DLCs, drakmor for ampr-emu and DecKerr97 for the BackPort.\n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
+        "score": 28,
         "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mrecci44ua2r",
         "createdAt": "2026-07-24T02:24:03.274Z",
         "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mrecci44ua2r:bafyreidfbvm4immx2zxvl3dlzgfgsidatwugq2vzi6svgssqtcr2x2ikki"
@@ -309,12 +364,48 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:Preserving video games!",
-        "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo   \nUse Base64Decode.\n\nThanks to the \"Scene\" for the Files with DLCs. \n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nGezine's Zero Day kernel exploit has been patched in firmware 13.60",
         "score": 17,
-        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mrd5gy6ex325",
-        "createdAt": "2026-07-23T15:24:25.772Z",
-        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mrd5gy6ex325:bafyreiagcem4fv3gkbfu3uvgx3amten45rxiggxalpbvkviy3eronhal5i"
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrfoioh5gk2v",
+        "createdAt": "2026-07-24T15:35:00.279Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrfoioh5gk2v:bafyreicabltgyslqrebhayjlvdau34ldtv6ru2frqlm6qtyxdxhjatfwtu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "\"My internet never goes down!\"\n\nOkay, but PSN does.",
+        "score": 13,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mrftabbucs2d",
+        "createdAt": "2026-07-24T16:59:41.880Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mrftabbucs2d:bafyreicszuoocvcqcub44ul2pp73qo6syo2utn2gbcloib4fpl2c3fqeeq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Preserving video games!",
+        "title": "(untitled post)",
+        "score": 4,
+        "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mrflxdp5mc2u",
+        "createdAt": "2026-07-24T14:49:29.475Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrflxdp5mc2u:bafyreihhwrhatgaovwjz5xpdduqg5pykdapqbhs6dqkuq4pwmnuaf7irdi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mour0ne",
+        "title": "To access the sandbox, you need to have the app open.",
+        "score": 3,
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mrfrfyufd22o",
+        "createdAt": "2026-07-24T16:27:08.366Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mrfrfyufd22o:bafyreidsny7fradcgj6ptsa6vfscowcom52kvakwauyb24vdwsxlko7qoe"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "Webkit News:\n\nDeveloper Nathan Fargo revealed a new webkit exploit.\n\nApparently it's easier to implement than the previous recent webkit.\n\nNo info yet on what firmwares are affected.\n\nStay tuned.\n\ntwitter-thread.com/t/2080502136...",
+        "score": 2,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrfk6tr2kk2r",
+        "createdAt": "2026-07-24T14:17:51.178Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrfk6tr2kk2r:bafyreieg3suxtcykfxlf4ahv2gh3jowjwazbez5nj7mncf73py543sxhha"
       },
       {
         "platform": "Bluesky",
@@ -327,39 +418,21 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:hyndrid.bsky.social",
-        "title": "discord.gg/7uERch5sr",
+        "community": "following:Grim Doe",
+        "title": "Some future for $0NY ha\" lmao\"",
         "score": 2,
-        "url": "https://bsky.app/profile/hyndrid.bsky.social/post/3mrdflqzwpc25",
-        "createdAt": "2026-07-23T17:50:15.681Z",
-        "key": "at://did:plc:cnhney4flhoifrgzaxp6kfs3/app.bsky.feed.post/3mrdflqzwpc25:bafyreict7bhts2v6ghppqfpkwxdcrpjcee7dj2ptyv2bumk2snhigs7baq"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Preserving video games!",
-        "title": "(untitled post)",
-        "score": 1,
-        "url": "https://bsky.app/profile/siesptateam.bsky.social/post/3mrflxdp5mc2u",
-        "createdAt": "2026-07-24T14:49:29.475Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrflxdp5mc2u:bafyreihhwrhatgaovwjz5xpdduqg5pykdapqbhs6dqkuq4pwmnuaf7irdi"
+        "url": "https://bsky.app/profile/grimdoe.bsky.social/post/3mrftc6f2ps2v",
+        "createdAt": "2026-07-24T17:00:43.670Z",
+        "key": "at://did:plc:2xtkm6eabysmud72wfs4bcmy/app.bsky.feed.post/3mrftc6f2ps2v:bafyreia6jbenxc6xj4u7dv42a3eee7awqiwuijjsybv6ji3xs6vlit4pam"
       },
       {
         "platform": "Bluesky",
         "community": "following:mour0ne",
-        "title": "It works for me.",
-        "score": 1,
-        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mrdcru6p722a",
-        "createdAt": "2026-07-23T17:00:04.372Z",
-        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mrdcru6p722a:bafyreifr4oo7wiv5minqe4yntacm4g7lv4frzysbbkp7ssxlx7tsxcsdpa"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "Webkit News:\n\nDeveloper Nathan Fargo revealed a new webkit exploit.\n\nApparently it's easier to implement than the previous recent webkit.\n\nNo info yet on what firmwares are affected.\n\nStay tuned.\n\ntwitter-thread.com/t/2080502136...",
-        "score": 0,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrfk6tr2kk2r",
-        "createdAt": "2026-07-24T14:17:51.178Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrfk6tr2kk2r:bafyreieg3suxtcykfxlf4ahv2gh3jowjwazbez5nj7mncf73py543sxhha"
+        "title": "User /appmeta PPSA0165X and mnt/sandbox PPSA0165X",
+        "score": 2,
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mrfo7oe6ls2d",
+        "createdAt": "2026-07-24T15:29:56.867Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mrfo7oe6ls2d:bafyreibdd55mkvsteymbsfokelvzoo4sfihnym2wg7hkawcfubja2sdq2q"
       },
       {
         "platform": "Bluesky",
@@ -369,6 +442,33 @@
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mrfjjamzo22p",
         "createdAt": "2026-07-24T14:05:45.968Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mrfjjamzo22p:bafyreidbuosm3ceires3kqtufurc5r2fc3ir4qctx2nnuh3bxfjiqcxq2y"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Grim Doe",
+        "title": "Big thanks bro\nI just unpacked it and changed the icon pic\nand rebuilt the ExFat 😎",
+        "score": 0,
+        "url": "https://bsky.app/profile/grimdoe.bsky.social/post/3mrftkcm3ks2v",
+        "createdAt": "2026-07-24T17:05:18.079Z",
+        "key": "at://did:plc:2xtkm6eabysmud72wfs4bcmy/app.bsky.feed.post/3mrftkcm3ks2v:bafyreiaro2ggtutevau2ntp4e2ywtnc4wrdphsicwuq6kl2l5hfsi7anfe"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mour0ne",
+        "title": "? I already answered you, those are the routes",
+        "score": 0,
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mrfoglbwzc2t",
+        "createdAt": "2026-07-24T15:33:46.479Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mrfoglbwzc2t:bafyreieiyp5t4mvm7vv5bvyfjk3f2bg4lndfc6jyf24r6un27aa3ckuy5u"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mour0ne",
+        "title": "Yes",
+        "score": 0,
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mrfnbqi4f22d",
+        "createdAt": "2026-07-24T15:13:10.379Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mrfnbqi4f22d:bafyreicniknvzfab2c6yp6z64hkchok6ux3k32uagb5lz3ca4inmnba7xq"
       },
       {
         "platform": "Bluesky",
@@ -383,8 +483,8 @@
     "topOverall": {
       "platform": "Bluesky",
       "community": "following:Preserving video games!",
-      "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThanks to the \"Scene\" for the files with DLCs, drakmor for ampr-emu and DecKerr97 for the BackPort.\n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
-      "score": 23,
+      "title": "No Multiple Parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThanks to the \"Scene\" for the Files with DLCs, drakmor for ampr-emu and DecKerr97 for the BackPort.\n4.xx to 12.xx, enjoy.\n@siesptateam.bsky.social",
+      "score": 28,
       "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mrecci44ua2r",
       "createdAt": "2026-07-24T02:24:03.274Z",
       "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mrecci44ua2r:bafyreidfbvm4immx2zxvl3dlzgfgsidatwugq2vzi6svgssqtcr2x2ikki"
