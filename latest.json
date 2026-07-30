@@ -1,0 +1,394 @@
+{
+  "generatedAt": "2026-07-30T18:04:22.166Z",
+  "runTimePacific": "07/30/2026, 11:04 PDT",
+  "windowStartPacific": "07/29/2026, 11:04 PDT",
+  "windowEndPacific": "07/30/2026, 11:04 PDT",
+  "status": "complete",
+  "youtube": {
+    "latest": null,
+    "sources": [
+      {
+        "name": "YouTube RSS",
+        "ok": true,
+        "count": 0
+      }
+    ]
+  },
+  "reddit": {
+    "posts": [
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Oh Cyberpunk is definitely playable on PS4, just at your own risk lol",
+        "score": 136,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1va74cf/oh_cyberpunk_is_definitely_playable_on_ps4_just/",
+        "createdAt": "2026-07-29T19:54:53.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 APU is now fully unlocked with 8 core CPU and 40 CU GPU",
+        "score": 117,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1val4dw/ps5_apu_is_now_fully_unlocked_with_8_core_cpu_and/",
+        "createdAt": "2026-07-30T06:04:18.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Possible fan control difference: ShadowMountPlus vs ShadowMountPlusFan",
+        "score": 15,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vat4iu/possible_fan_control_difference_shadowmountplus/",
+        "createdAt": "2026-07-30T13:05:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Netflix N hack displaying notification and doing nothing",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vaxqtq/netflix_n_hack_displaying_notification_and_doing/",
+        "createdAt": "2026-07-30T16:00:55.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Got removed from official site so I came here",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vanzsi/got_removed_from_official_site_so_i_came_here/",
+        "createdAt": "2026-07-30T08:47:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Is there a bundled BD-JB + AIO (double free) chain available or is Poops just preferable?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vadkms/is_there_a_bundled_bdjb_aio_double_free_chain/",
+        "createdAt": "2026-07-30T00:04:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Anyone tried running BeamNG on PS5 Linux?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vanw7u/anyone_tried_running_beamng_on_ps5linux/",
+        "createdAt": "2026-07-30T08:41:32.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Skyrim Special Edition",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vacgrx/skyrim_special_edition/",
+        "createdAt": "2026-07-29T23:18:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Is there any possible way I can get PC mods on the PS4?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1va4gk6/is_there_any_possible_way_i_can_get_pc_mods_on/",
+        "createdAt": "2026-07-29T18:22:11.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Etahen Update?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb0b2d/etahen_update/",
+        "createdAt": "2026-07-30T17:31:31.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "What is the best firmware to jailbreak?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vau5ub/what_is_the_best_firmware_to_jailbreak/",
+        "createdAt": "2026-07-30T13:48:07.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "PS5 Meltdown + WiFi Issues",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vab52b/ps5_meltdown_wifi_issues/",
+        "createdAt": "2026-07-29T22:24:50.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Best way to mod 12.02",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1va7885/best_way_to_mod_1202/",
+        "createdAt": "2026-07-29T19:58:50.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Payload to display temperature",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vatqw7/payload_to_display_temperature/",
+        "createdAt": "2026-07-30T13:31:15.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Offline cheats",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1varn80/offline_cheats/",
+        "createdAt": "2026-07-30T12:01:32.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Jailbreak PS4",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1varpx6/jailbreak_ps4/",
+        "createdAt": "2026-07-30T12:04:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Latest jailbreak for PS4",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1va9p0r/latest_jailbreak_for_ps4/",
+        "createdAt": "2026-07-29T21:29:43.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "This is pretty cool stuff",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vatqio/this_is_pretty_cool_stuff/",
+        "createdAt": "2026-07-30T13:30:49.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "No cheats for PPSA07784",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vaq252/no_cheats_for_ppsa07784/",
+        "createdAt": "2026-07-30T10:43:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 game formats (what is your preferred format?)",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vabrdv/ps5_game_formats_what_is_your_format_preferred/",
+        "createdAt": "2026-07-29T22:49:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "PS4 accidentally updated to 13.5. Can I install a lower OS and jailbreak it?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vapxgh/ps4_accidentally_updated_to_135_can_i_install/",
+        "createdAt": "2026-07-30T10:35:50.000Z"
+      }
+    ],
+    "topOverall": {
+      "platform": "Reddit",
+      "community": "ps4homebrew",
+      "title": "Oh Cyberpunk is definitely playable on PS4, just at your own risk lol",
+      "score": 136,
+      "url": "https://www.reddit.com/r/ps4homebrew/comments/1va74cf/oh_cyberpunk_is_definitely_playable_on_ps4_just/",
+      "createdAt": "2026-07-29T19:54:53.000Z"
+    },
+    "topByCommunity": {
+      "ps4homebrew": {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Oh Cyberpunk is definitely playable on PS4, just at your own risk lol",
+        "score": 136,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1va74cf/oh_cyberpunk_is_definitely_playable_on_ps4_just/",
+        "createdAt": "2026-07-29T19:54:53.000Z"
+      },
+      "ps5homebrew": {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Got removed from official site so I came here",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vanzsi/got_removed_from_official_site_so_i_came_here/",
+        "createdAt": "2026-07-30T08:47:21.000Z"
+      },
+      "PS5_Jailbreak": {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 APU is now fully unlocked with 8 core CPU and 40 CU GPU",
+        "score": 117,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1val4dw/ps5_apu_is_now_fully_unlocked_with_8_core_cpu_and/",
+        "createdAt": "2026-07-30T06:04:18.000Z"
+      },
+      "PS4Hacks2": null,
+      "PS4Jailbreak": null,
+      "PS4Mods": {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Jailbreak PS4",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1varpx6/jailbreak_ps4/",
+        "createdAt": "2026-07-30T12:04:57.000Z"
+      }
+    },
+    "sources": [
+      {
+        "name": "r/ps4homebrew",
+        "ok": true,
+        "count": 7
+      },
+      {
+        "name": "r/ps5homebrew",
+        "ok": true,
+        "count": 2
+      },
+      {
+        "name": "r/PS5_Jailbreak",
+        "ok": true,
+        "count": 10
+      },
+      {
+        "name": "r/PS4Hacks2",
+        "ok": true,
+        "count": 0
+      },
+      {
+        "name": "r/PS4Jailbreak",
+        "ok": true,
+        "count": 0
+      },
+      {
+        "name": "r/PS4Mods",
+        "ok": true,
+        "count": 2
+      }
+    ]
+  },
+  "bluesky": {
+    "posts": [
+      {
+        "platform": "Bluesky",
+        "community": "following:A new beginning...",
+        "title": "Credits to DecKerr97 for the BP",
+        "score": 22,
+        "url": "https://bsky.app/profile/siesptateamrip.bsky.social/post/3mrsssh26z22w",
+        "createdAt": "2026-07-29T20:56:39.083Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrsssh26z22w:bafyreif5ensx4gvz5etcvgv2s6xqf7p5aeqvvfm42wvpe354k4tq4jfu64"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:A new beginning...",
+        "title": "A true warrior never abandons any battle; he only pauses to catch his breath and then continues fighting. Guess who that warrior is.",
+        "score": 19,
+        "url": "https://bsky.app/profile/siesptateamrip.bsky.social/post/3mrslhwpbp22y",
+        "createdAt": "2026-07-29T18:45:26.064Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrslhwpbp22y:bafyreib3icis7fjgzzr7pgrdduw6sq4qof2ayek753zx4cyvayaj2f7qxq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mustafa-ps4-ps5",
+        "title": "No multiple parts, ONLY .exfat directly to download.\n\nLink: aHR0cHM6Ly9waXBwbzI2NDQyOTk5LmdpdGh1Yi5pby8uZXhGQVQv\nPassword: pippo\nUse Base64Decode.\n\nThanks to the \"Scene\" for the files, drakmor for ampr-emu, and DecKerr97 for the BackPort.\n4.xx to 12.xx, enjoy.",
+        "score": 19,
+        "url": "https://bsky.app/profile/pippo26442999.bsky.social/post/3mrswacnux42j",
+        "createdAt": "2026-07-29T21:58:03.370Z",
+        "key": "at://did:plc:7wjpeyogntwf7vfchwaqm7xe/app.bsky.feed.post/3mrswacnux42j:bafyreigy6wgti4xl7f4tvffzpychxoh2anr2mszskauvgu6viteqi5kxem"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MasterPS",
+        "title": "[PS5] ShadowMountPlusFan v1.0 improves automatic fan control\nThe PlayStation 5 scene welcomes a new utility that is particularly useful for users of jailbroken consoles. Called...\n- launch a game\n- closing an application;\n- standby\nRead more",
+        "score": 19,
+        "url": "https://bsky.app/profile/saoriyuki.bsky.social/post/3mrttt6bt2p2y",
+        "createdAt": "2026-07-30T06:47:32.763Z",
+        "key": "at://did:plc:hs34gzx54hclvghunx2szybk/app.bsky.feed.post/3mrttt6bt2p2y:bafyreicb5nuphbfnsgsleqbeyunfzqpbipi33zdp4fo5lmc2k7ghnfdcyq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ NEW PS5 Game Dumps by Speed-007 🧐",
+        "score": 15,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrut4fv5fs2c",
+        "createdAt": "2026-07-30T16:07:38.271Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrut4fv5fs2c:bafyreic7yysedibcw7hzxd57g4h2ghbx54aa77ajzdiwg5yenxio6x7jlm"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nDeveloper Tur made his fake PSN emulator work on PS5 10.60 and activated Matchmaking, Signaling, and STUN while connecting to another jailbroken PS5.",
+        "score": 12,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrt4z2x6xk2c",
+        "createdAt": "2026-07-29T23:59:25.470Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrt4z2x6xk2c:bafyreibppy6jmf3pjbduoja4ifz7i6cuq3y2enahv3yu7qo57f2cmq246q"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "When you go to a game shop and see a guy like this sitting behind the Pokémon card counter with body odor, you know the business is going to be fine.",
+        "score": 11,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mrsrbl4wrc2y",
+        "createdAt": "2026-07-29T20:29:16.271Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mrsrbl4wrc2y:bafyreicuteaom5o24vyn7rgdb5gbfi53mxtcpzoxn6xwl4ecoa3tygd2xu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MasterPS",
+        "title": "github.com/NaGaa95/dolp...",
+        "score": 9,
+        "url": "https://bsky.app/profile/deejay87.fr/post/3mru62tggsk2k",
+        "createdAt": "2026-07-30T09:50:50.468Z",
+        "key": "at://did:plc:uzvws3bwl3gws5s6fegy26ib/app.bsky.feed.post/3mru62tggsk2k:bafyreia3xkp54x5va2zwfqsfa7nr6zzbp7dva6zxtqrp6b6n5itvzjcyqi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:ArkSama (Playstation Hacker United - PHU )",
+        "title": "I often update the builder right now but yes, I will send it to you.",
+        "score": 7,
+        "url": "https://bsky.app/profile/arksama.bsky.social/post/3mrt3k7og4s2f",
+        "createdAt": "2026-07-29T23:33:03.074Z",
+        "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mrt3k7og4s2f:bafyreicrmjevo7bccpeu3ykjzy7duzo36ci5hbpizvmz4tiuq4vfftokeq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nDeveloper SvenGDK started work on obtaining PS5 fpkg keys.\n\ntwitter-thread.com/t/2082837077...",
+        "score": 4,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mruv3hyz322a",
+        "createdAt": "2026-07-30T16:42:51.173Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mruv3hyz322a:bafyreiahzxnerl6blyo7o2h6rzgjwmo2xaigvhweq4fm23elcvi5zbqlwi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:A new beginning...",
+        "title": "New VR2 game, tonight on DLS...",
+        "score": 4,
+        "url": "https://bsky.app/profile/siesptateamrip.bsky.social/post/3mruvsl3aos2w",
+        "createdAt": "2026-07-30T16:55:42.967Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mruvsl3aos2w:bafyreigprxmwo5gb6n5olzy5gonya3mwvwm7dyh37lxl3tnwkeolbvdaya"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:maj0r",
+        "title": "Yep, but no ETA",
+        "score": 3,
+        "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mrsup66pes2j",
+        "createdAt": "2026-07-29T21:31:04.866Z",
+        "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mrsup66pes2j:bafyreiecckiipev4ls7c5iekjy4r7msajqeaatva7yzsag33n6ftqebahm"
+      }
+    ],
+    "topOverall": {
+      "platform": "Bluesky",
+      "community": "following:A new beginning...",
+      "title": "Credits to DecKerr97 for the BP",
+      "score": 22,
+      "url": "https://bsky.app/profile/siesptateamrip.bsky.social/post/3mrsssh26z22w",
+      "createdAt": "2026-07-29T20:56:39.083Z",
+      "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrsssh26z22w:bafyreif5ensx4gvz5etcvgv2s6xqf7p5aeqvvfm42wvpe354k4tq4jfu64"
+    },
+    "sources": [
+      {
+        "name": "Bluesky follows (crump-youtube.bsky.social)",
+        "ok": true,
+        "count": 24
+      }
+    ]
+  },
+  "failures": []
+}
