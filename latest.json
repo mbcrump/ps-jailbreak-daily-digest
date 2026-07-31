@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T23:18:35.741Z",
-  "runTimePacific": "07/31/2026, 16:18 PDT",
-  "windowStartPacific": "07/30/2026, 16:18 PDT",
-  "windowEndPacific": "07/31/2026, 16:18 PDT",
+  "generatedAt": "2026-07-31T23:28:37.944Z",
+  "runTimePacific": "07/31/2026, 16:28 PDT",
+  "windowStartPacific": "07/30/2026, 16:28 PDT",
+  "windowEndPacific": "07/31/2026, 16:28 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -26,7 +26,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just got this for $60 lol",
-        "score": 218,
+        "score": 220,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
         "createdAt": "2026-07-31T01:40:22.000Z"
       },
@@ -34,38 +34,30 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 Monlight Client",
-        "score": 49,
+        "score": 48,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbd3ul/ps4_monlight_client/",
         "createdAt": "2026-07-31T01:51:18.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "My little collection and some ps3s",
-        "score": 20,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
-        "createdAt": "2026-07-31T15:30:08.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Liberating a PlayStation 5",
-        "score": 19,
+        "score": 20,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
         "createdAt": "2026-07-31T18:48:13.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "I need help to make this working!",
-        "score": 15,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vc1hny/i_need_help_to_make_this_working/",
-        "createdAt": "2026-07-31T19:56:54.000Z"
+        "community": "ps4homebrew",
+        "title": "My little collection and some PS3s",
+        "score": 18,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
+        "createdAt": "2026-07-31T15:30:08.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Archlinux and Kernel on PS4",
+        "title": "Arch Linux and Kernel on PS4",
         "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbrwuf/archlinux_and_kernel_on_ps4/",
         "createdAt": "2026-07-31T14:05:05.000Z"
@@ -73,8 +65,8 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Listening music on PS5",
-        "score": 6,
+        "title": "Listening to music on PS5",
+        "score": 5,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vbjz7y/listening_music_on_ps5/",
         "createdAt": "2026-07-31T07:30:37.000Z"
       },
@@ -89,8 +81,8 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Recommend me a linux distro 🐧",
-        "score": 4,
+        "title": "Recommend me a Linux distro 🐧",
+        "score": 3,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbdxtg/recommend_me_a_linux_distro/",
         "createdAt": "2026-07-31T02:29:19.000Z"
       },
@@ -120,16 +112,8 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Best JB for 11.60 as of now?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbw2em/best_jb_for_1160_as_of_now/",
-        "createdAt": "2026-07-31T16:37:10.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "Guys is it just me or CUSA5488 (injustice 2) is no where to be seen i am trying to get its DLCs including TMNT",
+        "title": "Guys, is it just me, or is CUSA5488 (Injustice 2) nowhere to be seen? I’m trying to get its DLCs, including TMNT",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vbzpbp/guys_is_it_just_me_or_cusa5488_injustice_2_is_no/",
         "createdAt": "2026-07-31T18:49:42.000Z"
@@ -137,7 +121,7 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Archlinux and Kernel on PS4",
+        "title": "Arch Linux and Kernel on PS4",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vbrx65/archlinux_and_kernel_on_ps4/",
         "createdAt": "2026-07-31T14:05:27.000Z"
@@ -189,6 +173,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vbtmez/ffpfsc_files_not_showing_up_in_game_compressor/",
         "createdAt": "2026-07-31T15:09:18.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "How will Sony's all-digital push affect the jailbreak scene?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbwwb3/how_will_sonys_alldigital_push_affect_the/",
+        "createdAt": "2026-07-31T17:07:36.000Z"
       },
       {
         "platform": "Reddit",
@@ -249,10 +241,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How will Sony's all-digital push affect the jailbreak scene?",
+        "title": "Best JB for 11.60 as of now?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbwwb3/how_will_sonys_alldigital_push_affect_the/",
-        "createdAt": "2026-07-31T17:07:36.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbw2em/best_jb_for_1160_as_of_now/",
+        "createdAt": "2026-07-31T16:37:10.000Z"
       },
       {
         "platform": "Reddit",
@@ -275,7 +267,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Just got this for $60 lol",
-      "score": 218,
+      "score": 220,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
       "createdAt": "2026-07-31T01:40:22.000Z"
     },
@@ -284,15 +276,15 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just got this for $60 lol",
-        "score": 218,
+        "score": 220,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
         "createdAt": "2026-07-31T01:40:22.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Listening music on PS5",
-        "score": 6,
+        "title": "Listening to music on PS5",
+        "score": 5,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vbjz7y/listening_music_on_ps5/",
         "createdAt": "2026-07-31T07:30:37.000Z"
       },
@@ -300,14 +292,14 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Liberating a PlayStation 5",
-        "score": 19,
+        "score": 20,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
         "createdAt": "2026-07-31T18:48:13.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "Guys is it just me or CUSA5488 (injustice 2) is no where to be seen i am trying to get its DLCs including TMNT",
+        "title": "Guys, is it just me, or is CUSA5488 (Injustice 2) nowhere to be seen? I’m trying to get its DLCs, including TMNT",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vbzpbp/guys_is_it_just_me_or_cusa5488_injustice_2_is_no/",
         "createdAt": "2026-07-31T18:49:42.000Z"
@@ -316,7 +308,7 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Archlinux and Kernel on PS4",
+        "title": "Arch Linux and Kernel on PS4",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vbrx65/archlinux_and_kernel_on_ps4/",
         "createdAt": "2026-07-31T14:05:27.000Z"
@@ -336,7 +328,7 @@
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 12
+        "count": 11
       },
       {
         "name": "r/PS4Hacks2",
@@ -370,7 +362,7 @@
         "platform": "Bluesky",
         "community": "following:Grim Doe",
         "title": "🎬 New video: Exploring Halo: Combat Evolved Physical Disc on a Jailbroken PS5\n\n▶️ youtu.be/D726iluUip4\n\nSharing is appreciated!",
-        "score": 13,
+        "score": 14,
         "url": "https://bsky.app/profile/crump-youtube.bsky.social/post/3mrvwfxupnc2l",
         "createdAt": "2026-07-31T02:39:14.273Z",
         "key": "at://did:plc:mlihpblsxxw5teznclmu46cv/app.bsky.feed.post/3mrvwfxupnc2l:bafyreiglxpaezmpjpdqmxuf3vdstj5kztnikbrrxokzymd5pflvnbaarw4"
@@ -387,7 +379,7 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "And dying light the beast? 👀",
+        "title": "And Dying Light: The Beast? 👀",
         "score": 9,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrx2ga5jm22c",
         "createdAt": "2026-07-31T13:23:34.374Z",
@@ -396,11 +388,20 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "youtu.be/EIN2moNhurU?...\n\nMany thanks Brutal Sam 🫶",
+        "title": "youtu.be/EIN2moNhurU?...\n\nMany thanks, Brutal Sam 🫶",
         "score": 8,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxkctgu222c",
         "createdAt": "2026-07-31T18:08:00.865Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxkctgu222c:bafyreicoz324h7wigrnbsywp4cmq3vrzoss4ylr3gildmqdtzt5g5hscke"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "Tonight on DLS...",
+        "score": 7,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxun56qws25",
+        "createdAt": "2026-07-31T21:12:50.975Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxun56qws25:bafyreih6jnogsinjx4a3u2lbrfptlngvrtkmiv6qih32oc3zaenp2mqjgy"
       },
       {
         "platform": "Bluesky",
@@ -410,42 +411,6 @@
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrxeydbxhc2c",
         "createdAt": "2026-07-31T16:32:43.567Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrxeydbxhc2c:bafyreibqx66fndetmas5lyfdkyiv7xvtxqsanzslfmxzbxn3qiwxaxbi6i"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Tonight on DLS...",
-        "score": 6,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxun56qws25",
-        "createdAt": "2026-07-31T21:12:50.975Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxun56qws25:bafyreih6jnogsinjx4a3u2lbrfptlngvrtkmiv6qih32oc3zaenp2mqjgy"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:hyndrid.bsky.social",
-        "title": "Speed is the best of the best",
-        "score": 4,
-        "url": "https://bsky.app/profile/hyndrid.bsky.social/post/3mrvlgqrmok2b",
-        "createdAt": "2026-07-30T23:22:45.565Z",
-        "key": "at://did:plc:cnhney4flhoifrgzaxp6kfs3/app.bsky.feed.post/3mrvlgqrmok2b:bafyreibx5ojzxjw32u3ced7xrucxndhesxykm5rp56zqamwpmhevead4tu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:hyndrid.bsky.social",
-        "title": "Halo PC  need Linux on PS5 🤣🤣🤣🤣🤣🤣🤣",
-        "score": 3,
-        "url": "https://bsky.app/profile/hyndrid.bsky.social/post/3mrvlfudzb22b",
-        "createdAt": "2026-07-30T23:22:22.172Z",
-        "key": "at://did:plc:cnhney4flhoifrgzaxp6kfs3/app.bsky.feed.post/3mrvlfudzb22b:bafyreicmm74bsn37iyin2bp3ltmeas34eeu7zmiluuvxmbu33ejghqwbue"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:hyndrid.bsky.social",
-        "title": "PS5 Ubuntu",
-        "score": 3,
-        "url": "https://bsky.app/profile/hyndrid.bsky.social/post/3mrvld42fdk2b",
-        "createdAt": "2026-07-30T23:20:50.769Z",
-        "key": "at://did:plc:cnhney4flhoifrgzaxp6kfs3/app.bsky.feed.post/3mrvld42fdk2b:bafyreiadpshbnmyzdlhcepjpjhuwjw45qkoq3ilmhtfmttgjfs6ivtamki"
       },
       {
         "platform": "Bluesky",
@@ -497,8 +462,8 @@
       {
         "platform": "X",
         "community": "following:SonysNightmare 🏴‍☠️",
-        "title": "The Best of Having JAILBROKEN PS5 is that you can play your favorite game for free 😉 \n#assassinscreedodyssey https://t.co/w28JTqfIJm",
-        "score": 266,
+        "title": "The best part about having a JAILBROKEN PS5 is that you can play your favorite game for free 😉 \n#assassinscreedodyssey https://t.co/w28JTqfIJm",
+        "score": 267,
         "url": "https://x.com/SonysNightmare/status/2082973226183848088",
         "createdAt": "2026-07-30T23:34:51.000Z",
         "key": "x:2082973226183848088"
@@ -506,8 +471,8 @@
       {
         "platform": "X",
         "community": "following:Monsieur...",
-        "title": "New emulator PS1 based on PS5 game https://t.co/a0LaB7NcwT",
-        "score": 196,
+        "title": "New PS1 emulator based on a PS5 game https://t.co/a0LaB7NcwT",
+        "score": 198,
         "url": "https://x.com/Markus00095/status/2083167218800402731",
         "createdAt": "2026-07-31T12:25:42.000Z",
         "key": "x:2083167218800402731"
@@ -515,7 +480,7 @@
       {
         "platform": "X",
         "community": "following:LM",
-        "title": "I made the Online HB store installer public so anyone can download the store via payload it should work on every fw also\n\nhttps://t.co/gu1AK4UTPH",
+        "title": "I made the Online HB store installer public so anyone can download the store via payload. It should work on every firmware too.\n\nhttps://t.co/gu1AK4UTPH",
         "score": 167,
         "url": "https://x.com/LightningMods_/status/2083252542310326456",
         "createdAt": "2026-07-31T18:04:45.000Z",
@@ -524,7 +489,7 @@
       {
         "platform": "X",
         "community": "following:SonysNightmare 🏴‍☠️",
-        "title": "PS5 Assassin's Creed The Odyssey  \nCheats \nGOD MODE AND MORE\n\n#TheOdyssey https://t.co/ko1FWsKV7H",
+        "title": "PS5 Assassin's Creed The Odyssey\nCheats\nGOD MODE AND MORE\n\n#TheOdyssey https://t.co/ko1FWsKV7H",
         "score": 96,
         "url": "https://x.com/SonysNightmare/status/2082993791577866585",
         "createdAt": "2026-07-31T00:56:34.000Z",
@@ -533,8 +498,8 @@
       {
         "platform": "X",
         "community": "following:SonysNightmare 🏴‍☠️",
-        "title": "Sony CFO Lin Tao says they will not change their plans to end physical disc production \nJust remember what happened JUNE 2011 \n(major cyberattack by the hacking group LulzSec)\n\nCalling all Hackers to attack @PlayStation @Sony https://t.co/6ygxgveZam",
-        "score": 88,
+        "title": "Sony CFO Lin Tao says they will not change their plans to end physical disc production.\nJust remember what happened in JUNE 2011\n(major cyberattack by the hacking group LulzSec)\n\nCalling all Hackers to attack @PlayStation @Sony https://t.co/6ygxgveZam",
+        "score": 93,
         "url": "https://x.com/SonysNightmare/status/2083260108235006136",
         "createdAt": "2026-07-31T18:34:49.000Z",
         "key": "x:2083260108235006136"
@@ -542,20 +507,20 @@
       {
         "platform": "X",
         "community": "following:SonysNightmare 🏴‍☠️",
-        "title": "PS4/PS5  GTA V Scorpion MOD Menu TwoPlayer Mod (Speech &amp; Reactions) W.I.P\nBY my friend @rfoodxmodz https://t.co/rKbSs3hIO7",
-        "score": 65,
-        "url": "https://x.com/SonysNightmare/status/2083169805364850964",
-        "createdAt": "2026-07-31T12:35:59.000Z",
-        "key": "x:2083169805364850964"
+        "title": "A Message To @PlayStation @Sony\nTag them and Share https://t.co/Jl2iZjyswU",
+        "score": 80,
+        "url": "https://x.com/SonysNightmare/status/2083311966206980125",
+        "createdAt": "2026-07-31T22:00:53.000Z",
+        "key": "x:2083311966206980125"
       },
       {
         "platform": "X",
         "community": "following:SonysNightmare 🏴‍☠️",
-        "title": "A Message To @PlayStation @Sony  \nTag them and Share https://t.co/Jl2iZjyswU",
-        "score": 61,
-        "url": "https://x.com/SonysNightmare/status/2083311966206980125",
-        "createdAt": "2026-07-31T22:00:53.000Z",
-        "key": "x:2083311966206980125"
+        "title": "PS4/PS5 GTA V Scorpion MOD Menu TwoPlayer Mod (Speech &amp; Reactions) W.I.P\nBy my friend @rfoodxmodz https://t.co/rKbSs3hIO7",
+        "score": 65,
+        "url": "https://x.com/SonysNightmare/status/2083169805364850964",
+        "createdAt": "2026-07-31T12:35:59.000Z",
+        "key": "x:2083169805364850964"
       },
       {
         "platform": "X",
@@ -579,7 +544,7 @@
         "platform": "X",
         "community": "following:Hyndrid",
         "title": "RT @StonedModder: The creator of the recent bfplayer ps5 homebrew steals code. FYI. He completely cloned ghostcontrol and rebranded it. Wit…",
-        "score": 4,
+        "score": 6,
         "url": "https://x.com/CrippleBadbones/status/2083328526967558286",
         "createdAt": "2026-07-31T23:06:41.000Z",
         "key": "x:2083328526967558286"
@@ -606,8 +571,8 @@
     "topOverall": {
       "platform": "X",
       "community": "following:SonysNightmare 🏴‍☠️",
-      "title": "The Best of Having JAILBROKEN PS5 is that you can play your favorite game for free 😉 \n#assassinscreedodyssey https://t.co/w28JTqfIJm",
-      "score": 266,
+      "title": "The best part about having a JAILBROKEN PS5 is that you can play your favorite game for free 😉 \n#assassinscreedodyssey https://t.co/w28JTqfIJm",
+      "score": 267,
       "url": "https://x.com/SonysNightmare/status/2082973226183848088",
       "createdAt": "2026-07-30T23:34:51.000Z",
       "key": "x:2082973226183848088"
