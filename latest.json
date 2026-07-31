@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T23:37:27.133Z",
-  "runTimePacific": "07/31/2026, 16:37 PDT",
-  "windowStartPacific": "07/30/2026, 16:37 PDT",
-  "windowEndPacific": "07/31/2026, 16:37 PDT",
+  "generatedAt": "2026-07-31T23:38:33.685Z",
+  "runTimePacific": "07/31/2026, 16:38 PDT",
+  "windowStartPacific": "07/30/2026, 16:38 PDT",
+  "windowEndPacific": "07/31/2026, 16:38 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -26,7 +26,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just got this for $60 lol",
-        "score": 220,
+        "score": 224,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
         "createdAt": "2026-07-31T01:40:22.000Z"
       },
@@ -40,19 +40,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "My little collection and some PS3s",
-        "score": 20,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
-        "createdAt": "2026-07-31T15:30:08.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Liberating a PlayStation 5",
         "score": 20,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
         "createdAt": "2026-07-31T18:48:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "My little collection and some PS3s",
+        "score": 19,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
+        "createdAt": "2026-07-31T15:30:08.000Z"
       },
       {
         "platform": "Reddit",
@@ -82,17 +82,9 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Recommend me a Linux distro 🐧",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbdxtg/recommend_me_a_linux_distro/",
         "createdAt": "2026-07-31T02:29:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Is payload manager down?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbd41m/is_payload_manager_down/",
-        "createdAt": "2026-07-31T01:51:32.000Z"
       },
       {
         "platform": "Reddit",
@@ -113,10 +105,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Best JB for 11.60 as of now?",
+        "title": "Is payload manager down?",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbw2em/best_jb_for_1160_as_of_now/",
-        "createdAt": "2026-07-31T16:37:10.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbd41m/is_payload_manager_down/",
+        "createdAt": "2026-07-31T01:51:32.000Z"
       },
       {
         "platform": "Reddit",
@@ -129,7 +121,15 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Arch Linux and Kernel on PS4",
+        "title": "Is waiting for the latest fw jailbreak worth it?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vc0szj/is_waiting_for_the_latest_fw_jailbreak_worth_it/",
+        "createdAt": "2026-07-31T19:31:14.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Archlinux and Kernel on PS4",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vbrx65/archlinux_and_kernel_on_ps4/",
         "createdAt": "2026-07-31T14:05:27.000Z"
@@ -185,10 +185,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How will Sony's all-digital push affect the jailbreak scene?",
+        "title": "Best JB for 11.60 as of now?",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbwwb3/how_will_sonys_alldigital_push_affect_the/",
-        "createdAt": "2026-07-31T17:07:36.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbw2em/best_jb_for_1160_as_of_now/",
+        "createdAt": "2026-07-31T16:37:10.000Z"
       },
       {
         "platform": "Reddit",
@@ -217,14 +217,6 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Is waiting for the latest fw jailbreak worth it?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vc0szj/is_waiting_for_the_latest_fw_jailbreak_worth_it/",
-        "createdAt": "2026-07-31T19:31:14.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
         "title": "PS4 background video?",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vbgc2o/ps4_background_video/",
@@ -249,6 +241,14 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "How will Sony's all-digital push affect the jailbreak scene?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbwwb3/how_will_sonys_alldigital_push_affect_the/",
+        "createdAt": "2026-07-31T17:07:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "“Debug Settings” has appeared. Am I JB’d?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbnnha/debug_settings_has_appeared_am_i_jbd/",
@@ -267,7 +267,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Just got this for $60 lol",
-      "score": 220,
+      "score": 224,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
       "createdAt": "2026-07-31T01:40:22.000Z"
     },
@@ -276,7 +276,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just got this for $60 lol",
-        "score": 220,
+        "score": 224,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
         "createdAt": "2026-07-31T01:40:22.000Z"
       },
@@ -308,10 +308,10 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Arch Linux and Kernel on PS4",
+        "title": "Is waiting for the latest fw jailbreak worth it?",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vbrx65/archlinux_and_kernel_on_ps4/",
-        "createdAt": "2026-07-31T14:05:27.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vc0szj/is_waiting_for_the_latest_fw_jailbreak_worth_it/",
+        "createdAt": "2026-07-31T19:31:14.000Z"
       }
     },
     "sources": [
@@ -561,9 +561,10 @@
     },
     "sources": [
       {
-        "name": "X list (2083325710190694774)",
+        "name": "X cached list",
         "ok": true,
-        "count": 10
+        "count": 10,
+        "cached": true
       }
     ]
   },
