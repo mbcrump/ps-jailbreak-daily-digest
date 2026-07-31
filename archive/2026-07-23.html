@@ -30,11 +30,17 @@
     body { margin:0; color:var(--ink); background:radial-gradient(circle at 90% 0,#e7c96555,transparent 28rem),var(--paper); font:16px/1.55 Georgia,serif; }
     header,main,footer { width:min(980px,calc(100% - 32px)); margin:auto; }
     header { padding:64px 0 30px; border-bottom:3px solid var(--ink); }
-    nav { display:flex; gap:10px; align-items:center; margin-bottom:28px; font:700 13px ui-monospace,monospace; text-transform:uppercase; }
+    nav { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:28px; font:700 13px ui-monospace,monospace; text-transform:uppercase; }
+    .nav-links { display:flex; align-items:center; gap:10px; }
+    .telegram-link { display:grid; width:44px; height:44px; flex:0 0 44px; place-items:center; margin-left:auto; color:#fff; background:var(--red); border-radius:50%; box-shadow:0 7px 18px #d3422f45; text-decoration:none; transition:transform .15s ease,background .15s ease,box-shadow .15s ease; }
+    .telegram-link:hover { color:#fff; background:var(--green); box-shadow:0 9px 22px #1d5a4545; transform:translateY(-2px); }
+    .telegram-link svg { width:23px; height:23px; fill:currentColor; }
+    .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
     .eyebrow,.tag { font:700 12px/1.2 ui-monospace,monospace; letter-spacing:.1em; text-transform:uppercase; color:var(--red); }
     h1 { max-width:760px; margin:.25rem 0 .75rem; font-size:clamp(2.5rem,8vw,5.5rem); line-height:.92; letter-spacing:-.055em; }
-    .meta { color:var(--muted); }
-    .status { display:inline-block; margin-top:14px; padding:5px 10px; border:1px solid currentColor; color:var(--green); font:700 12px ui-monospace,monospace; text-transform:uppercase; }
+    .run-meta { margin:0; color:var(--muted); font:700 13px/1.4 ui-monospace,monospace; }
+    .coverage-note { display:flex; align-items:center; gap:10px; width:fit-content; max-width:100%; margin:22px 0 0; padding:10px 14px; color:var(--ink); background:#fff9df; border:1px solid #d7b94d; border-left:5px solid var(--red); box-shadow:0 7px 18px #28483a0d; font-size:.95rem; }
+    .coverage-note span { color:var(--red); font:700 11px/1.2 ui-monospace,monospace; letter-spacing:.1em; text-transform:uppercase; }
     main { padding:28px 0 52px; }
     .digest-columns { display:grid; grid-template-columns:1fr 1fr; align-items:start; gap:20px; margin-top:20px; }
     .digest-column { display:flex; min-width:0; flex-direction:column; gap:20px; }
@@ -53,19 +59,21 @@
     .tag { display:inline-block; margin-right:8px; }
     details { color:var(--muted); }
     summary { cursor:pointer; font-weight:bold; color:var(--ink); }
-
     footer { padding:0 0 40px; color:var(--muted); font-size:.85rem; }
     footer p { margin:0; }
-    @media (max-width:700px) { header { padding-top:40px; } .digest-columns { grid-template-columns:1fr; } .digest-column { display:contents; } .community-section { order:1; } .notable-section { order:2; } .bluesky-section { order:3; } }
+    @media (max-width:700px) { header { padding-top:40px; } .coverage-note { align-items:flex-start; flex-direction:column; gap:4px; } .digest-columns { grid-template-columns:1fr; } .digest-column { display:contents; } .community-section { order:1; } .notable-section { order:2; } .bluesky-section { order:3; } }
   </style>
 </head>
 <body>
   <header>
-    <nav aria-label="Digest navigation"><a href="../">Latest digest</a><span aria-hidden="true">/</span><a href="index.html">Browse archive</a></nav>
+    <nav aria-label="Digest navigation"><div class="nav-links"><a href="../">Latest digest</a><span aria-hidden="true">/</span><a href="index.html">Browse archive</a></div><a class="telegram-link" href="https://t.me/PSJailbreakDailyDigest" aria-label="Join the PS Jailbreak Daily Digest Telegram channel" title="Join us on Telegram">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21.7 2.3a1 1 0 0 0-1-.2L2.8 9a1 1 0 0 0 .1 1.9l4.6 1.6 1.8 5.6a1 1 0 0 0 1.7.4l2.7-3 4.7 3.5a1 1 0 0 0 1.6-.6l2-15.2a1 1 0 0 0-.3-.9ZM9.1 11.5l8.8-5.4-7.1 7.4-.6 2.1-1.1-4.1Z"/></svg>
+      <span class="sr-only">Join Telegram</span>
+    </a></nav>
     <div class="eyebrow">Independent daily monitor</div>
     <h1>PS Jailbreak Daily Digest</h1>
-    <div class="meta">Run: 07/23/2026, 14:34 PDT<br>Window: 07/22/2026, 14:34 PDT to 07/23/2026, 14:34 PDT</div>
-    <div class="status">complete</div>
+    <p class="run-meta">Run: 07/23/2026, 14:34 PDT</p>
+    <p class="coverage-note"><span>Coverage</span>We cover the latest in PlayStation 4/5 Jailbreak and Homebrew News</p>
   </header>
   <main>
     <section>

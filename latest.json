@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T21:32:13.163Z",
-  "runTimePacific": "07/31/2026, 14:32 PDT",
-  "windowStartPacific": "07/30/2026, 14:32 PDT",
-  "windowEndPacific": "07/31/2026, 14:32 PDT",
+  "generatedAt": "2026-07-31T21:37:24.475Z",
+  "runTimePacific": "07/31/2026, 14:37 PDT",
+  "windowStartPacific": "07/30/2026, 14:37 PDT",
+  "windowEndPacific": "07/31/2026, 14:37 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -26,9 +26,17 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just got this for $60 lol",
-        "score": 205,
+        "score": 208,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
         "createdAt": "2026-07-31T01:40:22.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 .PHU",
+        "score": 49,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb8ztn/ps5_phu/",
+        "createdAt": "2026-07-30T22:52:51.000Z"
       },
       {
         "platform": "Reddit",
@@ -40,17 +48,9 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS5 .PHU",
-        "score": 46,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb8ztn/ps5_phu/",
-        "createdAt": "2026-07-30T22:52:51.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "My little collection and some ps3s",
-        "score": 19,
+        "score": 16,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
         "createdAt": "2026-07-31T15:30:08.000Z"
       },
@@ -58,7 +58,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Liberating a PlayStation 5",
-        "score": 15,
+        "score": 16,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
         "createdAt": "2026-07-31T18:48:13.000Z"
       },
@@ -66,7 +66,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I need help to make this working!",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vc1hny/i_need_help_to_make_this_working/",
         "createdAt": "2026-07-31T19:56:54.000Z"
       },
@@ -74,7 +74,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Archlinux and Kernel on PS4",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbrwuf/archlinux_and_kernel_on_ps4/",
         "createdAt": "2026-07-31T14:05:05.000Z"
       },
@@ -82,7 +82,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Listening music on PS5",
-        "score": 6,
+        "score": 5,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vbjz7y/listening_music_on_ps5/",
         "createdAt": "2026-07-31T07:30:37.000Z"
       },
@@ -90,9 +90,17 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I did the unthinkable.. I deleted a game icon",
-        "score": 4,
+        "score": 5,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb9jdg/i_did_the_unthinkable_i_deleted_a_game_icon/",
         "createdAt": "2026-07-30T23:15:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Recommend me a linux distro 🐧",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbdxtg/recommend_me_a_linux_distro/",
+        "createdAt": "2026-07-31T02:29:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -125,14 +133,6 @@
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vblrme/i_accidentally_updated_the_ps_vue_app_to_136_what/",
         "createdAt": "2026-07-31T09:13:16.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Recommend me a linux distro 🐧",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbdxtg/recommend_me_a_linux_distro/",
-        "createdAt": "2026-07-31T02:29:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -315,7 +315,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Just got this for $60 lol",
-      "score": 205,
+      "score": 208,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
       "createdAt": "2026-07-31T01:40:22.000Z"
     },
@@ -324,7 +324,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just got this for $60 lol",
-        "score": 205,
+        "score": 208,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbcv0o/just_got_this_for_60_lol/",
         "createdAt": "2026-07-31T01:40:22.000Z"
       },
@@ -332,7 +332,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Listening music on PS5",
-        "score": 6,
+        "score": 5,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vbjz7y/listening_music_on_ps5/",
         "createdAt": "2026-07-31T07:30:37.000Z"
       },
@@ -340,7 +340,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 .PHU",
-        "score": 46,
+        "score": 49,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb8ztn/ps5_phu/",
         "createdAt": "2026-07-30T22:52:51.000Z"
       },
@@ -399,15 +399,6 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:maj0r",
-        "title": "CheatRunner v0.17 is out on GitHub!\n\ngithub.com/notmaj0r/Che...",
-        "score": 28,
-        "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mrvfgh2kjk2u",
-        "createdAt": "2026-07-30T21:35:44.269Z",
-        "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mrvfgh2kjk2u:bafyreie6jzvbx72t255v6blendggkqakfoh7eeepu2bqtduciktrrblg7i"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Our Telegram group:  t.me/+yL_uIeniTzZ...\n\nOur Discord server:  discord.gg/eQ7E55v7U8\n\nPippo's games Telegram group:  telegram.me/+fkqbayWD0K1...",
         "score": 16,
@@ -446,7 +437,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "youtu.be/EIN2moNhurU?...\n\nMany thanks Brutal Sam 🫶",
-        "score": 7,
+        "score": 8,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxkctgu222c",
         "createdAt": "2026-07-31T18:08:00.865Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxkctgu222c:bafyreicoz324h7wigrnbsywp4cmq3vrzoss4ylr3gildmqdtzt5g5hscke"
@@ -455,7 +446,7 @@
         "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ NEW PS5 Game Dumps by DLPS Team & Speed-007 & UNLiMiTED🧐",
-        "score": 7,
+        "score": 8,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrxer5suws2c",
         "createdAt": "2026-07-31T16:28:46.781Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrxer5suws2c:bafyreic4wyotr3wqcnh2e6u62r3r2pyhq4tfi6vyuogh5nsngqpaxapdwm"
@@ -464,7 +455,7 @@
         "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ PS5 Alan Wake 2 Deluxe Edition Dump by DUPLEX 🧐",
-        "score": 6,
+        "score": 7,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrxeydbxhc2c",
         "createdAt": "2026-07-31T16:32:43.567Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrxeydbxhc2c:bafyreibqx66fndetmas5lyfdkyiv7xvtxqsanzslfmxzbxn3qiwxaxbi6i"
@@ -500,7 +491,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Tonight on DLS...",
-        "score": 1,
+        "score": 3,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxun56qws25",
         "createdAt": "2026-07-31T21:12:50.975Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxun56qws25:bafyreih6jnogsinjx4a3u2lbrfptlngvrtkmiv6qih32oc3zaenp2mqjgy"
@@ -517,12 +508,12 @@
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:maj0r",
-      "title": "CheatRunner v0.17 is out on GitHub!\n\ngithub.com/notmaj0r/Che...",
-      "score": 28,
-      "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mrvfgh2kjk2u",
-      "createdAt": "2026-07-30T21:35:44.269Z",
-      "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mrvfgh2kjk2u:bafyreie6jzvbx72t255v6blendggkqakfoh7eeepu2bqtduciktrrblg7i"
+      "community": "following:DLPS Team",
+      "title": "Our Telegram group:  t.me/+yL_uIeniTzZ...\n\nOur Discord server:  discord.gg/eQ7E55v7U8\n\nPippo's games Telegram group:  telegram.me/+fkqbayWD0K1...",
+      "score": 16,
+      "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrwsafslq22c",
+      "createdAt": "2026-07-31T10:57:09.568Z",
+      "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrwsafslq22c:bafyreialpf7jdycutjia5o32nelyuiv7eiqafixvxpupalksflwojyfscy"
     },
     "sources": [
       {
