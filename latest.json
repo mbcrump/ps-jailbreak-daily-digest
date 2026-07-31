@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T22:30:59.485Z",
-  "runTimePacific": "07/31/2026, 15:30 PDT",
-  "windowStartPacific": "07/30/2026, 15:30 PDT",
-  "windowEndPacific": "07/31/2026, 15:30 PDT",
+  "generatedAt": "2026-07-31T22:43:25.415Z",
+  "runTimePacific": "07/31/2026, 15:43 PDT",
+  "windowStartPacific": "07/30/2026, 15:43 PDT",
+  "windowEndPacific": "07/31/2026, 15:43 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -34,7 +34,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 .PHU",
-        "score": 52,
+        "score": 51,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb8ztn/ps5_phu/",
         "createdAt": "2026-07-30T22:52:51.000Z"
       },
@@ -48,19 +48,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "My little collection and some ps3s",
+        "community": "PS5_Jailbreak",
+        "title": "Liberating a PlayStation 5",
         "score": 19,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
-        "createdAt": "2026-07-31T15:30:08.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
+        "createdAt": "2026-07-31T18:48:13.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Liberating a PlayStation 5",
+        "community": "ps4homebrew",
+        "title": "My little collection and some ps3s",
         "score": 17,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
-        "createdAt": "2026-07-31T18:48:13.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
+        "createdAt": "2026-07-31T15:30:08.000Z"
       },
       {
         "platform": "Reddit",
@@ -74,7 +74,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Archlinux and Kernel on PS4",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbrwuf/archlinux_and_kernel_on_ps4/",
         "createdAt": "2026-07-31T14:05:05.000Z"
       },
@@ -89,8 +89,16 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Unlock Y2JB with Netflix-N-Hack to avoid resetting the console",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbq6fx/unlock_y2jb_with_netflixnhack_to_avoid_resetting/",
+        "createdAt": "2026-07-31T12:55:34.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "I did the unthinkable.. I deleted a game icon",
-        "score": 5,
+        "score": 4,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb9jdg/i_did_the_unthinkable_i_deleted_a_game_icon/",
         "createdAt": "2026-07-30T23:15:16.000Z"
       },
@@ -101,14 +109,6 @@
         "score": 4,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbdxtg/recommend_me_a_linux_distro/",
         "createdAt": "2026-07-31T02:29:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Unlock Y2JB with Netflix-N-Hack to avoid resetting the console",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbq6fx/unlock_y2jb_with_netflixnhack_to_avoid_resetting/",
-        "createdAt": "2026-07-31T12:55:34.000Z"
       },
       {
         "platform": "Reddit",
@@ -332,7 +332,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 .PHU",
-        "score": 52,
+        "score": 51,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vb8ztn/ps5_phu/",
         "createdAt": "2026-07-30T22:52:51.000Z"
       },
@@ -490,6 +490,15 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "Tonight on...",
+        "score": 1,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxzhcy24c25",
+        "createdAt": "2026-07-31T22:39:04.176Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxzhcy24c25:bafyreihwnswoli5p4mghmuomyilwcr4clx6oyunxswk6b4kiprq67yjbsq"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:Grim Doe",
         "title": "(untitled post)",
         "score": 1,
@@ -516,14 +525,76 @@
     ]
   },
   "x": {
-    "posts": [],
-    "topOverall": null,
+    "posts": [
+      {
+        "platform": "X",
+        "community": "search:jailbreak/homebrew",
+        "title": "FIFA 17 v1.11 (CUSA03214)\n\n👇🏻\n\nhttps://t.co/k87Ti65hX8\n\n#ps4 #jailbreak #pkg #games #игры #FIFA #v17",
+        "score": 10,
+        "url": "https://x.com/PSPulse1337/status/2083107453076386168",
+        "createdAt": "2026-07-31T08:28:13.000Z",
+        "key": "x:2083107453076386168"
+      },
+      {
+        "platform": "X",
+        "community": "search:jailbreak/homebrew",
+        "title": "@Slient_Logic I'm on 13.02 and I live in iraq also I will spend a lot money to buy ps4 jailbreak",
+        "score": 4,
+        "url": "https://x.com/gfdtgg69784/status/2083204996267385170",
+        "createdAt": "2026-07-31T14:55:49.000Z",
+        "key": "x:2083204996267385170"
+      },
+      {
+        "platform": "X",
+        "community": "search:jailbreak/homebrew",
+        "title": "Ask for a friend: How far are we on the #PS5 jailbreak department? \n\n#FuckSony",
+        "score": 2,
+        "url": "https://x.com/NoelFrostpaw/status/2083144445961072940",
+        "createdAt": "2026-07-31T10:55:13.000Z",
+        "key": "x:2083144445961072940"
+      },
+      {
+        "platform": "X",
+        "community": "search:jailbreak/homebrew",
+        "title": "@034_netocpx No... all my tools are free...\nYou have a PS5 jailbreak ?",
+        "score": 1,
+        "url": "https://x.com/Markus00095/status/2083233370713006192",
+        "createdAt": "2026-07-31T16:48:34.000Z",
+        "key": "x:2083233370713006192"
+      },
+      {
+        "platform": "X",
+        "community": "search:jailbreak/homebrew",
+        "title": "@reynir @Shaggyy69420 @ModernWarzone He can go online with a PS4 Jailbreak and Dev Kit. But PS5 this is impossible.\n\nThe Crossplay is what is affecting PS5 users.\n\nNeeds to be isolated until further notice.",
+        "score": 1,
+        "url": "https://x.com/GTAJJ_/status/2083005206216778228",
+        "createdAt": "2026-07-31T01:41:56.000Z",
+        "key": "x:2083005206216778228"
+      },
+      {
+        "platform": "X",
+        "community": "search:jailbreak/homebrew",
+        "title": "@GTAJJ_ @Shaggyy69420 @ModernWarzone In the context of this post yes, a ps5 jailbreak has no affect, but it is definitely possible to mod a ps5.",
+        "score": 0,
+        "url": "https://x.com/goddammmmmmmmmm/status/2082992175403417897",
+        "createdAt": "2026-07-31T00:50:09.000Z",
+        "key": "x:2082992175403417897"
+      }
+    ],
+    "topOverall": {
+      "platform": "X",
+      "community": "search:jailbreak/homebrew",
+      "title": "FIFA 17 v1.11 (CUSA03214)\n\n👇🏻\n\nhttps://t.co/k87Ti65hX8\n\n#ps4 #jailbreak #pkg #games #игры #FIFA #v17",
+      "score": 10,
+      "url": "https://x.com/PSPulse1337/status/2083107453076386168",
+      "createdAt": "2026-07-31T08:28:13.000Z",
+      "key": "x:2083107453076386168"
+    },
     "sources": [
       {
-        "name": "X API",
+        "name": "X recent search",
         "ok": true,
-        "count": 0,
-        "disabled": true
+        "count": 6
       }
     ]
   },
