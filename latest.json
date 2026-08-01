@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T14:40:19.580Z",
-  "runTimePacific": "08/01/2026, 07:40 PDT",
-  "windowStartPacific": "07/31/2026, 07:40 PDT",
-  "windowEndPacific": "08/01/2026, 07:40 PDT",
+  "generatedAt": "2026-08-01T17:42:25.910Z",
+  "runTimePacific": "08/01/2026, 10:42 PDT",
+  "windowStartPacific": "07/31/2026, 10:42 PDT",
+  "windowEndPacific": "08/01/2026, 10:42 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -18,80 +18,56 @@
     "posts": [
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "My little collection and some PS3s",
-        "score": 33,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
-        "createdAt": "2026-07-31T15:30:08.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Liberating a PlayStation 5",
-        "score": 33,
+        "score": 34,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
         "createdAt": "2026-07-31T18:48:13.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Need help setting up Y2JB / Autoloader 12.20",
-        "score": 8,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vc7402/need_help_setting_up_y2jb_autoloader_1220/",
-        "createdAt": "2026-07-31T23:39:21.000Z"
+        "community": "ps4homebrew",
+        "title": "Is it worth getting a PS4 to jailbreak it in 2026?",
+        "score": 19,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcobxp/is_it_worth_getting_a_ps4_to_jailbreak_it_in_2026/",
+        "createdAt": "2026-08-01T14:05:52.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How to make ghost of yotei Word on PS5 11.20 ?",
-        "score": 7,
+        "score": 12,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vcjo5r/how_to_make_ghost_of_yotei_word_on_ps5_1120/",
         "createdAt": "2026-08-01T10:22:02.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Can I play FF7 Rebirth normally using a physical disc?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vcjnjn/can_i_play_ff7_rebirth_normally_using_a_physical/",
-        "createdAt": "2026-08-01T10:21:02.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How will Sony's all-digital push affect the jailbreak scene?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbwwb3/how_will_sonys_alldigital_push_affect_the/",
-        "createdAt": "2026-07-31T17:07:36.000Z"
+        "title": "Need help setting up Y2JB / Autoloader 12.20",
+        "score": 9,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vc7402/need_help_setting_up_y2jb_autoloader_1220/",
+        "createdAt": "2026-07-31T23:39:21.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I am 13.20 and have stopped update and also disconnected wifi. If I buy physical disc of any game, is it possible for me to download the game updates upto 13.20 without upgrading my firmware?",
-        "score": 5,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vclt57/i_am_1320_and_have_stopped_update_and_also/",
         "createdAt": "2026-08-01T12:13:59.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Is it worth getting a PS4 to jailbreak it in 2026?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcobxp/is_it_worth_getting_a_ps4_to_jailbreak_it_in_2026/",
-        "createdAt": "2026-08-01T14:05:52.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Is waiting for the latest fw jailbreak worth it?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vc0szj/is_waiting_for_the_latest_fw_jailbreak_worth_it/",
-        "createdAt": "2026-07-31T19:31:14.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "Can I play FF7 Rebirth normally using a physical disc?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vcjnjn/can_i_play_ff7_rebirth_normally_using_a_physical/",
+        "createdAt": "2026-08-01T10:21:02.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PS4 on 5.55 should I update to 6.72 or 9.00?",
+        "title": "PS4 on 5.55—should I update to 6.72 or 9.00?",
         "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcdvbf/ps4_on_555_should_i_update_to_672_or_900/",
         "createdAt": "2026-08-01T04:57:27.000Z"
@@ -106,19 +82,35 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Best JB for 11.60 as of now?",
+        "community": "PS4Mods",
+        "title": "Is waiting for the latest fw jailbreak worth it?",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbw2em/best_jb_for_1160_as_of_now/",
-        "createdAt": "2026-07-31T16:37:10.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vc0szj/is_waiting_for_the_latest_fw_jailbreak_worth_it/",
+        "createdAt": "2026-07-31T19:31:14.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Ffpfsc files not showing up in game compressor",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbtlzq/ffpfsc_files_not_showing_up_in_game_compressor/",
-        "createdAt": "2026-07-31T15:08:50.000Z"
+        "community": "ps4homebrew",
+        "title": "Ps4 pkg",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vctelv/ps4_pkg/",
+        "createdAt": "2026-08-01T17:33:02.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How to disable cat photos on vueafterfree",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vct5qu/how_to_disable_cat_photos_on_vueafterfree/",
+        "createdAt": "2026-08-01T17:22:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Using FW9: If I want to get updated Goldhen with cached Arab Pixel PSFree, must I deleted the cached page and recache the updated page? Or can I inject/load new Goldhen manually into the cached files?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcsft6/using_fw9_if_i_want_to_get_updated_goldhen_with/",
+        "createdAt": "2026-08-01T16:53:59.000Z"
       },
       {
         "platform": "Reddit",
@@ -130,11 +122,35 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Game crashes before kstuf pause [Ratchet & Clank Rift Apart]",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vcp082/game_crashes_before_kstuf_pause_ratchet_clank/",
+        "createdAt": "2026-08-01T14:34:17.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS4Hacks2",
         "title": "Guys, is it just me, or is CUSA5488 (injustice 2) nowhere to be found? I’m trying to get its DLCs, including TMNT",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vbzpbp/guys_is_it_just_me_or_cusa5488_injustice_2_is_no/",
         "createdAt": "2026-07-31T18:49:42.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "What does a jailbroken PS4 do? (Besides offering free games) Which consoles can it emulate? Which PS4 versions can be jailbroken? Can I downgrade the PS4's firmware if I can't buy one that is already on a jailbreakable version?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcriot/what_does_a_jailbroken_ps4_do_besides_offering/",
+        "createdAt": "2026-08-01T16:16:53.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Itemzflow doesn't find my external storage",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcqpzs/itemzflow_doesnt_find_my_external_storage/",
+        "createdAt": "2026-08-01T15:45:21.000Z"
       },
       {
         "platform": "Reddit",
@@ -162,22 +178,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Ffpfsc files not showing up in game compressor",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vbtmez/ffpfsc_files_not_showing_up_in_game_compressor/",
-        "createdAt": "2026-07-31T15:09:18.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "BO2 UNLOCK ALL",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vcnyts/bo2_unlock_all/",
-        "createdAt": "2026-08-01T13:50:53.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 PRO 11.00 with raspberry pi modded on motherboard",
         "score": 0,
@@ -195,34 +195,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "I do not have internet. I bought Spider-Man 2018 but for some reason, the disc won’t copy?? I’m using a PS4. Any ideas??",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbwjjj/i_do_not_have_internet_i_bought_spiderman_2018/",
-        "createdAt": "2026-07-31T16:54:55.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "What are the most stable exploit at the moment?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbvhxu/what_are_the_most_stable_exploit_at_the_moment/",
-        "createdAt": "2026-07-31T16:16:41.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Now that I've got GoldHen for my PS4 8.50, I need some more help.",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbzleb/now_that_ive_got_goldhen_for_my_ps4_850_i_need/",
         "createdAt": "2026-07-31T18:45:37.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "11.50 11.52 userland?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbv5zc/1150_1152_userland/",
-        "createdAt": "2026-07-31T16:04:56.000Z"
       },
       {
         "platform": "Reddit",
@@ -239,24 +215,40 @@
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vcele8/homebrewing_and_jailbreaking/",
         "createdAt": "2026-08-01T05:34:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Ps5 requesting me to update YT",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vcrgp8/ps5_requesting_me_to_update_yt/",
+        "createdAt": "2026-08-01T16:14:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "BO2 UNLOCK ALL",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vcnyts/bo2_unlock_all/",
+        "createdAt": "2026-08-01T13:50:53.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
-      "community": "ps4homebrew",
-      "title": "My little collection and some PS3s",
-      "score": 33,
-      "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
-      "createdAt": "2026-07-31T15:30:08.000Z"
+      "community": "PS5_Jailbreak",
+      "title": "Liberating a PlayStation 5",
+      "score": 34,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
+      "createdAt": "2026-07-31T18:48:13.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "My little collection and some PS3s",
-        "score": 33,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vbu6yv/my_little_collection_and_some_ps3s/",
-        "createdAt": "2026-07-31T15:30:08.000Z"
+        "title": "Is it worth getting a PS4 to jailbreak it in 2026?",
+        "score": 19,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcobxp/is_it_worth_getting_a_ps4_to_jailbreak_it_in_2026/",
+        "createdAt": "2026-08-01T14:05:52.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
@@ -270,7 +262,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Liberating a PlayStation 5",
-        "score": 33,
+        "score": 34,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbznyx/liberating_a_playstation_5/",
         "createdAt": "2026-07-31T18:48:13.000Z"
       },
@@ -287,7 +279,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Is waiting for the latest fw jailbreak worth it?",
-        "score": 4,
+        "score": 3,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vc0szj/is_waiting_for_the_latest_fw_jailbreak_worth_it/",
         "createdAt": "2026-07-31T19:31:14.000Z"
       }
@@ -296,17 +288,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 14
+        "count": 15
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 3
+        "count": 2
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 8
+        "count": 7
       },
       {
         "name": "r/PS4Hacks2",
@@ -329,12 +321,21 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ NEW PS5 Game Dumps by the DLPS Team & Speed-007 & UNLiMiTED🧐",
+        "community": "following:PS5 JAILBREAKS",
+        "title": "I made it extremely stable... and the best way is to wait 5 seconds before opening YouTube when you turn on your device. One of the testers tested it without using the internet 10 times consecutively and it was all successful... 🔥🔥",
         "score": 19,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrxer5suws2c",
-        "createdAt": "2026-07-31T16:28:46.781Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrxer5suws2c:bafyreic4wyotr3wqcnh2e6u62r3r2pyhq4tfi6vyuogh5nsngqpaxapdwm"
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mrzbgjines2u",
+        "createdAt": "2026-08-01T10:34:20.871Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mrzbgjines2u:bafyreieqqrcysfg5di4w25gkxsqtjlymaghw6dh3mmdflw27qhslq6u5i4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mustafa-ps4-ps5",
+        "title": "Victor Sánchez               +PS3+ VIDEO\n\n\"I managed to reduce the SIZE of the PlayStation 3 by cutting its board in half\"\n\nYoutube.: ( ES )\nwww.youtube.com/watch?v=-_bd...",
+        "score": 17,
+        "url": "https://bsky.app/profile/terex777.bsky.social/post/3mrybtsasxc2c",
+        "createdAt": "2026-08-01T01:09:04.874Z",
+        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3mrybtsasxc2c:bafyreih3assag5uxg2t6hvz4glsf5fgzgup3mdg5gn75klllp5wpf6kn24"
       },
       {
         "platform": "Bluesky",
@@ -347,15 +348,6 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "Victor Sánchez               +PS3+ VIDEO\n\n\"I managed to reduce the SIZE of the PlayStation 3 by cutting its board in half\"\n\nYoutube.: ( ES )\nwww.youtube.com/watch?v=-_bd...",
-        "score": 15,
-        "url": "https://bsky.app/profile/terex777.bsky.social/post/3mrybtsasxc2c",
-        "createdAt": "2026-08-01T01:09:04.874Z",
-        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3mrybtsasxc2c:bafyreih3assag5uxg2t6hvz4glsf5fgzgup3mdg5gn75klllp5wpf6kn24"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Tonight on DLS...",
         "score": 14,
@@ -365,12 +357,21 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ PS5 Alan Wake 2 Deluxe Edition Dump by DUPLEX 🧐",
-        "score": 14,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrxeydbxhc2c",
-        "createdAt": "2026-07-31T16:32:43.567Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrxeydbxhc2c:bafyreibqx66fndetmas5lyfdkyiv7xvtxqsanzslfmxzbxn3qiwxaxbi6i"
+        "community": "following:DLPS Team",
+        "title": "Tonight on...",
+        "score": 10,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxzhcy24c25",
+        "createdAt": "2026-07-31T22:39:04.176Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxzhcy24c25:bafyreihwnswoli5p4mghmuomyilwcr4clx6oyunxswk6b4kiprq67yjbsq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:maj0r",
+        "title": "[PS5] CheatRunner v0.17 available: the PS5 cheat manager continues to mature\nDeveloper notmaj0r has just released CheatRunner v0.17, a new stable version of its cheat manager for jailbroken PS5s. After a series of previews which corrected numerous problems, this version marks a new...\nRead more",
+        "score": 10,
+        "url": "https://bsky.app/profile/saoriyuki.bsky.social/post/3mrytqjlhjy2d",
+        "createdAt": "2026-08-01T06:29:22.768Z",
+        "key": "at://did:plc:hs34gzx54hclvghunx2szybk/app.bsky.feed.post/3mrytqjlhjy2d:bafyreidib52hswnad56t25aqs5tcohgo7abeuprqo7pybomwepi2qjyyz4"
       },
       {
         "platform": "Bluesky",
@@ -383,36 +384,27 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Tonight on...",
-        "score": 9,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mrxzhcy24c25",
-        "createdAt": "2026-07-31T22:39:04.176Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mrxzhcy24c25:bafyreihwnswoli5p4mghmuomyilwcr4clx6oyunxswk6b4kiprq67yjbsq"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:mustafa-ps4-ps5",
-        "title": "I made it extremely stable... and the best way is to wait 5 seconds before opening YouTube when you turn on your device. One of the testers tested it without using the internet 10 times consecutively and it was all successful... 🔥🔥",
+        "title": "The link will be posted soon... I've made it stable and added some improvements and my own personal touches 🫡❤️🔥",
         "score": 9,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mrzbgjines2u",
-        "createdAt": "2026-08-01T10:34:20.871Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mrzbgjines2u:bafyreieqqrcysfg5di4w25gkxsqtjlymaghw6dh3mmdflw27qhslq6u5i4"
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mrztkh4m7k2e",
+        "createdAt": "2026-08-01T15:58:40.066Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mrztkh4m7k2e:bafyreifjcy7yq32qpklfrx6jhygmsdjcflfykmuihpyqrjrptql3pimxuu"
       },
       {
         "platform": "Bluesky",
-        "community": "following:maj0r",
-        "title": "[PS5] CheatRunner v0.17 available: the PS5 cheat manager continues to mature\nDeveloper notmaj0r has just released CheatRunner v0.17, a new stable version of its cheat manager for jailbroken PS5s. After a series of previews which corrected numerous problems, this version marks a new...\nRead more",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ NEW PS5 Game Dumps by Speed-007 🧐",
         "score": 9,
-        "url": "https://bsky.app/profile/saoriyuki.bsky.social/post/3mrytqjlhjy2d",
-        "createdAt": "2026-08-01T06:29:22.768Z",
-        "key": "at://did:plc:hs34gzx54hclvghunx2szybk/app.bsky.feed.post/3mrytqjlhjy2d:bafyreidib52hswnad56t25aqs5tcohgo7abeuprqo7pybomwepi2qjyyz4"
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrzokms4wc2r",
+        "createdAt": "2026-08-01T14:29:23.465Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrzokms4wc2r:bafyreihy32bwvm2y7io32iclr6dfwn73bmdytj65uxw65ouehepdvb23ma"
       },
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS4 News:\n\nResearcher MasterMaind confirmed that the Celcius kernel exploit is not usuable for jailbreak",
-        "score": 5,
+        "score": 6,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mrz7amobks2s",
         "createdAt": "2026-08-01T09:55:18.066Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mrz7amobks2s:bafyreihvsj2lhru5cfodgvtbhzwuticvtottylgb27iauyxnmi3f5sswfa"
@@ -428,12 +420,12 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ NEW PS5 Game Dumps by Speed-007 🧐",
-        "score": 3,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrzokms4wc2r",
-        "createdAt": "2026-08-01T14:29:23.465Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrzokms4wc2r:bafyreihy32bwvm2y7io32iclr6dfwn73bmdytj65uxw65ouehepdvb23ma"
+        "community": "following:MrMario2011",
+        "title": "How to Install ARK-5 eCFW on Adrenaline for PS Vita! \n\nWatch Here: youtu.be/oLTbmOuIlQQ",
+        "score": 2,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mrzwaykfoc2q",
+        "createdAt": "2026-08-01T16:47:04.668Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mrzwaykfoc2q:bafyreibr5bq3w7tsu4obfi74zuf5eq4wstqb3udqhcuj64u4gvksk2thwa"
       },
       {
         "platform": "Bluesky",
@@ -456,12 +448,12 @@
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:dravszoo.bsky.social",
-      "title": "➭ NEW PS5 Game Dumps by the DLPS Team & Speed-007 & UNLiMiTED🧐",
+      "community": "following:PS5 JAILBREAKS",
+      "title": "I made it extremely stable... and the best way is to wait 5 seconds before opening YouTube when you turn on your device. One of the testers tested it without using the internet 10 times consecutively and it was all successful... 🔥🔥",
       "score": 19,
-      "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mrxer5suws2c",
-      "createdAt": "2026-07-31T16:28:46.781Z",
-      "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mrxer5suws2c:bafyreic4wyotr3wqcnh2e6u62r3r2pyhq4tfi6vyuogh5nsngqpaxapdwm"
+      "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mrzbgjines2u",
+      "createdAt": "2026-08-01T10:34:20.871Z",
+      "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mrzbgjines2u:bafyreieqqrcysfg5di4w25gkxsqtjlymaghw6dh3mmdflw27qhslq6u5i4"
     },
     "sources": [
       {
@@ -499,15 +491,6 @@
         "url": "https://x.com/SonysNightmare/status/2083260108235006136",
         "createdAt": "2026-07-31T18:34:49.000Z",
         "key": "x:2083260108235006136"
-      },
-      {
-        "platform": "X",
-        "community": "following:Monsieur...",
-        "title": "Add graphic option 😉 https://t.co/qPq0ybHf0G",
-        "score": 60,
-        "url": "https://x.com/Markus00095/status/2083225619274346592",
-        "createdAt": "2026-07-31T16:17:46.000Z",
-        "key": "x:2083225619274346592"
       },
       {
         "platform": "X",
@@ -550,7 +533,7 @@
       {
         "name": "X cached list",
         "ok": true,
-        "count": 7,
+        "count": 6,
         "cached": true
       }
     ]
