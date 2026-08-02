@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T17:44:18.666Z",
-  "runTimePacific": "08/02/2026, 10:44 PDT",
-  "windowStartPacific": "08/01/2026, 10:44 PDT",
-  "windowEndPacific": "08/02/2026, 10:44 PDT",
+  "generatedAt": "2026-08-02T21:13:30.521Z",
+  "runTimePacific": "08/02/2026, 14:13 PDT",
+  "windowStartPacific": "08/01/2026, 14:13 PDT",
+  "windowEndPacific": "08/02/2026, 14:13 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -26,17 +26,17 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just found this PS4 in the attic",
-        "score": 16,
+        "score": 32,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdctmo/just_found_this_ps4_in_the_attic/",
         "createdAt": "2026-08-02T08:44:24.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Ps4 Jailbrake 13.50",
-        "score": 15,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vcvb7i/ps4_jailbrake_1350/",
-        "createdAt": "2026-08-01T18:48:23.000Z"
+        "community": "ps4homebrew",
+        "title": "CSSFontFace-Exploit Host on the XIAO ESP32-C3",
+        "score": 10,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdf64x/cssfontfaceexploit_host_on_the_xiao_esp32c3/",
+        "createdAt": "2026-08-02T11:01:59.000Z"
       },
       {
         "platform": "Reddit",
@@ -48,25 +48,9 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "CSSFontFace-Exploit Host on the XIAO ESP32-C3",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdf64x/cssfontfaceexploit_host_on_the_xiao_esp32c3/",
-        "createdAt": "2026-08-02T11:01:59.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Where to find custom themes?",
-        "score": 7,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcxhrz/where_to_find_custom_themes/",
-        "createdAt": "2026-08-01T20:14:56.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Detroit Become Human 60 fps on PS5?",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdeh8m/detroit_become_human_60_fps_on_ps5/",
         "createdAt": "2026-08-02T10:22:24.000Z"
       },
@@ -74,7 +58,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Cheats not working",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdkrew/cheats_not_working/",
         "createdAt": "2026-08-02T15:19:14.000Z"
       },
@@ -82,17 +66,41 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Struggling with converting N2JB to Y2JB to BDJB using the 3xP2JB method—how can I get the last command line to work?",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vd2y39/struggling_with_the_n2jb_to_y2jb_to_bdjb_with/",
         "createdAt": "2026-08-02T00:08:04.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Where to DL cheat files (.mc4, .shn, or .json)?",
-        "score": 2,
+        "title": "Is there a way to keep saved data before a factory reset on an already jailbroken PS5?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdriz4/is_there_a_way_to_keep_saved_data_before_a/",
+        "createdAt": "2026-08-02T19:44:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Where to download cheat files (.mc4, .shn, or .json)?",
+        "score": 3,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vczg7e/where_to_dl_cheat_files_mc4_shn_or_json/",
         "createdAt": "2026-08-01T21:34:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Ps vue on 12.52 have become more and more shitty on my ps4",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdrn4y/ps_vue_on_1252_have_become_more_and_more_shitty/",
+        "createdAt": "2026-08-02T19:49:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Netflix hack",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vdhiuz/netflix_hack/",
+        "createdAt": "2026-08-02T13:01:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -101,6 +109,22 @@
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vd4xvh/rps4mods_2026_update_whats_allowed_going_forward/",
         "createdAt": "2026-08-02T01:44:40.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Lan party help",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdrzj1/lan_party_help/",
+        "createdAt": "2026-08-02T20:02:43.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 12.52 Aide / Help",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdpuu1/ps4_1252_aide_help/",
+        "createdAt": "2026-08-02T18:40:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -125,6 +149,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vd1mg0/call_of_duty_modern_warfare_2019_installation/",
         "createdAt": "2026-08-01T23:08:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Is there a way to keep saved data before a factory reset on an already jailbroken PS5?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdsiat/is_there_a_way_to_keep_saved_data_before_a/",
+        "createdAt": "2026-08-02T20:22:52.000Z"
       },
       {
         "platform": "Reddit",
@@ -165,14 +197,6 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdjuy5/rest_mode_on_1260_y2jb_kstuff_lite_does_killing/",
         "createdAt": "2026-08-02T14:42:55.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Netflix hack",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vdhiuz/netflix_hack/",
-        "createdAt": "2026-08-02T13:01:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -225,10 +249,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Help I accidentally update the vue app I have no usb",
+        "title": "what is the best way to get a goldhen disk if you don't own a blueray burner/blueray disk?",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcy29t/help_i_accidentally_update_the_vue_app_i_have_no/",
-        "createdAt": "2026-08-01T20:37:42.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdq14b/what_is_the_best_way_to_get_a_goldhen_disk_if_you/",
+        "createdAt": "2026-08-02T18:46:45.000Z"
       },
       {
         "platform": "Reddit",
@@ -241,14 +265,6 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "GTA VI Sony getting ready 🤔",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdl2au/gta_vi_sony_getting_ready/",
-        "createdAt": "2026-08-02T15:31:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
         "title": "Where to DL cheat files (.mc4, .shn, or .json)?",
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vczikg/where_to_dl_cheat_files_mc4_shn_or_json/",
@@ -256,11 +272,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Dumping Batman Lego disc dump on 11.60",
+        "community": "ps5homebrew",
+        "title": "GTA VI Sony getting ready 🤔",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdb4j8/dumping_batman_lego_disc_dump_on_1160/",
-        "createdAt": "2026-08-02T07:05:02.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdl2au/gta_vi_sony_getting_ready/",
+        "createdAt": "2026-08-02T15:31:28.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS4 12.52 Aide / Help",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdptzm/ps4_1252_aide_help/",
+        "createdAt": "2026-08-02T18:39:12.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Ps4 fpkg titles gone from homescreeen after db rebuild, anyway to get back",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdpkfp/ps4_fpkg_titles_gone_from_homescreeen_after_db/",
+        "createdAt": "2026-08-02T18:28:50.000Z"
       },
       {
         "platform": "Reddit",
@@ -275,7 +307,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Just found this PS4 in the attic",
-      "score": 16,
+      "score": 32,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdctmo/just_found_this_ps4_in_the_attic/",
       "createdAt": "2026-08-02T08:44:24.000Z"
     },
@@ -284,17 +316,17 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Just found this PS4 in the attic",
-        "score": 16,
+        "score": 32,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdctmo/just_found_this_ps4_in_the_attic/",
         "createdAt": "2026-08-02T08:44:24.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Steps after first jailbreak",
+        "title": "Is there a way to keep saved data before a factory reset on an already jailbroken PS5?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdn2iv/steps_after_first_jailbreak/",
-        "createdAt": "2026-08-02T16:51:27.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdsiat/is_there_a_way_to_keep_saved_data_before_a/",
+        "createdAt": "2026-08-02T20:22:52.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
@@ -309,27 +341,27 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Ps4 Jailbrake 13.50",
-        "score": 15,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vcvb7i/ps4_jailbrake_1350/",
-        "createdAt": "2026-08-01T18:48:23.000Z"
+        "title": "Netflix hack",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vdhiuz/netflix_hack/",
+        "createdAt": "2026-08-02T13:01:19.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 10
+        "count": 12
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 5
+        "count": 6
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 8
+        "count": 10
       },
       {
         "name": "r/PS4Hacks2",
@@ -344,7 +376,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 8
+        "count": 7
       }
     ]
   },
@@ -354,64 +386,55 @@
         "platform": "Bluesky",
         "community": "following:mustafa-ps4-ps5",
         "title": "I need to test this browser and give me your feedback to improve it. This is a trial version, not the final one. 🥰❤️👇👇👇👇👇👇👇\n\nmustafs-ps4-ps5.github.io/ps4/",
-        "score": 14,
+        "score": 17,
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms3alkwqvc2w",
         "createdAt": "2026-08-02T05:24:39.465Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms3alkwqvc2w:bafyreihibreucpehbdjptbxojrscklu7jz2wdbybamnmnm2hjkatpjlrnm"
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Tonight on....\n\nPatch 01.000.013\n\nprosperopatches.com/PPSA01603\n\n💅",
-        "score": 9,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4brpkwcs2f",
-        "createdAt": "2026-08-02T15:18:39.170Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4brpkwcs2f:bafyreih2xfbnjof47iyls4ozefd63ntyy44u7wazfofs52uzu3ji5d3bge"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ PS5 Far Cry 6 Game of the Year Edition Dump by DUPLEX 🧐",
-        "score": 9,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3ms3kiibw422a",
-        "createdAt": "2026-08-02T08:21:53.783Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3ms3kiibw422a:bafyreih7ou2ohgc2mnmxph5zlgpmiwqtu757ycwqghnmf7qdq47scodcwu"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "🚨Ps5-payload-manager v0.5.1:\ngithub.com/itsPLK/ps5-p...",
-        "score": 8,
+        "score": 12,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3ms4hgyfxqk2o",
         "createdAt": "2026-08-02T16:59:58.365Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3ms4hgyfxqk2o:bafyreid4c2lkgs3cfzg7tpvn4e6gytsnnnnh4vksesh7nj6ifvanjmepgm"
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
+        "community": "following:mustafa-ps4-ps5",
+        "title": "You can download the version from here. Enjoy! 🔥🫡❤️\n\nmega.nz/file/J1UR1AA...",
+        "score": 11,
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms4hiruwgc23",
+        "createdAt": "2026-08-02T17:00:59.179Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms4hiruwgc23:bafyreicrxbljuyyw7r6xu6rfo5tmihu6d3ssbgmta2iwfv2ms7bmo32tne"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ PS5 Far Cry 6 Game of the Year Edition Dump by DUPLEX 🧐",
+        "score": 11,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3ms3kiibw422a",
+        "createdAt": "2026-08-02T08:21:53.783Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3ms3kiibw422a:bafyreih7ou2ohgc2mnmxph5zlgpmiwqtu757ycwqghnmf7qdq47scodcwu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Grim Doe",
         "title": "I'm going to do the poll right now to choose the new logo ✍️",
-        "score": 6,
+        "score": 9,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4gn4rby224",
         "createdAt": "2026-08-02T16:45:28.481Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4gn4rby224:bafyreibzbvgdefreppmq3222idttpyf2mi2z5lfl24cwr2opi77us6h7ie"
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "🫡",
-        "score": 6,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4ajifmp224",
-        "createdAt": "2026-08-02T14:56:10.167Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4ajifmp224:bafyreifl4fmgpzopccxrczihqgln7enmepu5lamwrwidegitiex3k6fxbm"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "You can download the version from here. Enjoy! 🔥🫡❤️\n\nmega.nz/file/J1UR1AA...",
-        "score": 6,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms4hiruwgc23",
-        "createdAt": "2026-08-02T17:00:59.179Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms4hiruwgc23:bafyreicrxbljuyyw7r6xu6rfo5tmihu6d3ssbgmta2iwfv2ms7bmo32tne"
+        "community": "following:TeRex777",
+        "title": "Gezine             +PS5+\n\nUPDATE: Y2JB\n\n-Update elfldr (13.60)\n\nGithub.:\ngithub.com/Gezine/Y2JB/...",
+        "score": 9,
+        "url": "https://bsky.app/profile/terex777.bsky.social/post/3ms4trxr63c2y",
+        "createdAt": "2026-08-02T20:40:51.977Z",
+        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3ms4trxr63c2y:bafyreihyvosug57f7imnbxoagmgrap575mlyisuvz4nke3afmk2bw44p2u"
       },
       {
         "platform": "Bluesky",
@@ -425,11 +448,20 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "youtu.be/N5OL4MV0u08?...",
+        "title": "Second poll",
+        "score": 5,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4omprfrs2f",
+        "createdAt": "2026-08-02T19:08:36.666Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4omprfrs2f:bafyreiao6byfdyaicfawrbvldp5owk55wn2j44znyfql6xrenslikdeata"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "With the two winning logos from each of the two polls, The next week I will hold another poll of 4 best logos, and we will all choose the new logo",
         "score": 4,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms3tlavlv224",
-        "createdAt": "2026-08-02T11:04:29.769Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms3tlavlv224:bafyreiaxenndxt75gkyqaaamww5apc5egcus3mr4yyb4vf32mdvok3gynm"
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4onr2zfc2f",
+        "createdAt": "2026-08-02T19:08:59.682Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4onr2zfc2f:bafyreibndt74gp7dexaxwnudtknm74lxc5tra4nynkivwlreyhs53jma7u"
       },
       {
         "platform": "Bluesky",
@@ -442,19 +474,28 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "Same case",
+        "community": "following:DLPS Team",
+        "title": "If you wish, you can write in the comments which logo you like best, thanks 🫶",
         "score": 1,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3ms2bepwxgc2k",
-        "createdAt": "2026-08-01T20:06:00.764Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3ms2bepwxgc2k:bafyreihzvgveind4vx2z2woltbji55f7hyrztwhlmvjo4gf3chflqsyobu"
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4riwatq225",
+        "createdAt": "2026-08-02T19:59:58.868Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4riwatq225:bafyreigrslbrdm4zxkhfsdzxu63ym7ktdzmepkzhxitvcns774oejd6zmm"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "If you wish, you can write in the comments which logo you like best, thanks",
+        "score": 1,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4rie32k225",
+        "createdAt": "2026-08-02T19:59:40.764Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4rie32k225:bafyreid6fj24stvd3nhkaijhk724d35t672bhbe556pxk4k2s6j7puevyu"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
       "community": "following:mustafa-ps4-ps5",
       "title": "I need to test this browser and give me your feedback to improve it. This is a trial version, not the final one. 🥰❤️👇👇👇👇👇👇👇\n\nmustafs-ps4-ps5.github.io/ps4/",
-      "score": 14,
+      "score": 17,
       "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms3alkwqvc2w",
       "createdAt": "2026-08-02T05:24:39.465Z",
       "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms3alkwqvc2w:bafyreihibreucpehbdjptbxojrscklu7jz2wdbybamnmnm2hjkatpjlrnm"
@@ -471,56 +512,120 @@
     "posts": [
       {
         "platform": "X",
-        "community": "following:Monsieur...",
-        "title": "The PS1 swap disc is too complex to set up.\nFor games with a save before changing discs, there’s no problem, but for changes without a save, it’s over.\nYou have to find the hook and the discnumber for each disc and each game.\nI’m making the .lua available for the motivated... https://t.co/NqXTttjiTC",
-        "score": 42,
-        "url": "https://x.com/Markus00095/status/2083665045213303153",
-        "createdAt": "2026-08-01T21:23:54.000Z",
-        "key": "x:2083665045213303153"
+        "community": "following:Sonic-Iso",
+        "title": "🤣🤣🤣🤣 https://t.co/nfNXRJbi1L",
+        "score": 36,
+        "url": "https://x.com/Sonic_Iso/status/2083992805572010402",
+        "createdAt": "2026-08-02T19:06:18.000Z",
+        "key": "x:2083992805572010402"
+      },
+      {
+        "platform": "X",
+        "community": "following:Jose Coixao",
+        "title": "so, i'm in a bit of a conundrum here, i recently ordered a steam machine 512GB with controller included, but i don't feel like paying over 1000€ for it, does anyone in Portugal want one at price of cost?",
+        "score": 23,
+        "url": "https://x.com/notnotzecoxao/status/2083983019673592286",
+        "createdAt": "2026-08-02T18:27:25.000Z",
+        "key": "x:2083983019673592286"
       },
       {
         "platform": "X",
         "community": "following:Monsieur...",
-        "title": "discNumber = the memory address where the game indicates the requested disc number (1, 2, 3, 4)\nHook = the place in the game code where the emulator intercepts execution to check this number\neach game has different values, so you can't code a universal discswap.lua...",
+        "title": "For the PS1 emulator, you have a choice in the ISO selector:\n\n- Either 16 games (max) without description\nGame 1\nGame 2\nEtc...\n\n- Or 8 games (max) with description\nTekken\nDino crisis\nEtc...\n\nWhich would you prefer?",
+        "score": 23,
+        "url": "https://x.com/Markus00095/status/2083973601011593251",
+        "createdAt": "2026-08-02T17:49:59.000Z",
+        "key": "x:2083973601011593251"
+      },
+      {
+        "platform": "X",
+        "community": "following:Jose Coixao",
+        "title": "@Sonic_Iso the moment i start working i'll cut my ties with everyone in the scene. you're no exception...",
+        "score": 17,
+        "url": "https://x.com/notnotzecoxao/status/2083943890478866500",
+        "createdAt": "2026-08-02T15:51:55.000Z",
+        "key": "x:2083943890478866500"
+      },
+      {
+        "platform": "X",
+        "community": "following:TeRex777",
+        "title": "https://t.co/D8CsKfkfvh https://t.co/5evE1PJuZ3",
+        "score": 14,
+        "url": "https://x.com/TeRex777_/status/2084016746894184701",
+        "createdAt": "2026-08-02T20:41:26.000Z",
+        "key": "x:2084016746894184701"
+      },
+      {
+        "platform": "X",
+        "community": "following:aldostools🔸ᐱᒪᑐ〇 VᐱᒋᏀᐱS",
+        "title": "⭐️PS5 Pacbrew 0.39 updated by John Tornblom\n\n🔸websrv 🔹elfldr🔹ftpsrv\n🔹shsrv🔹klogsrv🔹gdbsrv\n\n📥https://t.co/syQIP8T8HO https://t.co/N1w7JTZcJp",
+        "score": 3,
+        "url": "https://x.com/aldostools/status/2084019052985438635",
+        "createdAt": "2026-08-02T20:50:36.000Z",
+        "key": "x:2084019052985438635"
+      },
+      {
+        "platform": "X",
+        "community": "following:Monsieur...",
+        "title": "16 games without description: https://t.co/3HRgOLapxV",
         "score": 2,
-        "url": "https://x.com/Markus00095/status/2083674004632563793",
-        "createdAt": "2026-08-01T21:59:30.000Z",
-        "key": "x:2083674004632563793"
+        "url": "https://x.com/Markus00095/status/2083999456182325599",
+        "createdAt": "2026-08-02T19:32:43.000Z",
+        "key": "x:2083999456182325599"
       },
       {
         "platform": "X",
-        "community": "following:Viktorious",
-        "title": "Grand Theft Auto VI is releasing in 109 days.",
+        "community": "following:aldostools🔸ᐱᒪᑐ〇 VᐱᒋᏀᐱS",
+        "title": "⭐️Wolf4SDL homebrew ported by John Tornblom\n📥https://t.co/5AZGcRejws https://t.co/TrPKpsJ4A7",
         "score": 1,
-        "url": "https://x.com/Viktorioussssss/status/2083697629641220158",
-        "createdAt": "2026-08-01T23:33:22.000Z",
-        "key": "x:2083697629641220158"
+        "url": "https://x.com/aldostools/status/2084017756324659213",
+        "createdAt": "2026-08-02T20:45:26.000Z",
+        "key": "x:2084017756324659213"
+      },
+      {
+        "platform": "X",
+        "community": "following:Jose Coixao",
+        "title": "i just received the email of the purchase",
+        "score": 1,
+        "url": "https://x.com/notnotzecoxao/status/2083983126183719263",
+        "createdAt": "2026-08-02T18:27:50.000Z",
+        "key": "x:2083983126183719263"
+      },
+      {
+        "platform": "X",
+        "community": "following:Monsieur...",
+        "title": "8 jeux avec descriptif: https://t.co/26yK5CzUES",
+        "score": 0,
+        "url": "https://x.com/Markus00095/status/2083998536635433192",
+        "createdAt": "2026-08-02T19:29:04.000Z",
+        "key": "x:2083998536635433192"
       },
       {
         "platform": "X",
         "community": "following:Hyndrid",
-        "title": "So crazy 🤣🤣🤣🤣🤣 https://t.co/02TaSOZMN8",
+        "title": "Tu t'attendais a quoi esti de crétin 🤣🤣🤣 https://t.co/FKGHgB8BFO",
         "score": 0,
-        "url": "https://x.com/CrippleBadbones/status/2083686971268911352",
-        "createdAt": "2026-08-01T22:51:01.000Z",
-        "key": "x:2083686971268911352"
+        "url": "https://x.com/CrippleBadbones/status/2083962699877114063",
+        "createdAt": "2026-08-02T17:06:40.000Z",
+        "key": "x:2083962699877114063"
       }
     ],
     "topOverall": {
       "platform": "X",
-      "community": "following:Monsieur...",
-      "title": "The PS1 swap disc is too complex to set up.\nFor games with a save before changing discs, there’s no problem, but for changes without a save, it’s over.\nYou have to find the hook and the discnumber for each disc and each game.\nI’m making the .lua available for the motivated... https://t.co/NqXTttjiTC",
-      "score": 42,
-      "url": "https://x.com/Markus00095/status/2083665045213303153",
-      "createdAt": "2026-08-01T21:23:54.000Z",
-      "key": "x:2083665045213303153"
+      "community": "following:Sonic-Iso",
+      "title": "🤣🤣🤣🤣 https://t.co/nfNXRJbi1L",
+      "score": 36,
+      "url": "https://x.com/Sonic_Iso/status/2083992805572010402",
+      "createdAt": "2026-08-02T19:06:18.000Z",
+      "key": "x:2083992805572010402"
     },
     "sources": [
       {
-        "name": "X cached list",
+        "name": "X list (2083325710190694774)",
         "ok": true,
-        "count": 4,
-        "cached": true
+        "count": 11,
+        "pagesRead": 3,
+        "scanned": 30
       }
     ]
   },
