@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T14:42:40.970Z",
-  "runTimePacific": "08/02/2026, 07:42 PDT",
-  "windowStartPacific": "08/01/2026, 07:42 PDT",
-  "windowEndPacific": "08/02/2026, 07:42 PDT",
+  "generatedAt": "2026-08-02T17:44:18.666Z",
+  "runTimePacific": "08/02/2026, 10:44 PDT",
+  "windowStartPacific": "08/01/2026, 10:44 PDT",
+  "windowEndPacific": "08/02/2026, 10:44 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -34,7 +34,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Ps4 Jailbrake 13.50",
-        "score": 13,
+        "score": 15,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vcvb7i/ps4_jailbrake_1350/",
         "createdAt": "2026-08-01T18:48:23.000Z"
       },
@@ -42,7 +42,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Got a PS5 OG fat missing its disc drive. How can I tell what firmware it's on? Is it possible to patch an older version to hack?",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vd86t8/got_a_ps5_og_fat_missing_its_disc_drive_how_can_i/",
         "createdAt": "2026-08-02T04:25:52.000Z"
       },
@@ -50,7 +50,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "CSSFontFace-Exploit Host on the XIAO ESP32-C3",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdf64x/cssfontfaceexploit_host_on_the_xiao_esp32c3/",
         "createdAt": "2026-08-02T11:01:59.000Z"
       },
@@ -58,7 +58,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Where to find custom themes?",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcxhrz/where_to_find_custom_themes/",
         "createdAt": "2026-08-01T20:14:56.000Z"
       },
@@ -66,9 +66,17 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Detroit Become Human 60 fps on PS5?",
-        "score": 3,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdeh8m/detroit_become_human_60_fps_on_ps5/",
         "createdAt": "2026-08-02T10:22:24.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Cheats not working",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdkrew/cheats_not_working/",
+        "createdAt": "2026-08-02T15:19:14.000Z"
       },
       {
         "platform": "Reddit",
@@ -81,7 +89,7 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Where to download cheat files (.mc4, .shn, or .json)?",
+        "title": "Where to DL cheat files (.mc4, .shn, or .json)?",
         "score": 2,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vczg7e/where_to_dl_cheat_files_mc4_shn_or_json/",
         "createdAt": "2026-08-01T21:34:36.000Z"
@@ -89,10 +97,10 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Netflix hack",
+        "title": "/r/PS4Mods 2026 update: what’s allowed going forward (ask questions here)",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vdhiuz/netflix_hack/",
-        "createdAt": "2026-08-02T13:01:19.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vd4xvh/rps4mods_2026_update_whats_allowed_going_forward/",
+        "createdAt": "2026-08-02T01:44:40.000Z"
       },
       {
         "platform": "Reddit",
@@ -101,14 +109,6 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdhtek/sim_racing_on_jb_ps4/",
         "createdAt": "2026-08-02T13:14:42.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "How to transfer save data goldhen ps4",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdhlgi/how_to_transfer_save_data_goldhen_ps4/",
-        "createdAt": "2026-08-02T13:04:38.000Z"
       },
       {
         "platform": "Reddit",
@@ -128,16 +128,16 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Using FW9: If I want to get updated Goldhen with cached Arab Pixel PSFree, must I deleted the cached page and recache the updated page? Or can I inject/load new Goldhen manually into the cached files?",
+        "community": "ps5homebrew",
+        "title": "Steps after first jailbreak",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcsft6/using_fw9_if_i_want_to_get_updated_goldhen_with/",
-        "createdAt": "2026-08-01T16:53:59.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdn2iv/steps_after_first_jailbreak/",
+        "createdAt": "2026-08-02T16:51:27.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Can I get my PS4 fpkg titles back after rebuilding the database?",
+        "title": "Can i get my ps4 fpkg titles back after rebuilding database",
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vd8qg5/can_i_get_my_ps4_fpkg_titles_back_after/",
         "createdAt": "2026-08-02T04:54:21.000Z"
@@ -145,10 +145,34 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Ps5 requesting me to update YT",
+        "title": "Ps5 suddenly goes black while playing",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vcrgp8/ps5_requesting_me_to_update_yt/",
-        "createdAt": "2026-08-01T16:14:39.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdm51p/ps5_suddenly_goes_black_while_playing/",
+        "createdAt": "2026-08-02T16:14:00.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Kingdom come deliverance 60 fps problem",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdkz84/kingdom_come_deliverance_60_fps_problem/",
+        "createdAt": "2026-08-02T15:28:10.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Rest mode on 12.60 (Y2JB + Kstuff Lite)? Does killing payloads first work?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vdjuy5/rest_mode_on_1260_y2jb_kstuff_lite_does_killing/",
+        "createdAt": "2026-08-02T14:42:55.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Netflix hack",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vdhiuz/netflix_hack/",
+        "createdAt": "2026-08-02T13:01:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -169,14 +193,6 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "/r/PS4Mods 2026 update: what’s allowed going forward (ask questions here)",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vd4xvh/rps4mods_2026_update_whats_allowed_going_forward/",
-        "createdAt": "2026-08-02T01:44:40.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
         "title": "My modded ps3 is not working right",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vd497x/my_modded_ps3_is_not_working_right/",
@@ -189,6 +205,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vd3zya/looking_for_someone_to_do_the_unlock_all_on_my/",
         "createdAt": "2026-08-02T00:58:53.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How to transfer save data goldhen ps4",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vdhlgi/how_to_transfer_save_data_goldhen_ps4/",
+        "createdAt": "2026-08-02T13:04:38.000Z"
       },
       {
         "platform": "Reddit",
@@ -208,27 +232,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Itemzflow doesn't find my external storage",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcqpzs/itemzflow_doesnt_find_my_external_storage/",
-        "createdAt": "2026-08-01T15:45:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "What does a jailbroken PS4 do? (Besides offering free games) Which consoles can it emulate? Which PS4 versions can be jailbroken? Can I downgrade the PS4's firmware if I can't buy one that is already on a jailbreakable version?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vcriot/what_does_a_jailbroken_ps4_do_besides_offering/",
-        "createdAt": "2026-08-01T16:16:53.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Need help unlocking GobbleGums and other BO3 content on a jailbroken PS5",
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdfpy3/need_help_unlocking_gobblegums_and_other_bo3/",
         "createdAt": "2026-08-02T11:32:03.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "GTA VI Sony getting ready 🤔",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdl2au/gta_vi_sony_getting_ready/",
+        "createdAt": "2026-08-02T15:31:28.000Z"
       },
       {
         "platform": "Reddit",
@@ -275,16 +291,16 @@
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Can I get my PS4 fpkg titles back after rebuilding the database?",
+        "title": "Steps after first jailbreak",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vd8qg5/can_i_get_my_ps4_fpkg_titles_back_after/",
-        "createdAt": "2026-08-02T04:54:21.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vdn2iv/steps_after_first_jailbreak/",
+        "createdAt": "2026-08-02T16:51:27.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Got a PS5 OG fat missing its disc drive. How can I tell what firmware it's on? Is it possible to patch an older version to hack?",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vd86t8/got_a_ps5_og_fat_missing_its_disc_drive_how_can_i/",
         "createdAt": "2026-08-02T04:25:52.000Z"
       },
@@ -294,7 +310,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Ps4 Jailbrake 13.50",
-        "score": 13,
+        "score": 15,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vcvb7i/ps4_jailbrake_1350/",
         "createdAt": "2026-08-01T18:48:23.000Z"
       }
@@ -303,17 +319,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 10
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 3
+        "count": 5
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 6
+        "count": 8
       },
       {
         "name": "r/PS4Hacks2",
@@ -337,38 +353,83 @@
       {
         "platform": "Bluesky",
         "community": "following:mustafa-ps4-ps5",
-        "title": "The link will be posted soon... I've made it stable and added some improvements and my own personal touches 🫡❤️🔥",
-        "score": 21,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mrztkh4m7k2e",
-        "createdAt": "2026-08-01T15:58:40.066Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mrztkh4m7k2e:bafyreifjcy7yq32qpklfrx6jhygmsdjcflfykmuihpyqrjrptql3pimxuu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "How to Install ARK-5 eCFW on Adrenaline for PS Vita! \n\nWatch Here: youtu.be/oLTbmOuIlQQ",
-        "score": 18,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mrzwaykfoc2q",
-        "createdAt": "2026-08-01T16:47:04.668Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mrzwaykfoc2q:bafyreibr5bq3w7tsu4obfi74zuf5eq4wstqb3udqhcuj64u4gvksk2thwa"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
         "title": "I need to test this browser and give me your feedback to improve it. This is a trial version, not the final one. 🥰❤️👇👇👇👇👇👇👇\n\nmustafs-ps4-ps5.github.io/ps4/",
-        "score": 11,
+        "score": 14,
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms3alkwqvc2w",
         "createdAt": "2026-08-02T05:24:39.465Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms3alkwqvc2w:bafyreihibreucpehbdjptbxojrscklu7jz2wdbybamnmnm2hjkatpjlrnm"
       },
       {
         "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "Tonight on....\n\nPatch 01.000.013\n\nprosperopatches.com/PPSA01603\n\n💅",
+        "score": 9,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4brpkwcs2f",
+        "createdAt": "2026-08-02T15:18:39.170Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4brpkwcs2f:bafyreih2xfbnjof47iyls4ozefd63ntyy44u7wazfofs52uzu3ji5d3bge"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ PS5 Far Cry 6 Game of the Year Edition Dump by DUPLEX 🧐",
-        "score": 8,
+        "score": 9,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3ms3kiibw422a",
         "createdAt": "2026-08-02T08:21:53.783Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3ms3kiibw422a:bafyreih7ou2ohgc2mnmxph5zlgpmiwqtu757ycwqghnmf7qdq47scodcwu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:PS5 JAILBREAKS",
+        "title": "🚨Ps5-payload-manager v0.5.1:\ngithub.com/itsPLK/ps5-p...",
+        "score": 8,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3ms4hgyfxqk2o",
+        "createdAt": "2026-08-02T16:59:58.365Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3ms4hgyfxqk2o:bafyreid4c2lkgs3cfzg7tpvn4e6gytsnnnnh4vksesh7nj6ifvanjmepgm"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "I'm going to do the poll right now to choose the new logo ✍️",
+        "score": 6,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4gn4rby224",
+        "createdAt": "2026-08-02T16:45:28.481Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4gn4rby224:bafyreibzbvgdefreppmq3222idttpyf2mi2z5lfl24cwr2opi77us6h7ie"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "🫡",
+        "score": 6,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms4ajifmp224",
+        "createdAt": "2026-08-02T14:56:10.167Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms4ajifmp224:bafyreifl4fmgpzopccxrczihqgln7enmepu5lamwrwidegitiex3k6fxbm"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mustafa-ps4-ps5",
+        "title": "You can download the version from here. Enjoy! 🔥🫡❤️\n\nmega.nz/file/J1UR1AA...",
+        "score": 6,
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms4hiruwgc23",
+        "createdAt": "2026-08-02T17:00:59.179Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms4hiruwgc23:bafyreicrxbljuyyw7r6xu6rfo5tmihu6d3ssbgmta2iwfv2ms7bmo32tne"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS4 News:\n\nResearcher MasterMaind shared an update on his 13.52 exploits.\n\n- He finished his BD-J userland\n- He's now focusing on kernel\n- For kernel he discovered UAF\n- His tests are 70% done on it\n- His tests were on 12.02 but he confirmed it working for 13.52\n\ntwitter-thread.com/t/2083892768...",
+        "score": 5,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3ms4ak3typk2w",
+        "createdAt": "2026-08-02T14:56:24.266Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3ms4ak3typk2w:bafyreibjf4sxzv22vv3mliwqtlrqx3zcpnmugapj72lahxr354e7vlh3ve"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "youtu.be/N5OL4MV0u08?...",
+        "score": 4,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms3tlavlv224",
+        "createdAt": "2026-08-02T11:04:29.769Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms3tlavlv224:bafyreiaxenndxt75gkyqaaamww5apc5egcus3mr4yyb4vf32mdvok3gynm"
       },
       {
         "platform": "Bluesky",
@@ -378,15 +439,6 @@
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms3bdrmoac2w",
         "createdAt": "2026-08-02T05:38:08.264Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms3bdrmoac2w:bafyreigzltw6qkgg6ybzw7xmzaju563f32kr2opyh3ioeq7kgr2saauczm"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "youtu.be/N5OL4MV0u08?...",
-        "score": 2,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3ms3tlavlv224",
-        "createdAt": "2026-08-02T11:04:29.769Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3ms3tlavlv224:bafyreiaxenndxt75gkyqaaamww5apc5egcus3mr4yyb4vf32mdvok3gynm"
       },
       {
         "platform": "Bluesky",
@@ -401,11 +453,11 @@
     "topOverall": {
       "platform": "Bluesky",
       "community": "following:mustafa-ps4-ps5",
-      "title": "The link will be posted soon... I've made it stable and added some improvements and my own personal touches 🫡❤️🔥",
-      "score": 21,
-      "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mrztkh4m7k2e",
-      "createdAt": "2026-08-01T15:58:40.066Z",
-      "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mrztkh4m7k2e:bafyreifjcy7yq32qpklfrx6jhygmsdjcflfykmuihpyqrjrptql3pimxuu"
+      "title": "I need to test this browser and give me your feedback to improve it. This is a trial version, not the final one. 🥰❤️👇👇👇👇👇👇👇\n\nmustafs-ps4-ps5.github.io/ps4/",
+      "score": 14,
+      "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3ms3alkwqvc2w",
+      "createdAt": "2026-08-02T05:24:39.465Z",
+      "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3ms3alkwqvc2w:bafyreihibreucpehbdjptbxojrscklu7jz2wdbybamnmnm2hjkatpjlrnm"
     },
     "sources": [
       {
@@ -417,33 +469,6 @@
   },
   "x": {
     "posts": [
-      {
-        "platform": "X",
-        "community": "following:Monsieur...",
-        "title": "If you want support me in my work:\n\nhttps://t.co/bsBMlLMAoL https://t.co/6Fxlmc48Ic",
-        "score": 147,
-        "url": "https://x.com/Markus00095/status/2083587939066351737",
-        "createdAt": "2026-08-01T16:17:30.000Z",
-        "key": "x:2083587939066351737"
-      },
-      {
-        "platform": "X",
-        "community": "following:MrMario2011",
-        "title": "How to Install ARK-5 eCFW on Adrenaline for PS Vita!\n\nWatch Here: https://t.co/cqUKFBzpT2 https://t.co/cdaKYrCJhA",
-        "score": 76,
-        "url": "https://x.com/MrMario2011/status/2083595151528603697",
-        "createdAt": "2026-08-01T16:46:10.000Z",
-        "key": "x:2083595151528603697"
-      },
-      {
-        "platform": "X",
-        "community": "following:LM",
-        "title": "I'm selling a 2.50 PS5 digital edition, open to offers, US only",
-        "score": 46,
-        "url": "https://x.com/LightningMods_/status/2083600008155164883",
-        "createdAt": "2026-08-01T17:05:28.000Z",
-        "key": "x:2083600008155164883"
-      },
       {
         "platform": "X",
         "community": "following:Monsieur...",
@@ -484,17 +509,17 @@
     "topOverall": {
       "platform": "X",
       "community": "following:Monsieur...",
-      "title": "If you want support me in my work:\n\nhttps://t.co/bsBMlLMAoL https://t.co/6Fxlmc48Ic",
-      "score": 147,
-      "url": "https://x.com/Markus00095/status/2083587939066351737",
-      "createdAt": "2026-08-01T16:17:30.000Z",
-      "key": "x:2083587939066351737"
+      "title": "The PS1 swap disc is too complex to set up.\nFor games with a save before changing discs, there’s no problem, but for changes without a save, it’s over.\nYou have to find the hook and the discnumber for each disc and each game.\nI’m making the .lua available for the motivated... https://t.co/NqXTttjiTC",
+      "score": 42,
+      "url": "https://x.com/Markus00095/status/2083665045213303153",
+      "createdAt": "2026-08-01T21:23:54.000Z",
+      "key": "x:2083665045213303153"
     },
     "sources": [
       {
         "name": "X cached list",
         "ok": true,
-        "count": 7,
+        "count": 4,
         "cached": true
       }
     ]
