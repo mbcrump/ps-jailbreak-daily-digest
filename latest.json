@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T15:26:03.504Z",
-  "runTimePacific": "08/05/2026, 08:26 PDT",
-  "windowStartPacific": "08/04/2026, 08:26 PDT",
-  "windowEndPacific": "08/05/2026, 08:26 PDT",
+  "generatedAt": "2026-08-05T18:10:09.673Z",
+  "runTimePacific": "08/05/2026, 11:10 PDT",
+  "windowStartPacific": "08/04/2026, 11:10 PDT",
+  "windowEndPacific": "08/05/2026, 11:10 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -26,7 +26,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "GitHub - Gezine/BD-JB5: BD-JB for PS5",
-        "score": 83,
+        "score": 89,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfshbc/github_gezinebdjb5_bdjb_for_ps5/",
         "createdAt": "2026-08-05T00:51:39.000Z"
       },
@@ -34,31 +34,31 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS4/PS5 Jailbreak News: New WebKit and Blu-Ray userland exploits revealed up to the latest firmware!",
-        "score": 74,
+        "score": 75,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfrt0o/ps4ps5_jailbreak_news_new_webkit_and_bluray/",
         "createdAt": "2026-08-05T00:21:26.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "The fan issue is closed by drakmor on GitHub.. Releasing a new payload to control the fan based on temperatures",
-        "score": 39,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfmjfb/fan_issue_is_closed_by_drakmor_on_github/",
-        "createdAt": "2026-08-04T20:47:52.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "NEW PS5 BD-JB without an unpatcher",
-        "score": 33,
+        "score": 55,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vg7giq/new_ps5_bdjb_without_unpatcher/",
         "createdAt": "2026-08-05T13:30:59.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "The fan issue is closed by drakmor on GitHub.. Releasing a new payload to control the fan based on temperatures",
+        "score": 40,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfmjfb/fan_issue_is_closed_by_drakmor_on_github/",
+        "createdAt": "2026-08-04T20:47:52.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Release nanoDNS 0.4 · drakmor/nanoDNS",
-        "score": 23,
+        "score": 24,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfm8de/release_nanodns_04_drakmornanodns/",
         "createdAt": "2026-08-04T20:36:14.000Z"
       },
@@ -74,33 +74,25 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "GitHub - Gezine/BD-JB5: BD-JB for PS5",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vfslg0/github_gezinebdjb5_bdjb_for_ps5/",
         "createdAt": "2026-08-05T00:56:54.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Will this disc work for BD-JB?",
-        "score": 8,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vft7je/will_this_disc_work_for_bdjb/",
-        "createdAt": "2026-08-05T01:25:02.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Reboot doesn't work",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfrflw/reboot_doesnt_function/",
         "createdAt": "2026-08-05T00:05:18.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Hi how Repair the hair of an imported character on Resident Evil 4 Remake ?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfhhta/hi_how_repair_the_hair_of_an_imported_character/",
-        "createdAt": "2026-08-04T17:46:02.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "Will this Disc work for BD-JB?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vft7je/will_this_disc_work_for_bdjb/",
+        "createdAt": "2026-08-05T01:25:02.000Z"
       },
       {
         "platform": "Reddit",
@@ -114,9 +106,17 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Fifa 22 fucked my ps5",
-        "score": 4,
+        "score": 5,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfmx9b/fifa_22_fucked_my_ps5/",
         "createdAt": "2026-08-04T21:02:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 11.02 jailbreak help",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vgc7ys/ps4_1102_jailbreak_help/",
+        "createdAt": "2026-08-05T16:26:47.000Z"
       },
       {
         "platform": "Reddit",
@@ -125,14 +125,6 @@
         "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfmuqg/converting_gow2_to_ps4_pkg_best_settings/",
         "createdAt": "2026-08-04T20:59:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "SteamOS performance Question",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfgake/steamos_performance_question/",
-        "createdAt": "2026-08-04T17:04:18.000Z"
       },
       {
         "platform": "Reddit",
@@ -152,14 +144,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Can a jailbroken PS4 play PS1, PS2, and PS3 games like the Wii U does with Nintendo consoles?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vg6cp0/can_a_jailbroken_ps4_play_ps1_ps2_and_ps3_games/",
-        "createdAt": "2026-08-05T12:45:05.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Is an external SSD SATA enough to run PS4 games properly on PS5?",
         "score": 2,
@@ -169,18 +153,26 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Error CE-107923-2 while trying to install PS4 game on my PS5",
+        "title": "Beast of Reincarnation firmware",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfu7ia/error_ce1079232_while_trying_to_install_ps4_game/",
-        "createdAt": "2026-08-05T02:10:24.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vge9ia/beast_of_reincarnation_firmware/",
+        "createdAt": "2026-08-05T17:39:17.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Question",
+        "title": "Trying to install wukong",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfhtkl/question/",
-        "createdAt": "2026-08-04T17:57:46.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vg7gg9/trying_to_install_wukong/",
+        "createdAt": "2026-08-05T13:30:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Error CE-107923-2 while trying to install PS4 game on my PS5",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfu7ia/error_ce1079232_while_trying_to_install_ps4_game/",
+        "createdAt": "2026-08-05T02:10:24.000Z"
       },
       {
         "platform": "Reddit",
@@ -193,10 +185,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "YouTube VR mode doesn't work",
+        "title": "On the fence",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vg9w4p/youtube_vr_mode_doesnt_work/",
-        "createdAt": "2026-08-05T15:04:02.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vgcxvk/on_the_fence/",
+        "createdAt": "2026-08-05T16:52:24.000Z"
       },
       {
         "platform": "Reddit",
@@ -213,14 +205,6 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfn0nr/bloodborne_save_file_corrupted_after_using_apollo/",
         "createdAt": "2026-08-04T21:05:45.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Need help with 1st gen ps4",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfhvbf/need_help_with_1st_gen_ps4/",
-        "createdAt": "2026-08-04T17:59:30.000Z"
       },
       {
         "platform": "Reddit",
@@ -249,6 +233,22 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "Need help: PS4 Fat won't accept or recognize any discs",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vga1uf/need_help_ps4_fat_wont_accept_or_recognize_any/",
+        "createdAt": "2026-08-05T15:09:46.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "YouTube VR mode doesn't work",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vg9w4p/youtube_vr_mode_doesnt_work/",
+        "createdAt": "2026-08-05T15:04:02.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "Change pkg version",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfurii/change_pkg_version/",
@@ -257,18 +257,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Trophies",
+        "title": "Can a jailbroken PS4 play PS1, PS2, and PS3 games like the Wii U does with Nintendo consoles?",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vg2fc0/trophies/",
-        "createdAt": "2026-08-05T09:28:05.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vg6cp0/can_a_jailbroken_ps4_play_ps1_ps2_and_ps3_games/",
+        "createdAt": "2026-08-05T12:45:05.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Hi how Repair the hair of an imported character on Resident Evil 4 Remake ?",
+        "title": "Trophies",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfhi7i/hi_how_repair_the_hair_of_an_imported_character/",
-        "createdAt": "2026-08-04T17:46:24.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vg2fc0/trophies/",
+        "createdAt": "2026-08-05T09:28:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -307,7 +307,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "GitHub - Gezine/BD-JB5: BD-JB for PS5",
-      "score": 83,
+      "score": 89,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfshbc/github_gezinebdjb5_bdjb_for_ps5/",
       "createdAt": "2026-08-05T00:51:39.000Z"
     },
@@ -316,7 +316,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Reboot doesn't work",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vfrflw/reboot_doesnt_function/",
         "createdAt": "2026-08-05T00:05:18.000Z"
       },
@@ -324,7 +324,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "GitHub - Gezine/BD-JB5: BD-JB for PS5",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vfslg0/github_gezinebdjb5_bdjb_for_ps5/",
         "createdAt": "2026-08-05T00:56:54.000Z"
       },
@@ -332,7 +332,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "GitHub - Gezine/BD-JB5: BD-JB for PS5",
-        "score": 83,
+        "score": 89,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfshbc/github_gezinebdjb5_bdjb_for_ps5/",
         "createdAt": "2026-08-05T00:51:39.000Z"
       },
@@ -391,30 +391,30 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:MasterPS",
-        "title": "PS5 13.60 document \n\ndocs.google.com/spreadsheets...",
-        "score": 24,
-        "url": "https://bsky.app/profile/master0ps.bsky.social/post/3msbtcd6td225",
-        "createdAt": "2026-08-04T20:15:27.771Z",
-        "key": "at://did:plc:swno3uva53podry6xngy24kx/app.bsky.feed.post/3msbtcd6td225:bafyreidj2udfygfwm2hxqap73x76eet4ahf2sce5fq2urwxjtiigddtvqy"
+        "community": "following:PS5 JAILBREAKS",
+        "title": "We6kit 900-1360\nmasterps0.github.io/slopkit/",
+        "score": 35,
+        "url": "https://bsky.app/profile/master0ps.bsky.social/post/3msdxoait5s2r",
+        "createdAt": "2026-08-05T16:39:00.868Z",
+        "key": "at://did:plc:swno3uva53podry6xngy24kx/app.bsky.feed.post/3msdxoait5s2r:bafyreieiqiyqbdmvpjmhu6ap7rxjitytuf2r2galdlazr3js4glta4f7um"
       },
       {
         "platform": "Bluesky",
         "community": "following:MasterPS",
         "title": "Gezine              +PS5+\n\nUPDATE: BD-JB5\n\n\"BD-JB for PS5 up to firmware version 13.42\"\n\nDownload.:\ngithub.com/Gezine/BD-JB5",
-        "score": 20,
+        "score": 25,
         "url": "https://bsky.app/profile/terex777.bsky.social/post/3mscgjer7ws23",
         "createdAt": "2026-08-05T01:59:22.576Z",
         "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3mscgjer7ws23:bafyreifz2ifz3oewjoqee64gkb2wpqv26lxjs2x6jlpo6pcvajayp5hlia"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "Webkit News:\n\nA test version is live!\nIt only works on PS5 11.60 for now, but the other firmwares will be added shortly.\nDO NOT UPDATE.\n\nWith the custom DNS set, open Settings and go to User Guide. It'll open a custom site and there type this zecoxao.github.io/jordy/\n\ntwitter-thread.com/t/2084695517...",
-        "score": 16,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msblgvnz5s2o",
-        "createdAt": "2026-08-04T17:54:48.671Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msblgvnz5s2o:bafyreihuuqq2w5n6nvov4na5mam24hffrgukxugdq7bug6yla6revxpudq"
+        "community": "following:MasterPS",
+        "title": "PS5 13.60 document \n\ndocs.google.com/spreadsheets...",
+        "score": 25,
+        "url": "https://bsky.app/profile/master0ps.bsky.social/post/3msbtcd6td225",
+        "createdAt": "2026-08-04T20:15:27.771Z",
+        "key": "at://did:plc:swno3uva53podry6xngy24kx/app.bsky.feed.post/3msbtcd6td225:bafyreidj2udfygfwm2hxqap73x76eet4ahf2sce5fq2urwxjtiigddtvqy"
       },
       {
         "platform": "Bluesky",
@@ -429,7 +429,7 @@
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "🚨 Fan target\ngithub.com/drakmor/fan_...",
-        "score": 14,
+        "score": 15,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3msbuukfy722b",
         "createdAt": "2026-08-04T20:43:33.173Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3msbuukfy722b:bafyreifozdllowou5dppdrvm4u2nzcn3y735ule3aavpnqs3sz4cnkiwrq"
@@ -456,7 +456,7 @@
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS5 News:\n\nDeveloper Gezine uploaded his new BD-J to GitHub.\nThe official name for the exploit is BD-JB5.\n\nUnlike the previous one, this one needs no JAR patching with another JB first.\nIt'll work right away.\n\nHowever, for firmwares 13.60+ it does need JAR patching first.\n\ngithub.com/Gezine/BD-JB5",
-        "score": 12,
+        "score": 13,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msdcjoo2k22b",
         "createdAt": "2026-08-05T10:20:39.870Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msdcjoo2k22b:bafyreicxuk2p6gkq6xicpc4jlezvyiuxzb6xaz7xlcccuvzgemmsettkwa"
@@ -465,10 +465,19 @@
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS5 News:\n\nDeveloper Earthonion has shutdown the public DNS server for Netflix-N-Hack.\n\nThis means if you wanna avoid using backups like Y2JB to keep your game saves you'll need to host a server yourself on a PC like device.\n(This sound harder then it is just run it in a docker)\n\nOr wait for webkit.",
-        "score": 11,
+        "score": 12,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msbwh4uh4k27",
         "createdAt": "2026-08-04T21:11:47.571Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msbwh4uh4k27:bafyreien4jf6phq2666uf25k63xwcbn47mj7owve3umhdyhvjojvx2272u"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "@textfiles.com Not sure if there's anything more to this I'm missing, but would you be able to take a look at this?\n\nTL;DW - This user got their archive locked and was told it couldn't be unlocked at this time. They asked several times why, got banned, ignored on a new account, and eventually locked",
+        "score": 12,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3msboyjky5k2o",
+        "createdAt": "2026-08-04T18:58:20.072Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msboyjky5k2o:bafyreifo23pcezeujdaizdckp53fitx7kkift7s7bgy52istytbjfct7cm"
       },
       {
         "platform": "Bluesky",
@@ -481,12 +490,12 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "@textfiles.com Not sure if there's anything more to this I'm missing, but would you be able to take a look at this?\n\nTL;DW - This user got their archive locked and was told it couldn't be unlocked at this time. They asked several times why, got banned, ignored on a new account, and eventually locked",
-        "score": 11,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3msboyjky5k2o",
-        "createdAt": "2026-08-04T18:58:20.072Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msboyjky5k2o:bafyreifo23pcezeujdaizdckp53fitx7kkift7s7bgy52istytbjfct7cm"
+        "community": "following:TeRex777",
+        "title": "+PS5+\n\nUPDATE: Estado del jailbreak\n\n-Actualización Webkit",
+        "score": 10,
+        "url": "https://bsky.app/profile/terex777.bsky.social/post/3msduvercrs2e",
+        "createdAt": "2026-08-05T15:49:20.264Z",
+        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3msduvercrs2e:bafyreieqs4mmflgp22ip26riuzdl3rko4i6ho6qkr4b2wnlqouwx56ma2u"
       },
       {
         "platform": "Bluesky",
@@ -505,6 +514,15 @@
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mscade6tls23",
         "createdAt": "2026-08-05T00:08:39.470Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mscade6tls23:bafyreihxi74fa4vejqlcapz76x4tvyxh5r6qygiv5ulk6lq474rgdaaadi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "youtu.be/Ec6URi3ujhM?...",
+        "score": 7,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msds2gevi22n",
+        "createdAt": "2026-08-05T14:58:25.678Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msds2gevi22n:bafyreia22g6osomql2c2lbadtihe25jyh4vabhodqk3lerxywr23yppaju"
       },
       {
         "platform": "Bluesky",
@@ -527,17 +545,8 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "youtu.be/Ec6URi3ujhM?...",
-        "score": 4,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msds2gevi22n",
-        "createdAt": "2026-08-05T14:58:25.678Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msds2gevi22n:bafyreia22g6osomql2c2lbadtihe25jyh4vabhodqk3lerxywr23yppaju"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
         "title": "842...",
-        "score": 3,
+        "score": 5,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msdcdgloks22",
         "createdAt": "2026-08-05T10:17:06.871Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msdcdgloks22:bafyreia7zjcejycjiiutpmfl6z73rxzgy263wyehthwcizlhqudn7yy7aq"
@@ -546,7 +555,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "If you feel grateful and want to play more games for free on day one, feel free to support us. Thank you in advance 🫶\n\nko-fi.com/dlpsteam",
-        "score": 3,
+        "score": 4,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msdai67b722w",
         "createdAt": "2026-08-05T09:44:00.174Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msdai67b722w:bafyreiftxjt5ckqqbzq6vrzltqxx4c4jolrmuhxm3auggdrzm32r243pr4"
@@ -586,16 +595,25 @@
         "url": "https://bsky.app/profile/mrmario2011.com/post/3msbrjkce7c2o",
         "createdAt": "2026-08-04T19:43:38.775Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msbrjkce7c2o:bafyreiejfovro45ovwvbh3rehoei77tnb4xqnk6fw67zyocnsyohrnj6tq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "No, he confirmed he is selling his findings to Sony on HackerOne.\n\nAlso his findings don't even qualify  for Fulu's bounty.",
+        "score": 0,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msdwk6nq3s2b",
+        "createdAt": "2026-08-05T16:18:50.564Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msdwk6nq3s2b:bafyreihar5whdeitq6l3zljov34f2zj5roqd745bpnkh6vjwprhqmap5uy"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:MasterPS",
-      "title": "PS5 13.60 document \n\ndocs.google.com/spreadsheets...",
-      "score": 24,
-      "url": "https://bsky.app/profile/master0ps.bsky.social/post/3msbtcd6td225",
-      "createdAt": "2026-08-04T20:15:27.771Z",
-      "key": "at://did:plc:swno3uva53podry6xngy24kx/app.bsky.feed.post/3msbtcd6td225:bafyreidj2udfygfwm2hxqap73x76eet4ahf2sce5fq2urwxjtiigddtvqy"
+      "community": "following:PS5 JAILBREAKS",
+      "title": "We6kit 900-1360\nmasterps0.github.io/slopkit/",
+      "score": 35,
+      "url": "https://bsky.app/profile/master0ps.bsky.social/post/3msdxoait5s2r",
+      "createdAt": "2026-08-05T16:39:00.868Z",
+      "key": "at://did:plc:swno3uva53podry6xngy24kx/app.bsky.feed.post/3msdxoait5s2r:bafyreieiqiyqbdmvpjmhu6ap7rxjitytuf2r2galdlazr3js4glta4f7um"
     },
     "sources": [
       {
@@ -607,24 +625,6 @@
   },
   "x": {
     "posts": [
-      {
-        "platform": "X",
-        "community": "following:Jose Coixao",
-        "title": "https://t.co/oJH1wYgTNM try whoever is on 11.60 PS5. whoever isn't, don't update or anything. support will be added eventually",
-        "score": 134,
-        "url": "https://x.com/notnotzecoxao/status/2084695517892645108",
-        "createdAt": "2026-08-04T17:38:37.000Z",
-        "key": "x:2084695517892645108"
-      },
-      {
-        "platform": "X",
-        "community": "following:Sonic-Iso",
-        "title": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 tons of deleted posts too... interesting. https://t.co/AqwLdQGyvj",
-        "score": 45,
-        "url": "https://x.com/Sonic_Iso/status/2084702583604613134",
-        "createdAt": "2026-08-04T18:06:42.000Z",
-        "key": "x:2084702583604613134"
-      },
       {
         "platform": "X",
         "community": "following:TeRex777",
@@ -682,18 +682,18 @@
     ],
     "topOverall": {
       "platform": "X",
-      "community": "following:Jose Coixao",
-      "title": "https://t.co/oJH1wYgTNM try whoever is on 11.60 PS5. whoever isn't, don't update or anything. support will be added eventually",
-      "score": 134,
-      "url": "https://x.com/notnotzecoxao/status/2084695517892645108",
-      "createdAt": "2026-08-04T17:38:37.000Z",
-      "key": "x:2084695517892645108"
+      "community": "following:TeRex777",
+      "title": "https://t.co/dTe0yJwaky https://t.co/Q5aBa8F7EH",
+      "score": 41,
+      "url": "https://x.com/TeRex777_/status/2084732066709582246",
+      "createdAt": "2026-08-04T20:03:51.000Z",
+      "key": "x:2084732066709582246"
     },
     "sources": [
       {
         "name": "X cached list",
         "ok": true,
-        "count": 8,
+        "count": 6,
         "cached": true
       }
     ]
