@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T17:33:17.131Z",
-  "runTimePacific": "08/07/2026, 10:33 PDT",
-  "windowStartPacific": "08/06/2026, 10:33 PDT",
-  "windowEndPacific": "08/07/2026, 10:33 PDT",
+  "generatedAt": "2026-08-07T21:03:58.025Z",
+  "runTimePacific": "08/07/2026, 14:03 PDT",
+  "windowStartPacific": "08/06/2026, 14:03 PDT",
+  "windowEndPacific": "08/07/2026, 14:03 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -18,43 +18,27 @@
     "posts": [
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "FBSR - First(?) image enhancement model for PS4 + AMD FSR 1 for PS4",
-        "score": 141,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhgd9i/fbsr_first_image_enhancement_model_for_ps4_amd/",
-        "createdAt": "2026-08-06T20:51:38.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Dualshock 4 classic home button",
-        "score": 42,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhejq7/dualshock_4_classic_home_button/",
-        "createdAt": "2026-08-06T19:43:13.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Your PS5 Payload Manager Tile is Gone - Here's Why & How to Fix It",
-        "score": 19,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhfhks/your_ps5_payload_manager_tile_is_gone_heres_why/",
-        "createdAt": "2026-08-06T20:18:05.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "This is strange! My Y2JB isn’t working anymore. Had to reinstall everything.",
-        "score": 17,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhc2z6/this_is_strange_my_y2jb_not_working_anymore_had/",
-        "createdAt": "2026-08-06T18:13:45.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I have 160 gb of taken that im not using for anything",
-        "score": 15,
+        "score": 13,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhwlyy/i_have_160_gb_of_taken_that_im_not_using_for/",
         "createdAt": "2026-08-07T10:14:03.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "PS4 11.52",
+        "score": 10,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1via8gs/ps4_1152/",
+        "createdAt": "2026-08-07T19:27:03.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Can I play all PS4 games on the latest jailbreak release?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhuww1/can_i_play_all_ps4_games_on_latest_jailbreak/",
+        "createdAt": "2026-08-07T08:34:04.000Z"
       },
       {
         "platform": "Reddit",
@@ -67,26 +51,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PSA - check your old hard drives",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhvx3o/psa_check_your_old_hard_drives/",
-        "createdAt": "2026-08-07T09:34:45.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Can I play all PS4 games on the latest jailbreak release?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhuww1/can_i_play_all_ps4_games_on_latest_jailbreak/",
-        "createdAt": "2026-08-07T08:34:04.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Help with ps4 linux",
+        "title": "Help with PS4 Linux",
         "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vi2gsm/help_with_ps4_linux/",
         "createdAt": "2026-08-07T14:39:43.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Need Help Pls",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vibkc8/need_help_pls/",
+        "createdAt": "2026-08-07T20:17:44.000Z"
       },
       {
         "platform": "Reddit",
@@ -99,6 +75,14 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "PSA - check your old hard drives",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhvx3o/psa_check_your_old_hard_drives/",
+        "createdAt": "2026-08-07T09:34:45.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "can anyone please help? been stuck for a few hours",
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhk7p6/can_anyone_please_help_been_stuck_for_a_few_hours/",
@@ -106,11 +90,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Some games don't have a backport low enough, can I make one?",
+        "community": "ps5homebrew",
+        "title": "Ps5 saves, where to fetch?",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vi582m/some_games_dont_have_a_backport_low_enough_can_i/",
-        "createdAt": "2026-08-07T16:22:33.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vi8m5u/ps5_saves_where_to_fetch/",
+        "createdAt": "2026-08-07T18:27:00.000Z"
       },
       {
         "platform": "Reddit",
@@ -130,11 +114,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Oblivion Remastered mandatory update bypass",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhcq8m/oblivion_remastered_mandatory_update_bypass/",
-        "createdAt": "2026-08-06T18:36:41.000Z"
+        "community": "ps4homebrew",
+        "title": "What’s the best way to convert PS2 .iso/.bin ROMS to PS4 .pkg in Linux ?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vi9q09/whats_the_best_way_to_convert_ps2_isobin_roms_to/",
+        "createdAt": "2026-08-07T19:08:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -154,27 +138,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "5.05 method clarification",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhudsd/505_method_clarification/",
-        "createdAt": "2026-08-07T08:02:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "helppp",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhbga4/helppp/",
-        "createdAt": "2026-08-06T17:50:59.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Game dumps on internal",
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vhlfo1/game_dumps_on_internal/",
         "createdAt": "2026-08-07T00:21:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 Turns of when Booting into Linux Any Ideas?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1viarc7/ps5_turns_of_when_booting_into_linux_any_ideas/",
+        "createdAt": "2026-08-07T19:47:09.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Some games don't have a backport low enough, can I make one?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vi582m/some_games_dont_have_a_backport_low_enough_can_i/",
+        "createdAt": "2026-08-07T16:22:33.000Z"
       },
       {
         "platform": "Reddit",
@@ -194,16 +178,8 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "PS4 Jailbreak Console with Games and 2 controllers",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vhdbrp/ps4_jailbreak_console_with_games_and_2_controllers/",
-        "createdAt": "2026-08-06T18:58:18.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Help with PS4 Linux",
+        "title": "Help with ps4 linux",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vi2h14/help_with_ps4_linux/",
         "createdAt": "2026-08-07T14:39:59.000Z"
@@ -211,10 +187,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Issue with the new WebKit jailbreak",
+        "title": "5.05 method clarification",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhzdtk/issue_with_the_new_webkit_jailbreak/",
-        "createdAt": "2026-08-07T12:33:21.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhudsd/505_method_clarification/",
+        "createdAt": "2026-08-07T08:02:21.000Z"
       },
       {
         "platform": "Reddit",
@@ -234,6 +210,14 @@
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Issue with the new WebKit jailbreak",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhzdtk/issue_with_the_new_webkit_jailbreak/",
+        "createdAt": "2026-08-07T12:33:21.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Astro play room not working properly",
         "score": 0,
@@ -247,56 +231,40 @@
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhkr0a/arabic_language/",
         "createdAt": "2026-08-06T23:52:04.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Is it worth waiting for the next exploit if I mostly play online games?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhds2y/is_it_worth_waiting_for_the_next_exploit_if_i/",
-        "createdAt": "2026-08-06T19:14:29.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "I play on ps5",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vhfent/i_play_on_ps5/",
-        "createdAt": "2026-08-06T20:15:21.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
-      "community": "ps4homebrew",
-      "title": "FBSR - First(?) image enhancement model for PS4 + AMD FSR 1 for PS4",
-      "score": 141,
-      "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhgd9i/fbsr_first_image_enhancement_model_for_ps4_amd/",
-      "createdAt": "2026-08-06T20:51:38.000Z"
+      "community": "PS5_Jailbreak",
+      "title": "I have 160 gb of taken that im not using for anything",
+      "score": 13,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhwlyy/i_have_160_gb_of_taken_that_im_not_using_for/",
+      "createdAt": "2026-08-07T10:14:03.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "FBSR - First(?) image enhancement model for PS4 + AMD FSR 1 for PS4",
-        "score": 141,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhgd9i/fbsr_first_image_enhancement_model_for_ps4_amd/",
-        "createdAt": "2026-08-06T20:51:38.000Z"
+        "title": "Can I play all PS4 games on the latest jailbreak release?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vhuww1/can_i_play_all_ps4_games_on_latest_jailbreak/",
+        "createdAt": "2026-08-07T08:34:04.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Game dumps on internal",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vhlfo1/game_dumps_on_internal/",
-        "createdAt": "2026-08-07T00:21:16.000Z"
+        "title": "Ps5 saves, where to fetch?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vi8m5u/ps5_saves_where_to_fetch/",
+        "createdAt": "2026-08-07T18:27:00.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Your PS5 Payload Manager Tile is Gone - Here's Why & How to Fix It",
-        "score": 19,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhfhks/your_ps5_payload_manager_tile_is_gone_heres_why/",
-        "createdAt": "2026-08-06T20:18:05.000Z"
+        "title": "I have 160 gb of taken that im not using for anything",
+        "score": 13,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vhwlyy/i_have_160_gb_of_taken_that_im_not_using_for/",
+        "createdAt": "2026-08-07T10:14:03.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
@@ -310,32 +278,32 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Help with PS4 Linux",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vi2h14/help_with_ps4_linux/",
-        "createdAt": "2026-08-07T14:39:59.000Z"
+        "title": "PS4 11.52",
+        "score": 10,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1via8gs/ps4_1152/",
+        "createdAt": "2026-08-07T19:27:03.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 14
+        "count": 13
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 2
+        "count": 3
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 11
+        "count": 8
       },
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 2
+        "count": 1
       },
       {
         "name": "r/PS4Jailbreak",
@@ -355,43 +323,43 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "Bad Update 1.3 Gets a Definitive Stability Upgrade! - How to Update Bad Update\n\nWatch Here: youtu.be/zADjXH8SFmI",
-        "score": 35,
+        "score": 36,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mshciqt3ic2u",
         "createdAt": "2026-08-07T00:30:48.766Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mshciqt3ic2u:bafyreid5agddwfacmamc6646b5znetdr3kbsgdfivbrbqwi3spmuldj6ra"
       },
       {
         "platform": "Bluesky",
-        "community": "following:MasterPS",
-        "title": "SONY               +PS5+\n\nUPDATE: FW BETA 14.00\n\n-The codes expire on October 31.",
-        "score": 27,
-        "url": "https://bsky.app/profile/terex777.bsky.social/post/3msgoqepys22g",
-        "createdAt": "2026-08-06T18:37:06.573Z",
-        "key": "at://did:plc:yg2ntxp7ajzkoe4x23xmubis/app.bsky.feed.post/3msgoqepys22g:bafyreihztjr2ediqa4ithxntiyfovpkypnir76rc24fs6xve3ws4tdlp7q"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "yeah",
-        "score": 21,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3msirvka7422o",
-        "createdAt": "2026-08-07T14:39:00.676Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msirvka7422o:bafyreigrfefovi56r6fudigpep6ylsxxzqx5zzamdmy7vsywrpqau2xa24"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ NEW PS4 Backport Games by Opoisso893 🎮🧐",
-        "score": 19,
+        "score": 25,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3msi4zopqgs2o",
         "createdAt": "2026-08-07T08:25:40.165Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3msi4zopqgs2o:bafyreiatmtdpvfndob3kgpc3hp63uqchmduyhv7rmpqssplep44tbo4mta"
       },
       {
         "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "yeah",
+        "score": 24,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3msirvka7422o",
+        "createdAt": "2026-08-07T14:39:00.676Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msirvka7422o:bafyreigrfefovi56r6fudigpep6ylsxxzqx5zzamdmy7vsywrpqau2xa24"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nThe newest webkit now has a working RCE build.\nCurrently works up to 13.42\n\nNo kernels have been chained to it yet but he will try to get Lapse running with it first.\n\ngithub.com/emris93/Webk...",
+        "score": 18,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msj7iib4ms2q",
+        "createdAt": "2026-08-07T18:42:16.675Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msj7iib4ms2q:bafyreigleopbf7y4kcvvrvmkvj2hh25ptx5qfv24wdauri7oa4o42ppoju"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ Upcoming PS4 Games in 2026 PART 3 🎮🕹️👀\n→ PART 1: www.youtube.com/watch?v=I7v-...\n→ PART 2: www.youtube.com/watch?v=UeZG...\nwww.youtube.com/watch?v=r7rX...",
-        "score": 17,
+        "score": 18,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3msi7yeyclc2o",
         "createdAt": "2026-08-07T09:18:29.367Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3msi7yeyclc2o:bafyreidncm6mqoczl3beqnbkzc7yjc6ocjpd2do3xn5fjcbsfcatja5mry"
@@ -409,16 +377,25 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Happy birthday to me! If you'd like me to have a drink to your health, you know where my Kofi is, lol\n\nToday is my birthday, But I want to be the one who gives you the gifts, what a paradox, right? well I hope you enjoy them\n\n1/2",
-        "score": 10,
+        "score": 11,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msiqyudegs22",
         "createdAt": "2026-08-07T14:23:08.368Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msiqyudegs22:bafyreideh6bqe47ed6sni7k7owf6ozfdg7wm73gda3kjrxopcnt7nt6dyu"
       },
       {
         "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS4 News:\n\nResearcher MasterMaind has shared a screenshot of a kernel pointer address.\n\nIt's unclear what it means.\n\ntwitter-thread.com/t/2085705627...",
+        "score": 10,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msioovjnyk2u",
+        "createdAt": "2026-08-07T13:41:38.472Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msioovjnyk2u:bafyreicbmvd5jfcn6vssg46zktemoeqvhpv2nwe5ihoecopzvitzjmpxpe"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "And after this, I'm letting you know that the DLSP Team team is going to take an indefinite break from the scene, just like Zombie did a few days ago. So Duplex it seems that you're all alone now. Big hugs to everyone  \n\n2/2",
-        "score": 8,
+        "score": 10,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msiqzvf43s22",
         "createdAt": "2026-08-07T14:23:48.069Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msiqzvf43s22:bafyreid6ckktkitr6wes6xc2n2iuauqlun6awe64rx5hbu4e5yx7wyrxya"
@@ -426,26 +403,26 @@
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nResearcher MasterMaind has shared a screenshot of a kernel pointer address.\n\nUnclear what it means.\n\ntwitter-thread.com/t/2085705627...",
-        "score": 6,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msioovjnyk2u",
-        "createdAt": "2026-08-07T13:41:38.472Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msioovjnyk2u:bafyreicbmvd5jfcn6vssg46zktemoeqvhpv2nwe5ihoecopzvitzjmpxpe"
+        "title": "Update: link has changed.\nNew link:\ngithub.com/emris93/slop...",
+        "score": 7,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msjf2lw3vc2d",
+        "createdAt": "2026-08-07T20:21:53.768Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msjf2lw3vc2d:bafyreifzxkbrdnwdrmmjkx5xu2riekqazvebzbuumvv67rqz7hipwnxrhe"
       },
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nDeveloper MultiversalShadow has made made a FSR1 upscaler model for the PS4 that can improve graphics systemwide.\n\nNo release yet.\n\nA preview below:\n\nwww.youtube.com/watch?v=txiT...",
-        "score": 4,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msiodjoe2k2t",
-        "createdAt": "2026-08-07T13:35:14.371Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msiodjoe2k2t:bafyreidmq7b6y6y2smtdy476vxjggbsxs4x5d6nsweib55dvpyx4avzf7a"
+        "title": "A demo of the Webkit:",
+        "score": 7,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msjb2daxzc2q",
+        "createdAt": "2026-08-07T19:10:08.866Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msjb2daxzc2q:bafyreig3zfv2z7tdkxf3qz52mf6axganqbucampxpp2yzhqaw2okvlqtwy"
       },
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "850...",
-        "score": 4,
+        "score": 6,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msir5ibims22",
         "createdAt": "2026-08-07T14:25:31.976Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msir5ibims22:bafyreiclsuugoopipo7n2nzoa2b57jzeonil4yjve4btxhfilkemtvpari"
@@ -462,6 +439,15 @@
       {
         "platform": "Bluesky",
         "community": "following:MrMario2011",
+        "title": "www.youtube.com/watch?v=Yccm...",
+        "score": 3,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3msj7gjyxm22q",
+        "createdAt": "2026-08-07T18:41:08.775Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msj7gjyxm22q:bafyreialmfsxqwzvcyxglpt4jamebblp4qol6zmb2fim6vtqlgnlg73gdi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
         "title": "I appreciate you still posting news from the videos I've done all these years later, thanks 🙂",
         "score": 0,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3msiqi2xpp22l",
@@ -473,7 +459,7 @@
       "platform": "Bluesky",
       "community": "following:MrMario2011",
       "title": "Bad Update 1.3 Gets a Definitive Stability Upgrade! - How to Update Bad Update\n\nWatch Here: youtu.be/zADjXH8SFmI",
-      "score": 35,
+      "score": 36,
       "url": "https://bsky.app/profile/mrmario2011.com/post/3mshciqt3ic2u",
       "createdAt": "2026-08-07T00:30:48.766Z",
       "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mshciqt3ic2u:bafyreid5agddwfacmamc6646b5znetdr3kbsgdfivbrbqwi3spmuldj6ra"
