@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-11T14:30:55.229Z",
-  "runTimePacific": "08/11/2026, 07:30 PDT",
-  "windowStartPacific": "08/10/2026, 07:30 PDT",
-  "windowEndPacific": "08/11/2026, 07:30 PDT",
+  "generatedAt": "2026-08-11T17:40:28.221Z",
+  "runTimePacific": "08/11/2026, 10:40 PDT",
+  "windowStartPacific": "08/10/2026, 10:40 PDT",
+  "windowEndPacific": "08/11/2026, 10:40 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -26,7 +26,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "What’s going on? PS5, 10.01",
-        "score": 15,
+        "score": 19,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vlf1w6/what_is_going_on_ps5_1001/",
         "createdAt": "2026-08-11T11:41:06.000Z"
       },
@@ -34,25 +34,33 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "11.60 PS5 Slim Digital! Jailbroken!",
-        "score": 7,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vl6fwq/1160_ps5_slim_digital_jailbroken/",
         "createdAt": "2026-08-11T03:41:32.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Current status of playing backups?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vlhhhk/current_state_of_playing_backups/",
-        "createdAt": "2026-08-11T13:28:23.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "Spiderman 2 on Pegasus DL",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vlnglg/spiderman_2_on_pegasus_dl/",
+        "createdAt": "2026-08-11T17:08:44.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "My experience with WebKit on the Phat Lady and 10.01",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vl9u10/my_experience_with_webkit_on_the_phat_lady_and/",
         "createdAt": "2026-08-11T06:44:43.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Current status of playing backups?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vlhhhk/current_state_of_playing_backups/",
+        "createdAt": "2026-08-11T13:28:23.000Z"
       },
       {
         "platform": "Reddit",
@@ -72,19 +80,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Fake lib folders",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vkrlvk/fakelib_folders/",
-        "createdAt": "2026-08-10T17:36:11.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PS5 rest mode",
+        "title": "External SSD games are not mounted?",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vl3h68/ps5_rest_mode/",
-        "createdAt": "2026-08-11T01:21:43.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vlijy3/external_ssd_games_are_not_mounted/",
+        "createdAt": "2026-08-11T14:11:01.000Z"
       },
       {
         "platform": "Reddit",
@@ -93,14 +93,6 @@
         "score": 2,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vkuwml/merge_game_files/",
         "createdAt": "2026-08-10T19:35:27.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 9.00 GoldHEN - Should I install the game update downloaded by the PS4 or use a PKG?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vliw1a/ps4_900_goldhen_should_i_install_the_game_update/",
-        "createdAt": "2026-08-11T14:23:35.000Z"
       },
       {
         "platform": "Reddit",
@@ -152,11 +144,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Help, possibly missing step from my jailbreak[10.01]",
+        "community": "PS5_Jailbreak",
+        "title": "Is PS5 firmware 3.00 still a good firmware for jailbreaking in 2026?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vkpodv/help_possibly_missing_step_from_my_jailbreak1001/",
-        "createdAt": "2026-08-10T16:27:45.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vl4uy4/is_ps5_firmware_300_still_a_good_firmware_for/",
+        "createdAt": "2026-08-11T02:25:07.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Ps5 rest mode",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vl3h68/ps5_rest_mode/",
+        "createdAt": "2026-08-11T01:21:43.000Z"
       },
       {
         "platform": "Reddit",
@@ -177,14 +177,6 @@
       {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "is there a fpkg games library that is actually good and free (fpkgi💩novaps💩gamebato💩)",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vlepsz/is_there_a_fpkg_games_library_that_is_actually/",
-        "createdAt": "2026-08-11T11:24:08.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Hacks2",
         "title": "fifa 23 pkg? (not from 1fichier and not splits)",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vleixs/fifa_23_pkg_not_from_1fichier_and_not_splits/",
@@ -193,18 +185,50 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "I need help—I’m new to homebrewing",
+        "title": "Moonlight PS4 Update 1.1.0",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vlnt31/moonlight_ps4_update_110/",
+        "createdAt": "2026-08-11T17:20:52.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "guys, i was trying to download cyberpunk 2077 from dlps games site. i pasted the link on jdownloader 2 but it says \"blocked by cloudflare\". any solutions guys? pls help me",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vlmlr0/guys_i_was_trying_to_download_cyberpunk_2077_from/",
+        "createdAt": "2026-08-11T16:38:18.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Ps4 overheats after repaste and cleaning",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vljibr/ps4_overheats_after_repaste_and_cleaning/",
+        "createdAt": "2026-08-11T14:46:34.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "i need help im new to homebrewing",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vkxe7w/i_need_help_im_new_to_homebrewing/",
         "createdAt": "2026-08-10T21:07:01.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Hen",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vkpvxi/hen/",
-        "createdAt": "2026-08-10T16:35:14.000Z"
+        "community": "ps4homebrew",
+        "title": "Sonic Frontiers homebrew install issue",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vljwvv/sonic_frontiers_homebrew_install_issue/",
+        "createdAt": "2026-08-11T15:01:33.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 9.00 GoldHEN - Should I install the game update downloaded by the PS4 or use a PKG?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vliw1a/ps4_900_goldhen_should_i_install_the_game_update/",
+        "createdAt": "2026-08-11T14:23:35.000Z"
       },
       {
         "platform": "Reddit",
@@ -225,22 +249,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Is there an homebrew app that can extract .part zip files ?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vkrlr4/is_there_an_homebrew_app_that_can_extract_part/",
-        "createdAt": "2026-08-10T17:36:03.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Resident evil 2 1998 no cutscene",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vknfhp/resident_evil_2_1998_no_cutscene/",
-        "createdAt": "2026-08-10T15:06:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Khamelion is gone.",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vlcjme/khamelion_is_gone/",
@@ -249,18 +257,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Pkg files",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vlbyp8/pkg_files/",
-        "createdAt": "2026-08-11T08:49:33.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "PS4 AUTO UPDATE AND CANNOT DOWNLOAD A GAME",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vl2ejw/ps4_auto_update_and_cannot_download_a_game/",
         "createdAt": "2026-08-11T00:33:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Pkg files",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vlbyp8/pkg_files/",
+        "createdAt": "2026-08-11T08:49:33.000Z"
       },
       {
         "platform": "Reddit",
@@ -281,34 +289,18 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Samsung T7 Portable SSD not recognized after game compressor crash",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vllecp/samsung_t7_portable_ssd_not_recognized_after_game/",
+        "createdAt": "2026-08-11T15:55:09.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "APR-EMU dumps secondary internal ssd problem.",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vlg5h8/apremu_dumps_secondary_internal_ssd_problem/",
         "createdAt": "2026-08-11T12:32:32.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Is PS5 firmware 3.00 still a good firmware for jailbreaking in 2026?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vl4uy4/is_ps5_firmware_300_still_a_good_firmware_for/",
-        "createdAt": "2026-08-11T02:25:07.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "fakelib folders",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vkrlmp/fakelib_folders/",
-        "createdAt": "2026-08-10T17:35:55.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "I need help with the dns not work so i go to the youtup and use the url manually",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vknvqy/i_need_help_with_the_dns_not_work_so_i_go_to_the/",
-        "createdAt": "2026-08-10T15:22:55.000Z"
       },
       {
         "platform": "Reddit",
@@ -320,26 +312,18 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "slopkit \"unlucky - you need to reboot\"",
+        "community": "PS4Hacks2",
+        "title": "is there a fpkg games library that is actually good and free (fpkgi💩novaps💩gamebato💩)",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vkp1zt/slopkit_unlucky_you_need_to_reboot/",
-        "createdAt": "2026-08-10T16:05:36.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Why",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vkn6bb/why/",
-        "createdAt": "2026-08-10T14:56:41.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vlepsz/is_there_a_fpkg_games_library_that_is_actually/",
+        "createdAt": "2026-08-11T11:24:08.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "What’s going on? PS5, 10.01",
-      "score": 15,
+      "score": 19,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vlf1w6/what_is_going_on_ps5_1001/",
       "createdAt": "2026-08-11T11:41:06.000Z"
     },
@@ -356,7 +340,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Current status of playing backups?",
-        "score": 4,
+        "score": 3,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vlhhhk/current_state_of_playing_backups/",
         "createdAt": "2026-08-11T13:28:23.000Z"
       },
@@ -364,7 +348,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "What’s going on? PS5, 10.01",
-        "score": 15,
+        "score": 19,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vlf1w6/what_is_going_on_ps5_1001/",
         "createdAt": "2026-08-11T11:41:06.000Z"
       },
@@ -380,27 +364,27 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "I need help—I’m new to homebrewing",
+        "title": "Moonlight PS4 Update 1.1.0",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vkxe7w/i_need_help_im_new_to_homebrewing/",
-        "createdAt": "2026-08-10T21:07:01.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vlnt31/moonlight_ps4_update_110/",
+        "createdAt": "2026-08-11T17:20:52.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 15
+        "count": 14
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 6
+        "count": 4
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 13
+        "count": 12
       },
       {
         "name": "r/PS4Hacks2",
@@ -415,7 +399,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 2
+        "count": 4
       }
     ]
   },
@@ -423,18 +407,9 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "Is jailbreaking a Kindle in a library cool?",
-        "score": 33,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3msqmmby2zc2y",
-        "createdAt": "2026-08-10T17:25:38.770Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msqmmby2zc2y:bafyreidxoi6ukggnowvonktacfkktelwdjpd5n7d3gn46tfpnkwl4viuqq"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:ArkSama (Playstation Hacker United - PHU )",
         "title": "x.com/Cryptosensei...",
-        "score": 32,
+        "score": 35,
         "url": "https://bsky.app/profile/arksama.bsky.social/post/3msrlqxl23c2f",
         "createdAt": "2026-08-11T02:43:03.677Z",
         "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3msrlqxl23c2f:bafyreig4c53do6fydmcu64x3jmiz3tl4dm4p7f4aolfc757z5ubza4gexy"
@@ -459,48 +434,30 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ PS5 WebKit with poopsploit up to FW 12.00 🔥🧐\njordyidk.github.io/slopkit/",
-        "score": 16,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3msqdurmrgs2o",
-        "createdAt": "2026-08-10T14:49:18.569Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3msqdurmrgs2o:bafyreidheokgrxbmk2jbxmzbfzyp74he722fz6a44afjpmtwi7lgsbnhbq"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nResearcher MasterMaind gotten his HackerOne bounty reward ($10.000) from Sony in for his 13.50 kernel exploit.\n\nHe's waiting now for the disclosure process to finish.\n\ntwitter-thread.com/t/2086867143...",
-        "score": 15,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msqnyfu6os2h",
-        "createdAt": "2026-08-10T17:50:18.767Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msqnyfu6os2h:bafyreibvfxogndqp7vaizwy777r3ydrt3e5ygu3azbvep77optk3sbpgoe"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "💢PS5 Super PLDMGR Auto Updater\n@nexgen999.bsky.social \ngithub.com/nexgen999/PS...",
-        "score": 14,
+        "score": 16,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3msrdi33zrs2w",
         "createdAt": "2026-08-11T00:14:55.165Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3msrdi33zrs2w:bafyreiguj52fve2tzyztteoosxvnpriee6ecm7yiyqhjaljg4nt53dsdzq"
       },
       {
         "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "How I feel after driving and listening to all of American Football's albums in one day.",
-        "score": 14,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3msqg7ntm3s2g",
-        "createdAt": "2026-08-10T15:31:12.878Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msqg7ntm3s2g:bafyreichp5jwpmfqvg5i6eclk3zytxfjxo75lwveaivsdqksaapydc53we"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "www.biteyourconsole.net/2026/08/10/p...",
-        "score": 12,
+        "score": 13,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msqu2oqz5225",
         "createdAt": "2026-08-10T19:39:06.869Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msqu2oqz5225:bafyreidoxbuhoutrhqqrsnlcplnj2giozlkm2n5ddllos2oklcypzwgwe4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ New Bounty PlayStation on H1 [hackerone] 🤔",
+        "score": 12,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mss4indowk2o",
+        "createdAt": "2026-08-11T07:42:37.369Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mss4indowk2o:bafyreihemtlqidwh6yqddf4ayzsww7l6gtpvcu2zhd6oqwnmyhyzrpw7de"
       },
       {
         "platform": "Bluesky",
@@ -510,51 +467,6 @@
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msqq3vhkac25",
         "createdAt": "2026-08-10T18:28:07.066Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msqq3vhkac25:bafyreidaww6ll4cucnhnmutau46blynqqsahqvnurkon37aibvs5fr6iwi"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ New Bounty PlayStation on H1 [hackerone] 🤔",
-        "score": 11,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mss4indowk2o",
-        "createdAt": "2026-08-11T07:42:37.369Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mss4indowk2o:bafyreihemtlqidwh6yqddf4ayzsww7l6gtpvcu2zhd6oqwnmyhyzrpw7de"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "Jordy 🫂",
-        "score": 10,
-        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3msqfrrb4zk22",
-        "createdAt": "2026-08-10T15:23:28.571Z",
-        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3msqfrrb4zk22:bafyreihivk2wenubc7xczca2bwgwl4pg7mpwsvziql53tgd2cuvjh6twdq"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
-        "title": "ps5webkit \nedit your ps5 dns \n62.210.38.117 \nor\n45.56.67.85 \nand open your userguide\ngo to jordyidk.github.io/slopkit/",
-        "score": 10,
-        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3msr5crhcy22y",
-        "createdAt": "2026-08-10T22:24:31.463Z",
-        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3msr5crhcy22y:bafyreigkeebuzffeiepmgvjq7kktqetccboyh2zbsdredscxtd4et6xwzm"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "Very stable \n👇👇👇👇👇\n\nmustafs-ps4-ps5.github.io/stabli/",
-        "score": 9,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3msqm3s7ndc2h",
-        "createdAt": "2026-08-10T17:16:29.173Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3msqm3s7ndc2h:bafyreihmztnqivgdkuqhuzjzln72ivgxsftelpe33jj5cuflwizl5p2c44"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "youtu.be/PMKI3QE9QhI?...",
-        "score": 8,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msqjkbqbds25",
-        "createdAt": "2026-08-10T16:30:50.568Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msqjkbqbds25:bafyreieb45ebcbx2sfl6slosi5ciew3uqbwvih5yizcdzyv6iu2ybcmffm"
       },
       {
         "platform": "Bluesky",
@@ -576,12 +488,39 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
-        "title": "Webkit need some change\n\nTo use ps5_autoload\nTo load unified autoloader, pldmgr or some other more easy, clean ui...\nLapse for old firmware or poops selector\n\nThis is some Idea, i think all dev are working on\n\nJust wait now...",
-        "score": 4,
-        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3msr7wylx422d",
-        "createdAt": "2026-08-10T23:11:36.172Z",
-        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3msr7wylx422d:bafyreidhpulx4vvkgpfqcfgltmdtsnpkmg2bwh6f5z7c6i2h5o3hkdjwxm"
+        "community": "following:PS5 JAILBREAKS",
+        "title": "💢 Webkit autoloader \ngithub.com/itsPLK/ps5-w...",
+        "score": 5,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mst2we6wyk2e",
+        "createdAt": "2026-08-11T16:47:07.566Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mst2we6wyk2e:bafyreiajkrptsuoyexdoszjq623ygelrbpdntvd26qawselx4wu3grt4we"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "youtu.be/FJ-ePpspCV8?...",
+        "score": 3,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msr2muoroc25",
+        "createdAt": "2026-08-10T21:36:33.265Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msr2muoroc25:bafyreibdetxhzfqrukx2pww7xnxdvywqfykbqktkp2g6fk6nffzoub3doi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ NEW PS5 Game Dumps by DLPS Team 🧐",
+        "score": 3,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mssyk444m22v",
+        "createdAt": "2026-08-11T16:04:34.075Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mssyk444m22v:bafyreieakewcysdmqpyhe6khioactki5ogrtlwtwvi3sgf5gqg23sfj3iy"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nDeveloper itsPLK released an autoloader for the new webkit exploit.\nNow you can setup which payloads you want and have them automatically bootup with the start of the jailbreak.\n\ngithub.com/itsPLK/ps5-w...",
+        "score": 2,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mssxuhf7rs2m",
+        "createdAt": "2026-08-11T15:52:24.168Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mssxuhf7rs2m:bafyreihrjt72ftfiqm4noibxikw6jb6kdm5hqjigcyrjubgdkldu6jwi44"
       },
       {
         "platform": "Bluesky",
@@ -591,15 +530,6 @@
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3msqqm36wic2q",
         "createdAt": "2026-08-10T18:37:04.867Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3msqqm36wic2q:bafyreifc4lrs3weoeoa2my7gqg3faehgaogro2wjb73twelacbfiynmd3a"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "youtu.be/FJ-ePpspCV8?...",
-        "score": 2,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3msr2muoroc25",
-        "createdAt": "2026-08-10T21:36:33.265Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3msr2muoroc25:bafyreibdetxhzfqrukx2pww7xnxdvywqfykbqktkp2g6fk6nffzoub3doi"
       },
       {
         "platform": "Bluesky",
@@ -613,20 +543,20 @@
       {
         "platform": "Bluesky",
         "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
+        "title": "📢 try this one\n\nps5webkit W2JB\n\nedit your ps5 dns 62.210.38.117 or 45.56.67.85\n\ngo to : nexgen999.github.io/ps5webkit\n\nautoload evox",
+        "score": 2,
+        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mssv4azl7225",
+        "createdAt": "2026-08-11T15:03:03.869Z",
+        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mssv4azl7225:bafyreid2wca5ibkqr6ox5ocqgx275zt66id26xq7emq7fan6btsi44sl6q"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
         "title": "github.com/ItsBlurf/Poo...",
         "score": 2,
         "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3msrjoblfy22w",
         "createdAt": "2026-08-11T02:05:44.276Z",
         "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3msrjoblfy22w:bafyreieqzwdtuvmpeobu25dpj3rn4pt5yh6mfgtzecnf67pp47jbrqhqka"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
-        "title": "22 fork\n29 stars\n\ni dont need to work on to make a clean ui; many people will custom it 😆",
-        "score": 2,
-        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3msr5our5jc2y",
-        "createdAt": "2026-08-10T22:31:23.374Z",
-        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3msr5our5jc2y:bafyreigz6tzd6jfdvnaqsp7hfdndj2arn6x4djuiiwlcllfqs5n3ylynp4"
       },
       {
         "platform": "Bluesky",
@@ -654,16 +584,52 @@
         "url": "https://bsky.app/profile/grimdoe.bsky.social/post/3msr724hqkk27",
         "createdAt": "2026-08-10T22:55:29.165Z",
         "key": "at://did:plc:2xtkm6eabysmud72wfs4bcmy/app.bsky.feed.post/3msr724hqkk27:bafyreihfp2gms6zimhxpawp5uggwardggus3ckm5mbiwwo4py3iznll3xe"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
+        "title": "github.com/nexgen999/ps...",
+        "score": 1,
+        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mssvv3dk7225",
+        "createdAt": "2026-08-11T15:16:53.968Z",
+        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mssvv3dk7225:bafyreibajvt3bxiskn3yy4zvxkq7nbhrtrz5jhlzxeybmvtmxjn2q7seoa"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
+        "title": "@crump-youtube.bsky.social",
+        "score": 1,
+        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mssvme7iys25",
+        "createdAt": "2026-08-11T15:12:01.965Z",
+        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mssvme7iys25:bafyreifoevrty3ur6ppdukcmn2sewacjv4wegiwa6dbukp4t2yktngsf6e"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "youtu.be/dRoYPXpZgOE",
+        "score": 0,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mst27neiic2q",
+        "createdAt": "2026-08-11T16:34:25.573Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mst27neiic2q:bafyreifgysa75qyavfxaxkz2wzjyj2gupj5aohhb6w5sz5o6zsvtmlhmny"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
+        "title": "(untitled post)",
+        "score": 0,
+        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3msswuc2avs25",
+        "createdAt": "2026-08-11T15:34:25.664Z",
+        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3msswuc2avs25:bafyreiaxjpdzgrap2ncjci2kxojmsoaxe22vpg3kb73bb7oxd7b4n3f65y"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:MrMario2011",
-      "title": "Is jailbreaking a Kindle in a library cool?",
-      "score": 33,
-      "url": "https://bsky.app/profile/mrmario2011.com/post/3msqmmby2zc2y",
-      "createdAt": "2026-08-10T17:25:38.770Z",
-      "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3msqmmby2zc2y:bafyreidxoi6ukggnowvonktacfkktelwdjpd5n7d3gn46tfpnkwl4viuqq"
+      "community": "following:ArkSama (Playstation Hacker United - PHU )",
+      "title": "x.com/Cryptosensei...",
+      "score": 35,
+      "url": "https://bsky.app/profile/arksama.bsky.social/post/3msrlqxl23c2f",
+      "createdAt": "2026-08-11T02:43:03.677Z",
+      "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3msrlqxl23c2f:bafyreig4c53do6fydmcu64x3jmiz3tl4dm4p7f4aolfc757z5ubza4gexy"
     },
     "sources": [
       {
