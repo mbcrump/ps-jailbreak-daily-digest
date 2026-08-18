@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T13:55:21.021Z",
-  "runTimePacific": "08/18/2026, 06:55 PDT",
-  "windowStartPacific": "08/17/2026, 06:55 PDT",
-  "windowEndPacific": "08/18/2026, 06:55 PDT",
+  "generatedAt": "2026-08-18T17:03:12.625Z",
+  "runTimePacific": "08/18/2026, 10:03 PDT",
+  "windowStartPacific": "08/17/2026, 10:03 PDT",
+  "windowEndPacific": "08/18/2026, 10:03 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -20,7 +20,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Holy etaHEN at 13.60! Itemzflow also works",
-        "score": 182,
+        "score": 227,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrftdy/holy_etahen_at_1360_itemzflow_also_works/",
         "createdAt": "2026-08-18T05:13:17.000Z"
       },
@@ -28,7 +28,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Updated etaHEN v2.6b to expire on Oct 1st soon",
-        "score": 32,
+        "score": 37,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrfv0p/updated_etahen_v26b_to_expire_oct_1st_soon/",
         "createdAt": "2026-08-18T05:15:37.000Z"
       },
@@ -36,25 +36,25 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "GTA icons",
-        "score": 28,
+        "score": 30,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vr9lir/gta_icons/",
         "createdAt": "2026-08-18T00:18:11.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Can you jailbreak 12.7 without having to restore?",
+        "title": "How has stability been for you using OnionHen versus just kstuff & shadowmount?",
         "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vqydli/can_you_jailbreak_127_without_having_to_restore/",
-        "createdAt": "2026-08-17T17:15:12.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vr767t/how_has_stability_been_for_you_using_onionhen_vs/",
+        "createdAt": "2026-08-17T22:36:00.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How has stability been for you using OnionHen versus just kstuff & shadowmount?",
+        "title": "Can you jailbreak 12.7 without having to restore?",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vr767t/how_has_stability_been_for_you_using_onionhen_vs/",
-        "createdAt": "2026-08-17T22:36:00.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vqydli/can_you_jailbreak_127_without_having_to_restore/",
+        "createdAt": "2026-08-17T17:15:12.000Z"
       },
       {
         "platform": "Reddit",
@@ -74,11 +74,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "My PS5 on 4.03 crashes when an external SSD is connected. Please help...",
+        "community": "ps5homebrew",
+        "title": "Software capability AKA \"Linux\" on ps5 Slim",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrdna2/ps5_on_403_crashes_when_external_ssd_is_connected/",
-        "createdAt": "2026-08-18T03:22:13.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vreihq/software_capability_aka_linux_on_ps5_slim/",
+        "createdAt": "2026-08-18T04:04:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "No hdmi signals from my ps4",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrsfx5/no_hdmi_signals_from_my_ps4/",
+        "createdAt": "2026-08-18T15:29:52.000Z"
       },
       {
         "platform": "Reddit",
@@ -91,18 +99,10 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Trying to get the internet working on my jailbroken PS5 without getting stuck in a softlock on the y2jb autoloader",
+        "title": "Trying to get internet working on my jailbroken PS5 without getting stuck in a softlock on y2jb autoloader",
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vrlcgo/trying_to_get_internet_working_on_my_jailbroken/",
         "createdAt": "2026-08-18T10:30:31.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Software capability AKA \"Linux\" on ps5 Slim",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vreihq/software_capability_aka_linux_on_ps5_slim/",
-        "createdAt": "2026-08-18T04:04:54.000Z"
       },
       {
         "platform": "Reddit",
@@ -123,6 +123,14 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Ps5 on 4.03 crashes when external SSD is connected. Please help...",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrdna2/ps5_on_403_crashes_when_external_ssd_is_connected/",
+        "createdAt": "2026-08-18T03:22:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Kernel panic",
         "score": 1,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vra2k5/kernel_panic/",
@@ -131,10 +139,42 @@
       {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "Need help with a project",
+        "title": "Modded balatro in jailbroken PS4?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vrrsci/modded_balatro_in_jailbroken_ps4/",
+        "createdAt": "2026-08-18T15:05:35.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "need help with project",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vrlzai/need_help_with_project/",
         "createdAt": "2026-08-18T11:02:58.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What is the most stable WebKit host for PS4 9.00 right now without USB flash Disk?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vru2sf/what_is_the_most_stable_webkit_host_for_ps4_900/",
+        "createdAt": "2026-08-18T16:25:10.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Modded balatro in jailbroken PS4?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vrrrrm/modded_balatro_in_jailbroken_ps4/",
+        "createdAt": "2026-08-18T15:04:59.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How do I block game updates? When I set DNS it also blocks archive.org",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrq3fm/how_do_i_block_game_updates_when_i_set_dns_it/",
+        "createdAt": "2026-08-18T14:03:13.000Z"
       },
       {
         "platform": "Reddit",
@@ -186,27 +226,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Webkit for 12.00?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vqxd9t/webkit_for_1200/",
-        "createdAt": "2026-08-17T16:40:33.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "ps4 blu-ray disc question",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vqwy9g/ps4_bluray_disc_question/",
-        "createdAt": "2026-08-17T16:26:50.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "FiveM on PS5?",
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vrbj9q/fivem_on_ps5/",
         "createdAt": "2026-08-18T01:44:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Pegasus DL and KP",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrso07/pegasus_dl_and_kp/",
+        "createdAt": "2026-08-18T15:38:29.000Z"
       },
       {
         "platform": "Reddit",
@@ -219,34 +251,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PSVR2 Game Dump List and Testing",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vqv1k8/psvr2_game_dump_list_and_testing/",
-        "createdAt": "2026-08-17T15:10:10.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Worth to jailbreak the ps5",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vro1ba/worth_to_jailbreak_the_ps5/",
         "createdAt": "2026-08-18T12:40:27.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Ps5 game dump compression",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vqv60w/ps5_game_dump_compression/",
-        "createdAt": "2026-08-17T15:14:38.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Any new updates about JB for 13.20?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vroe8y/any_new_updates_about_jb_for_1320/",
-        "createdAt": "2026-08-18T12:55:43.000Z"
       },
       {
         "platform": "Reddit",
@@ -259,17 +267,17 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Problema with installing games",
+        "title": "Any new updates about JB for 13.20?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vqv7wl/problema_with_installing_games/",
-        "createdAt": "2026-08-17T15:16:30.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vroe8y/any_new_updates_about_jb_for_1320/",
+        "createdAt": "2026-08-18T12:55:43.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "Holy etaHEN at 13.60! Itemzflow also works",
-      "score": 182,
+      "score": 227,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrftdy/holy_etahen_at_1360_itemzflow_also_works/",
       "createdAt": "2026-08-18T05:13:17.000Z"
     },
@@ -278,36 +286,43 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "GTA icons",
-        "score": 28,
+        "score": 30,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vr9lir/gta_icons/",
         "createdAt": "2026-08-18T00:18:11.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Trying to get the internet working on my jailbroken PS5 without getting stuck in a softlock on the y2jb autoloader",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vrlcgo/trying_to_get_internet_working_on_my_jailbroken/",
-        "createdAt": "2026-08-18T10:30:31.000Z"
+        "title": "Software capability AKA \"Linux\" on ps5 Slim",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vreihq/software_capability_aka_linux_on_ps5_slim/",
+        "createdAt": "2026-08-18T04:04:54.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Holy etaHEN at 13.60! Itemzflow also works",
-        "score": 182,
+        "score": 227,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrftdy/holy_etahen_at_1360_itemzflow_also_works/",
         "createdAt": "2026-08-18T05:13:17.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "Need help with a project",
+        "title": "Modded balatro in jailbroken PS4?",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vrlzai/need_help_with_project/",
-        "createdAt": "2026-08-18T11:02:58.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vrrsci/modded_balatro_in_jailbroken_ps4/",
+        "createdAt": "2026-08-18T15:05:35.000Z"
       },
       "PS4Jailbreak": null,
-      "PS4Mods": null
+      "PS4Mods": {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What is the most stable WebKit host for PS4 9.00 right now without USB flash Disk?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vru2sf/what_is_the_most_stable_webkit_host_for_ps4_900/",
+        "createdAt": "2026-08-18T16:25:10.000Z"
+      }
     },
     "sources": [
       {
@@ -323,12 +338,12 @@
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 15
+        "count": 13
       },
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 1
+        "count": 2
       },
       {
         "name": "r/PS4Jailbreak",
@@ -338,7 +353,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 0
+        "count": 2
       }
     ]
   },
@@ -347,20 +362,29 @@
       {
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
+        "title": "💢Apr-emu-files:\ncdn.discordapp.com/attachments/...",
+        "score": 15,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdyocqflk2a",
+        "createdAt": "2026-08-18T10:22:07.866Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdyocqflk2a:bafyreid2cgktqgcvc3jlauerax2xghg74ldlwh2xuxlgb3kykwzqa53gsu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:PS5 JAILBREAKS",
         "title": "💢EtaHEN v2.6b:\n- Updated to work up to fw 12.70\n- Added an etaHEN toolbox option to the top of the home menu\n- Fixed the toolbox settings text on all affected fws (no longer shows up in debug settings)\n- Improved shellui hooks\n- Improved App Jailbreak system\ncdn.discordapp.com/attachments/...",
-        "score": 14,
+        "score": 15,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdje7oank2i",
         "createdAt": "2026-08-18T05:48:03.970Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdje7oank2i:bafyreidh3itmoya53i7bxzngmkpec7ry7jaubjrj5bop67m6rq2xlhusjy"
       },
       {
         "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "💢Apr-emu-files:\ncdn.discordapp.com/attachments/...",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nLightningMods has ported EtaHEN and Itemzflow to firmware 13.60\n\nGezine has tested them on his Zero Day jailbreak and they work!\n\nObviously no public release for now since 13.60 has no public jailbreak.\n\nReminder: You can't use EtaHEN without jailbreak.\n\ntwitter-thread.com/t/2089550717...",
         "score": 13,
-        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdyocqflk2a",
-        "createdAt": "2026-08-18T10:22:07.866Z",
-        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdyocqflk2a:bafyreid2cgktqgcvc3jlauerax2xghg74ldlwh2xuxlgb3kykwzqa53gsu"
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtdzs4nsic2f",
+        "createdAt": "2026-08-18T10:42:09.166Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtdzs4nsic2f:bafyreiavujnckgxn4b56gf6qofhbjyak3cq77l5ogfumt2uwj2vvqt3ydi"
       },
       {
         "platform": "Bluesky",
@@ -373,30 +397,21 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nLightningMods has ported EtaHEN and Itemzflow to firmware 13.60\n\nGezine has tested them on his Zero Day jailbreak and they work!\n\nObviously no public release for now since 13.60 has no public jailbreak.\n\nReminder: You can't use EtaHEN without jailbreak.\n\ntwitter-thread.com/t/2089550717...",
-        "score": 9,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtdzs4nsic2f",
-        "createdAt": "2026-08-18T10:42:09.166Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtdzs4nsic2f:bafyreiavujnckgxn4b56gf6qofhbjyak3cq77l5ogfumt2uwj2vvqt3ydi"
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ 🔥🧐",
+        "score": 12,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtejyag4cs2t",
+        "createdAt": "2026-08-18T15:31:55.172Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtejyag4cs2t:bafyreic73a4cpc2zh4evdwgd725dlzsjmbewa5pp7a4fee3cvolj3vtkci"
       },
       {
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "💢Webkit P2JB:\nUp to FW 12.70\nsoniciso1.github.io/pooP2JB/",
-        "score": 8,
+        "score": 11,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdwknzybc2a",
         "createdAt": "2026-08-18T09:44:17.273Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdwknzybc2a:bafyreihzpyfdpwjssjx7e4ullgebotjueifu2yrwgjqrxue24g6ynklj7q"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Patch 1.013 and backport\n\nRight now on DLS...",
-        "score": 8,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtbuuia43k2b",
-        "createdAt": "2026-08-17T14:08:41.168Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtbuuia43k2b:bafyreifrznvb2ufo7winlyvvy7tp3bcohvfs6ka3detkubgbgjq7swed5a"
       },
       {
         "platform": "Bluesky",
@@ -415,6 +430,15 @@
         "url": "https://bsky.app/profile/fuck-sony.bsky.social/post/3mtciqnhuik27",
         "createdAt": "2026-08-17T20:04:25.173Z",
         "key": "at://did:plc:oyn7vblofgsr4arh7b332xn6/app.bsky.feed.post/3mtciqnhuik27:bafyreiawpuc6fz5pvcjf4sl5jtuvjmycyoytfjzr4hzm5x5gbrjqxh7ltq"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "Ey bros, I'm looking for testers on 4.xx for our new backports, is anyone interested? please dm me 🙏 🙏 🙏",
+        "score": 2,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtelxdfxic2g",
+        "createdAt": "2026-08-18T16:07:09.577Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtelxdfxic2g:bafyreigeamoyhmz7i7lh2szwuh6jangm2i4zeitcxpfharvdablx2pqwri"
       },
       {
         "platform": "Bluesky",
@@ -456,11 +480,11 @@
     "topOverall": {
       "platform": "Bluesky",
       "community": "following:PS5 JAILBREAKS",
-      "title": "💢EtaHEN v2.6b:\n- Updated to work up to fw 12.70\n- Added an etaHEN toolbox option to the top of the home menu\n- Fixed the toolbox settings text on all affected fws (no longer shows up in debug settings)\n- Improved shellui hooks\n- Improved App Jailbreak system\ncdn.discordapp.com/attachments/...",
-      "score": 14,
-      "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdje7oank2i",
-      "createdAt": "2026-08-18T05:48:03.970Z",
-      "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdje7oank2i:bafyreidh3itmoya53i7bxzngmkpec7ry7jaubjrj5bop67m6rq2xlhusjy"
+      "title": "💢Apr-emu-files:\ncdn.discordapp.com/attachments/...",
+      "score": 15,
+      "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdyocqflk2a",
+      "createdAt": "2026-08-18T10:22:07.866Z",
+      "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdyocqflk2a:bafyreid2cgktqgcvc3jlauerax2xghg74ldlwh2xuxlgb3kykwzqa53gsu"
     },
     "sources": [
       {
