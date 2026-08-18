@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-18T17:03:12.625Z",
-  "runTimePacific": "08/18/2026, 10:03 PDT",
-  "windowStartPacific": "08/17/2026, 10:03 PDT",
-  "windowEndPacific": "08/18/2026, 10:03 PDT",
+  "generatedAt": "2026-08-18T20:43:33.770Z",
+  "runTimePacific": "08/18/2026, 13:43 PDT",
+  "windowStartPacific": "08/17/2026, 13:43 PDT",
+  "windowEndPacific": "08/18/2026, 13:43 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -20,7 +20,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Holy etaHEN at 13.60! Itemzflow also works",
-        "score": 227,
+        "score": 257,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrftdy/holy_etahen_at_1360_itemzflow_also_works/",
         "createdAt": "2026-08-18T05:13:17.000Z"
       },
@@ -28,7 +28,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Updated etaHEN v2.6b to expire on Oct 1st soon",
-        "score": 37,
+        "score": 44,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrfv0p/updated_etahen_v26b_to_expire_oct_1st_soon/",
         "createdAt": "2026-08-18T05:15:37.000Z"
       },
@@ -36,33 +36,25 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "GTA icons",
-        "score": 30,
+        "score": 33,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vr9lir/gta_icons/",
         "createdAt": "2026-08-18T00:18:11.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "What is the most stable WebKit host for PS4 9.00 right now without USB flash Disk?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vru3e6/what_is_the_most_stable_webkit_host_for_ps4_900/",
+        "createdAt": "2026-08-18T16:25:45.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How has stability been for you using OnionHen versus just kstuff & shadowmount?",
-        "score": 4,
+        "score": 5,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vr767t/how_has_stability_been_for_you_using_onionhen_vs/",
         "createdAt": "2026-08-17T22:36:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Can you jailbreak 12.7 without having to restore?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vqydli/can_you_jailbreak_127_without_having_to_restore/",
-        "createdAt": "2026-08-17T17:15:12.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Horizon new dawm FPS?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrfo0u/horizon_new_dawm_fps/",
-        "createdAt": "2026-08-18T05:05:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -82,6 +74,30 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Pegasus DL and KP",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrso07/pegasus_dl_and_kp/",
+        "createdAt": "2026-08-18T15:38:29.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Where are the transparent shell replacements?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vrv7oy/where_are_the_transparent_shell_replacements/",
+        "createdAt": "2026-08-18T17:03:37.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Don't forget to make a packup user.",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrxtrt/dont_forget_to_make_a_packup_user/",
+        "createdAt": "2026-08-18T18:35:11.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "No hdmi signals from my ps4",
         "score": 1,
@@ -95,6 +111,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrlcov/ce364340_error/",
         "createdAt": "2026-08-18T10:30:52.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Horizon new dawm fps ?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrfo0u/horizon_new_dawm_fps/",
+        "createdAt": "2026-08-18T05:05:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -155,6 +179,14 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
+        "title": "'Kay, NetFront NX isn't vulnerable to CVE-2026-2441.",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vryjvj/kay_netfront_nx_isnt_vulnerable_to_cve20262441/",
+        "createdAt": "2026-08-18T19:00:19.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
         "title": "What is the most stable WebKit host for PS4 9.00 right now without USB flash Disk?",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vru2sf/what_is_the_most_stable_webkit_host_for_ps4_900/",
@@ -187,14 +219,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "How do i delete my psn account from a modded ps4?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vr2c3c/how_do_i_delete_my_psn_account_from_a_modded_ps4/",
-        "createdAt": "2026-08-17T19:32:37.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Doubt about the Ending E of NieR: Automata on PS4 with GoldHEN (Version 1.06)",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrd6id/doubt_about_the_ending_e_of_nier_automata_on_ps4/",
@@ -210,22 +234,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "10.01 firmware",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vr0aiy/1001_firmware/",
-        "createdAt": "2026-08-17T18:20:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I want to use the ps vue as an alternative jailbreak??",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vr0484/i_want_to_use_the_ps_vue_as_an_alternative/",
-        "createdAt": "2026-08-17T18:14:51.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "FiveM on PS5?",
         "score": 0,
@@ -235,10 +243,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Pegasus DL and KP",
+        "title": "External Storage + Backups",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrso07/pegasus_dl_and_kp/",
-        "createdAt": "2026-08-18T15:38:29.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrw6ln/external_storage_backups/",
+        "createdAt": "2026-08-18T17:37:24.000Z"
       },
       {
         "platform": "Reddit",
@@ -277,7 +285,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "Holy etaHEN at 13.60! Itemzflow also works",
-      "score": 227,
+      "score": 257,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrftdy/holy_etahen_at_1360_itemzflow_also_works/",
       "createdAt": "2026-08-18T05:13:17.000Z"
     },
@@ -286,7 +294,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "GTA icons",
-        "score": 30,
+        "score": 33,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vr9lir/gta_icons/",
         "createdAt": "2026-08-18T00:18:11.000Z"
       },
@@ -302,7 +310,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Holy etaHEN at 13.60! Itemzflow also works",
-        "score": 227,
+        "score": 257,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrftdy/holy_etahen_at_1360_itemzflow_also_works/",
         "createdAt": "2026-08-18T05:13:17.000Z"
       },
@@ -318,17 +326,17 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "What is the most stable WebKit host for PS4 9.00 right now without USB flash Disk?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vru2sf/what_is_the_most_stable_webkit_host_for_ps4_900/",
-        "createdAt": "2026-08-18T16:25:10.000Z"
+        "title": "Where are the transparent shell replacements?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vrv7oy/where_are_the_transparent_shell_replacements/",
+        "createdAt": "2026-08-18T17:03:37.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 11
       },
       {
         "name": "r/ps5homebrew",
@@ -353,7 +361,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 2
+        "count": 4
       }
     ]
   },
@@ -361,9 +369,27 @@
     "posts": [
       {
         "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ 🔥🧐",
+        "score": 20,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtejyag4cs2t",
+        "createdAt": "2026-08-18T15:31:55.172Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtejyag4cs2t:bafyreic73a4cpc2zh4evdwgd725dlzsjmbewa5pp7a4fee3cvolj3vtkci"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nLightningMods has ported EtaHEN and Itemzflow to firmware 13.60\n\nGezine has tested them on his Zero Day jailbreak and they work!\n\nObviously no public release for now since 13.60 has no public jailbreak.\n\nReminder: You can't use EtaHEN without jailbreak.\n\ntwitter-thread.com/t/2089550717...",
+        "score": 17,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtdzs4nsic2f",
+        "createdAt": "2026-08-18T10:42:09.166Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtdzs4nsic2f:bafyreiavujnckgxn4b56gf6qofhbjyak3cq77l5ogfumt2uwj2vvqt3ydi"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "💢Apr-emu-files:\ncdn.discordapp.com/attachments/...",
-        "score": 15,
+        "score": 16,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdyocqflk2a",
         "createdAt": "2026-08-18T10:22:07.866Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdyocqflk2a:bafyreid2cgktqgcvc3jlauerax2xghg74ldlwh2xuxlgb3kykwzqa53gsu"
@@ -372,82 +398,46 @@
         "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "💢EtaHEN v2.6b:\n- Updated to work up to fw 12.70\n- Added an etaHEN toolbox option to the top of the home menu\n- Fixed the toolbox settings text on all affected fws (no longer shows up in debug settings)\n- Improved shellui hooks\n- Improved App Jailbreak system\ncdn.discordapp.com/attachments/...",
-        "score": 15,
+        "score": 16,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdje7oank2i",
         "createdAt": "2026-08-18T05:48:03.970Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdje7oank2i:bafyreidh3itmoya53i7bxzngmkpec7ry7jaubjrj5bop67m6rq2xlhusjy"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nLightningMods has ported EtaHEN and Itemzflow to firmware 13.60\n\nGezine has tested them on his Zero Day jailbreak and they work!\n\nObviously no public release for now since 13.60 has no public jailbreak.\n\nReminder: You can't use EtaHEN without jailbreak.\n\ntwitter-thread.com/t/2089550717...",
-        "score": 13,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtdzs4nsic2f",
-        "createdAt": "2026-08-18T10:42:09.166Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtdzs4nsic2f:bafyreiavujnckgxn4b56gf6qofhbjyak3cq77l5ogfumt2uwj2vvqt3ydi"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "x.com/i/status/208...",
-        "score": 12,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtdbfu6ayk2g",
-        "createdAt": "2026-08-18T03:25:49.870Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtdbfu6ayk2g:bafyreidgoak3wh36awik727na5ffmvosfklkon57a2dsjfwmgycstwzafi"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ 🔥🧐",
-        "score": 12,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtejyag4cs2t",
-        "createdAt": "2026-08-18T15:31:55.172Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtejyag4cs2t:bafyreic73a4cpc2zh4evdwgd725dlzsjmbewa5pp7a4fee3cvolj3vtkci"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "💢Webkit P2JB:\nUp to FW 12.70\nsoniciso1.github.io/pooP2JB/",
-        "score": 11,
+        "score": 14,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdwknzybc2a",
         "createdAt": "2026-08-18T09:44:17.273Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdwknzybc2a:bafyreihzpyfdpwjssjx7e4ullgebotjueifu2yrwgjqrxue24g6ynklj7q"
       },
       {
         "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "x.com/i/status/208...",
+        "score": 13,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtdbfu6ayk2g",
+        "createdAt": "2026-08-18T03:25:49.870Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtdbfu6ayk2g:bafyreidgoak3wh36awik727na5ffmvosfklkon57a2dsjfwmgycstwzafi"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
         "title": "@master0ps.bsky.social I tried your link but it expires...\n\nI made one if you want to try it",
-        "score": 7,
+        "score": 8,
         "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mtcqb2bgbk2p",
         "createdAt": "2026-08-17T22:18:49.268Z",
         "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mtcqb2bgbk2p:bafyreie3i7jepjsnzkqdzsm3frlsnukx4ib7p4ip3edqt6precqu77xmg4"
       },
       {
         "platform": "Bluesky",
-        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
-        "title": "Hi nexgen999\n\ntake a look at keet.io—it's an extremely secure p2p chat client. Let me know what you think about 🤪",
-        "score": 5,
-        "url": "https://bsky.app/profile/fuck-sony.bsky.social/post/3mtciqnhuik27",
-        "createdAt": "2026-08-17T20:04:25.173Z",
-        "key": "at://did:plc:oyn7vblofgsr4arh7b332xn6/app.bsky.feed.post/3mtciqnhuik27:bafyreiawpuc6fz5pvcjf4sl5jtuvjmycyoytfjzr4hzm5x5gbrjqxh7ltq"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "Ey bros, I'm looking for testers on 4.xx for our new backports, is anyone interested? please dm me 🙏 🙏 🙏",
-        "score": 2,
+        "title": "Hey bros, I'm looking for testers on 4.xx for our new backports, is anyone interested? please dm me 🙏 🙏 🙏",
+        "score": 6,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtelxdfxic2g",
         "createdAt": "2026-08-18T16:07:09.577Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtelxdfxic2g:bafyreigeamoyhmz7i7lh2szwuh6jangm2i4zeitcxpfharvdablx2pqwri"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Grim Doe",
-        "title": "Thank you 😊",
-        "score": 2,
-        "url": "https://bsky.app/profile/grimdoe.bsky.social/post/3mtcj3mpkg22q",
-        "createdAt": "2026-08-17T20:10:32.863Z",
-        "key": "at://did:plc:2xtkm6eabysmud72wfs4bcmy/app.bsky.feed.post/3mtcj3mpkg22q:bafyreifiv3eegouv47k2fjbbkdqrwtgnkgpaeybszcxts7ihmutgvg5npe"
       },
       {
         "platform": "Bluesky",
@@ -479,12 +469,12 @@
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:PS5 JAILBREAKS",
-      "title": "💢Apr-emu-files:\ncdn.discordapp.com/attachments/...",
-      "score": 15,
-      "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdyocqflk2a",
-      "createdAt": "2026-08-18T10:22:07.866Z",
-      "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtdyocqflk2a:bafyreid2cgktqgcvc3jlauerax2xghg74ldlwh2xuxlgb3kykwzqa53gsu"
+      "community": "following:dravszoo.bsky.social",
+      "title": "➭ 🔥🧐",
+      "score": 20,
+      "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtejyag4cs2t",
+      "createdAt": "2026-08-18T15:31:55.172Z",
+      "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtejyag4cs2t:bafyreic73a4cpc2zh4evdwgd725dlzsjmbewa5pp7a4fee3cvolj3vtkci"
     },
     "sources": [
       {
