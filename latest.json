@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T17:02:03.853Z",
-  "runTimePacific": "08/19/2026, 10:02 PDT",
-  "windowStartPacific": "08/18/2026, 10:02 PDT",
-  "windowEndPacific": "08/19/2026, 10:02 PDT",
+  "generatedAt": "2026-08-19T20:49:17.818Z",
+  "runTimePacific": "08/19/2026, 13:49 PDT",
+  "windowStartPacific": "08/18/2026, 13:49 PDT",
+  "windowEndPacific": "08/19/2026, 13:49 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -20,7 +20,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Is jailbreaking the PS4 Pro worth it? The semi-tethered aspect of it has me on the fence",
-        "score": 21,
+        "score": 29,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsamh1/is_jailbreaking_the_ps4_pro_worth_it_the/",
         "createdAt": "2026-08-19T03:13:17.000Z"
       },
@@ -36,25 +36,33 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Game save corrupted using Garlic Save Manager (solved)",
-        "score": 5,
+        "score": 11,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vspj1b/game_save_corrupted_using_garlic_save_manager/",
         "createdAt": "2026-08-19T15:22:58.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How to fix the disc",
+        "score": 9,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vshy1z/how_to_fix_disc/",
+        "createdAt": "2026-08-19T09:54:43.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "\"Okay, NetFront NX isn't vulnerable to CVE-2026-2441.\"",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vryjvj/kay_netfront_nx_isnt_vulnerable_to_cve20262441/",
-        "createdAt": "2026-08-18T19:00:19.000Z"
+        "title": "Do you think guys the next jailbreak will drop in 13.52?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vsuyts/do_u_think_guys_the_next_jailbreak_will_drop_in/",
+        "createdAt": "2026-08-19T18:33:53.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "How to fix the disc",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vshy1z/how_to_fix_disc/",
-        "createdAt": "2026-08-19T09:54:43.000Z"
+        "title": "What is the best way to jailbreak currently from this version?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsw4b9/what_is_the_best_way_to_jailbreak_currently_from/",
+        "createdAt": "2026-08-19T19:14:59.000Z"
       },
       {
         "platform": "Reddit",
@@ -67,18 +75,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Don't forget to make a backup user.",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vrxtrt/dont_forget_to_make_a_packup_user/",
-        "createdAt": "2026-08-18T18:35:11.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Where are the transparent shell replacements?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vrv7oy/where_are_the_transparent_shell_replacements/",
-        "createdAt": "2026-08-18T17:03:37.000Z"
+        "title": "A little workflow to get a jailbreak via WebKit, near 90%.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsrpwb/a_little_workflow_to_get_jailbreak_via_webkit/",
+        "createdAt": "2026-08-19T16:40:44.000Z"
       },
       {
         "platform": "Reddit",
@@ -90,11 +90,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "A little workflow to get jailbreak via webkit near 90%",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsrpwb/a_little_workflow_to_get_jailbreak_via_webkit/",
-        "createdAt": "2026-08-19T16:40:44.000Z"
+        "community": "PS4Mods",
+        "title": "Jb",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vst78w/jb/",
+        "createdAt": "2026-08-19T17:32:32.000Z"
       },
       {
         "platform": "Reddit",
@@ -114,19 +114,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "bendy the ink machine",
+        "community": "PS4Hacks2",
+        "title": "Jb",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vso3um/bendy_the_ink_machine/",
-        "createdAt": "2026-08-19T14:31:06.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "External Storage + Backups",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vrw6ln/external_storage_backups/",
-        "createdAt": "2026-08-18T17:37:24.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vst5ag/jb/",
+        "createdAt": "2026-08-19T17:30:41.000Z"
       },
       {
         "platform": "Reddit",
@@ -135,6 +127,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vseq5h/dreams_ps4_trainer_help/",
         "createdAt": "2026-08-19T06:47:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Статус джейлбрейка пс4 13.02?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vsy5av/статус_джейлбрейка_пс4_1302/",
+        "createdAt": "2026-08-19T20:28:45.000Z"
       },
       {
         "platform": "Reddit",
@@ -155,14 +155,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "BD-JB jailbreak",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vshk74/bdjb_jailbreak/",
-        "createdAt": "2026-08-19T09:32:26.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "光碟還是硬盤",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsh3bm/光碟還是硬盤/",
@@ -175,6 +167,14 @@
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsm8wc/is_there_a_risk_of_my_ps5_being_banned_because/",
         "createdAt": "2026-08-19T13:20:19.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "BD-JB jailbreak",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vshk74/bdjb_jailbreak/",
+        "createdAt": "2026-08-19T09:32:26.000Z"
       },
       {
         "platform": "Reddit",
@@ -194,6 +194,22 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 crashing after jailbreak 12.7",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vssjh8/ps5_crashing_after_jailbreak_127/",
+        "createdAt": "2026-08-19T17:09:37.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Guys help me please with Pegasus",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vsuwec/guys_help_me_please_with_pegasus/",
+        "createdAt": "2026-08-19T18:31:23.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS4Mods",
         "title": "How to do unlock all in Bo2? Back in 2013 I did a Lot using CFW on PS3. But how is it working on PS4/5?",
         "score": 0,
@@ -205,7 +221,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Is jailbreaking the PS4 Pro worth it? The semi-tethered aspect of it has me on the fence",
-      "score": 21,
+      "score": 29,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsamh1/is_jailbreaking_the_ps4_pro_worth_it_the/",
       "createdAt": "2026-08-19T03:13:17.000Z"
     },
@@ -214,7 +230,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Is jailbreaking the PS4 Pro worth it? The semi-tethered aspect of it has me on the fence",
-        "score": 21,
+        "score": 29,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vsamh1/is_jailbreaking_the_ps4_pro_worth_it_the/",
         "createdAt": "2026-08-19T03:13:17.000Z"
       },
@@ -223,26 +239,26 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Game save corrupted using Garlic Save Manager (solved)",
-        "score": 5,
+        "score": 11,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vspj1b/game_save_corrupted_using_garlic_save_manager/",
         "createdAt": "2026-08-19T15:22:58.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "Dreams PS4 trainer help",
+        "title": "Jb",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vseq5h/dreams_ps4_trainer_help/",
-        "createdAt": "2026-08-19T06:47:36.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vst5ag/jb/",
+        "createdAt": "2026-08-19T17:30:41.000Z"
       },
       "PS4Jailbreak": null,
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "\"Okay, NetFront NX isn't vulnerable to CVE-2026-2441.\"",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vryjvj/kay_netfront_nx_isnt_vulnerable_to_cve20262441/",
-        "createdAt": "2026-08-18T19:00:19.000Z"
+        "title": "Do you think guys the next jailbreak will drop in 13.52?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vsuyts/do_u_think_guys_the_next_jailbreak_will_drop_in/",
+        "createdAt": "2026-08-19T18:33:53.000Z"
       }
     },
     "sources": [
@@ -264,7 +280,7 @@
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 1
+        "count": 2
       },
       {
         "name": "r/PS4Jailbreak",
@@ -274,12 +290,30 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 3
+        "count": 4
       }
     ]
   },
   "bluesky": {
     "posts": [
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nJordy managed to create a semi-untethered solution for jailbreaking through redis.\n\nIt works like this: You boot up the console and it starts the jailbreak automatically without any user input needed.\n\nFor now up to firmware 5.50, but he is looking into higher firmwares.",
+        "score": 14,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtguhoqzg22w",
+        "createdAt": "2026-08-19T13:44:49.580Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtguhoqzg22w:bafyreif7wamekhlr5hpzwqrcejuj67kmygejkzchqneefsukamylveq574"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "PS5 Linux Games by Speed-007 🔥🎮🧐",
+        "score": 14,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mth5qvbiyk2q",
+        "createdAt": "2026-08-19T16:31:05.165Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mth5qvbiyk2q:bafyreign6ci6e6vm3pwx6sbzvmzjailiy5iw6r7b5z3izvmw45avo35tlq"
+      },
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
@@ -291,9 +325,18 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "How to Jailbreak Your PS4 on Firmware 11.02 or Lower with WebKitty!\n\nWatch Here: youtu.be/ASoYjPE-q4o",
+        "score": 12,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mth7hvubss24",
+        "createdAt": "2026-08-19T17:01:56.073Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mth7hvubss24:bafyreib4h63diymb6v4ritcuoey2wzq5sshdpv2zdhlnav2e2fk4pzz5au"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "We have done a single backport for all versions, only for 4.xx and higher. No more duplicate backports for multiple versions. One backport for 4.xx and another for 5.xx? But what kind of joke is this? lol\n\nRight now on DLS...",
-        "score": 10,
+        "score": 11,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtfkmdra222b",
         "createdAt": "2026-08-19T01:15:54.864Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtfkmdra222b:bafyreidbclk67754xkrvrmwim7hmboh3bdbeoedasysjksrta3p6esujcm"
@@ -309,24 +352,6 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nJordy managed to create a semi-untethered solution for jailbreaking through redis.\n\nIt works like this: You boot up the console and it starts the jailbreak automatically without any user input needed.\n\nFor now up to firmware 5.50, but he is looking into higher firmwares.",
-        "score": 8,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtguhoqzg22w",
-        "createdAt": "2026-08-19T13:44:49.580Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtguhoqzg22w:bafyreif7wamekhlr5hpzwqrcejuj67kmygejkzchqneefsukamylveq574"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "PS5 Linux Games by Speed-007 🔥🎮🧐",
-        "score": 8,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mth5qvbiyk2q",
-        "createdAt": "2026-08-19T16:31:05.165Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mth5qvbiyk2q:bafyreign6ci6e6vm3pwx6sbzvmzjailiy5iw6r7b5z3izvmw45avo35tlq"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "💢Webkit P2JB:\nelf loading should work now. make sure to clear cache and cookies before running the latest build. then if for some reason it doesn't load elf, press triangle and try again.\nx.com/i/status/208...",
         "score": 6,
@@ -336,30 +361,48 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ MARVEL Cosmic Invasion FULL GAME Walkthrough Gameplay PS5 4K60FPS (No Commentary) 🎮🕹️👀\nwww.youtube.com/watch?v=CfZz...",
-        "score": 3,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mth3u3iemk2q",
-        "createdAt": "2026-08-19T15:57:04.173Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mth3u3iemk2q:bafyreibkhfmd3eorliwfjtjevg5vgjdbvo2vhib7leukj4623q37bxghx4"
+        "community": "following:Consolefacts",
+        "title": "PS4 News:\n\nPSLAN is shutting down on September 19th, 2026.\n\nThe service allowed jailbroken users to play LAN-compatible games like Call of Duty online for free with others.\n\nGood news though there is a replacement in the works.",
+        "score": 5,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mthcvclf322i",
+        "createdAt": "2026-08-19T18:03:03.365Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mthcvclf322i:bafyreign3bdw4ftbm76r6wohf4irc6paxvtuupc2g2w4qj2fs2mbsmhmvu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
+        "title": "use only evox sender lite ( use bat ) \n\napp is in wip",
+        "score": 5,
+        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mth25xzrus2v",
+        "createdAt": "2026-08-19T15:26:43.966Z",
+        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mth25xzrus2v:bafyreihrzjuurhdrl6msyw6c5prca32zglthov4l6m74w6fu3x7fz7xoky"
       },
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "For those that are familiar with Xbox 360 modding, this is basically like BadAvatar.",
-        "score": 2,
+        "title": "For those that are familiar with Xbox 360 modding this is basically like BadAvatar.",
+        "score": 3,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtgujgl2qc2w",
         "createdAt": "2026-08-19T13:45:46.864Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtgujgl2qc2w:bafyreiesaouo2lkgnrzye5xj2tsqqf6clnvephx62nhxujokf6e34xjd3q"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "EtaHEN is not a jailbreak itself. Its a homebrew enabler payload ypu launch after jailbreaking. See my post on it.",
-        "score": 2,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtgu6nibls2w",
-        "createdAt": "2026-08-19T13:39:45.366Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtgu6nibls2w:bafyreidm3w6onxajip6mj6i5dtzfwanfuj43n7yggv2tm3qsvzkfquv2qa"
+        "community": "following:DLPS Team",
+        "title": "877...",
+        "score": 3,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mthekjdbes2o",
+        "createdAt": "2026-08-19T18:32:44.671Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mthekjdbes2o:bafyreibqu32khru37wjhzomjoply25uaco6i4gp5h5lsvoopgirmx5zfoy"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ MARVEL Cosmic Invasion FULL GAME Walkthrough Gameplay PS5 4K60FPS (No Commentary) 🎮🕹️👀\nwww.youtube.com/watch?v=CfZz...",
+        "score": 3,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mth3u3iemk2q",
+        "createdAt": "2026-08-19T15:57:04.173Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mth3u3iemk2q:bafyreibkhfmd3eorliwfjtjevg5vgjdbvo2vhib7leukj4623q37bxghx4"
       },
       {
         "platform": "Bluesky",
@@ -373,15 +416,6 @@
       {
         "platform": "Bluesky",
         "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
-        "title": "use only evox sender lite ( use bat ) \n\napp is in wip",
-        "score": 2,
-        "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mth25xzrus2v",
-        "createdAt": "2026-08-19T15:26:43.966Z",
-        "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mth25xzrus2v:bafyreihrzjuurhdrl6msyw6c5prca32zglthov4l6m74w6fu3x7fz7xoky"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
         "title": "install nodejs\nrun\nevox-sender-lite.bat ( test build )\n\nlaunch bat from pc\nadd your ps5 ip\n\nsend elf via elfldr\n\ngithub.com/nexgen999/Ev...",
         "score": 2,
         "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mtgzvoumic23",
@@ -391,29 +425,20 @@
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "You have issues you need to figure out with a therapist first. I'm sorry for your loss.",
-        "score": 0,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtggtnyya22m",
-        "createdAt": "2026-08-19T09:40:58.066Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtggtnyya22m:bafyreidzxwsgambnvgjmi6smxdrhol3ku4ekugvmeyev2y6hvhqevt4bgy"
+        "title": "For those still wanting to hop on the service while it's alive use this tutorial (yes it also works on 13.00):\n\nyoutu.be/pu8wKgmYYmM",
+        "score": 1,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mthcyk7o622i",
+        "createdAt": "2026-08-19T18:04:47.766Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mthcyk7o622i:bafyreibuyhl2xazoxusoqhcouhhgghimqtsstdcxzxk7hlgceksobsi6aa"
       },
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "Have fun paying $100 for a $30 game to scalpers then I suppose.",
+        "title": "You're confusing things here. Hardware emulation is what's legal here and software you own is aswell.\nIn the PS3 case once the store shuts down all it's games legally become abandonware and you're allowed to emulate those aswell.\nSo what's your excuse?",
         "score": 0,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtggqga7lc2m",
-        "createdAt": "2026-08-19T09:39:09.265Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtggqga7lc2m:bafyreiceexiwv2ldmnpjbengltyrbvv6zgyjpie37waptqqht2k5q3qywy"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "How to Jailbreak Your PS4 on Firmware 11.02 or Lower with WebKitty!\n\nWatch Here: youtu.be/ASoYjPE-q4o",
-        "score": 0,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mth7hvubss24",
-        "createdAt": "2026-08-19T17:01:56.073Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mth7hvubss24:bafyreib4h63diymb6v4ritcuoey2wzq5sshdpv2zdhlnav2e2fk4pzz5au"
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mthla43ifc2h",
+        "createdAt": "2026-08-19T20:32:10.066Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mthla43ifc2h:bafyreigr25rjrnlsz45jlbhno3raveeheofxqke2bewdqza4ptmj5otiqa"
       },
       {
         "platform": "Bluesky",
@@ -436,12 +461,12 @@
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:DLPS Team",
-      "title": "youtu.be/2ymfpImqgAg?...",
-      "score": 12,
-      "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtff5pxeys2g",
-      "createdAt": "2026-08-18T23:38:09.466Z",
-      "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtff5pxeys2g:bafyreicl6qmaks6ffpi4jb34r6dtcm2fklmzpdkwgl4idbd7cjdxbcswqy"
+      "community": "following:Consolefacts",
+      "title": "PS5 News:\n\nJordy managed to create a semi-untethered solution for jailbreaking through redis.\n\nIt works like this: You boot up the console and it starts the jailbreak automatically without any user input needed.\n\nFor now up to firmware 5.50, but he is looking into higher firmwares.",
+      "score": 14,
+      "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtguhoqzg22w",
+      "createdAt": "2026-08-19T13:44:49.580Z",
+      "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtguhoqzg22w:bafyreif7wamekhlr5hpzwqrcejuj67kmygejkzchqneefsukamylveq574"
     },
     "sources": [
       {
