@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-08-21T17:05:54.119Z",
-  "runTimePacific": "08/21/2026, 10:05 PDT",
-  "windowStartPacific": "08/20/2026, 10:05 PDT",
-  "windowEndPacific": "08/21/2026, 10:05 PDT",
+  "generatedAt": "2026-08-21T20:44:12.606Z",
+  "runTimePacific": "08/21/2026, 13:44 PDT",
+  "windowStartPacific": "08/20/2026, 13:44 PDT",
+  "windowEndPacific": "08/21/2026, 13:44 PDT",
   "status": "complete",
   "youtube": {
-    "latest": null,
+    "latest": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "PlayStation Homebrew News (Universal SlopKit, DooMC0re on PS5 13.60 + New Emulators)",
+      "url": "https://www.youtube.com/watch?v=CcgI0FejOYQ",
+      "createdAt": "2026-08-21T19:48:33.000Z"
+    },
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -20,9 +26,25 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
-        "score": 43,
+        "score": 74,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
         "createdAt": "2026-08-21T13:58:51.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "What firmware do I update",
+        "score": 12,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vunfr2/what_firmware_do_i_update/",
+        "createdAt": "2026-08-21T17:51:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "APR Emu Updater — Easily keep APR Emu updated on your PS5",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vur3cf/apr_emu_updater_easily_keep_apr_emu_updated_on/",
+        "createdAt": "2026-08-21T20:05:11.000Z"
       },
       {
         "platform": "Reddit",
@@ -31,6 +53,14 @@
         "score": 5,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu2v08/psa_installing_y2jb_after_webkit_jailbreak_wiped/",
         "createdAt": "2026-08-21T01:51:40.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Advice needed please",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vucni8/advice_needed_please/",
+        "createdAt": "2026-08-21T10:35:11.000Z"
       },
       {
         "platform": "Reddit",
@@ -51,16 +81,8 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Advice needed please",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vucni8/advice_needed_please/",
-        "createdAt": "2026-08-21T10:35:11.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Two specific games refuse to install.",
-        "score": 2,
+        "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vu9yyw/two_specific_games_refuse_to_install/",
         "createdAt": "2026-08-21T08:03:16.000Z"
       },
@@ -74,19 +96,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Are all the new methods using p2jb? Like WebKit, blurry, and y2jb?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu9e3n/are_all_the_new_methods_using_p2jb_like/",
-        "createdAt": "2026-08-21T07:28:23.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Getting PS4 games",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vu7miq/getting_ps4_games/",
         "createdAt": "2026-08-21T05:48:09.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 stuck in safe mode loop – tried everything on Google and youtube",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vuk4q4/ps4_stuck_in_safe_mode_loop_tried_everything_on/",
+        "createdAt": "2026-08-21T15:50:19.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "WebDAV question",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vui9jr/webdav_question/",
+        "createdAt": "2026-08-21T14:41:30.000Z"
       },
       {
         "platform": "Reddit",
@@ -98,11 +128,35 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "ols ps4 wants to force me to 10.00",
+        "community": "PS5_Jailbreak",
+        "title": "Are all the new methods using p2jb? Like webkit,blurry and y2jb?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtu0bq/ols_ps4_wants_to_force_me_to_1000/",
-        "createdAt": "2026-08-20T19:50:04.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu9e3n/are_all_the_new_methods_using_p2jb_like/",
+        "createdAt": "2026-08-21T07:28:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 jailbreak keeps crashing",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuprxx/ps5_jailbreak_keeps_crashing/",
+        "createdAt": "2026-08-21T19:15:30.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "FileZilla failing in files",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vufxqn/filezilla_failing_in_files/",
+        "createdAt": "2026-08-21T13:09:29.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "Any MGS fans?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vurmj9/any_mgs_fans/",
+        "createdAt": "2026-08-21T20:25:38.000Z"
       },
       {
         "platform": "Reddit",
@@ -115,18 +169,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PS4 stuck in safe mode loop – tried everything on Google and youtube",
+        "title": "12.50",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vuk4q4/ps4_stuck_in_safe_mode_loop_tried_everything_on/",
-        "createdAt": "2026-08-21T15:50:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "WebDAV question",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vui9jr/webdav_question/",
-        "createdAt": "2026-08-21T14:41:30.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vufaly/1250/",
+        "createdAt": "2026-08-21T12:42:15.000Z"
       },
       {
         "platform": "Reddit",
@@ -138,51 +184,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Need help guys",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtrk2l/need_help_guys/",
-        "createdAt": "2026-08-20T18:24:45.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Help with Mods",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtpt8l/help_with_mods/",
-        "createdAt": "2026-08-20T17:22:40.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "12.50",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vufaly/1250/",
-        "createdAt": "2026-08-21T12:42:15.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Is Y2JB available on 13.40 yet?",
+        "title": "i’m going crazy while waiting for a new kex to come out!",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vts0rt/is_y2jb_available_on_1340_yet/",
-        "createdAt": "2026-08-20T18:41:22.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vums3n/im_going_crazy_while_waiting_for_a_new_kex_to/",
+        "createdAt": "2026-08-21T17:26:52.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Do owners of a new ps5 jailbreak their console, potentially voiding their warranty?",
+        "title": "Is it safe to rebuild database with jb?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuknng/do_owners_of_a_new_ps5_jailbreak_their_console/",
-        "createdAt": "2026-08-21T16:09:46.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuozv3/is_it_safe_to_rebuild_database_with_jb/",
+        "createdAt": "2026-08-21T18:47:20.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "FileZilla failing in files",
+        "title": "FileZilla \"EACCES - Permission denied\" fix needed",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vufxqn/filezilla_failing_in_files/",
-        "createdAt": "2026-08-21T13:09:29.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vulzh3/filezilla_eacces_permission_denied_fix_needed/",
+        "createdAt": "2026-08-21T16:58:39.000Z"
       },
       {
         "platform": "Reddit",
@@ -195,10 +217,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Multiplayer on jailbroken PS5",
+        "title": "Do owners of a new ps5 jailbreak their console, potentially voiding their warranty?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vufbif/multiplayer_on_jailbroken_ps5/",
-        "createdAt": "2026-08-21T12:43:22.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuknng/do_owners_of_a_new_ps5_jailbreak_their_console/",
+        "createdAt": "2026-08-21T16:09:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -213,7 +235,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
-      "score": 43,
+      "score": 74,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
       "createdAt": "2026-08-21T13:58:51.000Z"
     },
@@ -221,28 +243,35 @@
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Spotify PKG?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vudu6i/spotify_pkg/",
-        "createdAt": "2026-08-21T11:34:50.000Z"
+        "title": "Advice needed please",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vucni8/advice_needed_please/",
+        "createdAt": "2026-08-21T10:35:11.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Is Y2JB available on 13.40 yet?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vts0rt/is_y2jb_available_on_1340_yet/",
-        "createdAt": "2026-08-20T18:41:22.000Z"
+        "title": "What firmware do I update",
+        "score": 12,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vunfr2/what_firmware_do_i_update/",
+        "createdAt": "2026-08-21T17:51:13.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
-        "score": 43,
+        "score": 74,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
         "createdAt": "2026-08-21T13:58:51.000Z"
       },
-      "PS4Hacks2": null,
+      "PS4Hacks2": {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "Any MGS fans?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vurmj9/any_mgs_fans/",
+        "createdAt": "2026-08-21T20:25:38.000Z"
+      },
       "PS4Jailbreak": null,
       "PS4Mods": {
         "platform": "Reddit",
@@ -257,22 +286,22 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 9
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 1
+        "count": 2
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 9
+        "count": 12
       },
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 0
+        "count": 1
       },
       {
         "name": "r/PS4Jailbreak",
@@ -290,18 +319,9 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "Going offline to go browser shopping.",
-        "score": 28,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mtjqaozad22e",
-        "createdAt": "2026-08-20T17:07:19.966Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtjqaozad22e:bafyreigocm2xj2ygx5jhaacrkfoiihruihogzs364idfbjck7scps56xem"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:maj0r",
         "title": "This is my new project:\n\nProspero Manager - a All-In-One manager for the PS5!\n\nHope y'all like it! 💪\n\nx.com/callmemaj0r/...",
-        "score": 20,
+        "score": 21,
         "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mtkj3pnzvs2x",
         "createdAt": "2026-08-21T00:32:09.973Z",
         "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mtkj3pnzvs2x:bafyreigltx7pb7ckxvh4dl7hcuia4yu7uvfp4wwtkxkebe637okz6c4zgu"
@@ -310,37 +330,28 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "github.com/Michele-M-Me...",
-        "score": 13,
+        "score": 14,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtkpkokxgc2l",
         "createdAt": "2026-08-21T02:27:42.165Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtkpkokxgc2l:bafyreih4ivhyy3fpu5nllz5ihulcfqphdhkrwu7ytkbqsksoz7tf6sfr2u"
       },
       {
         "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "(untitled post)",
-        "score": 10,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mtjqik4q2s2w",
-        "createdAt": "2026-08-20T17:11:42.368Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mtjqik4q2s2w:bafyreibyzc6ouxnztmqyjhhdzc2cknzxqk2cy5hlikptjcgol6xemwitgu"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS4 & PS5 News:\n\nThe Cyprus Network has introduced online matchmaking for the following games:\n\n- Payday 2\n- Diablo 3\n- Quake 2\n- Call of Duty Ghosts\n- Call of Duty Black Ops 3",
-        "score": 7,
+        "score": 8,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtllj5ghzc25",
         "createdAt": "2026-08-21T10:47:55.468Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtllj5ghzc25:bafyreickrydnh5tyrqtrfwfu5dowuvotpgqx3qqxwim44wuszffcnoekki"
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Do you want to play the game that's a kind of little brother of Astro Bot? Because I propose you that this summer, you can first play this great game, and then you can play Astro Bot. What do you think?\n\nPatch 01.905.000\n\nprosperopatches.com/PPSA01325\n\nRight now on DLS...",
-        "score": 7,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtk3otlhvk2v",
-        "createdAt": "2026-08-20T20:32:07.263Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtk3otlhvk2v:bafyreidrpe2bmyf7qdu7qefnnwcqzalgq7hsu5kaqokgp3ftx3mstm42wq"
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ TEST poopsloit on PS5 7.01 pooP2JB page Sonic-Iso 🔥🧐",
+        "score": 8,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtmelxbeis2q",
+        "createdAt": "2026-08-21T18:16:50.369Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtmelxbeis2q:bafyreiaomd2dfmy75fbbcsnk7eh7jaotctrajtesgm6sah5ekqvdlcrwou"
       },
       {
         "platform": "Bluesky",
@@ -353,12 +364,12 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "There's a Spanish saying that goes, \"all good things come in threes,\" and this backport makes me especially happy because it's a Spanish game developed by a friend. Interestingly, this game was developed by only one person—unbelievable, but true\n\nRight now on DLS...",
-        "score": 5,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtk2qbpadk2v",
-        "createdAt": "2026-08-20T20:15:01.873Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtk2qbpadk2v:bafyreieeqmmckkeygitmdzuyjdb4iqt2kaypzij672acm3klj5m6hu5jsi"
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ Silent Hill Townfall Gameplay 4K60FPS 🎮🕹️👀\nwww.youtube.com/watch?v=YTcv...",
+        "score": 6,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtme6lhuzk2q",
+        "createdAt": "2026-08-21T18:09:22.472Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtme6lhuzk2q:bafyreifpqfgui3nnjbzjt7y7pvs7tpn3jbctu4xykykrg5lzzpv7ssqs34"
       },
       {
         "platform": "Bluesky",
@@ -372,6 +383,15 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
+        "title": "youtu.be/CcgI0FejOYQ?...",
+        "score": 1,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtmkbn2pqk2l",
+        "createdAt": "2026-08-21T19:58:26.769Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtmkbn2pqk2l:bafyreihnz3jar5cy46ikogxtqed7i3nshk4oep655y6352ipf7u3aybtwi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
         "title": "Thanks a lot, friend, I'll think about it",
         "score": 1,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtkn3ugemk2v",
@@ -381,12 +401,12 @@
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:MrMario2011",
-      "title": "Going offline to go browser shopping.",
-      "score": 28,
-      "url": "https://bsky.app/profile/mrmario2011.com/post/3mtjqaozad22e",
-      "createdAt": "2026-08-20T17:07:19.966Z",
-      "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtjqaozad22e:bafyreigocm2xj2ygx5jhaacrkfoiihruihogzs364idfbjck7scps56xem"
+      "community": "following:maj0r",
+      "title": "This is my new project:\n\nProspero Manager - a All-In-One manager for the PS5!\n\nHope y'all like it! 💪\n\nx.com/callmemaj0r/...",
+      "score": 21,
+      "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mtkj3pnzvs2x",
+      "createdAt": "2026-08-21T00:32:09.973Z",
+      "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mtkj3pnzvs2x:bafyreigltx7pb7ckxvh4dl7hcuia4yu7uvfp4wwtkxkebe637okz6c4zgu"
     },
     "sources": [
       {
