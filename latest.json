@@ -1,22 +1,16 @@
 {
-  "generatedAt": "2026-08-20T20:51:01.743Z",
-  "runTimePacific": "08/20/2026, 13:51 PDT",
-  "windowStartPacific": "08/19/2026, 13:51 PDT",
-  "windowEndPacific": "08/20/2026, 13:51 PDT",
+  "generatedAt": "2026-08-21T13:56:49.281Z",
+  "runTimePacific": "08/21/2026, 06:56 PDT",
+  "windowStartPacific": "08/20/2026, 06:56 PDT",
+  "windowEndPacific": "08/21/2026, 06:56 PDT",
   "status": "complete",
   "youtube": {
-    "latest": {
-      "platform": "YouTube",
-      "community": "PlayStation Hacks & Exploits | Michael Crump",
-      "title": "WebKit + P2JB + etaHEN 2.6B on PS5 12.70",
-      "url": "https://www.youtube.com/watch?v=FRCpB4BVQVY",
-      "createdAt": "2026-08-20T02:04:17.000Z"
-    },
+    "latest": null,
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 1
+        "count": 0
       }
     ]
   },
@@ -24,41 +18,9 @@
     "posts": [
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Ope. I’m really curious if we get it faster than expected, if at all, now lmao",
-        "score": 26,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtrty8/ope_real_curious_if_we_get_it_faster_than/",
-        "createdAt": "2026-08-20T18:34:41.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Pawn shop 500GB slim score, this thing was on the same FW version as my 1TB phat (seen below). Come 10 minutes later and I was already installing VueAfterFree via the restore method. Also got a free Ghost of Tsushima copy w/ it.",
-        "score": 24,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vt33by/pawn_shop_500gb_slim_score_this_thing_was_on_the/",
-        "createdAt": "2026-08-19T23:42:23.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Looking for YouTube 1.30 for Y2JB",
-        "score": 12,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vt6s60/looking_for_youtube_130_for_y2jb/",
-        "createdAt": "2026-08-20T02:24:44.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Is there any game \"store\" for the jailbroken PS4?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vt0u2z/there_is_any_game_store_for_the_jailbroken_ps4/",
-        "createdAt": "2026-08-19T22:10:38.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "For anyone who runs Linux on their PS4, what do you use it for?",
-        "score": 4,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtlfk5/for_anyone_who_runs_linux_on_their_ps4_what_do/",
         "createdAt": "2026-08-20T14:42:25.000Z"
       },
@@ -66,33 +28,57 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "What payloads do you use on your PS5?",
-        "score": 3,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtkrok/what_payloads_do_you_use_on_your_ps5/",
         "createdAt": "2026-08-20T14:16:50.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "ols PS4 wants to force me to 10.00",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtu0bq/ols_ps4_wants_to_force_me_to_1000/",
-        "createdAt": "2026-08-20T19:50:04.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "My disk drive got disconnected. What can I do? I’m on 10.60",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu6der/my_disk_drive_got_disconnected_what_can_i_do_im/",
+        "createdAt": "2026-08-21T04:41:12.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PSA: Installing Y2JB after WebKit jailbreak wiped all my PS5 save data 😭",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu2v08/psa_installing_y2jb_after_webkit_jailbreak_wiped/",
+        "createdAt": "2026-08-21T01:51:40.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Pkg sender V2",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtl4uz/pkg_sender_v2/",
-        "createdAt": "2026-08-20T14:30:44.000Z"
+        "title": "Spotify PKG?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vudu6i/spotify_pkg/",
+        "createdAt": "2026-08-21T11:34:50.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Call of duty black ops 3 zombies with JB ps4?",
+        "title": "Advice needed please",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtiep8/call_of_duty_black_ops_3_zombies_with_jb_ps4/",
-        "createdAt": "2026-08-20T12:41:12.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vucni8/advice_needed_please/",
+        "createdAt": "2026-08-21T10:35:11.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Two specific games refuse to install.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vu9yyw/two_specific_games_refuse_to_install/",
+        "createdAt": "2026-08-21T08:03:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How to change hard drive and keep all my data",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtwmvo/how_to_change_hard_drive_and_keep_all_my_data/",
+        "createdAt": "2026-08-20T21:28:17.000Z"
       },
       {
         "platform": "Reddit",
@@ -105,42 +91,34 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "OnionHen not found error with autoloader but works fine with Payload Manager",
+        "title": "Are all the new methods using p2jb? Like webkit,blurry and y2jb?",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vthngq/onionhen_not_found_error_with_autoloader_but/",
-        "createdAt": "2026-08-20T12:07:13.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu9e3n/are_all_the_new_methods_using_p2jb_like/",
+        "createdAt": "2026-08-21T07:28:23.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Does it matter if you have a Classic, Slim, or Pro when it comes to jailbreaking?",
+        "community": "PS4Mods",
+        "title": "Getting PS4 games",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vsyz4h/does_it_matter_if_you_have_a_classic_slim_or_pro/",
-        "createdAt": "2026-08-19T20:59:29.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "11.60 using Y2JB with P2JB, should i update to Webkit jailbrake?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtfixh/1160_using_y2jb_with_p2jb_should_i_update_to/",
-        "createdAt": "2026-08-20T10:21:13.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "Is there any way to pirate Minecraft on ps4",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vtgqn0/is_there_any_way_to_pirate_minecraft_on_ps4/",
-        "createdAt": "2026-08-20T11:23:45.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vu7miq/getting_ps4_games/",
+        "createdAt": "2026-08-21T05:48:09.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Need help guys",
+        "title": "About to start my journey",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtrk2l/need_help_guys/",
-        "createdAt": "2026-08-20T18:24:45.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vu1zrr/about_to_start_my_journey/",
+        "createdAt": "2026-08-21T01:11:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "ols ps4 wants to force me to 10.00",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtu0bq/ols_ps4_wants_to_force_me_to_1000/",
+        "createdAt": "2026-08-20T19:50:04.000Z"
       },
       {
         "platform": "Reddit",
@@ -153,58 +131,42 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Should I update?",
+        "title": "Pkg sender V2",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vti6ke/should_i_update/",
-        "createdAt": "2026-08-20T12:31:03.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Vue after free music",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vthc1o/vue_after_free_music/",
-        "createdAt": "2026-08-20T11:52:47.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Preciso do arquivo que tem rey mistério do wwe 2k19, alguém tem?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtdzch/preciso_do_arquivo_que_tem_rey_mistério_do_wwe/",
-        "createdAt": "2026-08-20T08:53:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Differences in firmware version",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtnkyg/differences_in_firmware_version/",
-        "createdAt": "2026-08-20T16:01:42.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "What's the current best way to jailbreak on 4.50?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vt9tac/whats_the_current_best_way_to_jailbreak_on_450/",
-        "createdAt": "2026-08-20T04:53:36.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtl4uz/pkg_sender_v2/",
+        "createdAt": "2026-08-20T14:30:44.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Please help me to jailbreak my ps4 5.05",
+        "title": "Best option for ps4 slim on 12.02?",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vtcjp9/please_help_me_to_jailbreak_my_ps4_505/",
-        "createdAt": "2026-08-20T07:26:11.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vufnoh/best_option_for_ps4_slim_on_1202/",
+        "createdAt": "2026-08-21T12:58:04.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Downloading games in bulk",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vt910q/downloading_games_in_bulk/",
-        "createdAt": "2026-08-20T04:12:22.000Z"
+        "community": "ps4homebrew",
+        "title": "12.50",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vufaly/1250/",
+        "createdAt": "2026-08-21T12:42:15.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Help apps not launching",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vu9lsm/help_apps_not_launching/",
+        "createdAt": "2026-08-21T07:41:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Need help guys",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtrk2l/need_help_guys/",
+        "createdAt": "2026-08-20T18:24:45.000Z"
       },
       {
         "platform": "Reddit",
@@ -213,38 +175,6 @@
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtpt8l/help_with_mods/",
         "createdAt": "2026-08-20T17:22:40.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "should i jailbreak this ps4 pro?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vte0mh/should_i_jailbreak_this_ps4_pro/",
-        "createdAt": "2026-08-20T08:55:33.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Streaming Ps4 pro titles to Nintendo Switch OLED, possible?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtdqjw/streaming_ps4_pro_titles_to_nintendo_switch_oled/",
-        "createdAt": "2026-08-20T08:38:27.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Will it run things like Sims 4?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vt85pi/will_it_run_things_like_sims_4/",
-        "createdAt": "2026-08-20T03:29:50.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Anyone gone back to OFW without formatting?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vt21b4/anyone_gone_back_to_ofw_without_formatting/",
-        "createdAt": "2026-08-19T22:58:53.000Z"
       },
       {
         "platform": "Reddit",
@@ -265,6 +195,22 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Differences in firmware version",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtnkyg/differences_in_firmware_version/",
+        "createdAt": "2026-08-20T16:01:42.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "FileZilla failing in files",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vufxqn/filezilla_failing_in_files/",
+        "createdAt": "2026-08-21T13:09:29.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Going from bdjb to webkit what about payload manager?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vto8rm/going_from_bdjb_to_webkit_what_about_payload/",
@@ -281,36 +227,36 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Is it true Cyberleek leaked the GTA 6 fpkg?",
+        "title": "Multiplayer on jailbroken PS5",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vto7eh/is_it_true_cyberleek_leaked_the_gta_6_fpkg/",
-        "createdAt": "2026-08-20T16:24:09.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vufbif/multiplayer_on_jailbroken_ps5/",
+        "createdAt": "2026-08-21T12:43:22.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "guide me with Jailbroken PS5",
+        "title": "Planning to buy GTA VI on my PS5 before jailbreaking — need some advice",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtirf6/guide_me_with_jailbroken_ps5/",
-        "createdAt": "2026-08-20T12:56:38.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vubil6/planning_to_buy_gta_vi_on_my_ps5_before/",
+        "createdAt": "2026-08-21T09:34:09.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
-      "community": "PS5_Jailbreak",
-      "title": "Ope. I’m really curious if we get it faster than expected, if at all, now lmao",
-      "score": 26,
-      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtrty8/ope_real_curious_if_we_get_it_faster_than/",
-      "createdAt": "2026-08-20T18:34:41.000Z"
+      "community": "ps4homebrew",
+      "title": "For anyone who runs Linux on their PS4, what do you use it for?",
+      "score": 8,
+      "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtlfk5/for_anyone_who_runs_linux_on_their_ps4_what_do/",
+      "createdAt": "2026-08-20T14:42:25.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Pawn shop 500GB slim score, this thing was on the same FW version as my 1TB phat (seen below). Come 10 minutes later and I was already installing VueAfterFree via the restore method. Also got a free Ghost of Tsushima copy w/ it.",
-        "score": 24,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vt33by/pawn_shop_500gb_slim_score_this_thing_was_on_the/",
-        "createdAt": "2026-08-19T23:42:23.000Z"
+        "title": "For anyone who runs Linux on their PS4, what do you use it for?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtlfk5/for_anyone_who_runs_linux_on_their_ps4_what_do/",
+        "createdAt": "2026-08-20T14:42:25.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
@@ -323,34 +269,27 @@
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Ope. I’m really curious if we get it faster than expected, if at all, now lmao",
-        "score": 26,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtrty8/ope_real_curious_if_we_get_it_faster_than/",
-        "createdAt": "2026-08-20T18:34:41.000Z"
+        "title": "What payloads do you use on your PS5?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtkrok/what_payloads_do_you_use_on_your_ps5/",
+        "createdAt": "2026-08-20T14:16:50.000Z"
       },
-      "PS4Hacks2": {
-        "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "Is there any way to pirate Minecraft on ps4",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1vtgqn0/is_there_any_way_to_pirate_minecraft_on_ps4/",
-        "createdAt": "2026-08-20T11:23:45.000Z"
-      },
+      "PS4Hacks2": null,
       "PS4Jailbreak": null,
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Is there any game \"store\" for the jailbroken PS4?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vt0u2z/there_is_any_game_store_for_the_jailbroken_ps4/",
-        "createdAt": "2026-08-19T22:10:38.000Z"
+        "title": "Getting PS4 games",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vu7miq/getting_ps4_games/",
+        "createdAt": "2026-08-21T05:48:09.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 15
+        "count": 13
       },
       {
         "name": "r/ps5homebrew",
@@ -360,12 +299,12 @@
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 12
+        "count": 10
       },
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 1
+        "count": 0
       },
       {
         "name": "r/PS4Jailbreak",
@@ -375,7 +314,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 3
+        "count": 2
       }
     ]
   },
@@ -385,79 +324,43 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "Going offline to go browser shopping.",
-        "score": 20,
+        "score": 28,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mtjqaozad22e",
         "createdAt": "2026-08-20T17:07:19.966Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtjqaozad22e:bafyreigocm2xj2ygx5jhaacrkfoiihruihogzs364idfbjck7scps56xem"
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "All credits to Drakmor 🫶\n\ngithub.com/drakmor/ampr...",
-        "score": 14,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtiwl7o55s25",
-        "createdAt": "2026-08-20T09:27:55.662Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtiwl7o55s25:bafyreiart52iiz7ly3hphthgpqk2hn324whesnipinnom4g5mbiazno7bu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "💢Apr-emu-files:\nThe event delivery in queues has been completely redesigned and the rector cycle has been optimized. This has significantly increased performance and improved response times.\ncdn.discordapp.com/attachments/...",
-        "score": 8,
-        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtiznfuu7c2n",
-        "createdAt": "2026-08-20T10:22:51.170Z",
-        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtiznfuu7c2n:bafyreihef4h6kuxt3hdt52igauizl3pzxzuitnob2tlhvrltrjvbu64ezm"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "💢ShadowMountPlus:\ngithub.com/drakmor/Shad...",
-        "score": 6,
-        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtizrbxuhs2n",
-        "createdAt": "2026-08-20T10:25:00.172Z",
-        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtizrbxuhs2n:bafyreifkzclvcwluhu3c577ordau4chrvs6uottbfhrylmi3645fj7zaya"
+        "community": "following:maj0r",
+        "title": "This is my new project:\n\nProspero Manager - a All-In-One manager for the PS5!\n\nHope y'all like it! 💪\n\nx.com/callmemaj0r/...",
+        "score": 18,
+        "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mtkj3pnzvs2x",
+        "createdAt": "2026-08-21T00:32:09.973Z",
+        "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mtkj3pnzvs2x:bafyreigltx7pb7ckxvh4dl7hcuia4yu7uvfp4wwtkxkebe637okz6c4zgu"
       },
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "Our second backport is ready\n\nPatch 1.013 and backport\n\nRight now on DLS...",
-        "score": 6,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtjnxzcf322m",
-        "createdAt": "2026-08-20T16:26:40.171Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtjnxzcf322m:bafyreigxai4aowxaha2mhhczh6vw6ok6mvvuwfqfpfagxfqvtggv54z3jy"
+        "title": "github.com/Michele-M-Me...",
+        "score": 9,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtkpkokxgc2l",
+        "createdAt": "2026-08-21T02:27:42.165Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtkpkokxgc2l:bafyreih4ivhyy3fpu5nllz5ihulcfqphdhkrwu7ytkbqsksoz7tf6sfr2u"
       },
       {
         "platform": "Bluesky",
         "community": "following:mustafa-ps4-ps5",
         "title": "(untitled post)",
-        "score": 4,
+        "score": 9,
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mtjqik4q2s2w",
         "createdAt": "2026-08-20T17:11:42.368Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mtjqik4q2s2w:bafyreibyzc6ouxnztmqyjhhdzc2cknzxqk2cy5hlikptjcgol6xemwitgu"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "You can play PS3 games on original hardware, but nowadays also on low-end PCs/laptops and mobile devices even with RPCS3 (rpcs3.net)\nFor PC/Android you can use any controller like Xbox controllers even, or your keyboard and mouse.",
-        "score": 2,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtjosfy76c2q",
-        "createdAt": "2026-08-20T16:41:25.662Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtjosfy76c2q:bafyreibrs2qd26ddrxl36ym3tvq6tf43yrjpwxq2uoku6gy6ewwx4hvicy"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Yeah",
-        "score": 2,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtjm5ckrwc2m",
-        "createdAt": "2026-08-20T15:53:48.370Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtjm5ckrwc2m:bafyreib2s746ljzcre3eclnabm33mhpcfpznlomvnb4uokev2gujsefw2e"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Do you want to play the game that's a kind of little brother of Astro Bot? Because I propose you that this summer, you can first play this great game, and then you can play Astro Bot. What do you think?\n\nPatch 01.905.000\n\nprosperopatches.com/PPSA01325\n\nRight now on DLS...",
-        "score": 1,
+        "score": 6,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtk3otlhvk2v",
         "createdAt": "2026-08-20T20:32:07.263Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtk3otlhvk2v:bafyreidrpe2bmyf7qdu7qefnnwcqzalgq7hsu5kaqokgp3ftx3mstm42wq"
@@ -465,18 +368,63 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
+        "title": "If anyone has any PS5 game (digital or physical) that they'd like to share with the community and help us with video game preservation, please message me privately. Don't worry, my private messages are always open, lol. Thanks in advance 🫶",
+        "score": 5,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtlezx46sc2l",
+        "createdAt": "2026-08-21T08:51:59.064Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtlezx46sc2l:bafyreicypsu7pkzmkydcw6hqicm4bhgkkqmiacpef3inwimz2z5klmfwnm"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS4 & PS5 News:\n\nThe Cyprus Network has introduced online matchmaking for the following games:\n\n- Payday 2\n- Diablo 3\n- Quake 2\n- Call of Duty Ghosts\n- Call of Duty Black Ops 3",
+        "score": 4,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtllj5ghzc25",
+        "createdAt": "2026-08-21T10:47:55.468Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtllj5ghzc25:bafyreickrydnh5tyrqtrfwfu5dowuvotpgqx3qqxwim44wuszffcnoekki"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "You can play PS3 games on original hardware, but nowadays also on low-end PCs/laptops and mobile devices even with RPCS3 (rpcs3.net)\nFor PC/Android you can use any controller like Xbox controllers even, or your keyboard and mouse.",
+        "score": 4,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtjosfy76c2q",
+        "createdAt": "2026-08-20T16:41:25.662Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtjosfy76c2q:bafyreibrs2qd26ddrxl36ym3tvq6tf43yrjpwxq2uoku6gy6ewwx4hvicy"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
         "title": "There's a Spanish saying that goes, \"all good things come in threes,\" and this backport makes me especially happy because it's a Spanish game developed by a friend. Interestingly, this game was developed by only one person—unbelievable, but true\n\nRight now on DLS...",
-        "score": 1,
+        "score": 4,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtk2qbpadk2v",
         "createdAt": "2026-08-20T20:15:01.873Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtk2qbpadk2v:bafyreieeqmmckkeygitmdzuyjdb4iqt2kaypzij672acm3klj5m6hu5jsi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "Yes that's easily doable. There's even retropi images that have it included. Here's a tutorial \n\nyoutu.be/P-_PrLSo26c",
+        "score": 0,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtllc26umc25",
+        "createdAt": "2026-08-21T10:43:55.169Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtllc26umc25:bafyreibynfptwbronmvkawk675ah6wtfork3dmjgmlfanpqenodracb62u"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "Thanks a lot, friend, I'll think about it",
+        "score": 0,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtkn3ugemk2v",
+        "createdAt": "2026-08-21T01:43:34.164Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtkn3ugemk2v:bafyreihc332fzh4ifqy23gsrkq23z5zod7anbrk5m5ps6mywlhmsdegkny"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
       "community": "following:MrMario2011",
       "title": "Going offline to go browser shopping.",
-      "score": 20,
+      "score": 28,
       "url": "https://bsky.app/profile/mrmario2011.com/post/3mtjqaozad22e",
       "createdAt": "2026-08-20T17:07:19.966Z",
       "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtjqaozad22e:bafyreigocm2xj2ygx5jhaacrkfoiihruihogzs364idfbjck7scps56xem"
