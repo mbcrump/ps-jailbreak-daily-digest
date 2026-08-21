@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T13:56:49.281Z",
-  "runTimePacific": "08/21/2026, 06:56 PDT",
-  "windowStartPacific": "08/20/2026, 06:56 PDT",
-  "windowEndPacific": "08/21/2026, 06:56 PDT",
+  "generatedAt": "2026-08-21T17:05:54.119Z",
+  "runTimePacific": "08/21/2026, 10:05 PDT",
+  "windowStartPacific": "08/20/2026, 10:05 PDT",
+  "windowEndPacific": "08/21/2026, 10:05 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -18,27 +18,11 @@
     "posts": [
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "For anyone who runs Linux on their PS4, what do you use it for?",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtlfk5/for_anyone_who_runs_linux_on_their_ps4_what_do/",
-        "createdAt": "2026-08-20T14:42:25.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "What payloads do you use on your PS5?",
-        "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtkrok/what_payloads_do_you_use_on_your_ps5/",
-        "createdAt": "2026-08-20T14:16:50.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "My disk drive got disconnected. What can I do? I’m on 10.60",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu6der/my_disk_drive_got_disconnected_what_can_i_do_im/",
-        "createdAt": "2026-08-21T04:41:12.000Z"
+        "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
+        "score": 43,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
+        "createdAt": "2026-08-21T13:58:51.000Z"
       },
       {
         "platform": "Reddit",
@@ -47,6 +31,14 @@
         "score": 5,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu2v08/psa_installing_y2jb_after_webkit_jailbreak_wiped/",
         "createdAt": "2026-08-21T01:51:40.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "My disk drive got disconnected. What can I do? I’m on 10.60",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu6der/my_disk_drive_got_disconnected_what_can_i_do_im/",
+        "createdAt": "2026-08-21T04:41:12.000Z"
       },
       {
         "platform": "Reddit",
@@ -60,7 +52,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Advice needed please",
-        "score": 2,
+        "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vucni8/advice_needed_please/",
         "createdAt": "2026-08-21T10:35:11.000Z"
       },
@@ -82,16 +74,8 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Y2JB",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vtlggz/y2jb/",
-        "createdAt": "2026-08-20T14:43:24.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Are all the new methods using p2jb? Like webkit,blurry and y2jb?",
+        "title": "Are all the new methods using p2jb? Like WebKit, blurry, and y2jb?",
         "score": 2,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vu9e3n/are_all_the_new_methods_using_p2jb_like/",
         "createdAt": "2026-08-21T07:28:23.000Z"
@@ -122,22 +106,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Tlou part 1 no character dialogue sound effects work however",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtmwrq/tlou_part_1_no_character_dialogue_sound_effects/",
-        "createdAt": "2026-08-20T15:37:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Pkg sender V2",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtl4uz/pkg_sender_v2/",
-        "createdAt": "2026-08-20T14:30:44.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Best option for ps4 slim on 12.02?",
         "score": 1,
@@ -147,10 +115,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "12.50",
+        "title": "PS4 stuck in safe mode loop – tried everything on Google and youtube",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vufaly/1250/",
-        "createdAt": "2026-08-21T12:42:15.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vuk4q4/ps4_stuck_in_safe_mode_loop_tried_everything_on/",
+        "createdAt": "2026-08-21T15:50:19.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "WebDAV question",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vui9jr/webdav_question/",
+        "createdAt": "2026-08-21T14:41:30.000Z"
       },
       {
         "platform": "Reddit",
@@ -178,11 +154,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Differences in firmware version",
+        "community": "ps4homebrew",
+        "title": "12.50",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vtnl81/differences_in_firmware_version/",
-        "createdAt": "2026-08-20T16:01:57.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vufaly/1250/",
+        "createdAt": "2026-08-21T12:42:15.000Z"
       },
       {
         "platform": "Reddit",
@@ -195,10 +171,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Differences in firmware version",
+        "title": "Do owners of a new ps5 jailbreak their console, potentially voiding their warranty?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtnkyg/differences_in_firmware_version/",
-        "createdAt": "2026-08-20T16:01:42.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuknng/do_owners_of_a_new_ps5_jailbreak_their_console/",
+        "createdAt": "2026-08-21T16:09:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -211,18 +187,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Going from bdjb to webkit what about payload manager?",
+        "title": "PS5 WEBKIT (12.00)",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vto8rm/going_from_bdjb_to_webkit_what_about_payload/",
-        "createdAt": "2026-08-20T16:25:33.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "how to import ps4 save data to ps5",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtned9/how_to_import_ps4_save_data_to_ps5/",
-        "createdAt": "2026-08-20T15:55:20.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuhn6e/ps5_webkit_1200/",
+        "createdAt": "2026-08-21T14:17:41.000Z"
       },
       {
         "platform": "Reddit",
@@ -243,36 +211,36 @@
     ],
     "topOverall": {
       "platform": "Reddit",
-      "community": "ps4homebrew",
-      "title": "For anyone who runs Linux on their PS4, what do you use it for?",
-      "score": 8,
-      "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtlfk5/for_anyone_who_runs_linux_on_their_ps4_what_do/",
-      "createdAt": "2026-08-20T14:42:25.000Z"
+      "community": "PS5_Jailbreak",
+      "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
+      "score": 43,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
+      "createdAt": "2026-08-21T13:58:51.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "For anyone who runs Linux on their PS4, what do you use it for?",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vtlfk5/for_anyone_who_runs_linux_on_their_ps4_what_do/",
-        "createdAt": "2026-08-20T14:42:25.000Z"
+        "title": "Spotify PKG?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vudu6i/spotify_pkg/",
+        "createdAt": "2026-08-21T11:34:50.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Y2JB",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vtlggz/y2jb/",
-        "createdAt": "2026-08-20T14:43:24.000Z"
+        "title": "Is Y2JB available on 13.40 yet?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vts0rt/is_y2jb_available_on_1340_yet/",
+        "createdAt": "2026-08-20T18:41:22.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "What payloads do you use on your PS5?",
-        "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vtkrok/what_payloads_do_you_use_on_your_ps5/",
-        "createdAt": "2026-08-20T14:16:50.000Z"
+        "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
+        "score": 43,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
+        "createdAt": "2026-08-21T13:58:51.000Z"
       },
       "PS4Hacks2": null,
       "PS4Jailbreak": null,
@@ -289,17 +257,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 13
+        "count": 12
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 3
+        "count": 1
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 10
+        "count": 9
       },
       {
         "name": "r/PS4Hacks2",
@@ -333,7 +301,7 @@
         "platform": "Bluesky",
         "community": "following:maj0r",
         "title": "This is my new project:\n\nProspero Manager - a All-In-One manager for the PS5!\n\nHope y'all like it! 💪\n\nx.com/callmemaj0r/...",
-        "score": 18,
+        "score": 20,
         "url": "https://bsky.app/profile/notmaj0r.bsky.social/post/3mtkj3pnzvs2x",
         "createdAt": "2026-08-21T00:32:09.973Z",
         "key": "at://did:plc:b3isbekzoui636wqjs5eidf7/app.bsky.feed.post/3mtkj3pnzvs2x:bafyreigltx7pb7ckxvh4dl7hcuia4yu7uvfp4wwtkxkebe637okz6c4zgu"
@@ -342,7 +310,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "github.com/Michele-M-Me...",
-        "score": 9,
+        "score": 13,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtkpkokxgc2l",
         "createdAt": "2026-08-21T02:27:42.165Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtkpkokxgc2l:bafyreih4ivhyy3fpu5nllz5ihulcfqphdhkrwu7ytkbqsksoz7tf6sfr2u"
@@ -351,16 +319,25 @@
         "platform": "Bluesky",
         "community": "following:mustafa-ps4-ps5",
         "title": "(untitled post)",
-        "score": 9,
+        "score": 10,
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mtjqik4q2s2w",
         "createdAt": "2026-08-20T17:11:42.368Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mtjqik4q2s2w:bafyreibyzc6ouxnztmqyjhhdzc2cknzxqk2cy5hlikptjcgol6xemwitgu"
       },
       {
         "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS4 & PS5 News:\n\nThe Cyprus Network has introduced online matchmaking for the following games:\n\n- Payday 2\n- Diablo 3\n- Quake 2\n- Call of Duty Ghosts\n- Call of Duty Black Ops 3",
+        "score": 7,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtllj5ghzc25",
+        "createdAt": "2026-08-21T10:47:55.468Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtllj5ghzc25:bafyreickrydnh5tyrqtrfwfu5dowuvotpgqx3qqxwim44wuszffcnoekki"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Do you want to play the game that's a kind of little brother of Astro Bot? Because I propose you that this summer, you can first play this great game, and then you can play Astro Bot. What do you think?\n\nPatch 01.905.000\n\nprosperopatches.com/PPSA01325\n\nRight now on DLS...",
-        "score": 6,
+        "score": 7,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtk3otlhvk2v",
         "createdAt": "2026-08-20T20:32:07.263Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtk3otlhvk2v:bafyreidrpe2bmyf7qdu7qefnnwcqzalgq7hsu5kaqokgp3ftx3mstm42wq"
@@ -369,34 +346,16 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "If anyone has any PS5 game (digital or physical) that they'd like to share with the community and help us with video game preservation, please message me privately. Don't worry, my private messages are always open, lol. Thanks in advance 🫶",
-        "score": 5,
+        "score": 6,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtlezx46sc2l",
         "createdAt": "2026-08-21T08:51:59.064Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtlezx46sc2l:bafyreicypsu7pkzmkydcw6hqicm4bhgkkqmiacpef3inwimz2z5klmfwnm"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS4 & PS5 News:\n\nThe Cyprus Network has introduced online matchmaking for the following games:\n\n- Payday 2\n- Diablo 3\n- Quake 2\n- Call of Duty Ghosts\n- Call of Duty Black Ops 3",
-        "score": 4,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtllj5ghzc25",
-        "createdAt": "2026-08-21T10:47:55.468Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtllj5ghzc25:bafyreickrydnh5tyrqtrfwfu5dowuvotpgqx3qqxwim44wuszffcnoekki"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "You can play PS3 games on original hardware, but nowadays also on low-end PCs/laptops and mobile devices even with RPCS3 (rpcs3.net)\nFor PC/Android you can use any controller like Xbox controllers even, or your keyboard and mouse.",
-        "score": 4,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtjosfy76c2q",
-        "createdAt": "2026-08-20T16:41:25.662Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtjosfy76c2q:bafyreibrs2qd26ddrxl36ym3tvq6tf43yrjpwxq2uoku6gy6ewwx4hvicy"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "There's a Spanish saying that goes, \"all good things come in threes,\" and this backport makes me especially happy because it's a Spanish game developed by a friend. Interestingly, this game was developed by only one person—unbelievable, but true\n\nRight now on DLS...",
-        "score": 4,
+        "score": 5,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtk2qbpadk2v",
         "createdAt": "2026-08-20T20:15:01.873Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtk2qbpadk2v:bafyreieeqmmckkeygitmdzuyjdb4iqt2kaypzij672acm3klj5m6hu5jsi"
@@ -405,7 +364,7 @@
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "Yes that's easily doable. There's even retropi images that have it included. Here's a tutorial \n\nyoutu.be/P-_PrLSo26c",
-        "score": 0,
+        "score": 1,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtllc26umc25",
         "createdAt": "2026-08-21T10:43:55.169Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtllc26umc25:bafyreibynfptwbronmvkawk675ah6wtfork3dmjgmlfanpqenodracb62u"
@@ -414,7 +373,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Thanks a lot, friend, I'll think about it",
-        "score": 0,
+        "score": 1,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtkn3ugemk2v",
         "createdAt": "2026-08-21T01:43:34.164Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtkn3ugemk2v:bafyreihc332fzh4ifqy23gsrkq23z5zod7anbrk5m5ps6mywlhmsdegkny"
