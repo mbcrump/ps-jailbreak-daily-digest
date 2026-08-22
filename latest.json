@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T13:43:13.136Z",
-  "runTimePacific": "08/22/2026, 06:43 PDT",
-  "windowStartPacific": "08/21/2026, 06:43 PDT",
-  "windowEndPacific": "08/22/2026, 06:43 PDT",
+  "generatedAt": "2026-08-22T16:59:32.795Z",
+  "runTimePacific": "08/22/2026, 09:59 PDT",
+  "windowStartPacific": "08/21/2026, 09:59 PDT",
+  "windowEndPacific": "08/22/2026, 09:59 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -19,16 +19,8 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
-        "score": 115,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
-        "createdAt": "2026-08-21T13:58:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "$100 PS5 from Marketplace",
-        "score": 65,
+        "score": 74,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuxl56/100_ps5_from_marketplace/",
         "createdAt": "2026-08-22T00:32:32.000Z"
       },
@@ -36,31 +28,31 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Release Game Compressor 1.0.4 · juma-sayeh/PS5-Game-Compressor",
-        "score": 35,
+        "score": 38,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuzf51/release_game_compressor_104/",
         "createdAt": "2026-08-22T01:57:54.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 Jailbreak News: Universal WebKit, Persistent JB Method, etaHEN, LuaC0re emulators & More",
+        "score": 38,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuu4fa/ps5_jailbreak_news_universal_webkit_persistent_jb/",
+        "createdAt": "2026-08-21T22:04:19.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "What firmware do I update",
-        "score": 34,
+        "score": 35,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vunfr2/what_firmware_do_i_update/",
         "createdAt": "2026-08-21T17:51:13.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PS5 Jailbreak News: Universal WebKit, Persistent JB Method, etaHEN, LuaC0re emulators & More",
-        "score": 34,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuu4fa/ps5_jailbreak_news_universal_webkit_persistent_jb/",
-        "createdAt": "2026-08-21T22:04:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Release v0.4.0-pre-97dc296 (pre-release) · itsPLK/ps5-webkit-autoloader adds 7.xx–8.xx support",
-        "score": 26,
+        "score": 30,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuz2z1/release_v040pre97dc296_prerelease/",
         "createdAt": "2026-08-22T01:41:46.000Z"
       },
@@ -68,7 +60,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "APR Emu Updater — Easily keep APR Emu updated on your PS5",
-        "score": 21,
+        "score": 22,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vur3cf/apr_emu_updater_easily_keep_apr_emu_updated_on/",
         "createdAt": "2026-08-21T20:05:11.000Z"
       },
@@ -84,17 +76,33 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Need advice",
-        "score": 4,
+        "score": 6,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vuzfd0/need_advice/",
         "createdAt": "2026-08-22T01:58:13.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Installing games on a jailbroken ps5",
+        "community": "PS5_Jailbreak",
+        "title": "Buying a PS5 Today",
         "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vuvck2/installing_games_on_a_jailbroken_ps5/",
-        "createdAt": "2026-08-21T22:54:52.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vvbw8q/buying_a_ps5_today/",
+        "createdAt": "2026-08-22T13:02:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Best payloads for PS5 homebrewing",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvbq2o/best_payloads_for_ps5_homebrewing/",
+        "createdAt": "2026-08-22T12:55:31.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 from a nas - question.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vv8wba/ps4_from_a_nas_question/",
+        "createdAt": "2026-08-22T10:32:55.000Z"
       },
       {
         "platform": "Reddit",
@@ -106,11 +114,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Buying a PS5 Today",
+        "community": "ps5homebrew",
+        "title": "ETAHEN 11.00",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vvbw8q/buying_a_ps5_today/",
-        "createdAt": "2026-08-22T13:02:57.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvc0wr/etahen_1100/",
+        "createdAt": "2026-08-22T13:08:42.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Installing games on a jailbroken ps5",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vuvck2/installing_games_on_a_jailbroken_ps5/",
+        "createdAt": "2026-08-21T22:54:52.000Z"
       },
       {
         "platform": "Reddit",
@@ -123,18 +139,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Alguém sugere algo?",
+        "title": "I've never done mods in PS4 and but I'm interested in it now 1 is it possible? 2 if so then how and 3 can you convert PC mods to PS4 ?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vv9sox/alguém_sugere_algo/",
-        "createdAt": "2026-08-22T11:20:46.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vveqir/ive_never_done_mods_in_ps4_and_but_im_interested/",
+        "createdAt": "2026-08-22T15:02:57.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PS4 from a nas - question.",
+        "title": "Alguém sugere algo?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vv8wba/ps4_from_a_nas_question/",
-        "createdAt": "2026-08-22T10:32:55.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vv9sox/alguém_sugere_algo/",
+        "createdAt": "2026-08-22T11:20:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -154,43 +170,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 stuck in safe mode loop – tried everything on Google and youtube",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vuk4q4/ps4_stuck_in_safe_mode_loop_tried_everything_on/",
-        "createdAt": "2026-08-21T15:50:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "WebDAV question",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vui9jr/webdav_question/",
-        "createdAt": "2026-08-21T14:41:30.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "ETAHEN 11.00",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvc0wr/etahen_1100/",
-        "createdAt": "2026-08-22T13:08:42.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Best payloads for PS5 homebrewing",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvbq2o/best_payloads_for_ps5_homebrewing/",
-        "createdAt": "2026-08-22T12:55:31.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Which FW is better? 10.40 or 12.00?",
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vv240g/which_fw_is_better_1040_or_1200/",
         "createdAt": "2026-08-22T04:11:00.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Can PS5 Games Be Played From the Internal Drive With Shadow Mount?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vutrxm/can_ps5_games_be_played_from_the_internal_drive/",
+        "createdAt": "2026-08-21T21:50:26.000Z"
       },
       {
         "platform": "Reddit",
@@ -275,6 +267,22 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
+        "title": "It is possible to Install official update on PS5 Jailbreak?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvh05z/it_is_possible_to_install_official_update_on_ps5/",
+        "createdAt": "2026-08-22T16:33:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Is Ethan stable?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvdfs0/is_ethan_stable/",
+        "createdAt": "2026-08-22T14:09:20.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
         "title": "Y2JB issue",
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vv1nyh/y2jb_issue/",
@@ -307,14 +315,6 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Can PS5 Games Be Played From the Internal Drive With Shadow Mount?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vutrxm/can_ps5_games_be_played_from_the_internal_drive/",
-        "createdAt": "2026-08-21T21:50:26.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Ps5 9.4 jailbreak",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vvb77b/ps5_94_jailbreak/",
@@ -339,6 +339,14 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Has anyone tried Ghost of Yotei Legends on a jailbroken console?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vvd4u4/has_anyone_tried_ghost_of_yotei_legends_on_a/",
+        "createdAt": "2026-08-22T13:56:55.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "What's the best way to unlock remote play?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuu0ni/whats_the_best_way_to_unlock_remote_play/",
@@ -355,26 +363,26 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "FileZilla \"EACCES - Permission denied\" fix needed",
+        "title": "So what's currently the best way to jailbreak? (on firmware 5.10 in my case)",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vulzh3/filezilla_eacces_permission_denied_fix_needed/",
-        "createdAt": "2026-08-21T16:58:39.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vv64nq/so_whats_currently_the_best_way_to_jailbreak_on/",
+        "createdAt": "2026-08-22T07:50:24.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
-      "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
-      "score": 115,
-      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
-      "createdAt": "2026-08-21T13:58:51.000Z"
+      "title": "$100 PS5 from Marketplace",
+      "score": 74,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuxl56/100_ps5_from_marketplace/",
+      "createdAt": "2026-08-22T00:32:32.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Need advice",
-        "score": 4,
+        "score": 6,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vuzfd0/need_advice/",
         "createdAt": "2026-08-22T01:58:13.000Z"
       },
@@ -382,17 +390,17 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "What firmware do I update",
-        "score": 34,
+        "score": 35,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vunfr2/what_firmware_do_i_update/",
         "createdAt": "2026-08-21T17:51:13.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Few cool things to release soon: WebKit support for 1.xx-13.60 (of course kex only works until 12.70) and auto jailbreak / untethered JB for 1.xx-5.xx (possibly also 6-7xx too)",
-        "score": 115,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuh5iw/few_cool_things_to_release_soon_webkit_support/",
-        "createdAt": "2026-08-21T13:58:51.000Z"
+        "title": "$100 PS5 from Marketplace",
+        "score": 74,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vuxl56/100_ps5_from_marketplace/",
+        "createdAt": "2026-08-22T00:32:32.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
@@ -416,12 +424,12 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 15
+        "count": 14
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 9
+        "count": 11
       },
       {
         "name": "r/PS5_Jailbreak",
