@@ -22,56 +22,12 @@
   <meta name="twitter:description" content="Browse past editions of the PS Homebrew Daily.">
   <link rel="canonical" href="https://pshomebrewdaily.com/archive/">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Archive | PS Homebrew Daily","description":"Browse past editions of the PS Homebrew Daily.","url":"https://pshomebrewdaily.com/archive/","inLanguage":"en-US","publisher":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightHolder":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightYear":"2026","isPartOf":{"@type":"WebSite","name":"PS Homebrew Daily","url":"https://pshomebrewdaily.com/"}}</script>
-  <style>
-    .analytics-consent { position:fixed; right:18px; bottom:18px; z-index:10; width:min(440px,calc(100% - 36px)); padding:18px; color:var(--ink,#10231d); background:var(--card,#fffdf7); border:1px solid #10231d35; border-radius:6px; box-shadow:0 18px 48px #10231d30; }
-    .analytics-consent[hidden] { display:none; }
-    .analytics-consent p { margin:0; font-size:.9rem; line-height:1.45; }
-    .analytics-consent-actions { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
-    .analytics-consent button,.analytics-choices { min-height:34px; padding:7px 10px; color:var(--ink,#10231d); background:transparent; border:1px solid currentColor; border-radius:4px; cursor:pointer; font:700 11px/1 ui-monospace,monospace; letter-spacing:.04em; text-transform:uppercase; }
-    .analytics-consent [data-analytics-allow] { color:#fff; background:var(--green,#1d5a45); border-color:var(--green,#1d5a45); }
-    .analytics-choices { min-height:0; padding:0; border:0; text-decoration:underline; text-underline-offset:3px; text-transform:none; }
-  </style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9H0JZ8QB7J"></script>
   <script>
-    (() => {
-      const measurementId = "G-9H0JZ8QB7J";
-      const storageKey = "ps-homebrew-analytics-consent";
-      const loadAnalytics = () => {
-        if (window.googleAnalyticsLoaded) return;
-        window.googleAnalyticsLoaded = true;
-        window.dataLayer = window.dataLayer || [];
-        window.gtag = function () { window.dataLayer.push(arguments); };
-        window.gtag("js", new Date());
-        window.gtag("config", measurementId);
-        const script = document.createElement("script");
-        script.async = true;
-        script.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(measurementId);
-        document.head.appendChild(script);
-      };
-      const showChoices = () => {
-        const notice = document.querySelector("[data-analytics-consent]");
-        if (notice) notice.hidden = false;
-      };
-      const hideChoices = () => {
-        const notice = document.querySelector("[data-analytics-consent]");
-        if (notice) notice.hidden = true;
-      };
-      if (localStorage.getItem(storageKey) === "allow") loadAnalytics();
-      document.addEventListener("DOMContentLoaded", () => {
-        if (!localStorage.getItem(storageKey)) showChoices();
-        document.querySelectorAll("[data-analytics-choices]").forEach((button) =>
-          button.addEventListener("click", showChoices)
-        );
-        document.querySelector("[data-analytics-allow]")?.addEventListener("click", () => {
-          localStorage.setItem(storageKey, "allow");
-          loadAnalytics();
-          hideChoices();
-        });
-        document.querySelector("[data-analytics-decline]")?.addEventListener("click", () => {
-          localStorage.setItem(storageKey, "decline");
-          hideChoices();
-        });
-      });
-    })();
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-9H0JZ8QB7J");
   </script>
   <title>Archive | PS Homebrew Daily</title>
   <style>
@@ -118,10 +74,6 @@
   <main>
     <ul><li><a href="2026-08-23.html"><time datetime="2026-08-23">August 23, 2026</time></a></li><li><a href="2026-08-22.html"><time datetime="2026-08-22">August 22, 2026</time></a></li><li><a href="2026-08-21.html"><time datetime="2026-08-21">August 21, 2026</time></a></li><li><a href="2026-08-20.html"><time datetime="2026-08-20">August 20, 2026</time></a></li><li><a href="2026-08-19.html"><time datetime="2026-08-19">August 19, 2026</time></a></li><li><a href="2026-08-18.html"><time datetime="2026-08-18">August 18, 2026</time></a></li><li><a href="2026-08-17.html"><time datetime="2026-08-17">August 17, 2026</time></a></li><li><a href="2026-08-16.html"><time datetime="2026-08-16">August 16, 2026</time></a></li><li><a href="2026-08-15.html"><time datetime="2026-08-15">August 15, 2026</time></a></li><li><a href="2026-08-14.html"><time datetime="2026-08-14">August 14, 2026</time></a></li><li><a href="2026-08-13.html"><time datetime="2026-08-13">August 13, 2026</time></a></li><li><a href="2026-08-12.html"><time datetime="2026-08-12">August 12, 2026</time></a></li><li><a href="2026-08-11.html"><time datetime="2026-08-11">August 11, 2026</time></a></li><li><a href="2026-08-10.html"><time datetime="2026-08-10">August 10, 2026</time></a></li><li><a href="2026-08-09.html"><time datetime="2026-08-09">August 9, 2026</time></a></li><li><a href="2026-08-08.html"><time datetime="2026-08-08">August 8, 2026</time></a></li><li><a href="2026-08-07.html"><time datetime="2026-08-07">August 7, 2026</time></a></li><li><a href="2026-08-06.html"><time datetime="2026-08-06">August 6, 2026</time></a></li><li><a href="2026-08-05.html"><time datetime="2026-08-05">August 5, 2026</time></a></li><li><a href="2026-08-04.html"><time datetime="2026-08-04">August 4, 2026</time></a></li><li><a href="2026-08-03.html"><time datetime="2026-08-03">August 3, 2026</time></a></li><li><a href="2026-08-02.html"><time datetime="2026-08-02">August 2, 2026</time></a></li><li><a href="2026-08-01.html"><time datetime="2026-08-01">August 1, 2026</time></a></li><li><a href="2026-07-31.html"><time datetime="2026-07-31">July 31, 2026</time></a></li><li><a href="2026-07-30.html"><time datetime="2026-07-30">July 30, 2026</time></a></li><li><a href="2026-07-29.html"><time datetime="2026-07-29">July 29, 2026</time></a></li><li><a href="2026-07-28.html"><time datetime="2026-07-28">July 28, 2026</time></a></li><li><a href="2026-07-27.html"><time datetime="2026-07-27">July 27, 2026</time></a></li><li><a href="2026-07-26.html"><time datetime="2026-07-26">July 26, 2026</time></a></li><li><a href="2026-07-25.html"><time datetime="2026-07-25">July 25, 2026</time></a></li><li><a href="2026-07-24.html"><time datetime="2026-07-24">July 24, 2026</time></a></li><li><a href="2026-07-23.html"><time datetime="2026-07-23">July 23, 2026</time></a></li><li><a href="2026-07-22.html"><time datetime="2026-07-22">July 22, 2026</time></a></li><li><a href="2026-07-21.html"><time datetime="2026-07-21">July 21, 2026</time></a></li><li><a href="2026-07-20.html"><time datetime="2026-07-20">July 20, 2026</time></a></li><li><a href="2026-07-19.html"><time datetime="2026-07-19">July 19, 2026</time></a></li></ul>
   </main>
-  <aside class="analytics-consent" data-analytics-consent hidden role="dialog" aria-label="Analytics choices">
-    <p><strong>Help improve this digest.</strong> Allow privacy-conscious Google Analytics to measure visits and site usage. No analytics loads unless you choose Allow. <a href="../terms.html#analytics-privacy">Privacy details</a>.</p>
-    <div class="analytics-consent-actions"><button type="button" data-analytics-allow>Allow analytics</button><button type="button" data-analytics-decline>Not now</button></div>
-  </aside>
-  <footer><p>&copy; 2026 Michael Crump. All rights reserved for the original site design, summaries, and editorial selection. <a href="../terms.html">Terms of use</a>. <button class="analytics-choices" type="button" data-analytics-choices>Analytics choices</button>.</p></footer>
+  <footer><p>&copy; 2026 Michael Crump. All rights reserved for the original site design, summaries, and editorial selection. <a href="../terms.html">Terms of use</a>.</p></footer>
 </body>
 </html>
