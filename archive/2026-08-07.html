@@ -23,23 +23,84 @@
   <meta name="twitter:description" content="Daily PS4 and PS5 homebrew, firmware, emulation, and security news from YouTube, Reddit, and Bluesky.">
   <link rel="canonical" href="https://mbcrump.github.io/ps-jailbreak-daily-digest/archive/2026-08-07.html">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"August 7, 2026 | PS Homebrew Daily","description":"Daily PS4 and PS5 homebrew, firmware, emulation, and security news from YouTube, Reddit, and Bluesky.","url":"https://mbcrump.github.io/ps-jailbreak-daily-digest/archive/2026-08-07.html","mainEntityOfPage":"https://mbcrump.github.io/ps-jailbreak-daily-digest/archive/2026-08-07.html","inLanguage":"en-US","datePublished":"2026-08-07T21:03:58.025Z","dateModified":"2026-08-07T21:03:58.025Z","author":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"publisher":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightHolder":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightYear":"2026","isPartOf":{"@type":"WebSite","name":"PS Homebrew Daily","url":"https://mbcrump.github.io/ps-jailbreak-daily-digest/"}}</script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-9H0JZ8QB7J");
+    document.addEventListener("DOMContentLoaded", function () {
+      const sponsor = document.querySelector("[data-sponsor-card]");
+      if (!sponsor) return;
+      const eventData = {
+        campaign_id: sponsor.dataset.sponsorId,
+        sponsor_name: sponsor.dataset.sponsorName,
+        sponsor_placement: "below_top_overall"
+      };
+      let impressionSent = false;
+      const sendImpression = function () {
+        if (impressionSent) return;
+        impressionSent = true;
+        gtag("event", "sponsor_impression", eventData);
+      };
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(function (entries) {
+          if (entries.some(function (entry) { return entry.isIntersecting; })) {
+            sendImpression();
+            observer.disconnect();
+          }
+        }, { threshold: 0.35 });
+        observer.observe(sponsor);
+      } else {
+        sendImpression();
+      }
+      sponsor.querySelector("[data-sponsor-link]")?.addEventListener("click", function () {
+        gtag("event", "sponsor_click", {
+          ...eventData,
+          link_url: this.href
+        });
+      });
+    });
+  </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-9H0JZ8QB7J"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag("js", new Date());
     gtag("config", "G-9H0JZ8QB7J");
+    document.addEventListener("DOMContentLoaded", function () {
+      const sponsor = document.querySelector("[data-sponsor-card]");
+      if (!sponsor) return;
+      const eventData = {
+        campaign_id: sponsor.dataset.sponsorId,
+        sponsor_name: sponsor.dataset.sponsorName,
+        sponsor_placement: "below_top_overall"
+      };
+      let impressionSent = false;
+      const sendImpression = function () {
+        if (impressionSent) return;
+        impressionSent = true;
+        gtag("event", "sponsor_impression", eventData);
+      };
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(function (entries) {
+          if (entries.some(function (entry) { return entry.isIntersecting; })) {
+            sendImpression();
+            observer.disconnect();
+          }
+        }, { threshold: 0.35 });
+        observer.observe(sponsor);
+      } else {
+        sendImpression();
+      }
+      sponsor.querySelector("[data-sponsor-link]")?.addEventListener("click", function () {
+        gtag("event", "sponsor_click", {
+          ...eventData,
+          link_url: this.href
+        });
+      });
+    });
   </script>
   <title>August 7, 2026 | PS Homebrew Daily</title>
-  <style>
-    .analytics-consent { position:fixed; right:18px; bottom:18px; z-index:10; width:min(440px,calc(100% - 36px)); padding:18px; color:var(--ink,#10231d); background:var(--card,#fffdf7); border:1px solid #10231d35; border-radius:6px; box-shadow:0 18px 48px #10231d30; }
-    .analytics-consent[hidden] { display:none; }
-    .analytics-consent p { margin:0; font-size:.9rem; line-height:1.45; }
-    .analytics-consent-actions { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
-    .analytics-consent button,.analytics-choices { min-height:34px; padding:7px 10px; color:var(--ink,#10231d); background:transparent; border:1px solid currentColor; border-radius:4px; cursor:pointer; font:700 11px/1 ui-monospace,monospace; letter-spacing:.04em; text-transform:uppercase; }
-    .analytics-consent [data-analytics-allow] { color:#fff; background:var(--green,#1d5a45); border-color:var(--green,#1d5a45); }
-    .analytics-choices { min-height:0; padding:0; border:0; text-decoration:underline; text-underline-offset:3px; text-transform:none; }
-  </style>
 </head>
 <body>
   <header>

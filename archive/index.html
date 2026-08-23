@@ -28,6 +28,38 @@
     function gtag(){dataLayer.push(arguments);}
     gtag("js", new Date());
     gtag("config", "G-9H0JZ8QB7J");
+    document.addEventListener("DOMContentLoaded", function () {
+      const sponsor = document.querySelector("[data-sponsor-card]");
+      if (!sponsor) return;
+      const eventData = {
+        campaign_id: sponsor.dataset.sponsorId,
+        sponsor_name: sponsor.dataset.sponsorName,
+        sponsor_placement: "below_top_overall"
+      };
+      let impressionSent = false;
+      const sendImpression = function () {
+        if (impressionSent) return;
+        impressionSent = true;
+        gtag("event", "sponsor_impression", eventData);
+      };
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(function (entries) {
+          if (entries.some(function (entry) { return entry.isIntersecting; })) {
+            sendImpression();
+            observer.disconnect();
+          }
+        }, { threshold: 0.35 });
+        observer.observe(sponsor);
+      } else {
+        sendImpression();
+      }
+      sponsor.querySelector("[data-sponsor-link]")?.addEventListener("click", function () {
+        gtag("event", "sponsor_click", {
+          ...eventData,
+          link_url: this.href
+        });
+      });
+    });
   </script>
   <title>Archive | PS Homebrew Daily</title>
   <style>

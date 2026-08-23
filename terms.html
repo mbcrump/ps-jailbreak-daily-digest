@@ -28,6 +28,38 @@
     function gtag(){dataLayer.push(arguments);}
     gtag("js", new Date());
     gtag("config", "G-9H0JZ8QB7J");
+    document.addEventListener("DOMContentLoaded", function () {
+      const sponsor = document.querySelector("[data-sponsor-card]");
+      if (!sponsor) return;
+      const eventData = {
+        campaign_id: sponsor.dataset.sponsorId,
+        sponsor_name: sponsor.dataset.sponsorName,
+        sponsor_placement: "below_top_overall"
+      };
+      let impressionSent = false;
+      const sendImpression = function () {
+        if (impressionSent) return;
+        impressionSent = true;
+        gtag("event", "sponsor_impression", eventData);
+      };
+      if ("IntersectionObserver" in window) {
+        const observer = new IntersectionObserver(function (entries) {
+          if (entries.some(function (entry) { return entry.isIntersecting; })) {
+            sendImpression();
+            observer.disconnect();
+          }
+        }, { threshold: 0.35 });
+        observer.observe(sponsor);
+      } else {
+        sendImpression();
+      }
+      sponsor.querySelector("[data-sponsor-link]")?.addEventListener("click", function () {
+        gtag("event", "sponsor_click", {
+          ...eventData,
+          link_url: this.href
+        });
+      });
+    });
   </script>
   <title>Terms of use | PS Homebrew Daily</title>
   <style>
@@ -80,6 +112,9 @@
 
     <h2>Informational use and availability</h2>
     <p>The site is provided for general informational purposes and on an &ldquo;as is&rdquo; basis. Accuracy, completeness, timeliness, and uninterrupted availability are not guaranteed. You are responsible for evaluating external content before relying on it.</p>
+
+    <h2>Sponsorships and advertising</h2>
+    <p>Paid placements are labeled &ldquo;Sponsored&rdquo; and are visually separated from the digest&rsquo;s editorial selections. A sponsorship does not grant the sponsor control over news rankings, summaries, or coverage unless a different arrangement is clearly disclosed. Sponsor links may include campaign tracking parameters and are qualified as sponsored links for search engines.</p>
 
     <h2>External links</h2>
     <p>External sites are outside this site&rsquo;s control. A link does not constitute an endorsement, and this site is not responsible for external content, security, availability, or privacy practices.</p>
