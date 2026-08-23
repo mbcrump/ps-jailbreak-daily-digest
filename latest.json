@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T17:00:30.289Z",
-  "runTimePacific": "08/23/2026, 10:00 PDT",
-  "windowStartPacific": "08/22/2026, 10:00 PDT",
-  "windowEndPacific": "08/23/2026, 10:00 PDT",
+  "generatedAt": "2026-08-23T20:43:28.032Z",
+  "runTimePacific": "08/23/2026, 13:43 PDT",
+  "windowStartPacific": "08/22/2026, 13:43 PDT",
+  "windowEndPacific": "08/23/2026, 13:43 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -93,7 +93,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "What is that weird sound ?",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vvnhvv/what_is_that_weird_sound/",
         "createdAt": "2026-08-22T20:47:06.000Z"
       },
@@ -101,7 +101,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Pluto TV doesn't work on PS4",
-        "score": 5,
+        "score": 4,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vvutaj/pluto_tv_doesnt_work_on_ps4/",
         "createdAt": "2026-08-23T02:18:36.000Z"
       },
@@ -131,43 +131,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "How do i download this on ps4?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vw6gvl/how_do_i_download_this_on_ps4/",
-        "createdAt": "2026-08-23T12:54:43.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Save file transfer from PS3 to PS4",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vvjrsh/save_file_transfer_from_ps3_to_ps4/",
-        "createdAt": "2026-08-22T18:21:08.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Webkit not working? This might be why.",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvkeid/webkit_not_working_this_might_be_why/",
-        "createdAt": "2026-08-22T18:45:20.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 turning off after waking up from rest mode (No payloads and no games running)",
-        "score": 1,
+        "score": 2,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vvw0oh/ps5_turning_off_after_waking_up_from_rest_mode_no/",
         "createdAt": "2026-08-23T03:19:31.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Cheatrunner toggles grey",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwawi1/cheatrunner_toggles_grey/",
-        "createdAt": "2026-08-23T15:57:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -187,6 +155,14 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Game dumps era about to end?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vw7aua/game_dumps_era_about_to_end/",
+        "createdAt": "2026-08-23T13:31:41.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS4Hacks2",
         "title": "6.72 or higher in 2026?",
         "score": 1,
@@ -203,19 +179,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "New bie here want to jailbreak my new PS5",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vvzuiq/new_bie_here_want_to_jailbreak_my_new_ps5/",
-        "createdAt": "2026-08-23T06:48:15.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Advice on updating? (4.72)",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vw8g03/advice_on_updating_472/",
         "createdAt": "2026-08-23T14:19:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How do i download this on ps4?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vw6gvl/how_do_i_download_this_on_ps4/",
+        "createdAt": "2026-08-23T12:54:43.000Z"
       },
       {
         "platform": "Reddit",
@@ -228,14 +204,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Is there anyway to do chalice dungeons in bloodborne once I homebrew my ps4?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vvj6va/is_there_anyway_to_do_chalice_dungeons_in/",
-        "createdAt": "2026-08-22T17:58:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "6.72 or higher in 2026?",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vw2fk9/672_or_higher_in_2026/",
@@ -244,25 +212,25 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Game dumps era about to end?",
+        "title": "Cheatrunner toggles grey",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vw7aua/game_dumps_era_about_to_end/",
-        "createdAt": "2026-08-23T13:31:41.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwawi1/cheatrunner_toggles_grey/",
+        "createdAt": "2026-08-23T15:57:19.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "WebKit P2JB by SonicIso on PS5 12.20 keeps crashing / shutting down during exploit",
+        "community": "PS4Mods",
+        "title": "New bie here want to jailbreak my new PS5",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vvm3rs/webkit_p2jb_by_soniciso_on_ps5_1220_keeps/",
-        "createdAt": "2026-08-22T19:51:51.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vvzuiq/new_bie_here_want_to_jailbreak_my_new_ps5/",
+        "createdAt": "2026-08-23T06:48:15.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "What is that weird sound ?",
-      "score": 7,
+      "score": 8,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1vvnhvv/what_is_that_weird_sound/",
       "createdAt": "2026-08-22T20:47:06.000Z"
     },
@@ -271,18 +239,11 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "What is that weird sound ?",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vvnhvv/what_is_that_weird_sound/",
         "createdAt": "2026-08-22T20:47:06.000Z"
       },
-      "ps5homebrew": {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Webkit not working? This might be why.",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vvkeid/webkit_not_working_this_might_be_why/",
-        "createdAt": "2026-08-22T18:45:20.000Z"
-      },
+      "ps5homebrew": null,
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
@@ -304,7 +265,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "New bie here want to jailbreak my new PS5",
-        "score": 1,
+        "score": 0,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vvzuiq/new_bie_here_want_to_jailbreak_my_new_ps5/",
         "createdAt": "2026-08-23T06:48:15.000Z"
       }
@@ -313,17 +274,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 9
+        "count": 7
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 1
+        "count": 0
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 8
+        "count": 7
       },
       {
         "name": "r/PS4Hacks2",
@@ -357,7 +318,7 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "Me when I hooked up my laptop to a European TV for the first time and it defaulted to 50 Hz",
-        "score": 13,
+        "score": 15,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mtpu6q2m2k2w",
         "createdAt": "2026-08-23T03:33:47.067Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtpu6q2m2k2w:bafyreibkj3n72f6u7nba6ibqwawlcjdzqbblpi4g4ei6y4anergcydhmbe"
@@ -373,21 +334,39 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "How to Restore Lost FPKGs on a Jailbroken PS4 After a Database Rebuild\n\nWatch Here: youtu.be/6YAse-PbH3M",
-        "score": 10,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mtoslita5k2s",
-        "createdAt": "2026-08-22T17:32:28.772Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtoslita5k2s:bafyreid6ifunbatzucly4q4jvvecurzb6xvt52ngyizor44g5vjflbkxaq"
+        "community": "following:PS5 JAILBREAKS",
+        "title": "🚫🚫🚫✖️✖️✖️📛📛📛❌️❌️❌️",
+        "score": 12,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtrdzafijc2p",
+        "createdAt": "2026-08-23T17:49:42.477Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtrdzafijc2p:bafyreicbesifmeuftw5rc4wwk4k2hlgkzudocirgbwceho3bcfs4ui2ydi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "(untitled post)",
+        "score": 8,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtrdql7auc2q",
+        "createdAt": "2026-08-23T17:44:51.266Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtrdql7auc2q:bafyreidrowjgg7w37il5kwlfea245fwvsagi7ef6qoof4i4ao7nu2mqbti"
       },
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS5 News:\n\nArksama shared progress on the PHU Kraken project.\n\n- Due need of HV exploit there will be two versions:\n- PHU V1: 9.xx - 13.xx\n- PHU V2: 4.xx - 7.61\n\nThis could mean V1 will miss things due lack of HV but it's yet to see if a workaround can be achieved\n\ntwitter-thread.com/t/2090771859...",
-        "score": 6,
+        "score": 7,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtqqkcmsus2t",
         "createdAt": "2026-08-23T12:01:18.472Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtqqkcmsus2t:bafyreibdpc7wxhicfubyke6loxnia2lpga437enoamildiclaoikwqbor4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:mustafa-ps4-ps5",
+        "title": "discord.gg/6erYbschR3",
+        "score": 7,
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mtpa727pts2o",
+        "createdAt": "2026-08-22T21:36:04.069Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mtpa727pts2o:bafyreid3wsnefmli4ax6yr4ci6dd2uw5j7mnq4d4pmli7ptn4hafzgtb4a"
       },
       {
         "platform": "Bluesky",
@@ -400,30 +379,12 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "When the release of the new hack 13.42, so on 2027",
-        "score": 6,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtp2mlcee22q",
-        "createdAt": "2026-08-22T19:56:13.070Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtp2mlcee22q:bafyreid2tttbqjlgld33zmiqfmzzcr4dk27r3aqogpnkxpgtzdqhtuii54"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "discord.gg/6erYbschR3",
-        "score": 6,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mtpa727pts2o",
-        "createdAt": "2026-08-22T21:36:04.069Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mtpa727pts2o:bafyreid3wsnefmli4ax6yr4ci6dd2uw5j7mnq4d4pmli7ptn4hafzgtb4a"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nResearcher MasterMaind revealed he discovered a new bug class on firmwares 13.50 & 13.52.\n\nThere's a real possibility its also present on PS5.\n\nHe already submitted the report of it to Sony through HackerOne.\n\ntwitter-thread.com/t/2091136042...",
+        "title": "PS5 News:\n\nThe new webkit has now been updated to support more firmwares!\n \nFirmwares 1.xx - 5.xx & 7.xx - 12.70\n\nThe host only has the kernels Poopsploit and P2JB, not Lapse.\n\nThe reason 6.xx is not included is because Poopsploit doesn't support it.\n\ntwitter-thread.com/t/2090896706...",
         "score": 5,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtoyebs72k22",
-        "createdAt": "2026-08-22T19:15:47.367Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtoyebs72k22:bafyreicwhzyanzjlwp475tdfcvwowsoeug4tc347le2lswpt4w2dkrkqqe"
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtrdjddiak2x",
+        "createdAt": "2026-08-23T17:40:47.264Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtrdjddiak2x:bafyreigy65xxtb7ku455vnnvgvskzgw3vk3zvmp4wtdsoenotwqol6xu54"
       },
       {
         "platform": "Bluesky",
@@ -437,11 +398,11 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "youtu.be/bzG7czcYJWQ?...",
-        "score": 5,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtozeepogs2q",
-        "createdAt": "2026-08-22T19:33:46.668Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtozeepogs2q:bafyreiderpzar7do4ybrzhahf2bco4azbz6ly6jvb5zi3rnxo2w7asp7ce"
+        "title": "No sera antes, y la razon del porque es muy simple, Gi Ti Ai 6",
+        "score": 0,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtrczpbaxc2q",
+        "createdAt": "2026-08-23T17:32:03.987Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtrczpbaxc2q:bafyreihe35krvaks32mxkdvedipd7vkchb4f6kxlr6werbu5pstdycpfdi"
       }
     ],
     "topOverall": {
