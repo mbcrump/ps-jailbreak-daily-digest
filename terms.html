@@ -24,15 +24,17 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Terms of use | PS Homebrew Daily","description":"Terms governing use of the PS Homebrew Daily website.","url":"https://pshomebrewdaily.com/terms.html","inLanguage":"en-US","dateModified":"2026-07-30","publisher":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightHolder":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightYear":"2026","isPartOf":{"@type":"WebSite","name":"PS Homebrew Daily","url":"https://pshomebrewdaily.com/"}}</script>
   <title>Terms of use | PS Homebrew Daily</title>
   <style>
-    :root { --ink:#10231d; --paper:#f4f0e5; --card:#fffdf7; --red:#d3422f; --muted:#64736d; }
+    :root { --ink:#10231d; --paper:#f4f0e5; --card:#fffdf7; --red:#d3422f; --green:#1d5a45; --muted:#64736d; }
     * { box-sizing:border-box; }
     body { margin:0; color:var(--ink); background:radial-gradient(circle at 90% 0,#e7c96555,transparent 28rem),var(--paper); font:16px/1.65 Georgia,serif; }
     header,main,footer { width:min(760px,calc(100% - 32px)); margin:auto; }
     header { padding:44px 0 30px; border-bottom:3px solid var(--ink); }
     nav { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:28px; font:700 13px ui-monospace,monospace; text-transform:uppercase; }
     .nav-links { display:flex; align-items:center; gap:10px; }
-    .telegram-link { display:grid; width:44px; height:44px; flex:0 0 44px; place-items:center; margin-left:auto; color:#fff; background:var(--red); border-radius:50%; box-shadow:0 7px 18px #d3422f45; text-decoration:none; transition:transform .15s ease,background .15s ease,box-shadow .15s ease; }
-    .telegram-link:hover { color:#fff; background:var(--red); box-shadow:0 9px 22px #d3422f45; transform:translateY(-2px); }
+    .telegram-link { display:flex; flex:0 0 auto; flex-direction:column; align-items:center; gap:6px; margin-left:auto; color:var(--ink); font:700 10px/1 ui-monospace,monospace; letter-spacing:.06em; text-decoration:none; text-transform:uppercase; }
+    .telegram-icon { display:grid; width:44px; height:44px; place-items:center; color:#fff; background:var(--red); border-radius:50%; box-shadow:0 7px 18px #d3422f45; transition:transform .15s ease,background .15s ease,box-shadow .15s ease; }
+    .telegram-link:hover { color:var(--red); }
+    .telegram-link:hover .telegram-icon { background:var(--green); box-shadow:0 9px 22px #1d5a4545; transform:translateY(-2px); }
     .telegram-link svg { width:23px; height:23px; fill:currentColor; }
     .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
     .eyebrow { font:700 12px/1.2 ui-monospace,monospace; letter-spacing:.1em; text-transform:uppercase; color:var(--red); }
@@ -51,8 +53,8 @@
 <body>
   <header>
     <nav aria-label="Digest navigation"><div class="nav-links"><a href="./">Latest digest</a><span aria-hidden="true">/</span><a href="archive/">Browse archive</a></div><a class="telegram-link" href="https://t.me/PSHomebrewDaily" aria-label="Get the daily digest on Telegram" title="Get the daily digest on Telegram">
-      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21.7 2.3a1 1 0 0 0-1-.2L2.8 9a1 1 0 0 0 .1 1.9l4.6 1.6 1.8 5.6a1 1 0 0 0 1.7.4l2.7-3 4.7 3.5a1 1 0 0 0 1.6-.6l2-15.2a1 1 0 0 0-.3-.9ZM9.1 11.5l8.8-5.4-7.1 7.4-.6 2.1-1.1-4.1Z"/></svg>
-      <span class="sr-only">Join Telegram</span>
+      <span class="telegram-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><path d="M21.7 2.3a1 1 0 0 0-1-.2L2.8 9a1 1 0 0 0 .1 1.9l4.6 1.6 1.8 5.6a1 1 0 0 0 1.7.4l2.7-3 4.7 3.5a1 1 0 0 0 1.6-.6l2-15.2a1 1 0 0 0-.3-.9ZM9.1 11.5l8.8-5.4-7.1 7.4-.6 2.1-1.1-4.1Z"/></svg></span>
+      <span class="telegram-label">Telegram</span>
     </a></nav>
     <div class="eyebrow">Site policy</div>
     <h1>Terms of use</h1>
