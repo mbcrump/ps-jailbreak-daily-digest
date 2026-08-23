@@ -12,7 +12,80 @@
         "ok": true,
         "count": 0
       }
-    ]
+    ],
+    "latestHomebrewNews": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "PlayStation Homebrew News (Universal SlopKit, DooMC0re on PS5 13.60 + New Emulators)",
+      "url": "https://www.youtube.com/watch?v=CcgI0FejOYQ",
+      "createdAt": "2026-08-21T19:48:33.000Z",
+      "stories": [
+        {
+          "title": "Universal SlopKit and Automatic Jailbreak Preview",
+          "url": "https://x.com/couldbeautism/status/2090757366677643590"
+        },
+        {
+          "title": "DooMC0re on PS5 Firmware 13.60",
+          "url": "https://x.com/egycnq/status/2090091866104402352"
+        },
+        {
+          "title": "Prospero Manager Preview",
+          "url": "https://x.com/callmemaj0r/status/2090594115570315610"
+        },
+        {
+          "title": "LuaMD v1.0",
+          "url": "https://github.com/soniciso1/LuaMD/releases/tag/v1.0"
+        },
+        {
+          "title": "LuaGB v1.0",
+          "url": "https://github.com/soniciso1/LuaGB/releases/tag/v1.0"
+        },
+        {
+          "title": "etaHEN v2.6b Update",
+          "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdje7oank2i"
+        },
+        {
+          "title": "OnionHEN v0.0.10",
+          "url": "https://github.com/aydencharles/onionHEN/releases/tag/v0.0.10"
+        },
+        {
+          "title": "PIZZA-HEN v1.0",
+          "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/tag/v1.0"
+        },
+        {
+          "title": "PS5 WebKit Autoloader v0.3.1",
+          "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.3.1"
+        },
+        {
+          "title": "ShadowMountPlus 1.7alpha8",
+          "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7alpha8"
+        },
+        {
+          "title": "JTPlay Web Branch",
+          "url": "https://github.com/ps5-payload-dev/jtplay/tree/web"
+        },
+        {
+          "title": "PS5 Titania NAND Data Format Research",
+          "url": "https://github.com/symbrkrs/ps5-uart/blob/main/NAND_DATA_FORMAT.md"
+        },
+        {
+          "title": "PoorDS4 RC38",
+          "url": "https://github.com/ItsBlurf/PoorDS4/releases/tag/v0.1.0-rc38"
+        },
+        {
+          "title": "KytyPS5 Releases",
+          "url": "https://github.com/KytyPS5/KytyPS5/releases"
+        },
+        {
+          "title": "SharpEmu Releases",
+          "url": "https://github.com/sharpemu/sharpemu/releases"
+        },
+        {
+          "title": "ChonkyStation4",
+          "url": "https://github.com/liuk7071/ChonkyStation4"
+        }
+      ]
+    }
   },
   "reddit": {
     "posts": [
