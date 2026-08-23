@@ -21,7 +21,58 @@
   <meta name="twitter:title" content="Terms of use | PS Homebrew Daily">
   <meta name="twitter:description" content="Terms governing use of the PS Homebrew Daily website.">
   <link rel="canonical" href="https://pshomebrewdaily.com/terms.html">
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Terms of use | PS Homebrew Daily","description":"Terms governing use of the PS Homebrew Daily website.","url":"https://pshomebrewdaily.com/terms.html","inLanguage":"en-US","dateModified":"2026-07-30","publisher":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightHolder":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightYear":"2026","isPartOf":{"@type":"WebSite","name":"PS Homebrew Daily","url":"https://pshomebrewdaily.com/"}}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Terms of use | PS Homebrew Daily","description":"Terms governing use of the PS Homebrew Daily website.","url":"https://pshomebrewdaily.com/terms.html","inLanguage":"en-US","dateModified":"2026-08-23","publisher":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightHolder":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightYear":"2026","isPartOf":{"@type":"WebSite","name":"PS Homebrew Daily","url":"https://pshomebrewdaily.com/"}}</script>
+  <style>
+    .analytics-consent { position:fixed; right:18px; bottom:18px; z-index:10; width:min(440px,calc(100% - 36px)); padding:18px; color:var(--ink,#10231d); background:var(--card,#fffdf7); border:1px solid #10231d35; border-radius:6px; box-shadow:0 18px 48px #10231d30; }
+    .analytics-consent[hidden] { display:none; }
+    .analytics-consent p { margin:0; font-size:.9rem; line-height:1.45; }
+    .analytics-consent-actions { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
+    .analytics-consent button,.analytics-choices { min-height:34px; padding:7px 10px; color:var(--ink,#10231d); background:transparent; border:1px solid currentColor; border-radius:4px; cursor:pointer; font:700 11px/1 ui-monospace,monospace; letter-spacing:.04em; text-transform:uppercase; }
+    .analytics-consent [data-analytics-allow] { color:#fff; background:var(--green,#1d5a45); border-color:var(--green,#1d5a45); }
+    .analytics-choices { min-height:0; padding:0; border:0; text-decoration:underline; text-underline-offset:3px; text-transform:none; }
+  </style>
+  <script>
+    (() => {
+      const measurementId = "G-9H0JZ8QB7J";
+      const storageKey = "ps-homebrew-analytics-consent";
+      const loadAnalytics = () => {
+        if (window.googleAnalyticsLoaded) return;
+        window.googleAnalyticsLoaded = true;
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function () { window.dataLayer.push(arguments); };
+        window.gtag("js", new Date());
+        window.gtag("config", measurementId);
+        const script = document.createElement("script");
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(measurementId);
+        document.head.appendChild(script);
+      };
+      const showChoices = () => {
+        const notice = document.querySelector("[data-analytics-consent]");
+        if (notice) notice.hidden = false;
+      };
+      const hideChoices = () => {
+        const notice = document.querySelector("[data-analytics-consent]");
+        if (notice) notice.hidden = true;
+      };
+      if (localStorage.getItem(storageKey) === "allow") loadAnalytics();
+      document.addEventListener("DOMContentLoaded", () => {
+        if (!localStorage.getItem(storageKey)) showChoices();
+        document.querySelectorAll("[data-analytics-choices]").forEach((button) =>
+          button.addEventListener("click", showChoices)
+        );
+        document.querySelector("[data-analytics-allow]")?.addEventListener("click", () => {
+          localStorage.setItem(storageKey, "allow");
+          loadAnalytics();
+          hideChoices();
+        });
+        document.querySelector("[data-analytics-decline]")?.addEventListener("click", () => {
+          localStorage.setItem(storageKey, "decline");
+          hideChoices();
+        });
+      });
+    })();
+  </script>
   <title>Terms of use | PS Homebrew Daily</title>
   <style>
     :root { --ink:#10231d; --paper:#f4f0e5; --card:#fffdf7; --red:#d3422f; --green:#1d5a45; --muted:#64736d; }
@@ -58,7 +109,7 @@
     </a></nav>
     <div class="eyebrow">Site policy</div>
     <h1>Terms of use</h1>
-    <p class="meta">Effective July 30, 2026</p>
+    <p class="meta">Effective August 23, 2026</p>
   </header>
   <main>
     <h2>About this site</h2>
@@ -77,9 +128,17 @@
     <h2>External links</h2>
     <p>External sites are outside this site&rsquo;s control. A link does not constitute an endorsement, and this site is not responsible for external content, security, availability, or privacy practices.</p>
 
+    <h2 id="analytics-privacy">Analytics and privacy</h2>
+    <p>This site uses Google Analytics only after a visitor chooses &ldquo;Allow analytics.&rdquo; Google Analytics may use a first-party cookie to distinguish visits and collect usage information such as pages viewed, interactions, approximate location, and browser or device details. The site does not intentionally send names, email addresses, or other directly identifying information to Google Analytics.</p>
+    <p>You can change your choice at any time using the &ldquo;Analytics choices&rdquo; control in the footer. You can also review <a href="https://support.google.com/analytics/answer/6004245?hl=en">Google Analytics data safeguards</a>, <a href="https://policies.google.com/privacy">Google&rsquo;s Privacy Policy</a>, or use the <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics opt-out browser add-on</a>.</p>
+
     <h2>Changes and contact</h2>
     <p>These terms may be updated as the site evolves. Questions or permission requests may be directed to <a href="https://github.com/mbcrump">Michael Crump on GitHub</a>.</p>
   </main>
-  <footer><p>&copy; 2026 Michael Crump. All rights reserved for the original site design, summaries, and editorial selection. <a href="terms.html">Terms of use</a>.</p></footer>
+  <aside class="analytics-consent" data-analytics-consent hidden role="dialog" aria-label="Analytics choices">
+    <p><strong>Help improve this digest.</strong> Allow privacy-conscious Google Analytics to measure visits and site usage. No analytics loads unless you choose Allow. <a href="terms.html#analytics-privacy">Privacy details</a>.</p>
+    <div class="analytics-consent-actions"><button type="button" data-analytics-allow>Allow analytics</button><button type="button" data-analytics-decline>Not now</button></div>
+  </aside>
+  <footer><p>&copy; 2026 Michael Crump. All rights reserved for the original site design, summaries, and editorial selection. <a href="terms.html">Terms of use</a>. <button class="analytics-choices" type="button" data-analytics-choices>Analytics choices</button>.</p></footer>
 </body>
 </html>

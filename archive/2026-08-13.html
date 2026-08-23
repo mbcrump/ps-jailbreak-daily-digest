@@ -23,60 +23,66 @@
   <meta name="twitter:description" content="Daily PS4 and PS5 homebrew, firmware, emulation, and security news from YouTube, Reddit, and Bluesky.">
   <link rel="canonical" href="https://mbcrump.github.io/ps-jailbreak-daily-digest/archive/2026-08-13.html">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"August 13, 2026 | PS Homebrew Daily","description":"Daily PS4 and PS5 homebrew, firmware, emulation, and security news from YouTube, Reddit, and Bluesky.","url":"https://mbcrump.github.io/ps-jailbreak-daily-digest/archive/2026-08-13.html","mainEntityOfPage":"https://mbcrump.github.io/ps-jailbreak-daily-digest/archive/2026-08-13.html","inLanguage":"en-US","datePublished":"2026-08-13T21:08:05.063Z","dateModified":"2026-08-13T21:08:05.063Z","author":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"publisher":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightHolder":{"@type":"Person","name":"Michael Crump","url":"https://github.com/mbcrump","sameAs":["https://t.me/PSHomebrewDaily"]},"copyrightYear":"2026","isPartOf":{"@type":"WebSite","name":"PS Homebrew Daily","url":"https://mbcrump.github.io/ps-jailbreak-daily-digest/"}}</script>
+  <style>
+    .analytics-consent { position:fixed; right:18px; bottom:18px; z-index:10; width:min(440px,calc(100% - 36px)); padding:18px; color:var(--ink,#10231d); background:var(--card,#fffdf7); border:1px solid #10231d35; border-radius:6px; box-shadow:0 18px 48px #10231d30; }
+    .analytics-consent[hidden] { display:none; }
+    .analytics-consent p { margin:0; font-size:.9rem; line-height:1.45; }
+    .analytics-consent-actions { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
+    .analytics-consent button,.analytics-choices { min-height:34px; padding:7px 10px; color:var(--ink,#10231d); background:transparent; border:1px solid currentColor; border-radius:4px; cursor:pointer; font:700 11px/1 ui-monospace,monospace; letter-spacing:.04em; text-transform:uppercase; }
+    .analytics-consent [data-analytics-allow] { color:#fff; background:var(--green,#1d5a45); border-color:var(--green,#1d5a45); }
+    .analytics-choices { min-height:0; padding:0; border:0; text-decoration:underline; text-underline-offset:3px; text-transform:none; }
+  </style>
+  <script>
+    (() => {
+      const measurementId = "G-9H0JZ8QB7J";
+      const storageKey = "ps-homebrew-analytics-consent";
+      const loadAnalytics = () => {
+        if (window.googleAnalyticsLoaded) return;
+        window.googleAnalyticsLoaded = true;
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function () { window.dataLayer.push(arguments); };
+        window.gtag("js", new Date());
+        window.gtag("config", measurementId);
+        const script = document.createElement("script");
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(measurementId);
+        document.head.appendChild(script);
+      };
+      const showChoices = () => {
+        const notice = document.querySelector("[data-analytics-consent]");
+        if (notice) notice.hidden = false;
+      };
+      const hideChoices = () => {
+        const notice = document.querySelector("[data-analytics-consent]");
+        if (notice) notice.hidden = true;
+      };
+      if (localStorage.getItem(storageKey) === "allow") loadAnalytics();
+      document.addEventListener("DOMContentLoaded", () => {
+        if (!localStorage.getItem(storageKey)) showChoices();
+        document.querySelectorAll("[data-analytics-choices]").forEach((button) =>
+          button.addEventListener("click", showChoices)
+        );
+        document.querySelector("[data-analytics-allow]")?.addEventListener("click", () => {
+          localStorage.setItem(storageKey, "allow");
+          loadAnalytics();
+          hideChoices();
+        });
+        document.querySelector("[data-analytics-decline]")?.addEventListener("click", () => {
+          localStorage.setItem(storageKey, "decline");
+          hideChoices();
+        });
+      });
+    })();
+  </script>
   <title>August 13, 2026 | PS Homebrew Daily</title>
   <style>
-    :root { --ink:#10231d; --paper:#f4f0e5; --card:#fffdf7; --red:#d3422f; --green:#1d5a45; --muted:#64736d; }
-    * { box-sizing:border-box; }
-    body { margin:0; color:var(--ink); background:radial-gradient(circle at 90% 0,#e7c96555,transparent 28rem),var(--paper); font:16px/1.55 Georgia,serif; }
-    header,main,footer { width:min(980px,calc(100% - 32px)); margin:auto; }
-    header { padding:32px 0 26px; border-bottom:3px solid var(--ink); }
-    .masthead-top { display:flex; align-items:center; justify-content:space-between; gap:20px; margin-bottom:16px; }
-    nav { display:flex; align-items:center; justify-content:flex-end; gap:14px; margin-left:auto; font:700 12px ui-monospace,monospace; text-transform:uppercase; }
-    .nav-links { display:flex; align-items:center; gap:10px; }
-    .telegram-link { display:flex; flex:0 0 auto; flex-direction:column; align-items:center; gap:6px; margin-left:auto; color:var(--ink); font:700 10px/1 ui-monospace,monospace; letter-spacing:.06em; text-decoration:none; text-transform:uppercase; }
-    .telegram-icon { display:grid; width:44px; height:44px; place-items:center; color:#fff; background:var(--red); border-radius:50%; box-shadow:0 7px 18px #d3422f45; transition:transform .15s ease,background .15s ease,box-shadow .15s ease; }
-    .telegram-link:hover { color:var(--red); }
-    .telegram-link:hover .telegram-icon { background:var(--green); box-shadow:0 9px 22px #1d5a4545; transform:translateY(-2px); }
-    .telegram-link svg { width:23px; height:23px; fill:currentColor; }
-    .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
-    .eyebrow,.tag { font:700 12px/1.2 ui-monospace,monospace; letter-spacing:.1em; text-transform:uppercase; color:var(--red); }
-    h1 { max-width:none; margin:0; font-size:clamp(2.7rem,6vw,4rem); line-height:.95; letter-spacing:-.045em; }
-    .header-intro { max-width:790px; margin:14px 0 0; color:var(--ink); font-size:1.05rem; line-height:1.5; }
-    .run-meta { margin:0; color:var(--muted); font:700 13px/1.4 ui-monospace,monospace; }
-    .header-actions { display:flex; align-items:flex-start; flex-direction:column; gap:12px; margin-top:16px; }
-    .archive-button { display:inline-flex; align-items:center; min-height:40px; padding:8px 13px; border:1px solid var(--ink); border-radius:4px; font:700 12px/1 ui-monospace,monospace; letter-spacing:.06em; text-decoration:none; text-transform:uppercase; }
-    .archive-button:hover { color:#fff; background:var(--ink); }
-    main { padding:28px 0 52px; }
-    .digest-columns { display:grid; grid-template-columns:1fr 1fr; align-items:start; gap:20px; margin-top:20px; }
-    .digest-columns > section { min-width:0; }
-    section,details { padding:24px; background:color-mix(in srgb,var(--card) 92%,transparent); border:1px solid #10231d24; box-shadow:0 14px 35px #28483a12; }
-    main > details { margin-top:20px; }
-    h2 { margin:0 0 14px; font-size:1.6rem; }
-    ul { list-style:none; margin:0; padding:0; }
-    li { padding:12px 0; border-top:1px solid #10231d1c; }
-    li:first-child { border-top:0; }
-    li strong { display:block; font:700 12px ui-monospace,monospace; color:var(--green); }
-    a { color:var(--ink); text-decoration-thickness:1px; text-underline-offset:3px; }
-    a:hover { color:var(--red); }
-    li span:not(.tag),.empty { display:block; color:var(--muted); font-size:.85rem; }
-    .lead-meta { display:block; margin-top:8px; color:var(--muted); font:400 .85rem/1.4 Georgia,serif; letter-spacing:0; text-transform:none; }
-    .homebrew-news-section { margin-top:20px; padding:18px 24px; }
-    .homebrew-news-section h2 { margin-bottom:4px; font-size:1.4rem; }
-    .homebrew-news-section h3 { margin:0; }
-    .homebrew-news-section .episode-title { margin:0 0 3px; font-size:1.05rem; line-height:1.35; }
-    .episode-meta { margin:0; color:var(--muted); font-size:.85rem; }
-    .episode-stories { margin-top:12px; padding-top:10px; border-top:1px solid #10231d1c; }
-    .episode-stories h3 { margin:0 0 3px; color:var(--muted); font:700 11px/1.2 ui-monospace,monospace; letter-spacing:.08em; text-transform:uppercase; }
-    .homebrew-news-section ul { display:grid; grid-template-columns:1fr 1fr; column-gap:24px; }
-    .homebrew-news-section li { padding:5px 0; font-size:.88rem; line-height:1.35; }
-    .bluesky-section li > a { display:-webkit-box; overflow:hidden; -webkit-box-orient:vertical; -webkit-line-clamp:2; line-clamp:2; }
-    .notable-section { margin-top:20px; }
-    .tag { display:inline-block; margin-right:8px; }
-    details { color:var(--muted); }
-    summary { cursor:pointer; font-weight:bold; color:var(--ink); }
-    footer { padding:0 0 40px; color:var(--muted); font-size:.85rem; }
-    footer p { margin:0; }
-    @media (max-width:700px) { header { padding-top:22px; } .masthead-top { margin-bottom:14px; } .nav-links { display:none; } .homebrew-news-section ul { grid-template-columns:1fr; } .digest-columns { grid-template-columns:1fr; } }
+    .analytics-consent { position:fixed; right:18px; bottom:18px; z-index:10; width:min(440px,calc(100% - 36px)); padding:18px; color:var(--ink,#10231d); background:var(--card,#fffdf7); border:1px solid #10231d35; border-radius:6px; box-shadow:0 18px 48px #10231d30; }
+    .analytics-consent[hidden] { display:none; }
+    .analytics-consent p { margin:0; font-size:.9rem; line-height:1.45; }
+    .analytics-consent-actions { display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; }
+    .analytics-consent button,.analytics-choices { min-height:34px; padding:7px 10px; color:var(--ink,#10231d); background:transparent; border:1px solid currentColor; border-radius:4px; cursor:pointer; font:700 11px/1 ui-monospace,monospace; letter-spacing:.04em; text-transform:uppercase; }
+    .analytics-consent [data-analytics-allow] { color:#fff; background:var(--green,#1d5a45); border-color:var(--green,#1d5a45); }
+    .analytics-choices { min-height:0; padding:0; border:0; text-decoration:underline; text-underline-offset:3px; text-transform:none; }
   </style>
 </head>
 <body>
@@ -105,6 +111,10 @@ github.com/MounirHero/w...</a> <span>score 11 · following:PS5 JAILBREAKS</span>
 twitter-thread.com/t/2087654852...</a> <span>score 10 · following:Consolefacts</span></li><li><a href="https://bsky.app/profile/mkgorgi.bsky.social/post/3msx4kxqhns2g">P2jb W2jb ✍️</a> <span>score 10 · following:PS5 JAILBREAKS</span></li><li><a href="https://bsky.app/profile/dlpsteam.bsky.social/post/3msy3qaqtic2y">🫡</a> <span>score 7 · following:DLPS Team</span></li><li><a href="https://bsky.app/profile/dlpsteam.bsky.social/post/3mswne47zrs23">A bit off-topic 😎☀️</a> <span>score 7 · following:DLPS Team</span></li></ul></section></div><section class="notable-section"><h2>Notable Reddit</h2><ul><li><span class="tag">PS5</span><a href="https://www.reddit.com/r/PS5_Jailbreak/comments/1vn42ew/17500_in_bounty_it_could_be_a_kernel_exploit/">$17,500 in a bounty—it could be a kernel exploit</a> <span>r/PS5_Jailbreak · score 289</span></li><li><span class="tag">PS4</span><a href="https://www.reddit.com/r/ps4homebrew/comments/1vn9pit/i_just_bought_ps4_pro_with_852_version_and_17_tb/">I just bought PS4 Pro with version 8.52 and 1.7 TB of storage</a> <span>r/ps4homebrew · score 66</span></li><li><span class="tag">PS5</span><a href="https://www.reddit.com/r/PS5_Jailbreak/comments/1vn2e80/the_new_webkit_autoloader_test_with_fatlady_1001/">The new WebKit autoloader test with Fatlady 10.01</a> <span>r/PS5_Jailbreak · score 42</span></li><li><span class="tag">PS4</span><a href="https://www.reddit.com/r/ps4homebrew/comments/1vngfbn/question/">Question</a> <span>r/ps4homebrew · score 19</span></li><li><span class="tag">PS5</span><a href="https://www.reddit.com/r/ps5homebrew/comments/1vn9f2w/unified_webkit_exploit_100550_and_9001200/">UNIFIED WEBKIT EXPLOIT (1.00-5.50 and 9.00-12.00)</a> <span>r/ps5homebrew · score 19</span></li><li><span class="tag">PS5</span><a href="https://www.reddit.com/r/PS5_Jailbreak/comments/1vnc79s/release_ps5_nzb_downloader_v010_looking_for/">[Release] PS5 NZB Downloader v0.1.0 - looking for testers</a> <span>r/PS5_Jailbreak · score 16</span></li><li><span class="tag">PS5</span><a href="https://www.reddit.com/r/PS5_Jailbreak/comments/1vneiol/ps_play_20/">PS Play 2.0</a> <span>r/PS5_Jailbreak · score 13</span></li><li><span class="tag">PS5</span><a href="https://www.reddit.com/r/PS5_Jailbreak/comments/1vn1dml/esp8266_with_the_latest_jailbreak_possible/">ESP8266 with the latest jailbreak possible?</a> <span>r/PS5_Jailbreak · score 9</span></li></ul></section>
     
   </main>
-  <footer><p>&copy; 2026 Michael Crump. All rights reserved for the original site design, summaries, and editorial selection. <a href="../terms.html">Terms of use</a>.</p></footer>
+  <aside class="analytics-consent" data-analytics-consent hidden role="dialog" aria-label="Analytics choices">
+    <p><strong>Help improve this digest.</strong> Allow privacy-conscious Google Analytics to measure visits and site usage. No analytics loads unless you choose Allow. <a href="../terms.html#analytics-privacy">Privacy details</a>.</p>
+    <div class="analytics-consent-actions"><button type="button" data-analytics-allow>Allow analytics</button><button type="button" data-analytics-decline>Not now</button></div>
+  </aside>
+  <footer><p>&copy; 2026 Michael Crump. All rights reserved for the original site design, summaries, and editorial selection. <a href="../terms.html">Terms of use</a>. <button class="analytics-choices" type="button" data-analytics-choices>Analytics choices</button>.</p></footer>
 </body>
 </html>
