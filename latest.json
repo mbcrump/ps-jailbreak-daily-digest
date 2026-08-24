@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-24T14:00:26.524Z",
-  "runTimePacific": "08/24/2026, 07:00 PDT",
-  "windowStartPacific": "08/23/2026, 07:00 PDT",
-  "windowEndPacific": "08/24/2026, 07:00 PDT",
+  "generatedAt": "2026-08-24T17:15:25.630Z",
+  "runTimePacific": "08/24/2026, 10:15 PDT",
+  "windowStartPacific": "08/23/2026, 10:15 PDT",
+  "windowEndPacific": "08/24/2026, 10:15 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
       "platform": "YouTube",
       "community": "PlayStation Hacks & Exploits | Michael Crump",
-      "title": "Prospero Manager Previewed for PS5 #Shorts",
-      "url": "https://www.youtube.com/watch?v=PLs6DMswGZk",
-      "createdAt": "2026-08-24T02:18:05.000Z"
+      "title": "JTPlay Tests a New PS5 Web Branch #Shorts",
+      "url": "https://www.youtube.com/watch?v=j7JtBYljIIk",
+      "createdAt": "2026-08-24T15:05:45.000Z"
     },
     "latestHomebrewNews": {
       "platform": "YouTube",
@@ -99,15 +99,23 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 Custom Background & More!",
-        "score": 133,
+        "score": 155,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwv9sv/ps5_custom_background_more/",
         "createdAt": "2026-08-24T06:54:03.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "I guess we don’t deserve good things",
+        "score": 65,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx7fyi/i_guess_we_dont_deserve_good_things/",
+        "createdAt": "2026-08-24T16:20:20.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Only getting ~175 MB/s when copying games from external NVMe SSD to internal storage — is this normal?",
-        "score": 15,
+        "score": 18,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwo0wa/only_getting_175_mbs_when_copying_games_from/",
         "createdAt": "2026-08-24T00:41:31.000Z"
       },
@@ -131,7 +139,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Whats happening with my gta 5?",
-        "score": 5,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwzzp4/whats_happening_with_my_gta_5/",
         "createdAt": "2026-08-24T11:21:12.000Z"
       },
@@ -139,9 +147,17 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Best storage option for games: Internal vs external NVMe vs M.2 expansion slot?",
-        "score": 4,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwpjug/best_storage_option_for_games_internal_vs/",
         "createdAt": "2026-08-24T01:53:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "I made a free, open-source tool to convert videos for the Playstation 5",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vx526f/i_made_a_free_opensource_tool_to_convert_videos/",
+        "createdAt": "2026-08-24T14:53:18.000Z"
       },
       {
         "platform": "Reddit",
@@ -186,10 +202,18 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Gran Turismo Sport Green Screen Crash",
+        "title": "Wukong ffpfsc or exfat",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx334p/gran_turismo_sport_green_screen_crash/",
-        "createdAt": "2026-08-24T13:37:53.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx82dm/wukong_ffpfsc_or_exfat/",
+        "createdAt": "2026-08-24T16:42:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Is ShadowMountPlusFan the best version of SM+ to use right now?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx4kna/is_shadowmountplusfan_the_best_version_of_sm_to/",
+        "createdAt": "2026-08-24T14:35:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -206,6 +230,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vwrfa7/why_did_it_randomly_delete_my_saved_data_and_my/",
         "createdAt": "2026-08-24T03:23:12.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Comment marche webkitty",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vx5ol9/comment_marche_webkitty/",
+        "createdAt": "2026-08-24T15:16:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -234,10 +266,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Advice on updating? (4.72)",
+        "title": "Date and time issue (PS3)",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vw8g03/advice_on_updating_472/",
-        "createdAt": "2026-08-23T14:19:57.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vx7hfl/date_and_time_issue_ps3/",
+        "createdAt": "2026-08-24T16:21:49.000Z"
       },
       {
         "platform": "Reddit",
@@ -266,6 +298,22 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Anyone know what this is?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx52jt/anyone_know_what_this_is/",
+        "createdAt": "2026-08-24T14:53:43.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Gran Turismo Sport Green Screen Crash",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx334p/gran_turismo_sport_green_screen_crash/",
+        "createdAt": "2026-08-24T13:37:53.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Patch PS5 game on jailbroken console",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx11g2/patch_ps5_game_on_jailbroken_console/",
@@ -290,14 +338,6 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Cheatrunner toggles grey",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwawi1/cheatrunner_toggles_grey/",
-        "createdAt": "2026-08-23T15:57:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Is there any way to jailbreak ps5 digital?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx0aei/is_there_any_way_to_jailbreak_ps5_digital/",
@@ -316,7 +356,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "PS5 Custom Background & More!",
-      "score": 133,
+      "score": 155,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwv9sv/ps5_custom_background_more/",
       "createdAt": "2026-08-24T06:54:03.000Z"
     },
@@ -341,7 +381,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 Custom Background & More!",
-        "score": 133,
+        "score": 155,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwv9sv/ps5_custom_background_more/",
         "createdAt": "2026-08-24T06:54:03.000Z"
       },
@@ -360,17 +400,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 11
+        "count": 12
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 4
+        "count": 5
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 11
+        "count": 14
       },
       {
         "name": "r/PS4Hacks2",
@@ -429,27 +469,9 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:MasterPS",
-        "title": "🆕 My Video Recap from last week!\n\n📀 5 PS5 game discs tested: youtu.be/bzG7czcYJWQ\n\n📰 SlopKit, DooMC0re + new emulators: youtu.be/CcgI0FejOYQ\n\n🔓 WebKit + P2JB + etaHEN on PS5 12.70: youtu.be/FRCpB4BVQVY\n\nThanks for watching!",
-        "score": 12,
-        "url": "https://bsky.app/profile/crump-youtube.bsky.social/post/3mtr3a6og7c2y",
-        "createdAt": "2026-08-23T15:12:34.864Z",
-        "key": "at://did:plc:mlihpblsxxw5teznclmu46cv/app.bsky.feed.post/3mtr3a6og7c2y:bafyreihnqxsxuxit4qb3wvfxjemqyyyeokdtc7f6ah2xtit6l6zhn5ewru"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MasterPS",
-        "title": "Mega Man X is back… but CAPCOM didn’t create it\n\n❤️ youtu.be/3B0EpXmRqkc",
-        "score": 9,
-        "url": "https://bsky.app/profile/thewizwiki-oficial.bsky.social/post/3mtr4vd2ths2g",
-        "createdAt": "2026-08-23T15:42:12.570Z",
-        "key": "at://did:plc:d34raslp5sf4ybsp53lhfeq7/app.bsky.feed.post/3mtr4vd2ths2g:bafyreifeuhkl6a2rai6laeeueml5ikxva3uybmmplasvrslaqfa27vr7vm"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "AutoJB 👏👏:",
-        "score": 7,
+        "score": 9,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtt7lkddz22n",
         "createdAt": "2026-08-24T11:35:45.579Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtt7lkddz22n:bafyreigl63o4fctdlr46tav4gqgfcf4itz4oz5zvsnhjvwnt7bgbqvcqxy"
@@ -457,8 +479,17 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
+        "title": "Tonight on...",
+        "score": 9,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtteg5u3ok2e",
+        "createdAt": "2026-08-24T13:02:22.577Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtteg5u3ok2e:bafyreih4254tbgrvfejn2422dcpxlbe42kfcmqwheqgp4vi4ux2g4syaxy"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
         "title": "🤦 github.com/aydencharles...",
-        "score": 5,
+        "score": 9,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mttbhetccc2q",
         "createdAt": "2026-08-24T12:09:17.374Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mttbhetccc2q:bafyreig2k72w2thutpth7yyzaspxatkkqumyxystyaatbheofqdb6ecxru"
@@ -467,19 +498,19 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Today we'll do a little bit of art, do you like my friend's creation? @FonSyDiazz , Everything is hand-painted—not a single sticker. I like the design, but let me know in the comments",
-        "score": 5,
+        "score": 7,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mttawncoa22q",
         "createdAt": "2026-08-24T11:59:55.063Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mttawncoa22q:bafyreihrhrulrru6uomuelqgnyijsjkdeuzejrvh2kluyzgp6sxnqhysya"
       },
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Tonight on...",
-        "score": 4,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtteg5u3ok2e",
-        "createdAt": "2026-08-24T13:02:22.577Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtteg5u3ok2e:bafyreih4254tbgrvfejn2422dcpxlbe42kfcmqwheqgp4vi4ux2g4syaxy"
+        "community": "following:Consolefacts",
+        "title": "PS4 News:\n\nA new webkit host has appeared supporting firmwares 10.xx - 11.02\n\nJust visit this URL on your PS4 and it'll jailbreak and load GoldHEN:\n\nmustafs-ps4-ps5.github.io/stabli/",
+        "score": 3,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mttfdoav4c2e",
+        "createdAt": "2026-08-24T13:18:43.578Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mttfdoav4c2e:bafyreifjaig2ksn3utctr6s62nj3s5tcmnt7wvfpvt3p7zrdwynfpbgumy"
       },
       {
         "platform": "Bluesky",
@@ -492,12 +523,21 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nA new webkit host has appeared supporting firmwares 10.xx - 11.02\n\nJust visit this URL on your PS4 and it'll jailbreak and load GoldHEN:\n\nmustafs-ps4-ps5.github.io/stabli/",
+        "community": "following:MrMario2011",
+        "title": "Happy Monday youtu.be/MdMi94003rE",
         "score": 1,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mttfdoav4c2e",
-        "createdAt": "2026-08-24T13:18:43.578Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mttfdoav4c2e:bafyreifjaig2ksn3utctr6s62nj3s5tcmnt7wvfpvt3p7zrdwynfpbgumy"
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mtto6nunb22m",
+        "createdAt": "2026-08-24T15:56:58.769Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtto6nunb22m:bafyreif2xraafl2pliov4lhds2pw3ez432q4i5fu6f7ifclhrk7ipwttim"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "(untitled post)",
+        "score": 0,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mttnmnrw4s2m",
+        "createdAt": "2026-08-24T15:46:54.878Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mttnmnrw4s2m:bafyreie45ztnsj2vy2ay6rorpcjokknmv2akjqrxdu7t3w3pfhcdckjhp4"
       }
     ],
     "topOverall": {
