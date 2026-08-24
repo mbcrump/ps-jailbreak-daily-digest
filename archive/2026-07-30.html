@@ -101,7 +101,10 @@
     a:hover { color:var(--red); }
     li span:not(.tag),.empty { display:block; color:var(--muted); font-size:.85rem; }
     .lead-meta { display:block; margin-top:8px; color:var(--muted); font:400 .85rem/1.4 Georgia,serif; letter-spacing:0; text-transform:none; }
-    .sponsor-card { margin-top:20px; padding:18px 24px; border-color:#d3422f55; background:linear-gradient(105deg,#fffdf7 65%,#e7c9652e); }
+    .lead-section.has-campaign { display:grid; grid-template-columns:minmax(0,1.45fr) minmax(260px,.85fr); align-items:center; gap:24px; }
+    .lead-story { min-width:0; }
+    .lead-story h2 { margin-bottom:0; }
+    .sponsor-card { min-width:0; padding:2px 0 2px 24px; border-left:1px solid #d3422f55; }
     .sponsor-label { margin-bottom:10px; color:var(--red); font:700 11px/1 ui-monospace,monospace; letter-spacing:.12em; text-transform:uppercase; }
     .sponsor-content { display:flex; align-items:center; gap:18px; }
     .sponsor-logo { flex:0 0 auto; width:72px; height:72px; padding:6px; object-fit:contain; background:#fff; border:1px solid #10231d1c; border-radius:6px; }
@@ -125,7 +128,7 @@
     summary { cursor:pointer; font-weight:bold; color:var(--ink); }
     footer { padding:0 0 40px; color:var(--muted); font-size:.85rem; }
     footer p { margin:0; }
-    @media (max-width:700px) { header { padding-top:22px; } .masthead-top { margin-bottom:14px; } .nav-links { display:none; } .sponsor-content { align-items:flex-start; } .sponsor-logo { width:58px; height:58px; } .homebrew-news-section ul { grid-template-columns:1fr; } .digest-columns { grid-template-columns:1fr; } }
+    @media (max-width:700px) { header { padding-top:22px; } .masthead-top { margin-bottom:14px; } .nav-links { display:none; } .lead-section.has-campaign { grid-template-columns:1fr; } .sponsor-card { padding:20px 0 0; border-top:1px solid #d3422f55; border-left:0; } .sponsor-content { align-items:flex-start; } .sponsor-logo { width:58px; height:58px; } .homebrew-news-section ul { grid-template-columns:1fr; } .digest-columns { grid-template-columns:1fr; } }
   </style>
 </head>
 <body>
