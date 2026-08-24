@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T17:15:25.630Z",
-  "runTimePacific": "08/24/2026, 10:15 PDT",
-  "windowStartPacific": "08/23/2026, 10:15 PDT",
-  "windowEndPacific": "08/24/2026, 10:15 PDT",
+  "generatedAt": "2026-08-24T20:53:19.681Z",
+  "runTimePacific": "08/24/2026, 13:53 PDT",
+  "windowStartPacific": "08/23/2026, 13:53 PDT",
+  "windowEndPacific": "08/24/2026, 13:53 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -99,7 +99,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 Custom Background & More!",
-        "score": 155,
+        "score": 162,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwv9sv/ps5_custom_background_more/",
         "createdAt": "2026-08-24T06:54:03.000Z"
       },
@@ -107,7 +107,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I guess we don’t deserve good things",
-        "score": 65,
+        "score": 130,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx7fyi/i_guess_we_dont_deserve_good_things/",
         "createdAt": "2026-08-24T16:20:20.000Z"
       },
@@ -122,48 +122,64 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "Whats happening with my gta 5?",
+        "score": 11,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwzzp4/whats_happening_with_my_gta_5/",
+        "createdAt": "2026-08-24T11:21:12.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "PS5 Custom Background & More!",
+        "score": 10,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vwva1g/ps5_custom_background_more/",
+        "createdAt": "2026-08-24T06:54:27.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Is it a good idea to jailbreak a newly-bought PS5? What can I do with it?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vxckhw/is_it_a_good_idea_to_jailbreak_a_newlybought_ps5/",
+        "createdAt": "2026-08-24T19:18:51.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "Any way to watch movies for free on jailbroken ps4 ?",
-        "score": 9,
+        "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwlkng/any_way_to_watch_movies_for_free_on_jailbroken_ps4/",
         "createdAt": "2026-08-23T22:52:45.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "PS5 Custom Background & More!",
-        "score": 9,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vwva1g/ps5_custom_background_more/",
-        "createdAt": "2026-08-24T06:54:27.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Whats happening with my gta 5?",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwzzp4/whats_happening_with_my_gta_5/",
-        "createdAt": "2026-08-24T11:21:12.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Best storage option for games: Internal vs external NVMe vs M.2 expansion slot?",
-        "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwpjug/best_storage_option_for_games_internal_vs/",
-        "createdAt": "2026-08-24T01:53:01.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
         "title": "I made a free, open-source tool to convert videos for the Playstation 5",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vx526f/i_made_a_free_opensource_tool_to_convert_videos/",
         "createdAt": "2026-08-24T14:53:18.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Best storage option for games: Internal vs external NVMe vs M.2 expansion slot?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwpjug/best_storage_option_for_games_internal_vs/",
+        "createdAt": "2026-08-24T01:53:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How can i use a ps5 controller on my ps4 without having to buy any bluetooth adapters or similar stuff?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxemn6/how_can_i_use_a_ps5_controller_on_my_ps4_without/",
+        "createdAt": "2026-08-24T20:33:36.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Does Batman Arkham knight have a 60 fps patch?",
-        "score": 1,
+        "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwzosa/does_batman_arkham_knight_have_a_60_fps_patch/",
         "createdAt": "2026-08-24T11:06:19.000Z"
       },
@@ -182,38 +198,6 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwm9im/persona_5_royal_causing_kernel_panics_on_ps4/",
         "createdAt": "2026-08-23T23:22:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "White light flashing after the console shuts down",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwfj2u/white_light_flashing_after_the_console_shuts_down/",
-        "createdAt": "2026-08-23T18:51:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Game issue crash format pkg",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwd6h0/game_issue_crash_format_pkg/",
-        "createdAt": "2026-08-23T17:24:17.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Wukong ffpfsc or exfat",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx82dm/wukong_ffpfsc_or_exfat/",
-        "createdAt": "2026-08-24T16:42:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Is ShadowMountPlusFan the best version of SM+ to use right now?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx4kna/is_shadowmountplusfan_the_best_version_of_sm_to/",
-        "createdAt": "2026-08-24T14:35:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -249,30 +233,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Looking for a Furi theme pkg",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwfj8c/looking_for_a_furi_theme_pkg/",
-        "createdAt": "2026-08-23T18:52:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "DPI error Package Already Installed",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwf97a/dpi_error_package_already_installed/",
-        "createdAt": "2026-08-23T18:41:29.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Date and time issue (PS3)",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vx7hfl/date_and_time_issue_ps3/",
-        "createdAt": "2026-08-24T16:21:49.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Only getting ~175 MB/s when copying games from external NVMe SSD to internal storage — is this normal?",
         "score": 0,
@@ -294,6 +254,14 @@
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vwussu/i_am_thinking_to_remove_my_jb_to_latest/",
         "createdAt": "2026-08-24T06:25:58.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Wukong ffpfsc or exfat",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx82dm/wukong_ffpfsc_or_exfat/",
+        "createdAt": "2026-08-24T16:42:21.000Z"
       },
       {
         "platform": "Reddit",
@@ -356,7 +324,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "PS5 Custom Background & More!",
-      "score": 155,
+      "score": 162,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwv9sv/ps5_custom_background_more/",
       "createdAt": "2026-08-24T06:54:03.000Z"
     },
@@ -364,16 +332,16 @@
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Any way to watch movies for free on jailbroken ps4 ?",
-        "score": 9,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwlkng/any_way_to_watch_movies_for_free_on_jailbroken_ps4/",
-        "createdAt": "2026-08-23T22:52:45.000Z"
+        "title": "Whats happening with my gta 5?",
+        "score": 11,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vwzzp4/whats_happening_with_my_gta_5/",
+        "createdAt": "2026-08-24T11:21:12.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "PS5 Custom Background & More!",
-        "score": 9,
+        "score": 10,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vwva1g/ps5_custom_background_more/",
         "createdAt": "2026-08-24T06:54:27.000Z"
       },
@@ -381,7 +349,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 Custom Background & More!",
-        "score": 155,
+        "score": 162,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vwv9sv/ps5_custom_background_more/",
         "createdAt": "2026-08-24T06:54:03.000Z"
       },
@@ -400,7 +368,7 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 8
       },
       {
         "name": "r/ps5homebrew",
@@ -433,24 +401,6 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "(untitled post)",
-        "score": 24,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtrdql7auc2q",
-        "createdAt": "2026-08-23T17:44:51.266Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtrdql7auc2q:bafyreidrowjgg7w37il5kwlfea245fwvsagi7ef6qoof4i4ao7nu2mqbti"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "🚫🚫🚫✖️✖️✖️📛📛📛❌️❌️❌️",
-        "score": 17,
-        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtrdzafijc2p",
-        "createdAt": "2026-08-23T17:49:42.477Z",
-        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtrdzafijc2p:bafyreicbesifmeuftw5rc4wwk4k2hlgkzudocirgbwceho3bcfs4ui2ydi"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS4 & PS5 News:\n\nResearcher MasterMaind confirms his new exploit indeed works on PS5 13.60\n\nAswell yet again on PS4 13.50 & 13.52\n\ntwitter-thread.com/t/2091632591...",
         "score": 15,
@@ -460,18 +410,9 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nThe new webkit has now been updated to support more firmwares!\n \nFirmwares 1.xx - 5.xx & 7.xx - 12.70\n\nThe host only has the kernels Poopsploit and P2JB, not Lapse.\n\nThe reason 6.xx is not included is because Poopsploit doesn't support it.\n\ntwitter-thread.com/t/2090896706...",
-        "score": 12,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtrdjddiak2x",
-        "createdAt": "2026-08-23T17:40:47.264Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtrdjddiak2x:bafyreigy65xxtb7ku455vnnvgvskzgw3vk3zvmp4wtdsoenotwqol6xu54"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "AutoJB 👏👏:",
-        "score": 9,
+        "score": 10,
         "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtt7lkddz22n",
         "createdAt": "2026-08-24T11:35:45.579Z",
         "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtt7lkddz22n:bafyreigl63o4fctdlr46tav4gqgfcf4itz4oz5zvsnhjvwnt7bgbqvcqxy"
@@ -480,7 +421,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Tonight on...",
-        "score": 9,
+        "score": 10,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtteg5u3ok2e",
         "createdAt": "2026-08-24T13:02:22.577Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtteg5u3ok2e:bafyreih4254tbgrvfejn2422dcpxlbe42kfcmqwheqgp4vi4ux2g4syaxy"
@@ -514,6 +455,24 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:PS5 JAILBREAKS",
+        "title": "💢ShadowMountPlus:\n\ngithub.com/drakmor/Shad...\n\n- Keep fakelib2 exclusive from global and emulator overlays",
+        "score": 3,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtu46eqf6c2j",
+        "createdAt": "2026-08-24T20:07:25.162Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mtu46eqf6c2j:bafyreidbbmilq3tlbk7l3ywq6lsyxfl3k2xjntporvfdoyr3ej4v7u3rt4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "github.com/cragson/a53-...",
+        "score": 3,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mttylsjd7k2q",
+        "createdAt": "2026-08-24T19:03:22.969Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mttylsjd7k2q:bafyreihzepjq2doxf4fk7zntbbbq3oaoawsbmuvq73l5zktnbnflxtrdhy"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "This isn't the exFAT big.",
         "score": 2,
@@ -525,7 +484,7 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "Happy Monday youtu.be/MdMi94003rE",
-        "score": 1,
+        "score": 2,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mtto6nunb22m",
         "createdAt": "2026-08-24T15:56:58.769Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtto6nunb22m:bafyreif2xraafl2pliov4lhds2pw3ez432q4i5fu6f7ifclhrk7ipwttim"
@@ -542,12 +501,12 @@
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:DLPS Team",
-      "title": "(untitled post)",
-      "score": 24,
-      "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtrdql7auc2q",
-      "createdAt": "2026-08-23T17:44:51.266Z",
-      "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtrdql7auc2q:bafyreidrowjgg7w37il5kwlfea245fwvsagi7ef6qoof4i4ao7nu2mqbti"
+      "community": "following:Consolefacts",
+      "title": "PS4 & PS5 News:\n\nResearcher MasterMaind confirms his new exploit indeed works on PS5 13.60\n\nAswell yet again on PS4 13.50 & 13.52\n\ntwitter-thread.com/t/2091632591...",
+      "score": 15,
+      "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtrsrxtdq22b",
+      "createdAt": "2026-08-23T22:14:03.469Z",
+      "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtrsrxtdq22b:bafyreiafzm2gicz6hzqt4wr6oopswx75r7jqzlwmduvkaq5bogqhmnrv7u"
     },
     "sources": [
       {
