@@ -34,13 +34,15 @@
       const eventData = {
         campaign_id: sponsor.dataset.sponsorId,
         sponsor_name: sponsor.dataset.sponsorName,
-        sponsor_placement: "below_top_overall"
+        sponsor_placement: "below_top_overall",
+        placement_type: sponsor.dataset.placementType || "sponsored"
       };
+      const eventPrefix = sponsor.dataset.eventPrefix === "community" ? "community" : "sponsor";
       let impressionSent = false;
       const sendImpression = function () {
         if (impressionSent) return;
         impressionSent = true;
-        gtag("event", "sponsor_impression", eventData);
+        gtag("event", eventPrefix + "_impression", eventData);
       };
       if ("IntersectionObserver" in window) {
         const observer = new IntersectionObserver(function (entries) {
@@ -54,7 +56,7 @@
         sendImpression();
       }
       sponsor.querySelector("[data-sponsor-link]")?.addEventListener("click", function () {
-        gtag("event", "sponsor_click", {
+        gtag("event", eventPrefix + "_click", {
           ...eventData,
           link_url: this.href
         });

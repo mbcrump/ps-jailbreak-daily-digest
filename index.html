@@ -34,13 +34,15 @@
       const eventData = {
         campaign_id: sponsor.dataset.sponsorId,
         sponsor_name: sponsor.dataset.sponsorName,
-        sponsor_placement: "below_top_overall"
+        sponsor_placement: "below_top_overall",
+        placement_type: sponsor.dataset.placementType || "sponsored"
       };
+      const eventPrefix = sponsor.dataset.eventPrefix === "community" ? "community" : "sponsor";
       let impressionSent = false;
       const sendImpression = function () {
         if (impressionSent) return;
         impressionSent = true;
-        gtag("event", "sponsor_impression", eventData);
+        gtag("event", eventPrefix + "_impression", eventData);
       };
       if ("IntersectionObserver" in window) {
         const observer = new IntersectionObserver(function (entries) {
@@ -54,7 +56,7 @@
         sendImpression();
       }
       sponsor.querySelector("[data-sponsor-link]")?.addEventListener("click", function () {
-        gtag("event", "sponsor_click", {
+        gtag("event", eventPrefix + "_click", {
           ...eventData,
           link_url: this.href
         });
@@ -140,7 +142,10 @@
       <div class="eyebrow">Top overall</div>
       <h2><a href="https://www.youtube.com/watch?v=j7JtBYljIIk">JTPlay Tests a New PS5 Web Branch #Shorts</a> <span class="lead-meta">PlayStation Hacks &amp; Exploits | Michael Crump · published 08/24/2026, 08:05 PDT</span></h2>
     </section>
-
+<section class="sponsor-card" data-sponsor-card data-sponsor-id="help-cyber" data-sponsor-name="Help Cyber" data-placement-type="community" data-event-prefix="community" aria-label="Community support: Help Cyber">
+      <div class="sponsor-label">Community support</div>
+      <div class="sponsor-content"><div class="sponsor-message"><h2>Help Cyber</h2><p>Help Cyber if you are able! Details</p><a class="sponsor-cta" data-sponsor-link href="https://www.gofundme.com/f/lost-my-home-need-help-kkda5?cp_src=d&amp;utm_source=pshomebrewdaily&amp;utm_medium=community&amp;utm_campaign=help-cyber" rel="nofollow noopener" target="_blank">View details</a></div></div>
+    </section>
 <section class="homebrew-news-section">
       <h2><a href="https://www.youtube.com/watch?v=CcgI0FejOYQ">Latest PlayStation Homebrew News</a></h2>
       <p class="episode-meta">Published August 21, 2026 at 12:48 PM PDT</p>
