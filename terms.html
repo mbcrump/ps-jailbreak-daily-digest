@@ -37,9 +37,7 @@
         sponsor_placement: "below_top_overall",
         placement_type: sponsor.dataset.placementType || "sponsored"
       };
-      const eventPrefix = ["community", "message"].includes(sponsor.dataset.eventPrefix)
-        ? sponsor.dataset.eventPrefix
-        : "sponsor";
+      const eventPrefix = sponsor.dataset.eventPrefix === "community" ? "community" : "sponsor";
       let impressionSent = false;
       const sendImpression = function () {
         if (impressionSent) return;
