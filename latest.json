@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T14:02:01.736Z",
-  "runTimePacific": "08/25/2026, 07:02 PDT",
-  "windowStartPacific": "08/24/2026, 07:02 PDT",
-  "windowEndPacific": "08/25/2026, 07:02 PDT",
+  "generatedAt": "2026-08-25T17:15:26.660Z",
+  "runTimePacific": "08/25/2026, 10:15 PDT",
+  "windowStartPacific": "08/24/2026, 10:15 PDT",
+  "windowEndPacific": "08/25/2026, 10:15 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -91,43 +91,43 @@
     "posts": [
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "I guess we don’t deserve good things",
-        "score": 244,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx7fyi/i_guess_we_dont_deserve_good_things/",
-        "createdAt": "2026-08-24T16:20:20.000Z"
+        "community": "ps4homebrew",
+        "title": "PS4 13.00 WebKit jailbreak release !",
+        "score": 159,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy0xhg/ps4_1300_webkit_jailbreak_release/",
+        "createdAt": "2026-08-25T14:09:25.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "WEBKIT EXPLOIT FOR PS4 12.00 ->13.00",
-        "score": 28,
+        "score": 57,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxx2ul/webkit_exploit_for_ps4_1200_1300/",
         "createdAt": "2026-08-25T11:25:44.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How to install games on a PS5 to save time",
+        "title": "PS Play 2.1 - Impressive homebrew app",
         "score": 11,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vy1cr8/ps_play_21_impressive_homebrew_app/",
+        "createdAt": "2026-08-25T14:25:26.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "How to install games on a PS5 to save time",
+        "score": 9,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vxigfe/how_to_install_games_on_a_ps5_to_save_time/",
         "createdAt": "2026-08-24T23:01:01.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "I made a free, open-source tool to convert videos for the Playstation 5",
+        "community": "PS5_Jailbreak",
+        "title": "PSVR2 Gamedump list",
         "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vx526f/i_made_a_free_opensource_tool_to_convert_videos/",
-        "createdAt": "2026-08-24T14:53:18.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "\"Syncing\" jailbroken PS4 trophies into an active PSN account",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxqzdo/syncing_jailbroken_ps4_trophies_into_an_active/",
-        "createdAt": "2026-08-25T05:38:46.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vxsd8z/psvr2_gamedump_list/",
+        "createdAt": "2026-08-25T06:57:54.000Z"
       },
       {
         "platform": "Reddit",
@@ -148,10 +148,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Anyone know what this is?",
+        "title": "PS5 + Linux temporary LAN machine",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx52jt/anyone_know_what_this_is/",
-        "createdAt": "2026-08-24T14:53:43.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vy0twb/ps5_linux_temporary_lan_machine/",
+        "createdAt": "2026-08-25T14:05:36.000Z"
       },
       {
         "platform": "Reddit",
@@ -168,6 +168,14 @@
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1vxhofs/ps4_firmware_700/",
         "createdAt": "2026-08-24T22:29:30.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "\"Syncing\" jailbroken ps4 trophies into an active PSN Account",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxqzdo/syncing_jailbroken_ps4_trophies_into_an_active/",
+        "createdAt": "2026-08-25T05:38:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -192,6 +200,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxhfmk/are_generic_ps4_fat_power_supplies_from/",
         "createdAt": "2026-08-24T22:19:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "PS Play 2.1 - Impressive homebrew app",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vy1d5l/ps_play_21_impressive_homebrew_app/",
+        "createdAt": "2026-08-25T14:25:50.000Z"
       },
       {
         "platform": "Reddit",
@@ -228,6 +244,22 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "What has changed in the CFW scene since 9.55 or 9.60?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy49mf/what_has_changed_in_the_cfw_scene_since_955_or_960/",
+        "createdAt": "2026-08-25T16:12:49.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Any suggestions for someone explicitly planning to play rockband 4 for jailbreaking",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy22tj/any_suggestions_for_someone_explicitly_planning/",
+        "createdAt": "2026-08-25T14:53:06.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "Two games keep having their data corrupted when I shut down PS4 + Where can I download 9.00 firmware?",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxyikb/two_games_keep_having_their_data_corrupted_when_i/",
@@ -240,14 +272,6 @@
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxw003/i_have_my_brothers_ps4_and_its_on_1000/",
         "createdAt": "2026-08-25T10:30:54.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Comment marche webkitty",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vx5ol9/comment_marche_webkitty/",
-        "createdAt": "2026-08-24T15:16:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -276,14 +300,6 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Wukong ffpfsc or exfat",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx82dm/wukong_ffpfsc_or_exfat/",
-        "createdAt": "2026-08-24T16:42:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Is it a good idea to jailbreak a newly-bought PS5? What can I do with it?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vxckhw/is_it_a_good_idea_to_jailbreak_a_newlybought_ps5/",
@@ -300,36 +316,36 @@
     ],
     "topOverall": {
       "platform": "Reddit",
-      "community": "PS5_Jailbreak",
-      "title": "I guess we don’t deserve good things",
-      "score": 244,
-      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx7fyi/i_guess_we_dont_deserve_good_things/",
-      "createdAt": "2026-08-24T16:20:20.000Z"
+      "community": "ps4homebrew",
+      "title": "PS4 13.00 WebKit jailbreak release !",
+      "score": 159,
+      "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy0xhg/ps4_1300_webkit_jailbreak_release/",
+      "createdAt": "2026-08-25T14:09:25.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "WEBKIT EXPLOIT FOR PS4 12.00 ->13.00",
-        "score": 28,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vxx2ul/webkit_exploit_for_ps4_1200_1300/",
-        "createdAt": "2026-08-25T11:25:44.000Z"
+        "title": "PS4 13.00 WebKit jailbreak release !",
+        "score": 159,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy0xhg/ps4_1300_webkit_jailbreak_release/",
+        "createdAt": "2026-08-25T14:09:25.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "I made a free, open-source tool to convert videos for the Playstation 5",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vx526f/i_made_a_free_opensource_tool_to_convert_videos/",
-        "createdAt": "2026-08-24T14:53:18.000Z"
+        "title": "PS Play 2.1 - Impressive homebrew app",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vy1d5l/ps_play_21_impressive_homebrew_app/",
+        "createdAt": "2026-08-25T14:25:50.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "I guess we don’t deserve good things",
-        "score": 244,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vx7fyi/i_guess_we_dont_deserve_good_things/",
-        "createdAt": "2026-08-24T16:20:20.000Z"
+        "title": "PS Play 2.1 - Impressive homebrew app",
+        "score": 11,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vy1cr8/ps_play_21_impressive_homebrew_app/",
+        "createdAt": "2026-08-25T14:25:26.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
@@ -353,7 +369,7 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 11
+        "count": 13
       },
       {
         "name": "r/ps5homebrew",
@@ -388,7 +404,7 @@
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS5 News:\n\nA new payload has been released that allows jailbroken PS5 consoles to sync their time and date to real time again. Usually you needed PSN for this but now that's no longer the case!\n\ngithub.com/kerrdec97/ps...",
-        "score": 13,
+        "score": 14,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtuhla733s2x",
         "createdAt": "2026-08-24T23:31:25.770Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtuhla733s2x:bafyreigek3bf4hwjt7awjp2eoaysax244jemrkudvhwyhvfhfmp54jv4sy"
@@ -397,7 +413,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "github.com/cragson/a53-...",
-        "score": 10,
+        "score": 11,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mttylsjd7k2q",
         "createdAt": "2026-08-24T19:03:22.969Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mttylsjd7k2q:bafyreihzepjq2doxf4fk7zntbbbq3oaoawsbmuvq73l5zktnbnflxtrdhy"
@@ -413,21 +429,30 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nPIZZA-HEN got a massive update!\n\n- Supports 31 languages\n- A new GUI with easy selectors\n- PoorDS4 & PS5 Fan Control integrated and translated.\n- The toolbox loads into the browser, which runs much lighter for the system.\n- Still runs up to firmware 12.70\n\ngithub.com/Michele-M-Me...",
+        "score": 5,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtvnkmltis2a",
+        "createdAt": "2026-08-25T10:51:09.369Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtvnkmltis2a:bafyreibqrqcd327i6k2rckplthuwfxlmgo4gglclv7cvp2ez3u5j7fxjjq"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "For now it's just a concept",
-        "score": 4,
+        "score": 5,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtudtiyrlk2k",
         "createdAt": "2026-08-24T22:24:27.570Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtudtiyrlk2k:bafyreif2l6h26652fy5rijyedjrtifbwpvhid6e7wk6z34gobav7276owq"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nPIZZA-HEN got a massive update!\n\n- Supports 31 languages\n- A new GUI with easy selectors\n- PoorDS4 & PS5 Fan Control integrated and translated.\n- The toolbox loads into the browser, which runs much lighter for the system.\n- Still runs up to firmware 12.70\n\ngithub.com/Michele-M-Me...",
-        "score": 3,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtvnkmltis2a",
-        "createdAt": "2026-08-25T10:51:09.369Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtvnkmltis2a:bafyreibqrqcd327i6k2rckplthuwfxlmgo4gglclv7cvp2ez3u5j7fxjjq"
+        "community": "following:mour0ne",
+        "title": "🟡 my HOST - PS5 ★ P2JB 🟡 \n- 12.02 to 12.70 -\n\n🔆 URL: ps5xploit.github.io/p2jb/\n\n🔗 PKG: github.com/ps5xploit/p2...\n\nSpecial thanks to Gezine , j0rdy , Sonic-Iso 🧡",
+        "score": 5,
+        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mtw5crg2dk2e",
+        "createdAt": "2026-08-25T15:33:04.070Z",
+        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mtw5crg2dk2e:bafyreiggc7uqguia7pkpboftps6kgjz67k3e35jecl45iww3ac2mg3dbv4"
       },
       {
         "platform": "Bluesky",
@@ -437,31 +462,13 @@
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtudst2c3s2k",
         "createdAt": "2026-08-24T22:24:04.967Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtudst2c3s2k:bafyreicybqqgz3prdpkxd4sxzt3qb5qph545wxjvkpbpwoqmbqkeczuneq"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "Happy Monday youtu.be/MdMi94003rE",
-        "score": 3,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mtto6nunb22m",
-        "createdAt": "2026-08-24T15:56:58.769Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtto6nunb22m:bafyreif2xraafl2pliov4lhds2pw3ez432q4i5fu6f7ifclhrk7ipwttim"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "(untitled post)",
-        "score": 1,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mttnmnrw4s2m",
-        "createdAt": "2026-08-24T15:46:54.878Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mttnmnrw4s2m:bafyreie45ztnsj2vy2ay6rorpcjokknmv2akjqrxdu7t3w3pfhcdckjhp4"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
       "community": "following:Consolefacts",
       "title": "PS5 News:\n\nA new payload has been released that allows jailbroken PS5 consoles to sync their time and date to real time again. Usually you needed PSN for this but now that's no longer the case!\n\ngithub.com/kerrdec97/ps...",
-      "score": 13,
+      "score": 14,
       "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mtuhla733s2x",
       "createdAt": "2026-08-24T23:31:25.770Z",
       "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mtuhla733s2x:bafyreigek3bf4hwjt7awjp2eoaysax244jemrkudvhwyhvfhfmp54jv4sy"
