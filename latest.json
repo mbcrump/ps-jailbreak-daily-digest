@@ -1,95 +1,23 @@
 {
-  "generatedAt": "2026-08-26T14:02:41.298Z",
-  "runTimePacific": "08/26/2026, 07:02 PDT",
-  "windowStartPacific": "08/25/2026, 07:02 PDT",
-  "windowEndPacific": "08/26/2026, 07:02 PDT",
+  "generatedAt": "2026-08-26T18:23:22.140Z",
+  "runTimePacific": "08/26/2026, 11:23 PDT",
+  "windowStartPacific": "08/25/2026, 11:23 PDT",
+  "windowEndPacific": "08/26/2026, 11:23 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
       "platform": "YouTube",
       "community": "PlayStation Hacks & Exploits | Michael Crump",
-      "title": "New PS4 WebKit Jailbreak for 11.50–13.00! Tested on 12.52 & 13.00",
-      "url": "https://www.youtube.com/watch?v=FfXx4GXcfqk",
-      "createdAt": "2026-08-25T23:59:27.000Z"
+      "title": "PIZZA-HEN v1.0 Released for PS5 #Shorts",
+      "url": "https://www.youtube.com/watch?v=6u8TQUs-qyA",
+      "createdAt": "2026-08-26T14:48:35.000Z"
     },
-    "latestHomebrewNews": {
-      "platform": "YouTube",
-      "community": "PlayStation Hacks & Exploits | Michael Crump",
-      "title": "PlayStation Homebrew News (Universal SlopKit, DooMC0re on PS5 13.60 + New Emulators)",
-      "url": "https://www.youtube.com/watch?v=CcgI0FejOYQ",
-      "createdAt": "2026-08-21T19:48:33.000Z",
-      "stories": [
-        {
-          "title": "Universal SlopKit and Automatic Jailbreak Preview",
-          "url": "https://x.com/couldbeautism/status/2090757366677643590"
-        },
-        {
-          "title": "DooMC0re on PS5 Firmware 13.60",
-          "url": "https://x.com/egycnq/status/2090091866104402352"
-        },
-        {
-          "title": "Prospero Manager Preview",
-          "url": "https://x.com/callmemaj0r/status/2090594115570315610"
-        },
-        {
-          "title": "LuaMD v1.0",
-          "url": "https://github.com/soniciso1/LuaMD/releases/tag/v1.0"
-        },
-        {
-          "title": "LuaGB v1.0",
-          "url": "https://github.com/soniciso1/LuaGB/releases/tag/v1.0"
-        },
-        {
-          "title": "etaHEN v2.6b Update",
-          "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mtdje7oank2i"
-        },
-        {
-          "title": "OnionHEN v0.0.10",
-          "url": "https://github.com/aydencharles/onionHEN/releases/tag/v0.0.10"
-        },
-        {
-          "title": "PIZZA-HEN v1.0",
-          "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/tag/v1.0"
-        },
-        {
-          "title": "PS5 WebKit Autoloader v0.3.1",
-          "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.3.1"
-        },
-        {
-          "title": "ShadowMountPlus 1.7alpha8",
-          "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7alpha8"
-        },
-        {
-          "title": "JTPlay Web Branch",
-          "url": "https://github.com/ps5-payload-dev/jtplay/tree/web"
-        },
-        {
-          "title": "PS5 Titania NAND Data Format Research",
-          "url": "https://github.com/symbrkrs/ps5-uart/blob/main/NAND_DATA_FORMAT.md"
-        },
-        {
-          "title": "PoorDS4 RC38",
-          "url": "https://github.com/ItsBlurf/PoorDS4/releases/tag/v0.1.0-rc38"
-        },
-        {
-          "title": "KytyPS5 Releases",
-          "url": "https://github.com/KytyPS5/KytyPS5/releases"
-        },
-        {
-          "title": "SharpEmu Releases",
-          "url": "https://github.com/sharpemu/sharpemu/releases"
-        },
-        {
-          "title": "ChonkyStation4",
-          "url": "https://github.com/liuk7071/ChonkyStation4"
-        }
-      ]
-    },
+    "latestHomebrewNews": null,
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 2
+        "count": 1
       }
     ]
   },
@@ -98,16 +26,8 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PS4 13.00 WebKit jailbreak release !",
-        "score": 528,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy0xhg/ps4_1300_webkit_jailbreak_release/",
-        "createdAt": "2026-08-25T14:09:25.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "New PS4 WebKit Jailbreak working up to 13.00!",
-        "score": 281,
+        "score": 308,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vydn48/new_ps4_webkit_jailbreak_working_up_to_1300/",
         "createdAt": "2026-08-25T21:46:22.000Z"
       },
@@ -115,9 +35,17 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Working on a native PS4 BGFT downloader and local PKG manager",
-        "score": 52,
+        "score": 56,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1vymwu8/working_on_a_native_ps4_bgft_downloader_and_local/",
         "createdAt": "2026-08-26T04:33:35.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "is it possible to show these icons and quotes for games on a jailbroken ps5?",
+        "score": 39,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyvdkr/is_it_possible_to_show_these_icons_and_quotes_for/",
+        "createdAt": "2026-08-26T12:15:00.000Z"
       },
       {
         "platform": "Reddit",
@@ -131,41 +59,25 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "ShadowMountPlus 1.7alpha11 released",
-        "score": 21,
+        "score": 23,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vycgem/shadowmountplus_17alpha11_released/",
         "createdAt": "2026-08-25T21:01:54.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "is it possible to show these icons and quotes for games on a jailbroken ps5?",
-        "score": 21,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyvdkr/is_it_possible_to_show_these_icons_and_quotes_for/",
-        "createdAt": "2026-08-26T12:15:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS Play 2.1 - Impressive homebrew app",
-        "score": 20,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vy1cr8/ps_play_21_impressive_homebrew_app/",
-        "createdAt": "2026-08-25T14:25:26.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Chiaki NG on PS5 Ubuntu",
-        "score": 12,
+        "score": 14,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyfzv4/chiaki_ng_on_ps5_ubuntu/",
         "createdAt": "2026-08-25T23:21:46.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "AIO patch not applying with new WebKit jailbreak",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vynykt/aio_patch_not_applying_with_new_webkit_jailbreak/",
-        "createdAt": "2026-08-26T05:28:54.000Z"
+        "title": "I hit the jackpot",
+        "score": 9,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vysi6n/i_hit_the_jackpot/",
+        "createdAt": "2026-08-26T09:48:42.000Z"
       },
       {
         "platform": "Reddit",
@@ -177,59 +89,59 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Dammit Jeff Reports Dev Gezine ported etaHEN to 13.60 and submitted exploit to Sony",
+        "community": "PS4Mods",
+        "title": "PS4 Test Kit DUH-T7200 For Sale",
         "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vywb7b/dammit_jeff_reports_dev_gezine_ported_etahen_to/",
-        "createdAt": "2026-08-26T12:55:22.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vz14x8/ps4_test_kit_duht7200_for_sale/",
+        "createdAt": "2026-08-26T15:59:01.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "I hit the jackpot",
+        "title": "AIO patch not applying with new WebKit jailbreak",
         "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vysi6n/i_hit_the_jackpot/",
-        "createdAt": "2026-08-26T09:48:42.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "PS Play 2.1 - Impressive homebrew app",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vy1d5l/ps_play_21_impressive_homebrew_app/",
-        "createdAt": "2026-08-25T14:25:50.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vynykt/aio_patch_not_applying_with_new_webkit_jailbreak/",
+        "createdAt": "2026-08-26T05:28:54.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Jailbreakale PS5 value, firmware 5.02 or lower??",
-        "score": 4,
+        "score": 6,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vye49m/jailbreakale_ps5_value_firmware_502_or_lower/",
         "createdAt": "2026-08-25T22:05:10.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Black screen in Spider-Man 2",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyadzd/black_screen_in_spiderman_2/",
-        "createdAt": "2026-08-25T19:48:47.000Z"
+        "community": "ps4homebrew",
+        "title": "Help on playing offline",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyy4ms/help_on_playing_offline/",
+        "createdAt": "2026-08-26T14:07:40.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Kura Loader: Custom colors and effects",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1vytoc9/kura_loader_custom_colors_and_effects/",
         "createdAt": "2026-08-26T10:51:54.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Im using my internet connection to run this new host 12.00-13.00",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyt22l/im_using_my_internet_connection_to_run_this_new/",
-        "createdAt": "2026-08-26T10:18:41.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "BF6 fw 4.03",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vz01i6/bf6_fw_403/",
+        "createdAt": "2026-08-26T15:19:24.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Black screen in Spider-Man 2",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyadzd/black_screen_in_spiderman_2/",
+        "createdAt": "2026-08-25T19:48:47.000Z"
       },
       {
         "platform": "Reddit",
@@ -241,43 +153,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Hey advice",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1vyrlbr/hey_advice/",
-        "createdAt": "2026-08-26T08:57:11.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Can Not Save Game - Need Help !",
+        "title": "Im using my internet connection to run this new host 12.00-13.00",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vydy53/can_not_save_game_need_help/",
-        "createdAt": "2026-08-25T21:58:36.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Save wiped after restarting the game",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyatly/save_wiped_after_restarting_the_game/",
-        "createdAt": "2026-08-25T20:03:56.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I'm new to the world of jailbreaking",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy5v4v/im_new_to_the_world_of_jailbreaking/",
-        "createdAt": "2026-08-25T17:09:56.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Is Seagate One Touch External HDD good for homebrew?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy4yav/is_seagate_one_touch_external_hdd_good_for/",
-        "createdAt": "2026-08-25T16:37:38.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyt22l/im_using_my_internet_connection_to_run_this_new/",
+        "createdAt": "2026-08-26T10:18:41.000Z"
       },
       {
         "platform": "Reddit",
@@ -305,19 +185,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "WHY DID MY PS4 JUST TURN ITSELF ON ?!",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyvzv1/why_did_my_ps4_just_turn_itself_on/",
-        "createdAt": "2026-08-26T12:42:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Updating to the new 13.0 jailbreak?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyu5o8/updating_to_the_new_130_jailbreak/",
-        "createdAt": "2026-08-26T11:16:18.000Z"
+        "community": "PS4Mods",
+        "title": "Hey advice",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1vyrlbr/hey_advice/",
+        "createdAt": "2026-08-26T08:57:11.000Z"
       },
       {
         "platform": "Reddit",
@@ -330,10 +202,42 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Any suggestions for someone explicitly planning to play rockband 4 for jailbreaking",
+        "title": "Can Not Save Game - Need Help !",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy22tj/any_suggestions_for_someone_explicitly_planning/",
-        "createdAt": "2026-08-25T14:53:06.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vydy53/can_not_save_game_need_help/",
+        "createdAt": "2026-08-25T21:58:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Save wiped after restarting the game",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyatly/save_wiped_after_restarting_the_game/",
+        "createdAt": "2026-08-25T20:03:56.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Updating to the new 13.0 jailbreak?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyu5o8/updating_to_the_new_130_jailbreak/",
+        "createdAt": "2026-08-26T11:16:18.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "WHY DID MY PS4 JUST TURN ITSELF ON ?!",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyvzv1/why_did_my_ps4_just_turn_itself_on/",
+        "createdAt": "2026-08-26T12:42:00.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 on 8",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vyfqlz/ps4_on_8/",
+        "createdAt": "2026-08-25T23:11:01.000Z"
       },
       {
         "platform": "Reddit",
@@ -354,14 +258,6 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Compressed format.",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyuaj6/compressed_format/",
-        "createdAt": "2026-08-26T11:23:15.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "App crashed before kstuff pause",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyu5sf/app_crashed_before_kstuff_pause/",
@@ -370,10 +266,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PS5 + Linux temporary LAN machine",
+        "title": "Compressed format.",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vy0twb/ps5_linux_temporary_lan_machine/",
-        "createdAt": "2026-08-25T14:05:36.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyuaj6/compressed_format/",
+        "createdAt": "2026-08-26T11:23:15.000Z"
       },
       {
         "platform": "Reddit",
@@ -395,35 +291,35 @@
     "topOverall": {
       "platform": "Reddit",
       "community": "ps4homebrew",
-      "title": "PS4 13.00 WebKit jailbreak release !",
-      "score": 528,
-      "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy0xhg/ps4_1300_webkit_jailbreak_release/",
-      "createdAt": "2026-08-25T14:09:25.000Z"
+      "title": "New PS4 WebKit Jailbreak working up to 13.00!",
+      "score": 308,
+      "url": "https://www.reddit.com/r/ps4homebrew/comments/1vydn48/new_ps4_webkit_jailbreak_working_up_to_1300/",
+      "createdAt": "2026-08-25T21:46:22.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PS4 13.00 WebKit jailbreak release !",
-        "score": 528,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vy0xhg/ps4_1300_webkit_jailbreak_release/",
-        "createdAt": "2026-08-25T14:09:25.000Z"
+        "title": "New PS4 WebKit Jailbreak working up to 13.00!",
+        "score": 308,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1vydn48/new_ps4_webkit_jailbreak_working_up_to_1300/",
+        "createdAt": "2026-08-25T21:46:22.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "PS Play 2.1 - Impressive homebrew app",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vy1d5l/ps_play_21_impressive_homebrew_app/",
-        "createdAt": "2026-08-25T14:25:50.000Z"
+        "title": "Jailbreakale PS5 value, firmware 5.02 or lower??",
+        "score": 6,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1vye49m/jailbreakale_ps5_value_firmware_502_or_lower/",
+        "createdAt": "2026-08-25T22:05:10.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "ShadowMountPlus 1.7alpha11 released",
-        "score": 21,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vycgem/shadowmountplus_17alpha11_released/",
-        "createdAt": "2026-08-25T21:01:54.000Z"
+        "title": "is it possible to show these icons and quotes for games on a jailbroken ps5?",
+        "score": 39,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vyvdkr/is_it_possible_to_show_these_icons_and_quotes_for/",
+        "createdAt": "2026-08-26T12:15:00.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
@@ -447,17 +343,17 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 15
+        "count": 13
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 5
+        "count": 4
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 10
+        "count": 8
       },
       {
         "name": "r/PS4Hacks2",
@@ -472,7 +368,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 4
+        "count": 5
       }
     ]
   },
@@ -480,18 +376,9 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:mour0ne",
-        "title": "🟡 my HOST - PS5 ★ P2JB 🟡 \n- 12.02 to 12.70 -\n\n🔆 URL: ps5xploit.github.io/p2jb/\n\n🔗 PKG: github.com/ps5xploit/p2...\n\nSpecial thanks to Gezine , j0rdy , Sonic-Iso 🧡",
-        "score": 20,
-        "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mtw5crg2dk2e",
-        "createdAt": "2026-08-25T15:33:04.070Z",
-        "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mtw5crg2dk2e:bafyreiggc7uqguia7pkpboftps6kgjz67k3e35jecl45iww3ac2mg3dbv4"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "youtu.be/FfXx4GXcfqk?...",
-        "score": 8,
+        "score": 9,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtx3rscs2s24",
         "createdAt": "2026-08-26T00:38:22.265Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtx3rscs2s24:bafyreifj22l5ywvehtv6l3xiepiag4bq5psc6ebavk4rbvdqsgzgnootvq"
@@ -516,6 +403,24 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:mustafa-ps4-ps5",
+        "title": "(untitled post)",
+        "score": 7,
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mtyianuvck27",
+        "createdAt": "2026-08-26T13:54:06.375Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mtyianuvck27:bafyreigech5bi3ttf2ruvuftir5dotojpry24ksevsrva7ab753pjfg3be"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ NEW PS5 Game Dumps by DLPS Team & DecKerr97 🧐",
+        "score": 7,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtyhu7ei5s2f",
+        "createdAt": "2026-08-26T13:47:08.169Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtyhu7ei5s2f:bafyreifk2d4fgjawkb6it5twmvhgqikyaydc7gmlprjnfxh44gscwyc3p4"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:PS5 JAILBREAKS",
         "title": "💢BETA - Prospero Manager :\n@notmaj0r.bsky.social \ngithub.com/notmaj0r/Pro...",
         "score": 6,
@@ -535,20 +440,20 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
+        "title": "881...",
+        "score": 4,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtxi7hafck25",
+        "createdAt": "2026-08-26T04:20:42.268Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtxi7hafck25:bafyreihpiglvuexm3s6ffzrps4rau76pj4k2giw4skqgzvmwv5i5jjpfc4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
         "title": "🤫",
         "score": 3,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtxxgocjb225",
         "createdAt": "2026-08-26T08:53:14.366Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtxxgocjb225:bafyreieipcqvuy42bwft7riafbtjkyk37pdzcs7y2cqe6tfhfxncjaxtvq"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "881...",
-        "score": 3,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtxi7hafck25",
-        "createdAt": "2026-08-26T04:20:42.268Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtxi7hafck25:bafyreihpiglvuexm3s6ffzrps4rau76pj4k2giw4skqgzvmwv5i5jjpfc4"
       },
       {
         "platform": "Bluesky",
@@ -561,31 +466,22 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ NEW PS5 Game Dumps by DLPS Team & DecKerr97 🧐",
-        "score": 2,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mtyhu7ei5s2f",
-        "createdAt": "2026-08-26T13:47:08.169Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mtyhu7ei5s2f:bafyreifk2d4fgjawkb6it5twmvhgqikyaydc7gmlprjnfxh44gscwyc3p4"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "(untitled post)",
-        "score": 0,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mtyianuvck27",
-        "createdAt": "2026-08-26T13:54:06.375Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mtyianuvck27:bafyreigech5bi3ttf2ruvuftir5dotojpry24ksevsrva7ab753pjfg3be"
+        "community": "following:MrMario2011",
+        "title": "New episode of Mario's Minute for the month is now out! youtu.be/dqKEbTG6bEI",
+        "score": 1,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mtyso3w7es2z",
+        "createdAt": "2026-08-26T17:00:31.471Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mtyso3w7es2z:bafyreicemoohi4nabzelckty6xe3ka6ycvvpq6qbe4qll6o3b252qv6cfu"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:mour0ne",
-      "title": "🟡 my HOST - PS5 ★ P2JB 🟡 \n- 12.02 to 12.70 -\n\n🔆 URL: ps5xploit.github.io/p2jb/\n\n🔗 PKG: github.com/ps5xploit/p2...\n\nSpecial thanks to Gezine , j0rdy , Sonic-Iso 🧡",
-      "score": 20,
-      "url": "https://bsky.app/profile/mour0ne.bsky.social/post/3mtw5crg2dk2e",
-      "createdAt": "2026-08-25T15:33:04.070Z",
-      "key": "at://did:plc:xphzx6tbdb3vzhuzmavk2jvv/app.bsky.feed.post/3mtw5crg2dk2e:bafyreiggc7uqguia7pkpboftps6kgjz67k3e35jecl45iww3ac2mg3dbv4"
+      "community": "following:DLPS Team",
+      "title": "youtu.be/FfXx4GXcfqk?...",
+      "score": 9,
+      "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mtx3rscs2s24",
+      "createdAt": "2026-08-26T00:38:22.265Z",
+      "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mtx3rscs2s24:bafyreifj22l5ywvehtv6l3xiepiag4bq5psc6ebavk4rbvdqsgzgnootvq"
     },
     "sources": [
       {
