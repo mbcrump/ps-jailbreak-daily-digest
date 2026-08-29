@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T00:41:50.770Z",
-  "runTimePacific": "08/28/2026, 17:41 PDT",
-  "windowStartPacific": "08/27/2026, 17:41 PDT",
-  "windowEndPacific": "08/28/2026, 17:41 PDT",
+  "generatedAt": "2026-08-29T02:27:02.950Z",
+  "runTimePacific": "08/28/2026, 19:27 PDT",
+  "windowStartPacific": "08/27/2026, 19:27 PDT",
+  "windowEndPacific": "08/28/2026, 19:27 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -27,7 +27,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Any updates on phu?",
-        "score": 23,
+        "score": 24,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w0mchv/any_updates_on_phu/",
         "createdAt": "2026-08-28T10:04:07.000Z"
       },
@@ -35,7 +35,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "[Release] PS5 FFPFSC Renamer v0.5.0 – A Windows utility to analyze, organize, and safely rename .ffpfsc libraries",
-        "score": 22,
+        "score": 23,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w0nalq/release_ps5_ffpfsc_renamer_v050_a_windows_utility/",
         "createdAt": "2026-08-28T10:56:08.000Z"
       },
@@ -43,31 +43,39 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 12.50 WebKit error",
-        "score": 16,
+        "score": 17,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0l1qo/ps4_1250_webkit_error/",
         "createdAt": "2026-08-28T08:48:37.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Remote play",
-        "score": 13,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0htnn/remote_play/",
-        "createdAt": "2026-08-28T05:36:52.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "PS5 Radio – A native PS5 homebrew app with 56,000+ stations",
-        "score": 12,
+        "score": 15,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1w11i4r/ps5_radio_native_ps5_homebrew_app_with_56000/",
         "createdAt": "2026-08-28T20:14:05.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "OnionHEN – Full PDI Implementation / Testers Needed",
+        "score": 15,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w16y76/onionhen_full_pdi_implementation_testers_needed/",
+        "createdAt": "2026-08-28T23:55:19.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Remote play",
+        "score": 14,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0htnn/remote_play/",
+        "createdAt": "2026-08-28T05:36:52.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "How can I un-jailbreak my PS5 without getting banned?",
-        "score": 12,
+        "score": 11,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w138ky/how_to_unjailbreak_my_ps5_without_getting_banned/",
         "createdAt": "2026-08-28T21:21:21.000Z"
       },
@@ -75,33 +83,41 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "I need help",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0eblp/necesito_ayuda/",
         "createdAt": "2026-08-28T02:37:36.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "[Release] PS5 FFPFSC Renamer v0.5.0 – A Windows utility to analyze, organize, and safely rename .ffpfsc libraries",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w0nel6/release_ps5_ffpfsc_renamer_v050_a_windows_utility/",
-        "createdAt": "2026-08-28T11:01:38.000Z"
+        "community": "ps4homebrew",
+        "title": "New to jailbreak",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0wlvu/new_to_jailbreak/",
+        "createdAt": "2026-08-28T17:14:30.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Just buyed a Ps4 Slim with 10.01 firmware for 100€",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1917b/just_buyed_a_ps4_slim_with_1001_firmware_for_100/",
+        "createdAt": "2026-08-29T01:31:20.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Apollo save tool",
-        "score": 4,
+        "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0uxu0/apollo_save_tool/",
         "createdAt": "2026-08-28T16:13:28.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "New to jailbreak",
+        "community": "ps5homebrew",
+        "title": "[Release] PS5 FFPFSC Renamer v0.5.0 – A Windows utility to analyze, organize and safely rename .ffpfsc libraries",
         "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0wlvu/new_to_jailbreak/",
-        "createdAt": "2026-08-28T17:14:30.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w0nel6/release_ps5_ffpfsc_renamer_v050_a_windows_utility/",
+        "createdAt": "2026-08-28T11:01:38.000Z"
       },
       {
         "platform": "Reddit",
@@ -118,6 +134,14 @@
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0odqi/help_with_choosing_an_internal_hddssd/",
         "createdAt": "2026-08-28T11:50:10.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 pro on 8.50. How to jailbreak?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w19pg9/ps4_pro_on_850_how_to_jailbreak/",
+        "createdAt": "2026-08-29T02:04:00.000Z"
       },
       {
         "platform": "Reddit",
@@ -226,18 +250,18 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Internet connection",
+        "title": "Successful jailbreak but I need to know how to transfer saves",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w0r1je/internet_connection/",
-        "createdAt": "2026-08-28T13:46:05.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w174d7/successful_jailbreak_but_i_need_to_know_how_to/",
+        "createdAt": "2026-08-29T00:02:02.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PS5 upload fail...",
+        "title": "Internet connection",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w0buwd/ps5_upload_fail/",
-        "createdAt": "2026-08-28T00:45:20.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w0r1je/internet_connection/",
+        "createdAt": "2026-08-28T13:46:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -268,7 +292,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "Any updates on phu?",
-      "score": 23,
+      "score": 24,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w0mchv/any_updates_on_phu/",
       "createdAt": "2026-08-28T10:04:07.000Z"
     },
@@ -277,7 +301,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 12.50 WebKit error",
-        "score": 16,
+        "score": 17,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w0l1qo/ps4_1250_webkit_error/",
         "createdAt": "2026-08-28T08:48:37.000Z"
       },
@@ -285,7 +309,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "PS5 Radio – A native PS5 homebrew app with 56,000+ stations",
-        "score": 12,
+        "score": 15,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1w11i4r/ps5_radio_native_ps5_homebrew_app_with_56000/",
         "createdAt": "2026-08-28T20:14:05.000Z"
       },
@@ -293,7 +317,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Any updates on phu?",
-        "score": 23,
+        "score": 24,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w0mchv/any_updates_on_phu/",
         "createdAt": "2026-08-28T10:04:07.000Z"
       },
@@ -319,7 +343,7 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 14
       },
       {
         "name": "r/ps5homebrew",
@@ -329,7 +353,7 @@
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 7
+        "count": 8
       },
       {
         "name": "r/PS4Hacks2",
@@ -372,7 +396,7 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "I’d love to cite the original tweet, but it’s since been deleted, so this article will have to do as a source. \n\nwww.techradar.com/news/gta-3-c...",
-        "score": 9,
+        "score": 10,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mu5phlhacs2f",
         "createdAt": "2026-08-28T15:46:29.767Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mu5phlhacs2f:bafyreicuse2u2mi7muqfusrd7iyesqy4asb6n4tlgu7xxejffjy3u7sb7a"
@@ -406,21 +430,21 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:mustafa-ps4-ps5",
+        "title": "A stable version is available on our Discord server. You can try it now! ❤️🫡🔥\n\n👇👇👇👇👇\n\ndiscord.gg/hqyvNhWTC",
+        "score": 5,
+        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mu6edv233k2r",
+        "createdAt": "2026-08-28T22:00:21.476Z",
+        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mu6edv233k2r:bafyreidltqpiyztewfijlrsxkgulwbnptnbawaku5kiy5klkxc2uctrada"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:🏴‍☠️ nexgen999.bsky.social 🏴‍☠️",
         "title": "(untitled post)",
         "score": 5,
         "url": "https://bsky.app/profile/nexgen999.bsky.social/post/3mu5z2chnkk2e",
         "createdAt": "2026-08-28T18:38:06.184Z",
         "key": "at://did:plc:gtx4zy4yr35oponmytpbt3yr/app.bsky.feed.post/3mu5z2chnkk2e:bafyreig2sixvnb4y5bluuauy42c3biejzzmgipm2pgkekhobp4dzuccjom"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "A stable version is available on our Discord server. You can try it now! ❤️🫡🔥\n\n👇👇👇👇👇\n\ndiscord.gg/hqyvNhWTC",
-        "score": 4,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mu6edv233k2r",
-        "createdAt": "2026-08-28T22:00:21.476Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mu6edv233k2r:bafyreidltqpiyztewfijlrsxkgulwbnptnbawaku5kiy5klkxc2uctrada"
       }
     ],
     "topOverall": {
