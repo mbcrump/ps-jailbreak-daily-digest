@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-08-29T21:56:40.497Z",
-  "runTimePacific": "08/29/2026, 14:56 PDT",
-  "windowStartPacific": "08/28/2026, 14:56 PDT",
-  "windowEndPacific": "08/29/2026, 14:56 PDT",
+  "generatedAt": "2026-08-30T17:27:47.989Z",
+  "runTimePacific": "08/30/2026, 10:27 PDT",
+  "windowStartPacific": "08/29/2026, 10:27 PDT",
+  "windowEndPacific": "08/30/2026, 10:27 PDT",
   "status": "complete",
   "youtube": {
-    "latest": null,
+    "latest": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "How to AUTO Jailbreak a PS5 on 3.00-5.50 with Redis! (testing)",
+      "url": "https://www.youtube.com/watch?v=X52VjTmFscQ",
+      "createdAt": "2026-08-30T16:04:15.000Z"
+    },
     "latestHomebrewNews": null,
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -20,98 +26,74 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "DON'T UPDATE YOUR FW!",
-        "score": 140,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1a8cr/dont_update_your_fw/",
-        "createdAt": "2026-08-29T02:29:12.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "OnionHEN – Full PDI Implementation / Testers Needed",
-        "score": 55,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w16y76/onionhen_full_pdi_implementation_testers_needed/",
-        "createdAt": "2026-08-28T23:55:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS4/PS5 Jailbreak News: PS5 Jailbreak Autoloader, PS4 13.0 WebKit JB, HEN projects, emulators & More",
-        "score": 42,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1d52m/ps4ps5_jailbreak_news_ps5_jailbreak_autoloader/",
-        "createdAt": "2026-08-29T04:56:14.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Thank you everyone !!!! I did it, just a few more questions so I don't mess it up",
-        "score": 24,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1r9ag/thankyou_everyone_i_did_it_just_a_few_more/",
-        "createdAt": "2026-08-29T16:38:32.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Just deep cleaned my old ps4 what path should i take to jb i have an 11.00 ps4 but that thing gets hot like 5 mins after boot",
-        "score": 13,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1ky74/just_deep_cleaned_my_old_ps4_what_path_should_i/",
-        "createdAt": "2026-08-29T12:12:43.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Looking for PS4 games with native uncapped hacks 60fps",
-        "score": 13,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1h5lu/looking_for_ps4_games_with_native_uncapped_hacks/",
-        "createdAt": "2026-08-29T08:41:13.000Z"
+        "title": "If you redirect the PlayStation Store app to a custom URL, you can jailbreak the PS5 with the PS Store 🤣",
+        "score": 224,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w26ew2/if_you_redirect_the_playstation_store_app_to_a/",
+        "createdAt": "2026-08-30T03:28:50.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "ProsperoLight – Native Moonlight/Sunshine client for PS5 homebrew with 4K60 and HDR10",
-        "score": 12,
+        "score": 79,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1w1ytj6/prosperolight_native_moonlightsunshine_client_for/",
         "createdAt": "2026-08-29T21:37:41.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 Pro • 12.0 — Best jailbreak method + a few questions?",
-        "score": 10,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1dx7l/ps4_pro_120_best_jailbreak_method_a_few_questions/",
-        "createdAt": "2026-08-29T05:37:14.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Successful jailbreak but I need to know how to transfer saves",
-        "score": 10,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w174d7/successful_jailbreak_but_i_need_to_know_how_to/",
-        "createdAt": "2026-08-29T00:02:02.000Z"
+        "title": "Is there a way to remove “UPDATE AND TURN OFF PS5”",
+        "score": 18,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w27ujm/is_there_way_to_way_to_remove_update_and_turn_off/",
+        "createdAt": "2026-08-30T04:43:06.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Webkit hosts not working anymore on my console. 11.00",
+        "title": "Update GoldHEN with a Lapse AIO solution",
+        "score": 9,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2by9m/update_goldhen_with_a_lapse_aio_solution/",
+        "createdAt": "2026-08-30T08:31:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Is it worth upgrading from Slim to Pro?",
         "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w151sx/webkit_hosts_not_working_anymore_on_my_console/",
-        "createdAt": "2026-08-28T22:33:08.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w212y7/worth_it_to_upgrade_from_slim_to_pro/",
+        "createdAt": "2026-08-29T23:14:51.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Gran Turismo 7 save",
-        "score": 6,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1h8l5/gran_turismo_7_save/",
-        "createdAt": "2026-08-29T08:46:07.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Is it possible somehow to remove trophy history of some games?",
+        "title": "Connecting an Xbox Riffmaster Guitar to the PS5. Is this possible?",
         "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1kca3/is_it_possible_somehow_to_remove_trophy_history/",
-        "createdAt": "2026-08-29T11:42:08.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w24uvh/connecting_an_xbox_riffmaster_guitar_to_the_ps5/",
+        "createdAt": "2026-08-30T02:10:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "What's the fastest way to copy EXFAT from a PC to the PS5 internal drive?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2e2bv/whats_the_fastest_way_to_copy_exfat_from_pc_to/",
+        "createdAt": "2026-08-30T10:33:31.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Thoughts on webkitty?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2lvs5/thoughts_on_webkitty/",
+        "createdAt": "2026-08-30T16:19:59.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Very new to jail breaking ,need some guidance",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2e9un/very_new_to_jail_breaking_need_some_guidance/",
+        "createdAt": "2026-08-30T10:45:14.000Z"
       },
       {
         "platform": "Reddit",
@@ -123,59 +105,107 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Question about jailbreaking",
+        "community": "ps4homebrew",
+        "title": "Is it worth Updating from (9.00)",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w157zl/question_regarding_jailbreaking/",
-        "createdAt": "2026-08-28T22:40:16.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1wh87/is_it_worth_updating_from_900/",
+        "createdAt": "2026-08-29T20:03:15.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Help me please !!",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1sz8k/help_me_please/",
-        "createdAt": "2026-08-29T17:46:17.000Z"
+        "title": "PS4 slim on 8.03",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1udvu/ps4_slim_on_803/",
+        "createdAt": "2026-08-29T18:41:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "Can I add more than one account in my jailbroken PS4",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w1x1mu/can_i_add_more_then_one_account_in_my_jailbroken/",
+        "createdAt": "2026-08-29T20:25:32.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "internet dose not work on browser",
+        "title": "Should I update from 7.50 to 9.0?",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1kn4g/internet_dose_not_work_on_browser/",
-        "createdAt": "2026-08-29T11:57:51.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2dezu/should_i_update_from_750_to_90/",
+        "createdAt": "2026-08-30T09:57:14.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Just about to jailbreak 11.52 using vue. Need a quick help.",
+        "title": "Can i setup the new browser jb while my ps4 is jailbreaked ?",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1ixk1/just_about_to_jailbreak_1152_using_vue_need_a/",
-        "createdAt": "2026-08-29T10:25:45.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1y9a8/can_i_setup_the_new_browser_jb_while_my_ps4_is/",
+        "createdAt": "2026-08-29T21:14:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "List of games support internal storage in jelbreak ps5",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w2hixu/list_of_games_support_internal_storage_in/",
+        "createdAt": "2026-08-30T13:25:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Sort Games and Apps into Tabs",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w22jcy/sort_games_and_apps_into_tabs/",
+        "createdAt": "2026-08-30T00:19:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Lan cable comnected",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w202f2/lan_cable_comnected/",
+        "createdAt": "2026-08-29T22:30:29.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 suddenly shut down after play a game.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1w80a/ps5_suddenly_shut_down_after_play_a_game/",
+        "createdAt": "2026-08-29T19:53:07.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Does it take a long time for recent games and DLCs to get dumped?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1ag1w/does_it_take_a_long_time_for_recent_games_and/",
-        "createdAt": "2026-08-29T02:39:56.000Z"
+        "title": "Lua Loader stopped loading jb (ps4 12.0)",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2fxjn/lua_loader_stopped_loading_jb_ps4_120/",
+        "createdAt": "2026-08-30T12:11:38.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Just buyed a Ps4 Slim with 10.01 firmware for 100€",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1917b/just_buyed_a_ps4_slim_with_1001_firmware_for_100/",
-        "createdAt": "2026-08-29T01:31:20.000Z"
+        "title": "List of games support internal storage in ps5",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w279ka/list_of_games_support_internal_storage_in_ps5/",
+        "createdAt": "2026-08-30T04:12:38.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "The playstation finally running kernel 2.4.0",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w1cksc/the_playstation_finally_running_kernel_240/",
-        "createdAt": "2026-08-29T04:26:22.000Z"
+        "community": "ps4homebrew",
+        "title": "Mando de ps4 se mueve en menu pero no en juegos",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w26ixl/mando_de_ps4_se_mueve_en_menu_pero_no_en_juegos/",
+        "createdAt": "2026-08-30T03:34:28.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "GTA update",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1zwl3/gta_update/",
+        "createdAt": "2026-08-29T22:23:40.000Z"
       },
       {
         "platform": "Reddit",
@@ -188,22 +218,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Can i setup the new browser jb while my ps4 is jailbreaked ?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1y9a8/can_i_setup_the_new_browser_jb_while_my_ps4_is/",
-        "createdAt": "2026-08-29T21:14:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Is it worth Updating from (9.00)",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1wh87/is_it_worth_updating_from_900/",
-        "createdAt": "2026-08-29T20:03:15.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Destiny in app.db",
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1we75/destiny_in_appdb/",
@@ -211,27 +225,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Days gone remastered crashing 11.6",
+        "community": "PS5_Jailbreak",
+        "title": "Hello",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w1uk5i/days_gone_remastered_crashing_116/",
-        "createdAt": "2026-08-29T18:48:11.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2l4wa/hello/",
+        "createdAt": "2026-08-30T15:51:36.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PS5 suddenly shut down after play a game.",
+        "title": "ce-108255-1 Clair Obscur",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1w80a/ps5_suddenly_shut_down_after_play_a_game/",
-        "createdAt": "2026-08-29T19:53:07.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w23hpy/ce1082551_clair_obscur/",
+        "createdAt": "2026-08-30T01:04:23.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "Can I add more than one account in my jailbroken PS4",
+        "title": "How do I fix this screen",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w1x1mu/can_i_add_more_then_one_account_in_my_jailbroken/",
-        "createdAt": "2026-08-29T20:25:32.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w2datz/how_do_i_fix_this_screen/",
+        "createdAt": "2026-08-30T09:50:32.000Z"
       },
       {
         "platform": "Reddit",
@@ -243,35 +257,75 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "How are you all downloading large files without connection/random errors?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w1nlc5/how_are_you_all_downloading_large_files_without/",
-        "createdAt": "2026-08-29T14:11:15.000Z"
+        "community": "PS4Mods",
+        "title": "[Help] L1 keeps being pressed",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w2bolo/help_l1_keeps_being_pressed/",
+        "createdAt": "2026-08-30T08:16:10.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Help wanted (ps4 jailbreak)",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w2aa3k/help_wanted_ps4_jailbreak/",
+        "createdAt": "2026-08-30T06:56:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "PS4 Jailbreaking",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w280hs/ps4_jailbreaking/",
+        "createdAt": "2026-08-30T04:51:55.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Prevent disk from updating firmware",
+        "title": "1st game test after Jailbreak 10.6 via webkit (PS FAT)",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w14oc6/prevent_disk_from_updating_firmware/",
-        "createdAt": "2026-08-28T22:18:13.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w2jt8t/1st_game_test_after_jailbreak_106_via_webkit_ps/",
+        "createdAt": "2026-08-30T14:59:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Transfer game saves to other versions of the same game, is it a bug mine don’t transfer?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w1zrhe/transfer_game_saves_to_other_versions_of_the_same/",
+        "createdAt": "2026-08-29T22:17:37.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Days gone remastered crashing 11.6",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w1uk5i/days_gone_remastered_crashing_116/",
+        "createdAt": "2026-08-29T18:48:11.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Itemzflow excluding scanned games",
+        "title": "I found a Benned PS5 with 13.60Fw for $170",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1ollq/itemzflow_excluding_scanned_games/",
-        "createdAt": "2026-08-29T14:52:55.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2k7d5/i_found_a_benned_ps5_with_1360fw_for_170/",
+        "createdAt": "2026-08-30T15:14:32.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How to transfer saves on different versions of the same game. Also reload trophies.",
+        "title": "Which Payloads to use on firmware 5.10",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1b6v5/how_to_transfer_saves_on_different_versions_of/",
-        "createdAt": "2026-08-29T03:16:30.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w29tdo/which_payloads_to_use_on_firmware_510/",
+        "createdAt": "2026-08-30T06:29:34.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Questions about PS5 PRO FW",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2cxue/questions_about_ps5_pro_fw/",
+        "createdAt": "2026-08-30T09:29:13.000Z"
       },
       {
         "platform": "Reddit",
@@ -283,51 +337,59 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Ps5 gta 6, wolverine",
+        "community": "PS4Hacks2",
+        "title": "Help wanted (ps4 jailbreak)",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1b9tf/ps5_gta_6_wolverine/",
-        "createdAt": "2026-08-29T03:20:28.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w2aa8j/help_wanted_ps4_jailbreak/",
+        "createdAt": "2026-08-30T06:56:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Any idea when will 13.52 jailbreak come out",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w2jawj/any_idea_when_will_1352_jailbreak_come_out/",
+        "createdAt": "2026-08-30T14:38:43.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
-      "title": "DON'T UPDATE YOUR FW!",
-      "score": 140,
-      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1a8cr/dont_update_your_fw/",
-      "createdAt": "2026-08-29T02:29:12.000Z"
+      "title": "If you redirect the PlayStation Store app to a custom URL, you can jailbreak the PS5 with the PS Store 🤣",
+      "score": 224,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w26ew2/if_you_redirect_the_playstation_store_app_to_a/",
+      "createdAt": "2026-08-30T03:28:50.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Thank you everyone !!!! I did it, just a few more questions so I don't mess it up",
-        "score": 24,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w1r9ag/thankyou_everyone_i_did_it_just_a_few_more/",
-        "createdAt": "2026-08-29T16:38:32.000Z"
+        "title": "Update GoldHEN with a Lapse AIO solution",
+        "score": 9,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2by9m/update_goldhen_with_a_lapse_aio_solution/",
+        "createdAt": "2026-08-30T08:31:57.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "ProsperoLight – Native Moonlight/Sunshine client for PS5 homebrew with 4K60 and HDR10",
-        "score": 12,
+        "score": 79,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1w1ytj6/prosperolight_native_moonlightsunshine_client_for/",
         "createdAt": "2026-08-29T21:37:41.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "DON'T UPDATE YOUR FW!",
-        "score": 140,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w1a8cr/dont_update_your_fw/",
-        "createdAt": "2026-08-29T02:29:12.000Z"
+        "title": "If you redirect the PlayStation Store app to a custom URL, you can jailbreak the PS5 with the PS Store 🤣",
+        "score": 224,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w26ew2/if_you_redirect_the_playstation_store_app_to_a/",
+        "createdAt": "2026-08-30T03:28:50.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
         "community": "PS4Hacks2",
         "title": "Can I add more than one account in my jailbroken PS4",
-        "score": 1,
+        "score": 3,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w1x1mu/can_i_add_more_then_one_account_in_my_jailbroken/",
         "createdAt": "2026-08-29T20:25:32.000Z"
       },
@@ -335,10 +397,10 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Question about jailbreaking",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w157zl/question_regarding_jailbreaking/",
-        "createdAt": "2026-08-28T22:40:16.000Z"
+        "title": "[Help] L1 keeps being pressed",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w2bolo/help_l1_keeps_being_pressed/",
+        "createdAt": "2026-08-30T08:16:10.000Z"
       }
     },
     "sources": [
@@ -350,17 +412,17 @@
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 4
+        "count": 5
       },
       {
         "name": "r/PS5_Jailbreak",
         "ok": true,
-        "count": 11
+        "count": 13
       },
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 2
+        "count": 4
       },
       {
         "name": "r/PS4Jailbreak",
@@ -370,7 +432,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 2
+        "count": 4
       }
     ]
   },
@@ -378,49 +440,67 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:mustafa-ps4-ps5",
-        "title": "A stable version is available on our Discord server. You can try it now! ❤️🫡🔥\n\n👇👇👇👇👇\n\ndiscord.gg/hqyvNhWTC",
-        "score": 9,
-        "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mu6edv233k2r",
-        "createdAt": "2026-08-28T22:00:21.476Z",
-        "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mu6edv233k2r:bafyreidltqpiyztewfijlrsxkgulwbnptnbawaku5kiy5klkxc2uctrada"
+        "community": "following:PS5 JAILBREAKS",
+        "title": "Yes—Sonic made a surprise for the scene to reduce the time of p2jb to 20 minutes",
+        "score": 8,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3muci6omfgs2w",
+        "createdAt": "2026-08-30T13:19:33.469Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3muci6omfgs2w:bafyreichgpoecazzsrvxaajuoxvjuak4bm4zia42gdwotx77froe75usxu"
       },
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Tonight on...",
-        "score": 5,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mu7paxuw6k22",
-        "createdAt": "2026-08-29T10:48:13.063Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mu7paxuw6k22:bafyreiawbequak4txwb5izn65a2ig4n33piwskfzxvfpp7gulacqpll6xa"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "nanoDNS: The Best Update & Network Blocking Solution for a Jailbroken PS4\n\nWatch Here: youtu.be/OuzebdZBVuw",
-        "score": 5,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3muaeeqjzkc2i",
-        "createdAt": "2026-08-29T17:06:09.172Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3muaeeqjzkc2i:bafyreihfynke2vzpp4x33h4xic2opoksnc253byujjcgq6f3frh6g4xguu"
+        "score": 4,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3muc7av4qxs23",
+        "createdAt": "2026-08-30T10:39:49.169Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3muc7av4qxs23:bafyreifagzwtvh5mzde42dt6rgvyrz5qtjv4yv6fdtsgolaj3r335dpqxy"
       },
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
-        "title": "Correct",
-        "score": 2,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mu76pahyus2b",
-        "createdAt": "2026-08-29T05:51:55.270Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mu76pahyus2b:bafyreia6t7nwoq3kigqrht5efwic2oe2etiaegewznegqklwrdtzpcydqu"
+        "title": "Tonight on DLS...\n\nEnjoy of this rugby video game from year 2025,\noh wait, ours is from 2026 🙈\n\nReject imitations\n\n🤫",
+        "score": 3,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mucartaqv223",
+        "createdAt": "2026-08-30T11:07:10.365Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mucartaqv223:bafyreihti2tiu72z7u6iw6357wsqenwjiajt3lwtgolzkxxokhzatqrr5m"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ NEW PS5 Game Dumps by DLPS Team 🧐",
+        "score": 3,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mubzl3mjzc2j",
+        "createdAt": "2026-08-30T08:58:18.267Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mubzl3mjzc2j:bafyreid5rdg67mogn7peiemimic6mp2hljghd4yef5aiwf654mvv7vtb3e"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
+        "title": "youtu.be/X52VjTmFscQ?...",
+        "score": 1,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mucrpxzlek2u",
+        "createdAt": "2026-08-30T16:10:20.574Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mucrpxzlek2u:bafyreiccfmqcdmosgbfargzmvttuyle3reeqzpgaem3mwn3qmlgeyba5ja"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ SpongeBob SquarePants Titans of the Tide FULL GAME Walkthrough Gameplay PS5 4K60FPS (No Commentary) 🎮🕹️👀\nwww.youtube.com/watch?v=mToQ...",
+        "score": 1,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mucspexcak2j",
+        "createdAt": "2026-08-30T16:27:52.869Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mucspexcak2j:bafyreibnmy5epsjlzdmzirlvxej7ajdzvpgvb6sjbc25ok7y6pc2lcezmu"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:mustafa-ps4-ps5",
-      "title": "A stable version is available on our Discord server. You can try it now! ❤️🫡🔥\n\n👇👇👇👇👇\n\ndiscord.gg/hqyvNhWTC",
-      "score": 9,
-      "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mu6edv233k2r",
-      "createdAt": "2026-08-28T22:00:21.476Z",
-      "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mu6edv233k2r:bafyreidltqpiyztewfijlrsxkgulwbnptnbawaku5kiy5klkxc2uctrada"
+      "community": "following:PS5 JAILBREAKS",
+      "title": "Yes—Sonic made a surprise for the scene to reduce the time of p2jb to 20 minutes",
+      "score": 8,
+      "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3muci6omfgs2w",
+      "createdAt": "2026-08-30T13:19:33.469Z",
+      "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3muci6omfgs2w:bafyreichgpoecazzsrvxaajuoxvjuak4bm4zia42gdwotx77froe75usxu"
     },
     "sources": [
       {
