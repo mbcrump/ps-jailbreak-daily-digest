@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-08-31T19:29:41.246Z",
-  "runTimePacific": "08/31/2026, 12:29 PDT",
-  "windowStartPacific": "08/30/2026, 12:29 PDT",
-  "windowEndPacific": "08/31/2026, 12:29 PDT",
+  "generatedAt": "2026-08-31T21:37:55.671Z",
+  "runTimePacific": "08/31/2026, 14:37 PDT",
+  "windowStartPacific": "08/30/2026, 14:37 PDT",
+  "windowEndPacific": "08/31/2026, 14:37 PDT",
   "status": "complete",
   "youtube": {
-    "latest": null,
+    "latest": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "PS5 Date and Time Sync v1.0.0 Released #Shorts",
+      "url": "https://www.youtube.com/watch?v=LkeW9sbogvE",
+      "createdAt": "2026-08-31T20:44:55.000Z"
+    },
     "latestHomebrewNews": null,
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 0
+        "count": 1
       }
     ]
   },
@@ -19,17 +25,9 @@
     "posts": [
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "ProsperoTV – Native IPTV client for PS5 with 12,000+ channels",
-        "score": 82,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w2s3x9/prosperotv_native_iptv_client_for_ps5_with_12000/",
-        "createdAt": "2026-08-30T20:14:56.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How to Jailbreak the PS5 with the Web Browser up to 12.70!",
-        "score": 82,
+        "score": 92,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w37k7r/how_to_jailbreak_the_ps5_with_the_web_browser_up/",
         "createdAt": "2026-08-31T08:23:48.000Z"
       },
@@ -37,7 +35,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS Play 3.0",
-        "score": 45,
+        "score": 52,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w35dqj/ps_play_30/",
         "createdAt": "2026-08-31T06:21:01.000Z"
       },
@@ -45,7 +43,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Whether the controller is legit?",
-        "score": 20,
+        "score": 19,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3dszc/whether_the_controller_is_legit/",
         "createdAt": "2026-08-31T13:26:52.000Z"
       },
@@ -60,16 +58,8 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "WebKitty host domain change",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2rbfh/webkitty_host_domain_change/",
-        "createdAt": "2026-08-30T19:45:10.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "About firmware spoofing and it's cons and pros",
-        "score": 7,
+        "score": 6,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3cjq9/about_firmware_spoofing_and_its_cons_and_pros/",
         "createdAt": "2026-08-31T12:37:23.000Z"
       },
@@ -77,7 +67,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 Fat can I jailbreak it?",
-        "score": 7,
+        "score": 6,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w30bqq/ps4_fat_can_i_jailbreak_it/",
         "createdAt": "2026-08-31T02:07:23.000Z"
       },
@@ -85,15 +75,23 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Sealed PS5 Question",
-        "score": 5,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w31zhy/sealed_ps5_question/",
         "createdAt": "2026-08-31T03:25:05.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Can the game take up less space?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w36amm/can_the_game_take_up_less_space/",
+        "createdAt": "2026-08-31T07:11:52.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Ps5 Firmware",
-        "score": 5,
+        "score": 4,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2vc9p/ps5_firmware/",
         "createdAt": "2026-08-30T22:24:17.000Z"
       },
@@ -101,7 +99,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 or PS5?",
-        "score": 4,
+        "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2yg3p/ps4_or_ps5/",
         "createdAt": "2026-08-31T00:40:16.000Z"
       },
@@ -109,25 +107,9 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Thinking of buying a PS5",
-        "score": 4,
+        "score": 3,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2v0a5/thinking_of_buying_a_ps5/",
         "createdAt": "2026-08-30T22:10:13.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Can the game take up less space?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w36amm/can_the_game_take_up_less_space/",
-        "createdAt": "2026-08-31T07:11:52.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "What is a good price for 9.00 God of War PS4 Pro?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3lv1i/what_is_a_good_price_for_900_god_of_war_ps4_pro/",
-        "createdAt": "2026-08-31T18:10:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -136,6 +118,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3eanj/elden_ring_keeps_crashing_when_i_try_to_fast/",
         "createdAt": "2026-08-31T13:46:00.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Can I jailbreak my ps5 on version 7.01?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3oc8e/can_i_jailbreak_my_ps5_on_version_701/",
+        "createdAt": "2026-08-31T19:34:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -204,6 +194,14 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
+        "title": "Tried to open my DualShock 4 and saw this. Is the PCB still okay to use?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w3p2ml/tried_to_open_my_dualshock_4_and_saw_this_is_the/",
+        "createdAt": "2026-08-31T19:59:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
         "title": "12.50 jailbroken ps4",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1w2x9wr/1250_jailbroken_ps4/",
@@ -228,6 +226,14 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "What is a good price for 9.00 God of War PS4 Pro?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3lv1i/what_is_a_good_price_for_900_god_of_war_ps4_pro/",
+        "createdAt": "2026-08-31T18:10:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "Ps4 jailbreak",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3l3p9/ps4_jailbreak/",
@@ -244,10 +250,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Ps4 in 5.05 as a gift",
+        "title": "GTA IV AND PS4",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2sp62/ps4_in_505_as_a_gift/",
-        "createdAt": "2026-08-30T20:37:24.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3ob7e/gta_iv_and_ps4/",
+        "createdAt": "2026-08-31T19:33:26.000Z"
       },
       {
         "platform": "Reddit",
@@ -260,18 +266,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Vertigo 2 (PPSA18100) on PS5 FW 12.70 / ShadowMount – anyone actually got this working?",
+        "title": "Kernel Panic on 11.60",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3lwj7/vertigo_2_ppsa18100_on_ps5_fw_1270_shadowmount/",
-        "createdAt": "2026-08-31T18:11:46.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Having issues installing games",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3cen7/having_issues_installing_games/",
-        "createdAt": "2026-08-31T12:31:36.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3q44b/kernel_panic_on_1160/",
+        "createdAt": "2026-08-31T20:35:09.000Z"
       },
       {
         "platform": "Reddit",
@@ -284,10 +282,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "If i Jailbreak it, i'll be banned?",
+        "title": "Vertigo 2 (PPSA18100) on PS5 FW 12.70 / ShadowMount – anyone actually got this working?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3krpf/if_i_jailbreak_it_ill_be_banned/",
-        "createdAt": "2026-08-31T17:34:33.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3lwj7/vertigo_2_ppsa18100_on_ps5_fw_1270_shadowmount/",
+        "createdAt": "2026-08-31T18:11:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -300,34 +298,27 @@
     ],
     "topOverall": {
       "platform": "Reddit",
-      "community": "ps5homebrew",
-      "title": "ProsperoTV – Native IPTV client for PS5 with 12,000+ channels",
-      "score": 82,
-      "url": "https://www.reddit.com/r/ps5homebrew/comments/1w2s3x9/prosperotv_native_iptv_client_for_ps5_with_12000/",
-      "createdAt": "2026-08-30T20:14:56.000Z"
+      "community": "PS5_Jailbreak",
+      "title": "How to Jailbreak the PS5 with the Web Browser up to 12.70!",
+      "score": 92,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w37k7r/how_to_jailbreak_the_ps5_with_the_web_browser_up/",
+      "createdAt": "2026-08-31T08:23:48.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Whether the controller is legit?",
-        "score": 20,
+        "score": 19,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3dszc/whether_the_controller_is_legit/",
         "createdAt": "2026-08-31T13:26:52.000Z"
       },
-      "ps5homebrew": {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "ProsperoTV – Native IPTV client for PS5 with 12,000+ channels",
-        "score": 82,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w2s3x9/prosperotv_native_iptv_client_for_ps5_with_12000/",
-        "createdAt": "2026-08-30T20:14:56.000Z"
-      },
+      "ps5homebrew": null,
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How to Jailbreak the PS5 with the Web Browser up to 12.70!",
-        "score": 82,
+        "score": 92,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w37k7r/how_to_jailbreak_the_ps5_with_the_web_browser_up/",
         "createdAt": "2026-08-31T08:23:48.000Z"
       },
@@ -343,22 +334,22 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "12.50 jailbroken ps4",
+        "title": "Tried to open my DualShock 4 and saw this. Is the PCB still okay to use?",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w2x9wr/1250_jailbroken_ps4/",
-        "createdAt": "2026-08-30T23:48:04.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w3p2ml/tried_to_open_my_dualshock_4_and_saw_this_is_the/",
+        "createdAt": "2026-08-31T19:59:39.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 13
+        "count": 12
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 1
+        "count": 0
       },
       {
         "name": "r/PS5_Jailbreak",
@@ -378,7 +369,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 4
+        "count": 5
       }
     ]
   },
@@ -395,15 +386,6 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nDeveloper StonedModder has gotten access to the PS5 3D chip, making native game ports now possible!\n\ntwitter-thread.com/t/2094137048...",
-        "score": 14,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mudacfotas2o",
-        "createdAt": "2026-08-30T20:31:09.765Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mudacfotas2o:bafyreiho53gq3xcanhnubxjaamdngdy7bfohwamohg44f5x2ihkt5u7v54"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "github.com/aydencharles...",
         "score": 9,
@@ -415,7 +397,7 @@
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS5 News:\n\nThanks to StonedModder's native homebrew app discovery we now have our first one:\n\nProsperoLight!\nA Moonlight cliënt to stream PC games to your PS5.\n\ngithub.com/blackbearrel...",
-        "score": 6,
+        "score": 7,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mudj2rcdxk2x",
         "createdAt": "2026-08-30T23:07:57.369Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mudj2rcdxk2x:bafyreiaeuky6vtosrhg4cxsfahog4e5d3ecw2ov6yt5lhj6b6cegzlk26u"
@@ -424,7 +406,7 @@
         "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Tonight on...",
-        "score": 3,
+        "score": 4,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3muexpoqits2d",
         "createdAt": "2026-08-31T13:02:54.611Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3muexpoqits2d:bafyreicfm7bhkt3uz3fu5yr7w2hfj23zidetzejf5i7e5zsb7t6rn5z4xi"
