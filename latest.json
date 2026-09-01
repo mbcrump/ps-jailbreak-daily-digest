@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-01T17:19:08.445Z",
-  "runTimePacific": "09/01/2026, 10:19 PDT",
-  "windowStartPacific": "08/31/2026, 10:19 PDT",
-  "windowEndPacific": "09/01/2026, 10:19 PDT",
+  "generatedAt": "2026-09-01T19:36:13.510Z",
+  "runTimePacific": "09/01/2026, 12:36 PDT",
+  "windowStartPacific": "08/31/2026, 12:36 PDT",
+  "windowEndPacific": "09/01/2026, 12:36 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -86,23 +86,23 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Been working on something…",
-        "score": 90,
+        "score": 93,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w44yr1/been_working_on_something/",
         "createdAt": "2026-09-01T07:39:39.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Games not running",
-        "score": 19,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3se93/games_not_running/",
-        "createdAt": "2026-08-31T21:56:06.000Z"
+        "title": "Spiderman 2 100%",
+        "score": 26,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w4gc95/spiderman_2_100/",
+        "createdAt": "2026-09-01T16:06:20.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Had bought banned PS5 from eBay, 3 years ago, it's on 7.61. What FW should I stay at?",
-        "score": 17,
+        "score": 22,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w4feg1/had_bought_banned_ps5_from_ebay_3_years_ago_its/",
         "createdAt": "2026-09-01T15:32:59.000Z"
       },
@@ -110,17 +110,33 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "ESPWebKitP4 and ESPWebKitS3",
-        "score": 17,
+        "score": 21,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w44zvf/espwebkitp4_and_espwebkits3/",
         "createdAt": "2026-09-01T07:41:27.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Spiderman 2 100%",
-        "score": 16,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w4gc95/spiderman_2_100/",
-        "createdAt": "2026-09-01T16:06:20.000Z"
+        "title": "Games not running",
+        "score": 18,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3se93/games_not_running/",
+        "createdAt": "2026-08-31T21:56:06.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "NextHEN",
+        "score": 11,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w4gu6s/nexthen/",
+        "createdAt": "2026-09-01T16:23:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "The Kernel Panics are driving me insane!",
+        "score": 7,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3tecp/the_kernel_panics_are_driving_me_insane/",
+        "createdAt": "2026-08-31T22:32:49.000Z"
       },
       {
         "platform": "Reddit",
@@ -132,27 +148,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "New jailbreak not stable on 12.52",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3s3d6/new_jailbreak_not_stable_on_1252/",
-        "createdAt": "2026-08-31T21:45:13.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Why my PS5 suddenly doesn't want to connect to network?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w40k7q/why_my_ps5_suddenly_doesnt_want_to_connect_to/",
-        "createdAt": "2026-09-01T03:41:55.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "NextHEN",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w4gu6s/nexthen/",
-        "createdAt": "2026-09-01T16:23:16.000Z"
+        "title": "Graphical Issues running God of War 3 Remastered on 12.04 System? Bad Game Dump maybe?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w40wj6/graphical_issues_running_god_of_war_3_remastered/",
+        "createdAt": "2026-09-01T03:58:53.000Z"
       },
       {
         "platform": "Reddit",
@@ -164,27 +164,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "The Kernel Panics are driving me insane!",
+        "community": "ps4homebrew",
+        "title": "New jailbreak not stable on 12.52",
         "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3tecp/the_kernel_panics_are_driving_me_insane/",
-        "createdAt": "2026-08-31T22:32:49.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Graphical Issues running God of War 3 Remastered on 12.04 System? Bad Game Dump maybe?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w40wj6/graphical_issues_running_god_of_war_3_remastered/",
-        "createdAt": "2026-09-01T03:58:53.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Prosperotv",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3wmuv/prosperotv/",
-        "createdAt": "2026-09-01T00:42:34.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3s3d6/new_jailbreak_not_stable_on_1252/",
+        "createdAt": "2026-08-31T21:45:13.000Z"
       },
       {
         "platform": "Reddit",
@@ -196,6 +180,22 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Why my PS5 suddenly doesn't want to connect to network?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w40k7q/why_my_ps5_suddenly_doesnt_want_to_connect_to/",
+        "createdAt": "2026-09-01T03:41:55.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Prosperotv",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3wmuv/prosperotv/",
+        "createdAt": "2026-09-01T00:42:34.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 FAT SAB-001 – No 5V on USB, 5.4V present at Y334R – need help identifying this 5-pin IC",
         "score": 2,
@@ -204,19 +204,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Vertigo 2 (PPSA18100) on PS5 FW 12.70 / ShadowMount – anyone actually got this working?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3lwj7/vertigo_2_ppsa18100_on_ps5_fw_1270_shadowmount/",
-        "createdAt": "2026-08-31T18:11:46.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Can I jailbreak my ps5 on version 7.01?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3oc8e/can_i_jailbreak_my_ps5_on_version_701/",
-        "createdAt": "2026-08-31T19:34:25.000Z"
+        "community": "ps4homebrew",
+        "title": "Best jailbreak metod?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w4mhyp/best_jailbreak_metod/",
+        "createdAt": "2026-09-01T19:31:23.000Z"
       },
       {
         "platform": "Reddit",
@@ -252,27 +244,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "What is a good price for 9.00 God of War PS4 Pro?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3lv1i/what_is_a_good_price_for_900_god_of_war_ps4_pro/",
-        "createdAt": "2026-08-31T18:10:25.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Ps4 jailbreak",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3l3p9/ps4_jailbreak/",
-        "createdAt": "2026-08-31T17:45:25.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Prosperotv",
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1w3wnma/prosperotv/",
         "createdAt": "2026-09-01T00:43:30.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Is it possible to dump locally installed PS Plus games to USB?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w4ijol/is_it_possible_to_dump_locally_installed_ps_plus/",
+        "createdAt": "2026-09-01T17:21:41.000Z"
       },
       {
         "platform": "Reddit",
@@ -285,18 +269,34 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Bind Sixaxis gyro to analog stick?",
+        "title": "Kernel Panic on 11.60",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3lnjh/bind_sixaxis_gyro_to_analog_stick/",
-        "createdAt": "2026-08-31T18:03:28.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3q44b/kernel_panic_on_1160/",
+        "createdAt": "2026-08-31T20:35:09.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "PS4 safe mode loop",
+        "title": "Ps4 jailbreak 12.52",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w473dr/ps4_jailbreak_1252/",
+        "createdAt": "2026-09-01T09:40:55.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "Ps4 safe mode loop",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w3tz0s/ps4_safe_mode_loop/",
         "createdAt": "2026-08-31T22:54:51.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "where to find bloodborne CUSA00207",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w4mbnf/where_to_find_bloodborne_cusa00207/",
+        "createdAt": "2026-09-01T19:26:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -324,11 +324,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "GTA IV AND PS4",
+        "community": "ps5homebrew",
+        "title": "Advice on where to sell",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3ob7e/gta_iv_and_ps4/",
-        "createdAt": "2026-08-31T19:33:26.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w4j393/advice_on_where_to_sell/",
+        "createdAt": "2026-09-01T17:40:33.000Z"
       },
       {
         "platform": "Reddit",
@@ -337,6 +337,14 @@
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1w4i539/will_the_pros_ever_be_jailbreakable/",
         "createdAt": "2026-09-01T17:07:53.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "My PS5",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w4kzkg/my_ps5/",
+        "createdAt": "2026-09-01T18:45:02.000Z"
       },
       {
         "platform": "Reddit",
@@ -375,7 +383,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Been working on something…",
-      "score": 90,
+      "score": 93,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1w44yr1/been_working_on_something/",
       "createdAt": "2026-09-01T07:39:39.000Z"
     },
@@ -384,7 +392,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Been working on something…",
-        "score": 90,
+        "score": 93,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w44yr1/been_working_on_something/",
         "createdAt": "2026-09-01T07:39:39.000Z"
       },
@@ -399,39 +407,39 @@
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Games not running",
-        "score": 19,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3se93/games_not_running/",
-        "createdAt": "2026-08-31T21:56:06.000Z"
+        "title": "Spiderman 2 100%",
+        "score": 26,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w4gc95/spiderman_2_100/",
+        "createdAt": "2026-09-01T16:06:20.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "PS4 safe mode loop",
+        "title": "Ps4 jailbreak 12.52",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w3tz0s/ps4_safe_mode_loop/",
-        "createdAt": "2026-08-31T22:54:51.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w473dr/ps4_jailbreak_1252/",
+        "createdAt": "2026-09-01T09:40:55.000Z"
       },
       "PS4Jailbreak": null,
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "NextHEN",
+        "title": "where to find bloodborne CUSA00207",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w4h8fi/nexthen/",
-        "createdAt": "2026-09-01T16:37:00.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w4mbnf/where_to_find_bloodborne_cusa00207/",
+        "createdAt": "2026-09-01T19:26:05.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 15
+        "count": 13
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 2
+        "count": 3
       },
       {
         "name": "r/PS5_Jailbreak",
@@ -441,7 +449,7 @@
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 1
+        "count": 2
       },
       {
         "name": "r/PS4Jailbreak",
@@ -451,7 +459,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 3
+        "count": 4
       }
     ]
   },
@@ -523,6 +531,15 @@
       {
         "platform": "Bluesky",
         "community": "following:DLPS Team",
+        "title": "Olé 🐂 🐂 🐂 💃 🇪🇸 💃 🇪🇸 🪭 🪭 🫡",
+        "score": 3,
+        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3muhrqnni5k2f",
+        "createdAt": "2026-09-01T15:54:04.200Z",
+        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3muhrqnni5k2f:bafyreihdljtruiyrsztlo4k36deaiwmsyogbljjyz5djtgdki4h2swmnmi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:DLPS Team",
         "title": "892...",
         "score": 3,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3muh25kz62s2d",
@@ -537,15 +554,6 @@
         "url": "https://bsky.app/profile/mustafaps4ps5.bsky.social/post/3mufxzc2jws2h",
         "createdAt": "2026-08-31T22:40:53.702Z",
         "key": "at://did:plc:yw3d5jyzrkixlzrblk6unidw/app.bsky.feed.post/3mufxzc2jws2h:bafyreidprehrstjj6gfjbaxxjmssru2m2sqhyv2nthoa34gnaja3dbxvcy"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "Olé 🐂 🐂 🐂 💃 🇪🇸 💃 🇪🇸 🪭 🪭 🫡",
-        "score": 2,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3muhrqnni5k2f",
-        "createdAt": "2026-09-01T15:54:04.200Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3muhrqnni5k2f:bafyreihdljtruiyrsztlo4k36deaiwmsyogbljjyz5djtgdki4h2swmnmi"
       },
       {
         "platform": "Bluesky",
