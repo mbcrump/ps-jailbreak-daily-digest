@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T00:16:04.707Z",
-  "runTimePacific": "08/31/2026, 17:16 PDT",
-  "windowStartPacific": "08/30/2026, 17:16 PDT",
-  "windowEndPacific": "08/31/2026, 17:16 PDT",
-  "status": "partial",
+  "generatedAt": "2026-09-01T00:19:20.180Z",
+  "runTimePacific": "08/31/2026, 17:19 PDT",
+  "windowStartPacific": "08/30/2026, 17:19 PDT",
+  "windowEndPacific": "08/31/2026, 17:19 PDT",
+  "status": "complete",
   "youtube": {
     "latest": {
       "platform": "YouTube",
@@ -12,18 +12,93 @@
       "url": "https://www.youtube.com/watch?v=LkeW9sbogvE",
       "createdAt": "2026-08-31T20:44:55.000Z"
     },
-    "latestHomebrewNews": null,
+    "latestHomebrewNews": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "PlayStation Homebrew News",
+      "url": "https://www.youtube.com/watch?v=asMyt16HCco",
+      "createdAt": null,
+      "stories": [
+        {
+          "title": "PS5 Date and Time Sync v1.0.0 Released",
+          "url": "https://github.com/kerrdec97/ps5-date-time-sync/releases/tag/v1.0.0"
+        },
+        {
+          "title": "PSN64 Brings Nintendo 64 Emulation to PS5",
+          "url": "https://github.com/soniciso1/LuaMD/commits/main"
+        },
+        {
+          "title": "PSN64 Brings Nintendo 64 Emulation to PS5",
+          "url": "https://github.com/soniciso1/LuaGB/commits/main"
+        },
+        {
+          "title": "PSN64 Brings Nintendo 64 Emulation to PS5",
+          "url": "https://x.com/Sonic_Iso/status/2093255881815142582"
+        },
+        {
+          "title": "KytyPS5 and SharpEmu Show New Emulator Progress",
+          "url": "https://github.com/KytyPS5/KytyPS5/releases/tag/KytyPS5-2026-08-28-c52bf45"
+        },
+        {
+          "title": "KytyPS5 and SharpEmu Show New Emulator Progress",
+          "url": "https://github.com/sharpemu/sharpemu/commits/main"
+        },
+        {
+          "title": "Simple PS5 Patch Downloader v2 Released",
+          "url": "https://github.com/DiverseBloom780/SimplePS5PatchDownloader/releases/tag/PS5-Tool"
+        },
+        {
+          "title": "Common FPS v1.0.0 Adds a PS5 Performance Overlay",
+          "url": "https://github.com/porhe911/Common-FPS-for-PS5/releases/tag/v1.0.0"
+        },
+        {
+          "title": "OnionHEN Documentation Returns for PS5",
+          "url": "https://github.com/aydencharles/onionHEN"
+        },
+        {
+          "title": "PIZZA-HEN v2.00 Released for PS5",
+          "url": "https://github.com/Michele-M-Media/PIZZA-HEN/releases/tag/v2.00"
+        },
+        {
+          "title": "AMPR Emu 0.3.6.6 Updates PS5 Emulation",
+          "url": "https://github.com/drakmor/ampr_emu/releases/tag/0.3.6.6"
+        },
+        {
+          "title": "AMPR Emu 0.3.6.6 Updates PS5 Emulation",
+          "url": "https://github.com/tsuramatsu1/apr-emu-updater/releases/tag/v2.0.5"
+        },
+        {
+          "title": "ps4debug Adds PS4 Firmware 13.00 Support",
+          "url": "https://github.com/ap0calypse21/ps4debug"
+        },
+        {
+          "title": "Prospero Manager Public Beta Released for PS5",
+          "url": "https://github.com/notmaj0r/ProsperoMgr/releases/tag/beta"
+        },
+        {
+          "title": "OrbisNet Tests P2P Online Play on Jailbroken PS4",
+          "url": "https://www.reddit.com/r/ps4homebrew/comments/1vzznlk/playstation_4_online_p2p_gaming_on_jailbroken/"
+        },
+        {
+          "title": "ShadowMountPlus 1.7 Alpha 11 Released",
+          "url": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7alpha11"
+        },
+        {
+          "title": "PS5 WebKit Autoloader v0.4.0 Expands Support",
+          "url": "https://github.com/itsPLK/ps5-webkit-autoloader/releases/tag/v0.4.0"
+        }
+      ]
+    },
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 1
+        "count": 2
       },
       {
         "name": "YouTube Homebrew News",
-        "ok": false,
-        "count": 0,
-        "error": "YouTube watch page metadata was incomplete"
+        "ok": true,
+        "count": 1
       }
     ]
   },
@@ -33,7 +108,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How to Jailbreak the PS5 with the Web Browser up to 12.70!",
-        "score": 95,
+        "score": 93,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w37k7r/how_to_jailbreak_the_ps5_with_the_web_browser_up/",
         "createdAt": "2026-08-31T08:23:48.000Z"
       },
@@ -49,7 +124,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Whether the controller is legit?",
-        "score": 23,
+        "score": 22,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3dszc/whether_the_controller_is_legit/",
         "createdAt": "2026-08-31T13:26:52.000Z"
       },
@@ -57,7 +132,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Would it be feasible to develop a function which intentionally unloads GoldHEN?",
-        "score": 10,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3a65k/would_it_be_feasible_to_develop_a_function_which/",
         "createdAt": "2026-08-31T10:48:08.000Z"
       },
@@ -73,7 +148,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 Fat can I jailbreak it?",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w30bqq/ps4_fat_can_i_jailbreak_it/",
         "createdAt": "2026-08-31T02:07:23.000Z"
       },
@@ -103,6 +178,14 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Games not running",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3se93/games_not_running/",
+        "createdAt": "2026-08-31T21:56:06.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Can the game take up less space?",
         "score": 3,
@@ -112,10 +195,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "The Kernel Panics are driving me insane!",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3tecp/the_kernel_panics_are_driving_me_insane/",
-        "createdAt": "2026-08-31T22:32:49.000Z"
+        "title": "Firmware Question",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2zyl0/firmware_question/",
+        "createdAt": "2026-08-31T01:50:22.000Z"
       },
       {
         "platform": "Reddit",
@@ -136,10 +219,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Games not running",
+        "title": "The Kernel Panics are driving me insane!",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3se93/games_not_running/",
-        "createdAt": "2026-08-31T21:56:06.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3tecp/the_kernel_panics_are_driving_me_insane/",
+        "createdAt": "2026-08-31T22:32:49.000Z"
       },
       {
         "platform": "Reddit",
@@ -160,14 +243,6 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Can I jailbreak my ps5 on version 7.01?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3oc8e/can_i_jailbreak_my_ps5_on_version_701/",
-        "createdAt": "2026-08-31T19:34:25.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Bind Sixaxis gyro to analog stick?",
         "score": 1,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3lnjh/bind_sixaxis_gyro_to_analog_stick/",
@@ -180,14 +255,6 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3exi7/are_there_any_webbased_file_manager_with_the/",
         "createdAt": "2026-08-31T14:09:55.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Firmware Question",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w2zyl0/firmware_question/",
-        "createdAt": "2026-08-31T01:50:22.000Z"
       },
       {
         "platform": "Reddit",
@@ -248,6 +315,14 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Can I jailbreak my ps5 on version 7.01?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3oc8e/can_i_jailbreak_my_ps5_on_version_701/",
+        "createdAt": "2026-08-31T19:34:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Question about fpkg lock",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3tj9l/question_about_fpkg_lock/",
@@ -282,7 +357,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "How to Jailbreak the PS5 with the Web Browser up to 12.70!",
-      "score": 95,
+      "score": 93,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w37k7r/how_to_jailbreak_the_ps5_with_the_web_browser_up/",
       "createdAt": "2026-08-31T08:23:48.000Z"
     },
@@ -291,7 +366,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Whether the controller is legit?",
-        "score": 23,
+        "score": 22,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3dszc/whether_the_controller_is_legit/",
         "createdAt": "2026-08-31T13:26:52.000Z"
       },
@@ -300,7 +375,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How to Jailbreak the PS5 with the Web Browser up to 12.70!",
-        "score": 95,
+        "score": 93,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w37k7r/how_to_jailbreak_the_ps5_with_the_web_browser_up/",
         "createdAt": "2026-08-31T08:23:48.000Z"
       },
@@ -447,12 +522,5 @@
       }
     ]
   },
-  "failures": [
-    {
-      "name": "YouTube Homebrew News",
-      "ok": false,
-      "count": 0,
-      "error": "YouTube watch page metadata was incomplete"
-    }
-  ]
+  "failures": []
 }
