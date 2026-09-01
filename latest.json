@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T23:24:18.843Z",
-  "runTimePacific": "08/31/2026, 16:24 PDT",
-  "windowStartPacific": "08/30/2026, 16:24 PDT",
-  "windowEndPacific": "08/31/2026, 16:24 PDT",
-  "status": "complete",
+  "generatedAt": "2026-09-01T00:14:14.023Z",
+  "runTimePacific": "08/31/2026, 17:14 PDT",
+  "windowStartPacific": "08/30/2026, 17:14 PDT",
+  "windowEndPacific": "08/31/2026, 17:14 PDT",
+  "status": "partial",
   "youtube": {
     "latest": {
       "platform": "YouTube",
@@ -18,6 +18,12 @@
         "name": "YouTube RSS",
         "ok": true,
         "count": 1
+      },
+      {
+        "name": "YouTube Homebrew News",
+        "ok": false,
+        "count": 0,
+        "error": "YouTube watch page metadata was incomplete"
       }
     ]
   },
@@ -35,7 +41,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS Play 3.0",
-        "score": 49,
+        "score": 51,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w35dqj/ps_play_30/",
         "createdAt": "2026-08-31T06:21:01.000Z"
       },
@@ -43,7 +49,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Whether the controller is legit?",
-        "score": 22,
+        "score": 23,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3dszc/whether_the_controller_is_legit/",
         "createdAt": "2026-08-31T13:26:52.000Z"
       },
@@ -59,7 +65,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "About firmware spoofing and it's cons and pros",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3cjq9/about_firmware_spoofing_and_its_cons_and_pros/",
         "createdAt": "2026-08-31T12:37:23.000Z"
       },
@@ -67,7 +73,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 Fat can I jailbreak it?",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w30bqq/ps4_fat_can_i_jailbreak_it/",
         "createdAt": "2026-08-31T02:07:23.000Z"
       },
@@ -75,7 +81,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Sealed PS5 Question",
-        "score": 5,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w31zhy/sealed_ps5_question/",
         "createdAt": "2026-08-31T03:25:05.000Z"
       },
@@ -83,7 +89,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 or PS5?",
-        "score": 3,
+        "score": 5,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w2yg3p/ps4_or_ps5/",
         "createdAt": "2026-08-31T00:40:16.000Z"
       },
@@ -91,7 +97,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "New jailbreak not stable on 12.52",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3s3d6/new_jailbreak_not_stable_on_1252/",
         "createdAt": "2026-08-31T21:45:13.000Z"
       },
@@ -107,17 +113,9 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Games not running",
-        "score": 2,
+        "score": 3,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3se93/games_not_running/",
         "createdAt": "2026-08-31T21:56:06.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Can I jailbreak my ps5 on version 7.01?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3oc8e/can_i_jailbreak_my_ps5_on_version_701/",
-        "createdAt": "2026-08-31T19:34:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -145,11 +143,35 @@
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "GTA IV AND PS4",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3ob7e/gta_iv_and_ps4/",
+        "createdAt": "2026-08-31T19:33:26.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "The Kernel Panics are driving me insane!",
         "score": 1,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3tecp/the_kernel_panics_are_driving_me_insane/",
         "createdAt": "2026-08-31T22:32:49.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "FC26 problem please help",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3usyj/fc26_problem_please_help/",
+        "createdAt": "2026-08-31T23:27:15.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Anybody else experiencing lag in various games?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3u9hf/anybody_else_experiencing_lag_in_various_games/",
+        "createdAt": "2026-08-31T23:05:48.000Z"
       },
       {
         "platform": "Reddit",
@@ -193,27 +215,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "12.50 jailbroken ps4",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w2xaol/1250_jailbroken_ps4/",
-        "createdAt": "2026-08-30T23:49:03.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Tried to open my DualShock 4 and saw this. Is the PCB still okay to use?",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1w3p2ml/tried_to_open_my_dualshock_4_and_saw_this_is_the/",
         "createdAt": "2026-08-31T19:59:39.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "12.50 jailbroken ps4",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w2x9wr/1250_jailbroken_ps4/",
-        "createdAt": "2026-08-30T23:48:04.000Z"
       },
       {
         "platform": "Reddit",
@@ -233,11 +239,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "GTA IV AND PS4",
+        "community": "PS5_Jailbreak",
+        "title": "Can I jailbreak my ps5 on version 7.01?",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3ob7e/gta_iv_and_ps4/",
-        "createdAt": "2026-08-31T19:33:26.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3oc8e/can_i_jailbreak_my_ps5_on_version_701/",
+        "createdAt": "2026-08-31T19:34:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -250,14 +256,6 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Ps5 10.20 jailbreak questions",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3sb2m/ps5_1020_jailbreak_questions/",
-        "createdAt": "2026-08-31T21:52:55.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Vertigo 2 (PPSA18100) on PS5 FW 12.70 / ShadowMount – anyone actually got this working?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3lwj7/vertigo_2_ppsa18100_on_ps5_fw_1270_shadowmount/",
@@ -266,18 +264,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Kernel Panic on 11.60",
+        "title": "Ps5 10.20 jailbreak questions",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3q44b/kernel_panic_on_1160/",
-        "createdAt": "2026-08-31T20:35:09.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS 4/5 retail games and DLC fpkgs",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3midj/ps_45_retail_games_and_dlc_fpkgs/",
-        "createdAt": "2026-08-31T18:32:08.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w3sb2m/ps5_1020_jailbreak_questions/",
+        "createdAt": "2026-08-31T21:52:55.000Z"
       },
       {
         "platform": "Reddit",
@@ -301,7 +291,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Whether the controller is legit?",
-        "score": 22,
+        "score": 23,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w3dszc/whether_the_controller_is_legit/",
         "createdAt": "2026-08-31T13:26:52.000Z"
       },
@@ -351,7 +341,7 @@
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 3
+        "count": 2
       },
       {
         "name": "r/PS4Jailbreak",
@@ -361,7 +351,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 3
+        "count": 2
       }
     ]
   },
@@ -457,5 +447,12 @@
       }
     ]
   },
-  "failures": []
+  "failures": [
+    {
+      "name": "YouTube Homebrew News",
+      "ok": false,
+      "count": 0,
+      "error": "YouTube watch page metadata was incomplete"
+    }
+  ]
 }
