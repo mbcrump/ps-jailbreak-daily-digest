@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-03T17:02:04.083Z",
-  "runTimePacific": "09/03/2026, 10:02 PDT",
-  "windowStartPacific": "09/02/2026, 10:02 PDT",
-  "windowEndPacific": "09/03/2026, 10:02 PDT",
+  "generatedAt": "2026-09-03T19:26:53.074Z",
+  "runTimePacific": "09/03/2026, 12:26 PDT",
+  "windowStartPacific": "09/02/2026, 12:26 PDT",
+  "windowEndPacific": "09/03/2026, 12:26 PDT",
   "status": "complete",
   "youtube": {
     "latest": null,
@@ -86,7 +86,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Potential new JB",
-        "score": 66,
+        "score": 80,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w65eho/potential_new_jb/",
         "createdAt": "2026-09-03T12:01:33.000Z"
       },
@@ -94,7 +94,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Help webkit 12.70",
-        "score": 17,
+        "score": 19,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w5m546/help_webkit_1270/",
         "createdAt": "2026-09-02T20:28:00.000Z"
       },
@@ -108,11 +108,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Quite a find",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w6bk46/quite_a_find/",
-        "createdAt": "2026-09-03T16:02:06.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "Update PS5 Pro",
+        "score": 9,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w65pdo/update_ps5_pro/",
+        "createdAt": "2026-09-03T12:15:43.000Z"
       },
       {
         "platform": "Reddit",
@@ -121,14 +121,6 @@
         "score": 7,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w5pudf/how_to_add_custom_chalice_glyphs_in_bloodborne_on/",
         "createdAt": "2026-09-02T22:48:11.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Update PS5 Pro",
-        "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w65pdo/update_ps5_pro/",
-        "createdAt": "2026-09-03T12:15:43.000Z"
       },
       {
         "platform": "Reddit",
@@ -141,58 +133,74 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Can anyone make fPKG for PS4 headset companion app?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w66edy/can_anyone_make_fpkg_for_ps4_headset_companion_app/",
-        "createdAt": "2026-09-03T12:46:26.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Webkit vs Bd-jb , which one has less KP ?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w667mr/webkit_vs_bdjb_which_one_has_less_kp/",
-        "createdAt": "2026-09-03T12:38:25.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "What firmware would this have?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w5vk09/what_firmware_would_this_have/",
-        "createdAt": "2026-09-03T03:05:07.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Should I factory reset my PS5 before jailbreaking?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w64bam/should_i_factory_reset_my_ps5_before_jailbreaking/",
-        "createdAt": "2026-09-03T11:09:13.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Connecting PS5 Controller",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w67aej/connecting_ps5_controller/",
         "createdAt": "2026-09-03T13:22:39.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Any advice on finding a JB PS5?",
+        "title": "FW 8.00 Poopsploit successful but doesn’t load up the package manager",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w6ddku/fw_800_poopsploit_successful_but_doesnt_load_up/",
+        "createdAt": "2026-09-03T17:06:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Can anyone make fPKG for PS4 headset companion app?",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w60cty/any_advice_on_finding_a_jb_ps5/",
-        "createdAt": "2026-09-03T07:23:36.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w66edy/can_anyone_make_fpkg_for_ps4_headset_companion_app/",
+        "createdAt": "2026-09-03T12:46:26.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Very Lucky Find",
-        "score": 2,
+        "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w69mkd/very_lucky_find/",
         "createdAt": "2026-09-03T14:51:40.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Webkit vs Bd-jb , which one has less KP ?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w667mr/webkit_vs_bdjb_which_one_has_less_kp/",
+        "createdAt": "2026-09-03T12:38:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Should I factory reset my PS5 before jailbreaking?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w64bam/should_i_factory_reset_my_ps5_before_jailbreaking/",
+        "createdAt": "2026-09-03T11:09:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "What firmware would this have?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w5vk09/what_firmware_would_this_have/",
+        "createdAt": "2026-09-03T03:05:07.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What do you think guys . 13.52 maybe Is out There",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w6dvm0/what_do_you_think_guys_1352_maybe_is_out_there/",
+        "createdAt": "2026-09-03T17:24:26.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 + FW 12.00 best case scenario? ($600)",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w6aru1/ps5_fw_1200_best_case_scenario_600/",
+        "createdAt": "2026-09-03T15:33:40.000Z"
       },
       {
         "platform": "Reddit",
@@ -212,19 +220,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Can i install PKG from my phone to PS5 ?",
+        "community": "PS4Mods",
+        "title": "PS4 13.52",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w5k1dh/can_i_install_pkg_from_my_phone_to_ps5/",
-        "createdAt": "2026-09-02T19:14:33.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Arabic groups possible exploit method requires subscription",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w6biot/arabic_groups_possible_exploit_method_requires/",
-        "createdAt": "2026-09-03T16:00:50.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w6f5rc/ps4_1352/",
+        "createdAt": "2026-09-03T18:09:10.000Z"
       },
       {
         "platform": "Reddit",
@@ -241,6 +241,22 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1w6326k/ac_valhalla_rdr2_spiderman_2/",
         "createdAt": "2026-09-03T10:02:28.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Any advice on finding a JB PS5?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w60cty/any_advice_on_finding_a_jb_ps5/",
+        "createdAt": "2026-09-03T07:23:36.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "What happens to the disc drive after a system software reinstall?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w6bwiu/what_happens_to_the_disc_drive_after_a_system/",
+        "createdAt": "2026-09-03T16:14:18.000Z"
       },
       {
         "platform": "Reddit",
@@ -268,19 +284,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PlayStation live tv",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w5riaz/playstation_live_tv/",
-        "createdAt": "2026-09-02T23:59:31.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Hacks2",
         "title": "Ps4 pro",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w6bc4x/ps4_pro/",
         "createdAt": "2026-09-03T15:54:22.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "HELP ABOUT KERNEL PANIC",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w6fnvn/help_about_kernel_panic/",
+        "createdAt": "2026-09-03T18:26:29.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Arabic groups possible exploit method requires subscription",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w6biot/arabic_groups_possible_exploit_method_requires/",
+        "createdAt": "2026-09-03T16:00:50.000Z"
       },
       {
         "platform": "Reddit",
@@ -309,18 +333,10 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "What happens to the disc drive after a system software reinstall?",
+        "title": "Is Gameplay Using a PS5 Game Disk while Jailbroken better or worse?",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w6bwiu/what_happens_to_the_disc_drive_after_a_system/",
-        "createdAt": "2026-09-03T16:14:18.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS5 + FW 12.00 best case scenario? ($600)",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w6aru1/ps5_fw_1200_best_case_scenario_600/",
-        "createdAt": "2026-09-03T15:33:40.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w6amx1/is_gameplay_using_a_ps5_game_disk_while/",
+        "createdAt": "2026-09-03T15:28:45.000Z"
       },
       {
         "platform": "Reddit",
@@ -335,7 +351,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "Potential new JB",
-      "score": 66,
+      "score": 80,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w65eho/potential_new_jb/",
       "createdAt": "2026-09-03T12:01:33.000Z"
     },
@@ -343,10 +359,10 @@
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Quite a find",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w6bk46/quite_a_find/",
-        "createdAt": "2026-09-03T16:02:06.000Z"
+        "title": "How to add custom Chalice Glyphs in Bloodborne on a jailbroken Ps4 WITHOUT PSN",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w5pudf/how_to_add_custom_chalice_glyphs_in_bloodborne_on/",
+        "createdAt": "2026-09-02T22:48:11.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
@@ -360,7 +376,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Potential new JB",
-        "score": 66,
+        "score": 80,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w65eho/potential_new_jb/",
         "createdAt": "2026-09-03T12:01:33.000Z"
       },
@@ -376,17 +392,17 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Where do you get your ps4 games from for modded ps4",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w5n6c3/where_do_you_get_your_ps4_games_from_for_modded/",
-        "createdAt": "2026-09-02T21:04:54.000Z"
+        "title": "What do you think guys . 13.52 maybe Is out There",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w6dvm0/what_do_you_think_guys_1352_maybe_is_out_there/",
+        "createdAt": "2026-09-03T17:24:26.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 12
+        "count": 11
       },
       {
         "name": "r/ps5homebrew",
@@ -411,7 +427,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 1
+        "count": 4
       }
     ]
   },
@@ -437,21 +453,21 @@
       },
       {
         "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nJordy has reported two Use-After-Free (kernel) exploits to Sony.\n\nWorks up to PS5 13.60\nHe didn't test on PS4 as he is not interested in the platform.\nHe confirmed it'll be released soon after Sony patch it and release a new firmware update.\n\ntwitter-thread.com/t/2095471947...",
+        "score": 10,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mumhflmddk2m",
+        "createdAt": "2026-09-03T12:32:07.499Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mumhflmddk2m:bafyreiaz34htbcr7uc6htxsplqz2m5ekmyg7gv6d2nstssj2rnjxjomkxy"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:DLPS Team",
         "title": "Today is a day of celebration because we've just reached 900 PS5 games on DLS...\n\n🥳 🥳 🥳",
         "score": 10,
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mulhjlrzm22p",
         "createdAt": "2026-09-03T03:01:43.798Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mulhjlrzm22p:bafyreigvkicoquloffnw6jngt4qyt6j36orbhor6ty4woiuas25eskikne"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nJordy has reported two Use-After-Free (kernel) exploits to Sony.\n\nWorks up to PS5 13.60\nHe didn't test on PS4 as he is not interested in the platform.\nHe confirmed it'll be released soon after Sony patch it and release a new firmware update.\n\ntwitter-thread.com/t/2095471947...",
-        "score": 9,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mumhflmddk2m",
-        "createdAt": "2026-09-03T12:32:07.499Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mumhflmddk2m:bafyreiaz34htbcr7uc6htxsplqz2m5ekmyg7gv6d2nstssj2rnjxjomkxy"
       },
       {
         "platform": "Bluesky",
@@ -470,6 +486,15 @@
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3mum4ollwss2m",
         "createdAt": "2026-09-03T09:20:21.103Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3mum4ollwss2m:bafyreigjz2z4uupsuy3jvh4x4xe4l7zvdablzr54aaasbhwsq2ajmmdllm"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "Great mix www.youtube.com/watch?v=TZvo...",
+        "score": 3,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mumxzaqsg22h",
+        "createdAt": "2026-09-03T17:29:29.765Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mumxzaqsg22h:bafyreicoscxi5ifww4tlapyq6r7474lxh6suv5vokfd2qcf4kbhwa4ikju"
       },
       {
         "platform": "Bluesky",
