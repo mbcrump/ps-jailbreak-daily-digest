@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-05T18:34:37.669Z",
-  "runTimePacific": "09/05/2026, 11:34 PDT",
-  "windowStartPacific": "09/04/2026, 11:34 PDT",
-  "windowEndPacific": "09/05/2026, 11:34 PDT",
+  "generatedAt": "2026-09-05T21:42:04.858Z",
+  "runTimePacific": "09/05/2026, 14:42 PDT",
+  "windowStartPacific": "09/04/2026, 14:42 PDT",
+  "windowEndPacific": "09/05/2026, 14:42 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
       "platform": "YouTube",
       "community": "PlayStation Hacks & Exploits | Michael Crump",
-      "title": "Build PS5 Payloads in C# With SharpProspero #Shorts",
-      "url": "https://www.youtube.com/watch?v=4_l7hcScYRM",
-      "createdAt": "2026-09-05T15:08:49.000Z"
+      "title": "The Elder Scrolls IV: Oblivion Remastered Physical Disc on a Jailbroken PS5",
+      "url": "https://www.youtube.com/watch?v=6jHf2-W9Prs",
+      "createdAt": "2026-09-05T20:38:18.000Z"
     },
     "latestHomebrewNews": {
       "platform": "YouTube",
@@ -99,58 +99,42 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Another Moonlight client for PlayStation 4 - Moonlight DX",
-        "score": 90,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7y7a9/another_moonlight_client_for_playstation_4/",
-        "createdAt": "2026-09-05T11:27:49.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "Good news",
-        "score": 69,
+        "score": 164,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1w86p55/good_news/",
         "createdAt": "2026-09-05T17:21:45.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "First PS5 Game Beaten and First Platinum on My Jailbroken System. My Overall Experience.",
-        "score": 55,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w82dqn/first_ps5_game_beaten_and_first_platinum_on_my/",
-        "createdAt": "2026-09-05T14:34:29.000Z"
+        "community": "ps4homebrew",
+        "title": "Another Moonlight client for PlayStation 4 - Moonlight DX",
+        "score": 106,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7y7a9/another_moonlight_client_for_playstation_4/",
+        "createdAt": "2026-09-05T11:27:49.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Good News",
-        "score": 35,
+        "score": 89,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1w86nhm/good_news/",
         "createdAt": "2026-09-05T17:19:57.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Will Sony Release 14.00 before September 15th?",
-        "score": 29,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7f5ql/will_sony_release_1400_before_september_15th/",
-        "createdAt": "2026-09-04T20:01:16.000Z"
+        "title": "First PS5 Game Beaten and First Platinum on My Jailbroken System. My Overall Experience.",
+        "score": 66,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w82dqn/first_ps5_game_beaten_and_first_platinum_on_my/",
+        "createdAt": "2026-09-05T14:34:29.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "No PC required",
-        "score": 16,
+        "score": 22,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7xmwa/no_pc_required/",
         "createdAt": "2026-09-05T10:58:53.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Where do I find jailbreakable/low firmware ps4s",
-        "score": 13,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7dzix/where_do_find_jailbreakablelow_firmware_ps4s/",
-        "createdAt": "2026-09-04T19:19:04.000Z"
       },
       {
         "platform": "Reddit",
@@ -162,11 +146,35 @@
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How to force PS4 games to 720p render resolution + 60 FPS?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w85hyj/how_to_force_ps4_games_to_720p_render_resolution/",
+        "createdAt": "2026-09-05T16:36:23.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How to properly delete PS4 Games from Jailbroken PS5?",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7lk0r/how_to_properly_delete_ps4_games_from_jailbroken/",
         "createdAt": "2026-09-05T00:20:33.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "Good news",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w86onc/good_news/",
+        "createdAt": "2026-09-05T17:21:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Updated PS4 Offline WebXploitHost Xiao-ESP32C3 fw 6.00-13.00",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w85wkd/updated_ps4_offline_webxploithost_xiaoesp32c3_fw/",
+        "createdAt": "2026-09-05T16:51:37.000Z"
       },
       {
         "platform": "Reddit",
@@ -178,51 +186,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Hej jag är på 13.02",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w7u3lt/hej_jag_är_på_1302/",
-        "createdAt": "2026-09-05T07:37:19.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "How to force PS4 games to 720p render resolution + 60 FPS?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w85hyj/how_to_force_ps4_games_to_720p_render_resolution/",
-        "createdAt": "2026-09-05T16:36:23.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Updated PS4 Offline WebXploitHost Xiao-ESP32C3 fw 6.00-13.00",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w85wkd/updated_ps4_offline_webxploithost_xiaoesp32c3_fw/",
-        "createdAt": "2026-09-05T16:51:37.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 (used, 2 year warranty) getting noticeably hot after just 5 minutes on the home screen. Is this normal?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7cu9t/ps4_used_2_year_warranty_getting_noticeably_hot/",
-        "createdAt": "2026-09-04T18:37:46.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Shadowmount plus image mount failed device not configured error",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w7fj6j/shadowmount_plus_image_mount_failed_device_not/",
-        "createdAt": "2026-09-04T20:14:59.000Z"
+        "title": "PS4 appeared on this screen and does not leave it",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7o0k9/ps4_appeared_on_this_screen_and_does_not_leave_it/",
+        "createdAt": "2026-09-05T02:17:57.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Question about recent games on jailbroken PS5.",
-        "score": 3,
+        "score": 4,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7neth/question_about_recent_games_on_jailbroken_ps5/",
         "createdAt": "2026-09-05T01:48:24.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "My PS4 Pro is on 12.0 — jailbreak now or wait?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w8851q/my_ps4_pro_is_on_120_jailbreak_now_or_wait/",
+        "createdAt": "2026-09-05T18:16:23.000Z"
       },
       {
         "platform": "Reddit",
@@ -234,22 +218,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "Good news",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w86onc/good_news/",
-        "createdAt": "2026-09-05T17:21:13.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 appeared on this screen and does not leave it",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7o0k9/ps4_appeared_on_this_screen_and_does_not_leave_it/",
-        "createdAt": "2026-09-05T02:17:57.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Can't use this content, purchase it error on Jailbroken PS5 Low firmware 2.30",
         "score": 2,
@@ -258,27 +226,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "ce-10826-9",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w7funs/ce108269/",
-        "createdAt": "2026-09-04T20:26:52.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How to JB 10.60",
+        "title": "Which one should I keep?",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7yuyf/how_to_jb_1060/",
-        "createdAt": "2026-09-05T12:00:30.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w86ixf/which_one_should_i_keep/",
+        "createdAt": "2026-09-05T17:15:06.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Ps 4 jailbreak",
+        "title": "Hej jag är på 13.02",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w7qfdu/ps_4_jailbreak/",
-        "createdAt": "2026-09-05T04:20:01.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w7u3lt/hej_jag_är_på_1302/",
+        "createdAt": "2026-09-05T07:37:19.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Does it really matter to try different webkit hosts?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w8aqxi/does_it_really_matter_to_try_different_webkit/",
+        "createdAt": "2026-09-05T19:55:14.000Z"
       },
       {
         "platform": "Reddit",
@@ -322,19 +290,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Questions",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w7y9xr/questions/",
-        "createdAt": "2026-09-05T11:31:35.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Which one should I keep?",
+        "title": "How to JB 10.60",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w86ixf/which_one_should_i_keep/",
-        "createdAt": "2026-09-05T17:15:06.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7yuyf/how_to_jb_1060/",
+        "createdAt": "2026-09-05T12:00:30.000Z"
       },
       {
         "platform": "Reddit",
@@ -343,14 +303,6 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7zlr1/need_help_deciding_purchase/",
         "createdAt": "2026-09-05T12:35:56.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Payload Manager is not running…. Error",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7fvj9/payload_manager_is_not_running_error/",
-        "createdAt": "2026-09-04T20:27:50.000Z"
       },
       {
         "platform": "Reddit",
@@ -371,10 +323,18 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Jordy stop hack ps5 13.60?",
+        "title": "Ps 4 jailbreak",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1w7dg9h/jordy_stop_hack_ps5_1360/",
-        "createdAt": "2026-09-04T18:59:41.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1w7qfdu/ps_4_jailbreak/",
+        "createdAt": "2026-09-05T04:20:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Questions",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w7y9xr/questions/",
+        "createdAt": "2026-09-05T11:31:35.000Z"
       },
       {
         "platform": "Reddit",
@@ -411,6 +371,22 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Any new news for jb for 13.20-13.60?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w8a67x/any_new_news_for_jb_for_13201360/",
+        "createdAt": "2026-09-05T19:32:51.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Is it really worth jailbreaking my PS5 slim?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w89a42/is_it_really_worth_jailbreaking_my_ps5_slim/",
+        "createdAt": "2026-09-05T18:58:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Wolverine will be playable on JB Ps5?",
         "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w7rg80/wolverine_will_be_playable_on_jb_ps5/",
@@ -420,33 +396,33 @@
     "topOverall": {
       "platform": "Reddit",
       "community": "ps4homebrew",
-      "title": "Another Moonlight client for PlayStation 4 - Moonlight DX",
-      "score": 90,
-      "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7y7a9/another_moonlight_client_for_playstation_4/",
-      "createdAt": "2026-09-05T11:27:49.000Z"
+      "title": "Good news",
+      "score": 164,
+      "url": "https://www.reddit.com/r/ps4homebrew/comments/1w86p55/good_news/",
+      "createdAt": "2026-09-05T17:21:45.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Another Moonlight client for PlayStation 4 - Moonlight DX",
-        "score": 90,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w7y7a9/another_moonlight_client_for_playstation_4/",
-        "createdAt": "2026-09-05T11:27:49.000Z"
+        "title": "Good news",
+        "score": 164,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1w86p55/good_news/",
+        "createdAt": "2026-09-05T17:21:45.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Shadowmount plus image mount failed device not configured error",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w7fj6j/shadowmount_plus_image_mount_failed_device_not/",
-        "createdAt": "2026-09-04T20:14:59.000Z"
+        "title": "Can't use this content, purchase it error on Jailbroken PS5 Low firmware 2.30",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1w7w0hd/cant_use_this_content_purchase_it_error_on/",
+        "createdAt": "2026-09-05T09:27:57.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "First PS5 Game Beaten and First Platinum on My Jailbroken System. My Overall Experience.",
-        "score": 55,
+        "score": 66,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w82dqn/first_ps5_game_beaten_and_first_platinum_on_my/",
         "createdAt": "2026-09-05T14:34:29.000Z"
       },
@@ -454,7 +430,7 @@
         "platform": "Reddit",
         "community": "PS4Hacks2",
         "title": "Good news",
-        "score": 3,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1w86onc/good_news/",
         "createdAt": "2026-09-05T17:21:13.000Z"
       },
@@ -463,7 +439,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Good News",
-        "score": 35,
+        "score": 89,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1w86nhm/good_news/",
         "createdAt": "2026-09-05T17:19:57.000Z"
       }
@@ -477,7 +453,7 @@
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 6
+        "count": 4
       },
       {
         "name": "r/PS5_Jailbreak",
@@ -497,7 +473,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 5
+        "count": 4
       }
     ]
   },
@@ -520,15 +496,6 @@
         "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3muqyqtvsa22r",
         "createdAt": "2026-09-05T07:53:18.761Z",
         "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3muqyqtvsa22r:bafyreiacr2m76lgrudlnf3kxh4kicjdykuervneagkc7wlgywlsfmhawcy"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:DLPS Team",
-        "title": "What do you think if DLS... makes a serious offer to buy PsxHax?       🤑 🤑 🤑",
-        "score": 8,
-        "url": "https://bsky.app/profile/dlpsteam.bsky.social/post/3muppn3cgyk2p",
-        "createdAt": "2026-09-04T19:37:30.868Z",
-        "key": "at://did:plc:ebkcbknqlqd4z7dz5nm4jnme/app.bsky.feed.post/3muppn3cgyk2p:bafyreife4lycdpnbfx5jvdc6zqdwhoq6wmpbhc6emuilqkdyk5meruh2ym"
       },
       {
         "platform": "Bluesky",
