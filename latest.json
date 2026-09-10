@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-09-09T21:57:15.350Z",
-  "runTimePacific": "09/09/2026, 14:57 PDT",
-  "windowStartPacific": "09/08/2026, 14:57 PDT",
-  "windowEndPacific": "09/09/2026, 14:57 PDT",
+  "generatedAt": "2026-09-10T16:59:06.070Z",
+  "runTimePacific": "09/10/2026, 09:59 PDT",
+  "windowStartPacific": "09/09/2026, 09:59 PDT",
+  "windowEndPacific": "09/10/2026, 09:59 PDT",
   "status": "complete",
   "youtube": {
-    "latest": {
-      "platform": "YouTube",
-      "community": "PlayStation Hacks & Exploits | Michael Crump",
-      "title": "ShadowMountPlus Gets PS5 Stability Fixes #Shorts",
-      "url": "https://www.youtube.com/watch?v=2QQ08t0ygcI",
-      "createdAt": "2026-09-09T13:55:27.000Z"
-    },
+    "latest": null,
     "latestHomebrewNews": {
       "platform": "YouTube",
       "community": "PlayStation Hacks & Exploits | Michael Crump",
@@ -37,7 +31,7 @@
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 2
+        "count": 1
       },
       {
         "name": "YouTube Homebrew News",
@@ -50,243 +44,243 @@
     "posts": [
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "My PS4 digital collection - 400 PS4 games.",
-        "score": 287,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wb86ze/my_ps4_digital_collection_400_ps4_games/",
-        "createdAt": "2026-09-09T01:57:16.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "I'm sorry, but someone had to do it",
-        "score": 190,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wb7229/im_sorry_but_someone_had_to_do_it/",
-        "createdAt": "2026-09-09T01:06:04.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "SSPI public beta is live",
-        "score": 176,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbdayy/sspi_public_beta_is_live/",
-        "createdAt": "2026-09-09T06:10:54.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "New information on Jordy’s KEX",
-        "score": 166,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbgpbm/new_information_on_jordys_kex/",
-        "createdAt": "2026-09-09T09:28:41.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Fake Packages Announced for PS5 up to 11.40 with fpkg builder & More!",
-        "score": 71,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbf928/fake_packages_announced_for_ps5_up_to_1140_with/",
-        "createdAt": "2026-09-09T08:02:40.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "World of Warcraft has been released!",
-        "score": 53,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbcjzw/world_of_warcraft_released/",
-        "createdAt": "2026-09-09T05:29:59.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Should I be happy?",
-        "score": 44,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbg6d9/should_i_be_happy/",
-        "createdAt": "2026-09-09T08:58:58.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "SSPI Windows Manager.",
-        "score": 16,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wbd38b/sspi_windows_manager/",
-        "createdAt": "2026-09-09T05:59:29.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Years later :)",
-        "score": 16,
+        "title": "Years later :)”",
+        "score": 112,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbynxz/years_later/",
         "createdAt": "2026-09-09T21:17:53.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Need help with running games",
-        "score": 9,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbmpjm/need_help_with_running_games/",
-        "createdAt": "2026-09-09T14:11:10.000Z"
+        "title": "What are the benefits of FPKG?",
+        "score": 18,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wcc5kl/what_are_the_benefits_of_fpkg/",
+        "createdAt": "2026-09-10T07:30:22.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Looking for competitive/local couch multiplayer hidden gems on PS4",
+        "community": "PS5_Jailbreak",
+        "title": "Games on internal installed nvme",
         "score": 8,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbhha7/looking_for_competitivelocal_couch_multiplayer/",
-        "createdAt": "2026-09-09T10:12:37.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wceui4/games_on_internal_installed_nvme/",
+        "createdAt": "2026-09-10T10:03:55.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "I NEED HELP",
+        "title": "I need help with installing games",
+        "score": 8,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wc28sb/i_need_help_with_installing_games/",
+        "createdAt": "2026-09-09T23:37:48.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "temperature increase",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbn0bz/i_need_help/",
-        "createdAt": "2026-09-09T14:22:35.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcfsqx/temperature_increase/",
+        "createdAt": "2026-09-10T10:54:26.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 bad version (tchola version)",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wc5wj6/ps4_bad_version_tchola_version/",
+        "createdAt": "2026-09-10T02:15:43.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "close save from accidental ps4 update",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wc3id7/close_save_from_accidental_ps4_update/",
+        "createdAt": "2026-09-10T00:31:10.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Reusing an existing PS Plus game install after jailbreaking?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbi0io/reusing_an_existing_ps_plus_game_install_after/",
-        "createdAt": "2026-09-09T10:42:08.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 3.xx",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbfkl3/ps4_3xx/",
-        "createdAt": "2026-09-09T08:22:11.000Z"
+        "title": "exFat Image builder stuck on 99%",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wcjfhi/exfat_image_builder_stuck_on_99/",
+        "createdAt": "2026-09-10T13:36:05.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "External SSD Question",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wb5gng/external_ssd_question/",
-        "createdAt": "2026-09-08T23:58:03.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "TEKKEN 8 error FW 10.6",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbkan7/tekken_8_error_fw_106/",
-        "createdAt": "2026-09-09T12:32:53.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Cant update and you plugins bug",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbwl1l/cant_update_and_you_plugins_bug/",
-        "createdAt": "2026-09-09T20:02:47.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Got a v 11. I think it shorted",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbniiv/got_a_v_11_i_think_it_shorted/",
-        "createdAt": "2026-09-09T14:41:47.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Updating games",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbdp8t/updating_games/",
-        "createdAt": "2026-09-09T06:32:32.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 DevKit / Piglet shader compilation help",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wb56am/ps4_devkit_piglet_shader_compilation_help/",
-        "createdAt": "2026-09-08T23:45:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Hey I just jailbreaked my PS5 slim on 11.60 an wanted to ask if there is a full web browser app ??",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbi5my/hey_i_just_jailbreaked_my_ps5_slim_on_1160_an/",
-        "createdAt": "2026-09-09T10:49:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Buying a PS4 Slim with the latest firmware in the hope of jailbreaking",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wb7xtj/buying_a_ps4_slim_with_latest_firmware_in_hope_of/",
-        "createdAt": "2026-09-09T01:45:46.000Z"
+        "title": "PS5 FW 12.40 - Fan hits 100% and shuts down with \"PS5 is too hot\" on Reanimal (Kstuff + ShadowMountPlus) – Liquid metal or high firmware issue?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbxvrf/ps5_fw_1240_fan_hits_100_and_shuts_down_with_ps5/",
+        "createdAt": "2026-09-09T20:48:55.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Streaming apps",
-        "score": 1,
+        "score": 4,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbw13o/streaming_apps/",
         "createdAt": "2026-09-09T19:43:27.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Help: Failed Linux Installation.",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbp5w0/help_failed_linux_installation/",
-        "createdAt": "2026-09-09T15:42:13.000Z"
+        "title": "My ps4 keeps crashing ( firmware 12.00)",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcjlm7/my_ps4_keeps_crashing_firmware_1200/",
+        "createdAt": "2026-09-10T13:42:49.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PS4 Version 6.50",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wb53li/ps4_version_650/",
-        "createdAt": "2026-09-08T23:42:11.000Z"
+        "title": "Installing new games?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcised/installing_new_games/",
+        "createdAt": "2026-09-10T13:10:19.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "GoldHEN randomly crashes ps4 into safe mode",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wb41m8/goldhen_randomly_crashes_ps4_into_safe_mode/",
-        "createdAt": "2026-09-08T22:57:41.000Z"
+        "title": "Cant update and you plugins bug",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbwl1l/cant_update_and_you_plugins_bug/",
+        "createdAt": "2026-09-09T20:02:47.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Ps5 Linux",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wcbaoh/ps5_linux/",
+        "createdAt": "2026-09-10T06:42:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "New to jailbreak help",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wcjvyn/new_to_jailbreak_help/",
+        "createdAt": "2026-09-10T13:53:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Help ps5 crashing",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wcjndu/help_ps5_crashing/",
+        "createdAt": "2026-09-10T13:44:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Jailbreaking help",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wcivwt/jailbreaking_help/",
+        "createdAt": "2026-09-10T13:14:26.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "My PS4 is on version 12.0 what's the best method to jailbreak",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcds1t/my_ps4_is_on_version_120_whats_the_best_method_to/",
+        "createdAt": "2026-09-10T09:05:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Ps5 dualsense on ps4",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wc15bb/ps5_dualsense_on_ps4/",
+        "createdAt": "2026-09-09T22:52:44.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "TEKKEN 8 error FW 10.6",
+        "title": "Help ps5 crashing",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wcjek1/help_ps5_crashing/",
+        "createdAt": "2026-09-10T13:35:06.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Is my drive dying? :(",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wbkb0r/tekken_8_error_fw_106/",
-        "createdAt": "2026-09-09T12:33:20.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcmtgd/is_my_drive_dying/",
+        "createdAt": "2026-09-10T15:43:18.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "CFI-1116A factory reset + jailbreaking",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wcl456/cfi1116a_factory_reset_jailbreaking/",
+        "createdAt": "2026-09-10T14:40:20.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Where to see the titleID (CUSA) of a savedata??",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcm91k/where_to_see_the_titleid_cusa_of_a_savedata/",
+        "createdAt": "2026-09-10T15:22:07.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Just bought a PS4 Pro with firmware 7.50. Should I upgrade to 9.60?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wce0y4/just_bought_a_ps4_pro_with_firmware_750_should_i/",
+        "createdAt": "2026-09-10T09:19:17.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "i have a question",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcke83/i_have_a_question/",
+        "createdAt": "2026-09-10T14:13:05.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "got rejected at Gamestop trying to get rid of ps4 games.. what should I do with them?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wckpwh/got_rejected_at_gamestop_trying_to_get_rid_of_ps4/",
+        "createdAt": "2026-09-10T14:25:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Sign the Petition",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcdl6m/sign_the_petition/",
+        "createdAt": "2026-09-10T08:54:38.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Ps5 game saves to Ps5 jailbroken",
+        "score": 0,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wc0ex8/ps5_game_saves_to_ps5_jailbroken/",
+        "createdAt": "2026-09-09T22:23:53.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Question about 4.51 price (not buying nor selling anything)",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wckifl/question_about_451_price_not_buying_nor_selling/",
+        "createdAt": "2026-09-10T14:17:31.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Should I update my PS5 Pro to add a disc drive?",
-        "score": 1,
+        "score": 0,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbxc8g/should_i_update_my_ps5_pro_to_add_a_disc_drive/",
         "createdAt": "2026-09-09T20:29:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Last year storage",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wbf9xa/last_year_storage/",
-        "createdAt": "2026-09-09T08:04:07.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS5 FW 12.40 - Fan hits 100% and shuts down with \"PS5 is too hot\" on Reanimal (Kstuff + ShadowMountPlus) – Liquid metal or high firmware issue?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbxvrf/ps5_fw_1240_fan_hits_100_and_shuts_down_with_ps5/",
-        "createdAt": "2026-09-09T20:48:55.000Z"
       },
       {
         "platform": "Reddit",
@@ -299,47 +293,40 @@
     ],
     "topOverall": {
       "platform": "Reddit",
-      "community": "ps4homebrew",
-      "title": "My PS4 digital collection - 400 PS4 games.",
-      "score": 287,
-      "url": "https://www.reddit.com/r/ps4homebrew/comments/1wb86ze/my_ps4_digital_collection_400_ps4_games/",
-      "createdAt": "2026-09-09T01:57:16.000Z"
+      "community": "PS5_Jailbreak",
+      "title": "Years later :)”",
+      "score": 112,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbynxz/years_later/",
+      "createdAt": "2026-09-09T21:17:53.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "My PS4 digital collection - 400 PS4 games.",
-        "score": 287,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wb86ze/my_ps4_digital_collection_400_ps4_games/",
-        "createdAt": "2026-09-09T01:57:16.000Z"
+        "title": "temperature increase",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wcfsqx/temperature_increase/",
+        "createdAt": "2026-09-10T10:54:26.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "SSPI Windows Manager.",
-        "score": 16,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wbd38b/sspi_windows_manager/",
-        "createdAt": "2026-09-09T05:59:29.000Z"
+        "title": "Help ps5 crashing",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wcjek1/help_ps5_crashing/",
+        "createdAt": "2026-09-10T13:35:06.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "I'm sorry, but someone had to do it",
-        "score": 190,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wb7229/im_sorry_but_someone_had_to_do_it/",
-        "createdAt": "2026-09-09T01:06:04.000Z"
+        "title": "Years later :)”",
+        "score": 112,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbynxz/years_later/",
+        "createdAt": "2026-09-09T21:17:53.000Z"
       },
       "PS4Hacks2": null,
       "PS4Jailbreak": null,
-      "PS4Mods": {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Buying a PS4 Slim with the latest firmware in the hope of jailbreaking",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wb7xtj/buying_a_ps4_slim_with_latest_firmware_in_hope_of/",
-        "createdAt": "2026-09-09T01:45:46.000Z"
-      }
+      "PS4Mods": null
     },
     "sources": [
       {
@@ -350,7 +337,7 @@
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 2
+        "count": 3
       },
       {
         "name": "r/PS5_Jailbreak",
@@ -370,7 +357,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 1
+        "count": 0
       }
     ]
   },
@@ -378,72 +365,18 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:Lapy",
-        "title": "PS5 PKG VIEWER 1.01  by \n@lapygames.bsky.social \n Now you can see the PS5 PKG info. Use base64.\n\naHR0cHM6Ly9tZWdhLm56L2ZpbGUvYmNrejFKU0kjaDlxYVE2dHZjRFpnV0pYbWg1clVlT3NOS0U2Z1J2RkQ5VzJRRmtJWjhtUQ==",
-        "score": 11,
-        "url": "https://bsky.app/profile/nathandrake4530.bsky.social/post/3mv3jwsrpns2x",
-        "createdAt": "2026-09-09T12:27:38.060Z",
-        "key": "at://did:plc:gycyugkvle6ym2ntklehgnxk/app.bsky.feed.post/3mv3jwsrpns2x:bafyreie5s54azjmfk5nmmdojfcorpqpgmzmqck2y2n4mne4dvtosyqw4ri"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nJordy confirmed he aint the only one who has the kernel exploit for 13.60. The bugs he reported are also in the hands of one called Sonic-iso.\n\nThey are not bound by HackerOne terms so they're free to release it earlier but don't expect it to until Sony patches it.\n\nx.com/couldbeautis...",
-        "score": 10,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv3aatuexc2a",
-        "createdAt": "2026-09-09T09:34:11.262Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv3aatuexc2a:bafyreifdzjifapwyz5y6aere6xb3gtibdubwkhm4r4j4ccoj5vw36ok5fu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:ArkSama (Playstation Hacker United - PHU )",
-        "title": "I can release a version, but only for 9.40 because my multi-firmware version and bugger. As soon as I finish completely the phu v2 9.40 version, I will post it",
-        "score": 9,
-        "url": "https://bsky.app/profile/arksama.bsky.social/post/3mv3bvwm4oc27",
-        "createdAt": "2026-09-09T10:03:50.661Z",
-        "key": "at://did:plc:6j23vk3u57xo4rmym42iko2u/app.bsky.feed.post/3mv3bvwm4oc27:bafyreihi5g4cnlddnahemdryq33453uu7aei2iq35u3wl4h2mtsibangf4"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "Photoshop some text really quickly for an example I forgot to capture?❌\n\nHook up a console and make a Bad Update USB drive to capture one screenshot? ✅\n\nIt might be inefficient, but I hope the genuineness is appreciated 😂",
-        "score": 8,
+        "score": 17,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mv4dik72a22a",
         "createdAt": "2026-09-09T20:04:48.065Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mv4dik72a22a:bafyreia7yvuiiqoki2txch6pwfz67odoqmqxyvn2ht457jpa6uhg6q3yyi"
       },
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nFirst test build is now released with an updated kstuff that supports the format.\n\nOnly works on 9.40 for now.",
-        "score": 7,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv3bo4iz2s2a",
-        "createdAt": "2026-09-09T09:59:31.159Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv3bo4iz2s2a:bafyreihpvej2w67khll6a2zyqsusgs2x7yobqvq3jhfshsve7s67qixuyq"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nA native Dreamcast emulator has turned up!\n\nIts an early build so expect some bugs.\n\ngithub.com/BrinooTk/cas...",
-        "score": 6,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv4d4hgmdc2c",
-        "createdAt": "2026-09-09T19:58:05.160Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv4d4hgmdc2c:bafyreigdigjqqtdgvx2da44i2zfxfsgg33kfhql26p436jksyhtqibxbyu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "Update: Sonic cares alot about the sales of GTA 6 and PS5 so he confirmed he won't release the exploit for a long time after its already patched.\n\nNote: GTA 6 can't be played on 13.60 (it'll likely require 14.20+) so users have to make a choice: GTA 6 or jailbreak\n\ntwitter-thread.com/t/2097672526...",
-        "score": 6,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv3r3sb4i223",
-        "createdAt": "2026-09-09T14:35:34.662Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv3r3sb4i223:bafyreicttjv3ixa4g6njzzgb3t6fz7jaiycud4gt7u5ljtknuilbnpekve"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ Test FPKG-GUI v0.2 by Drakmor 🧐",
-        "score": 6,
+        "score": 13,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mv4c3s6nek2s",
         "createdAt": "2026-09-09T19:39:49.255Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mv4c3s6nek2s:bafyreid7j4mtqltjmekegtctd4qre6dtuwry5polxsjxsjh65o55v4ut5i"
@@ -451,21 +384,57 @@
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "GTA 6 releases near end November so December be way to early. Think more like Summer 2027 (my guess IF its up to Sonic)",
-        "score": 2,
+        "title": "PS5 News:\n\nA native Dreamcast emulator has turned up!\n\nIts an early build so expect some bugs.\n\ngithub.com/BrinooTk/cas...",
+        "score": 10,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv4d4hgmdc2c",
+        "createdAt": "2026-09-09T19:58:05.160Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv4d4hgmdc2c:bafyreigdigjqqtdgvx2da44i2zfxfsgg33kfhql26p436jksyhtqibxbyu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nDeveloper Lapy released his newest app: PS5 PKG Viewer!\n\nA PC app that allows you to see info on any PS4 & PS5 (f)pkg file.\n\nmega.nz/file/3AdX1Kw...",
+        "score": 7,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv67mpea722v",
+        "createdAt": "2026-09-10T14:00:54.660Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv67mpea722v:bafyreihwtzlkqv376pl5s4nxhz7764t545vmn7oytdfgicb7vt4tmtsv7u"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "PlayStation cancelled a Kojima game only for it to be picked up by XBOX, then Nintendo dropped a new update which added in VRR for the Switch 2's TV mode.\n\nJust gaming things.",
+        "score": 6,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mv67wld5ys2a",
+        "createdAt": "2026-09-10T14:06:25.363Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mv67wld5ys2a:bafyreiaeghr6jqefa6j5iab254op7jmta4n5erequdns2s5jpe6s4jab3q"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "GTA 6 releases near the end of November, so December is way too early. Think more like Summer 2027 (my guess if it's up to Sonic)",
+        "score": 3,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv42bxxyz22p",
         "createdAt": "2026-09-09T17:20:05.164Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv42bxxyz22p:bafyreia5ciujmk7vmuwkgp3vhb2kdkne7zjp45p7og73fc34lb5cwclqo4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS4 News:\n\nWorld of Warcraft got a port for the PS4!\n\ngithub.com/01cedric/WoWPS",
+        "score": 1,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mv62hv4lv22a",
+        "createdAt": "2026-09-10T12:28:43.861Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mv62hv4lv22a:bafyreigcrmt776f7tucmcu2rkc7srip3fssnwcvo22tqi5ay4uthoebjdm"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:Lapy",
-      "title": "PS5 PKG VIEWER 1.01  by \n@lapygames.bsky.social \n Now you can see the PS5 PKG info. Use base64.\n\naHR0cHM6Ly9tZWdhLm56L2ZpbGUvYmNrejFKU0kjaDlxYVE2dHZjRFpnV0pYbWg1clVlT3NOS0U2Z1J2RkQ5VzJRRmtJWjhtUQ==",
-      "score": 11,
-      "url": "https://bsky.app/profile/nathandrake4530.bsky.social/post/3mv3jwsrpns2x",
-      "createdAt": "2026-09-09T12:27:38.060Z",
-      "key": "at://did:plc:gycyugkvle6ym2ntklehgnxk/app.bsky.feed.post/3mv3jwsrpns2x:bafyreie5s54azjmfk5nmmdojfcorpqpgmzmqck2y2n4mne4dvtosyqw4ri"
+      "community": "following:MrMario2011",
+      "title": "Photoshop some text really quickly for an example I forgot to capture?❌\n\nHook up a console and make a Bad Update USB drive to capture one screenshot? ✅\n\nIt might be inefficient, but I hope the genuineness is appreciated 😂",
+      "score": 17,
+      "url": "https://bsky.app/profile/mrmario2011.com/post/3mv4dik72a22a",
+      "createdAt": "2026-09-09T20:04:48.065Z",
+      "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mv4dik72a22a:bafyreia7yvuiiqoki2txch6pwfz67odoqmqxyvn2ht457jpa6uhg6q3yyi"
     },
     "sources": [
       {
