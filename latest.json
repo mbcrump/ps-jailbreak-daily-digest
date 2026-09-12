@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-12T18:46:21.932Z",
-  "runTimePacific": "09/12/2026, 11:46 PDT",
-  "windowStartPacific": "09/11/2026, 11:46 PDT",
-  "windowEndPacific": "09/12/2026, 11:46 PDT",
+  "generatedAt": "2026-09-12T21:39:24.327Z",
+  "runTimePacific": "09/12/2026, 14:39 PDT",
+  "windowStartPacific": "09/11/2026, 14:39 PDT",
+  "windowEndPacific": "09/12/2026, 14:39 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -108,7 +108,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Installing a 250GB SSD in my old PS4",
-        "score": 105,
+        "score": 128,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1we7b28/installing_a_250gb_ssd_in_my_old_ps4/",
         "createdAt": "2026-09-12T08:47:21.000Z"
       },
@@ -116,39 +116,39 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 13.40: a fully offline WebKit host works end-to-end (DNS cage + TLS spoof, Guide view). The chain dies at exactly one missing file: offsets/13.40.js. Scene, I need your map.",
-        "score": 73,
+        "score": 88,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wedox7/ps5_1340_fully_offline_webkit_host_works_endtoend/",
         "createdAt": "2026-09-12T14:11:56.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "pegasus-ps5/pegasus-dl: Direct package downloading from your PS5",
-        "score": 57,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wdrb2p/pegasusps5pegasusdl_direct_package_downloading/",
-        "createdAt": "2026-09-11T20:10:38.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Fpkg Support by EchoStretch · Pull Request #74 · EchoStretch/kstuff-lite",
-        "score": 31,
+        "score": 41,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weigqa/fpkg_support_by_echostretch_pull_request_74/",
         "createdAt": "2026-09-12T17:22:47.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Release OnionHEN v0.0.13 · aydencharles/onionHEN",
-        "score": 23,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wdr7db/release_onionhen_v0013_aydencharlesonionhen/",
-        "createdAt": "2026-09-11T20:06:51.000Z"
+        "title": "PS5 exFAT → PKG Builder v0.1.0 released",
+        "score": 25,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wemewt/ps5_exfat_pkg_builder_v010_released/",
+        "createdAt": "2026-09-12T19:52:52.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "is this real?",
+        "score": 20,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1weh7i0/is_this_real/",
+        "createdAt": "2026-09-12T16:34:56.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Going Online while on 13.20 to Restore Licenses",
-        "score": 15,
+        "score": 14,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1we9ujy/going_online_while_on_1320_to_restore_licenses/",
         "createdAt": "2026-09-12T11:13:09.000Z"
       },
@@ -156,41 +156,41 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Spider-Man 2",
-        "score": 13,
+        "score": 12,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weax54/spider_man_2/",
         "createdAt": "2026-09-12T12:08:01.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "I am on 10.6fw",
-        "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weef36/i_am_on_106fw/",
-        "createdAt": "2026-09-12T14:42:36.000Z"
+        "title": "How do you convert your games to LZ4?",
+        "score": 11,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weg1da/how_do_you_convert_your_games_to_lz4/",
+        "createdAt": "2026-09-12T15:48:38.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "is this real?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1weh7i0/is_this_real/",
-        "createdAt": "2026-09-12T16:34:56.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "PS5 with Linux.",
+        "score": 9,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weh17q/ps5_with_linux/",
+        "createdAt": "2026-09-12T16:27:58.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "With fpkg maturing, what is the current ideal FW to be on?",
-        "score": 6,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wecgkz/with_fpkg_maturing_what_is_the_current_ideal_fw/",
         "createdAt": "2026-09-12T13:19:10.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "How do you convert your games to LZ4?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weg1da/how_do_you_convert_your_games_to_lz4/",
-        "createdAt": "2026-09-12T15:48:38.000Z"
+        "title": "I am on 10.6fw",
+        "score": 8,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weef36/i_am_on_106fw/",
+        "createdAt": "2026-09-12T14:42:36.000Z"
       },
       {
         "platform": "Reddit",
@@ -199,22 +199,6 @@
         "score": 5,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1we2iqg/best_menu_for_gta5/",
         "createdAt": "2026-09-12T04:23:40.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Playing games on internal ssd",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wdtg91/playing_games_on_internal_ssd/",
-        "createdAt": "2026-09-11T21:31:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Spiderman 2 - Internal storage vs External NVME - is one better?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wdqgzr/spiderman_2_internal_storage_vs_external_nvme_is/",
-        "createdAt": "2026-09-11T19:39:34.000Z"
       },
       {
         "platform": "Reddit",
@@ -227,10 +211,34 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PS5 with Linux.",
+        "title": "Does anyone know about this?",
         "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1weh17q/ps5_with_linux/",
-        "createdAt": "2026-09-12T16:27:58.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wenq2l/does_anyone_know_about_this/",
+        "createdAt": "2026-09-12T20:44:27.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Bought a PS5 for GTA 6, updated it to 13.60, then found out a WebKit jailbreak is almost here. What do I do?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1we9w1m/bought_a_ps5_for_gta_6_updated_it_to_1360_then/",
+        "createdAt": "2026-09-12T11:15:17.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Does anybody know if fpkg has been fixed for firmwares under 8.xx?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wekofu/does_anybody_know_if_fpkg_has_been_fixed_for/",
+        "createdAt": "2026-09-12T18:46:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "if anyone has  PS5 UDS-based trophy unlocker by sonic can you please share",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1we78gc/if_anyone_has_ps5_udsbased_trophy_unlocker_by/",
+        "createdAt": "2026-09-12T08:42:58.000Z"
       },
       {
         "platform": "Reddit",
@@ -242,6 +250,22 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "another dev just showed this off on X - said no release",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wemyfc/another_dev_just_showed_this_off_on_x_said_no/",
+        "createdAt": "2026-09-12T20:13:51.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Im using BD-JB/GoldHEN on my PS4. After every full shutdown or reboot, I need to run the jailbreak again through CD, but can I use BD-JB online with an internet connection.",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1weh2qj/im_using_bdjbgoldhen_on_my_ps4_after_every_full/",
+        "createdAt": "2026-09-12T16:29:43.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "can someone help me?",
         "score": 2,
@@ -250,27 +274,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "if anyone has  PS5 UDS-based trophy unlocker by sonic can you please share",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1we78gc/if_anyone_has_ps5_udsbased_trophy_unlocker_by/",
-        "createdAt": "2026-09-12T08:42:58.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "A couple of questions",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1we36ue/a_couple_of_questions/",
-        "createdAt": "2026-09-12T04:59:08.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "I'm using BD-JB/GoldHEN on my PS4. After every full shutdown or reboot, I need to run the jailbreak again through CD, but can I use BD-JB online with an internet connection.",
+        "title": "PS4 slim 13.02 revert",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1weh2qj/im_using_bdjbgoldhen_on_my_ps4_after_every_full/",
-        "createdAt": "2026-09-12T16:29:43.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1weh8a8/ps4_slim_1302_revert/",
+        "createdAt": "2026-09-12T16:35:48.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Are \"pricing\" posts allowed in this sub??",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wemztq/are_pricing_posts_allowed_in_this_sub/",
+        "createdAt": "2026-09-12T20:15:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -298,19 +314,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 modding",
+        "community": "PS4Hacks2",
+        "title": "another dev shared this on X - said no release",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wdpqx0/ps4_modding/",
-        "createdAt": "2026-09-11T19:13:20.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "PS4 slim 13.02 revert",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1weh8a8/ps4_slim_1302_revert/",
-        "createdAt": "2026-09-12T16:35:48.000Z"
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wemzkg/another_dev_shared_this_on_x_said_no_release/",
+        "createdAt": "2026-09-12T20:15:04.000Z"
       },
       {
         "platform": "Reddit",
@@ -355,14 +363,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Controller stopped working after stick replacement",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wdqfvu/controller_stopped_working_after_stick_replacement/",
-        "createdAt": "2026-09-11T19:38:27.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "JailBreak Possible ?",
         "score": 0,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1weeoae/jailbreak_possible/",
@@ -397,7 +397,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "Installing a 250GB SSD in my old PS4",
-      "score": 105,
+      "score": 128,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1we7b28/installing_a_250gb_ssd_in_my_old_ps4/",
       "createdAt": "2026-09-12T08:47:21.000Z"
     },
@@ -406,7 +406,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Installing a 250GB SSD in my old PS4",
-        "score": 105,
+        "score": 128,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1we7b28/installing_a_250gb_ssd_in_my_old_ps4/",
         "createdAt": "2026-09-12T08:47:21.000Z"
       },
@@ -414,7 +414,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "With fpkg maturing, what is the current ideal FW to be on?",
-        "score": 6,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wecgkz/with_fpkg_maturing_what_is_the_current_ideal_fw/",
         "createdAt": "2026-09-12T13:19:10.000Z"
       },
@@ -422,38 +422,38 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PS5 13.40: a fully offline WebKit host works end-to-end (DNS cage + TLS spoof, Guide view). The chain dies at exactly one missing file: offsets/13.40.js. Scene, I need your map.",
-        "score": 73,
+        "score": 88,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wedox7/ps5_1340_fully_offline_webkit_host_works_endtoend/",
         "createdAt": "2026-09-12T14:11:56.000Z"
       },
       "PS4Hacks2": {
         "platform": "Reddit",
         "community": "PS4Hacks2",
-        "title": "PS4 jailbreak 13.52 firmware",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1weh21a/ps4_jailbreak_1352_firmware/",
-        "createdAt": "2026-09-12T16:28:54.000Z"
+        "title": "another dev shared this on X - said no release",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wemzkg/another_dev_shared_this_on_x_said_no_release/",
+        "createdAt": "2026-09-12T20:15:04.000Z"
       },
       "PS4Jailbreak": null,
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "I'm using BD-JB/GoldHEN on my PS4. After every full shutdown or reboot, I need to run the jailbreak again through CD, but can I use BD-JB online with an internet connection.",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1weh2qj/im_using_bdjbgoldhen_on_my_ps4_after_every_full/",
-        "createdAt": "2026-09-12T16:29:43.000Z"
+        "title": "another dev just showed this off on X - said no release",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wemyfc/another_dev_just_showed_this_off_on_x_said_no/",
+        "createdAt": "2026-09-12T20:13:51.000Z"
       }
     },
     "sources": [
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 13
+        "count": 12
       },
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 3
+        "count": 2
       },
       {
         "name": "r/PS5_Jailbreak",
@@ -463,7 +463,7 @@
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 1
+        "count": 2
       },
       {
         "name": "r/PS4Jailbreak",
@@ -473,7 +473,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 5
+        "count": 6
       }
     ]
   },
@@ -481,30 +481,21 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nDeveloper StonedModder managed to spoof the bluetooth module of the PS5 allowing other controllers like a Switch Pro Controller to connect wirelessly and be used for PS5 games.",
-        "score": 15,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvbaiwbzns2c",
-        "createdAt": "2026-09-11T18:54:41.657Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvbaiwbzns2c:bafyreigomzimo62t5zhjrfl6lfuokjynd6rnve7g6mw5zotbfhniwrkehe"
+        "community": "following:PS5 JAILBREAKS",
+        "title": "LZ4 🦎:\npfs-library.xetdy-am.workers.dev\nThx👏🙏 @dlpsteam.bsky.social",
+        "score": 7,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mvdfbv7lbs26",
+        "createdAt": "2026-09-12T15:25:32.156Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mvdfbv7lbs26:bafyreidsmwis6rpitvjq2ravmpnvuitvral52esqvvsupqo2mjx3lzgy2e"
       },
       {
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "How to Run ABadAvatar from an Internal Drive - ABadAvatar HDD Setup & Transfer\n\nWatch Here: youtu.be/seOPwVF3YEM",
-        "score": 5,
+        "score": 6,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mvdkqx3uf22y",
         "createdAt": "2026-09-12T17:03:26.360Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mvdkqx3uf22y:bafyreicq6ba2o2qhcjlabqgunfr2shvakronccjalnpcnv4rkl3yp3f42u"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "This is one of the two that Jordy shared with Sonic",
-        "score": 4,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvbew33wkc26",
-        "createdAt": "2026-09-11T20:13:35.958Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvbew33wkc26:bafyreie6zjxia2qwwl7ncq2t44zcpajvze2izei427ke5l6nfwpmxb7zhy"
       },
       {
         "platform": "Bluesky",
@@ -514,25 +505,16 @@
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvdbnq73nk2u",
         "createdAt": "2026-09-12T14:20:34.358Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvdbnq73nk2u:bafyreiehrqhmfshpn4skd3q4ffhrada4lk7n43yegwkxxm5wtl6v765rpy"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "LZ4 🦎:\npfs-library.xetdy-am.workers.dev\nThx👏🙏 @dlpsteam.bsky.social",
-        "score": 3,
-        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mvdfbv7lbs26",
-        "createdAt": "2026-09-12T15:25:32.156Z",
-        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mvdfbv7lbs26:bafyreidsmwis6rpitvjq2ravmpnvuitvral52esqvvsupqo2mjx3lzgy2e"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:Consolefacts",
-      "title": "PS5 News:\n\nDeveloper StonedModder managed to spoof the bluetooth module of the PS5 allowing other controllers like a Switch Pro Controller to connect wirelessly and be used for PS5 games.",
-      "score": 15,
-      "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvbaiwbzns2c",
-      "createdAt": "2026-09-11T18:54:41.657Z",
-      "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvbaiwbzns2c:bafyreigomzimo62t5zhjrfl6lfuokjynd6rnve7g6mw5zotbfhniwrkehe"
+      "community": "following:PS5 JAILBREAKS",
+      "title": "LZ4 🦎:\npfs-library.xetdy-am.workers.dev\nThx👏🙏 @dlpsteam.bsky.social",
+      "score": 7,
+      "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mvdfbv7lbs26",
+      "createdAt": "2026-09-12T15:25:32.156Z",
+      "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mvdfbv7lbs26:bafyreidsmwis6rpitvjq2ravmpnvuitvral52esqvvsupqo2mjx3lzgy2e"
     },
     "sources": [
       {
