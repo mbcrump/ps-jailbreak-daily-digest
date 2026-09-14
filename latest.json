@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-14T20:35:30.899Z",
-  "runTimePacific": "09/14/2026, 13:35 PDT",
-  "windowStartPacific": "09/13/2026, 13:35 PDT",
-  "windowEndPacific": "09/14/2026, 13:35 PDT",
+  "generatedAt": "2026-09-14T22:45:00.421Z",
+  "runTimePacific": "09/14/2026, 15:45 PDT",
+  "windowStartPacific": "09/13/2026, 15:45 PDT",
+  "windowEndPacific": "09/14/2026, 15:45 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -108,7 +108,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "SSPI 5.11 beta is now available",
-        "score": 137,
+        "score": 145,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wftw8v/sspi_511_beta_is_now_available/",
         "createdAt": "2026-09-14T04:53:52.000Z"
       },
@@ -116,7 +116,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I don't get the GTA 6 FOMO",
-        "score": 71,
+        "score": 86,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wg5anb/i_dont_get_the_gta_6_fomo/",
         "createdAt": "2026-09-14T14:40:10.000Z"
       },
@@ -124,7 +124,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "fpkg 0.6.4 — build PS5 PKGs straight from a .ffpfsc or .exfat dump, no unpacking. macOS & Linux, native Oodle Kraken",
-        "score": 48,
+        "score": 53,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wg2zf8/fpkg_064_build_ps5_pkgs_straight_from_a_ffpfsc_or/",
         "createdAt": "2026-09-14T13:08:55.000Z"
       },
@@ -132,31 +132,31 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "getting dms and dms over offsets, here where you could find them (offsets for 13.XX)",
-        "score": 44,
+        "score": 47,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wg6wgg/getting_dms_and_dms_over_offsets_here_where_you/",
         "createdAt": "2026-09-14T15:39:57.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "IPTV on Ps5",
-        "score": 38,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfls5i/iptv_on_ps5/",
-        "createdAt": "2026-09-13T22:29:58.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "ITS OUT THERE ARE REPORTS OF PEOPLE USING IT",
-        "score": 22,
+        "score": 21,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wfpudv/its_out_there_are_reports_of_people_using_it/",
         "createdAt": "2026-09-14T01:34:49.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 IDU Kiosk Console Disc Merge Project for a PS4 Kiosk",
+        "score": 21,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wfrzpw/ps4_idu_kiosk_console_disc_merge_project_for_a/",
+        "createdAt": "2026-09-14T03:17:29.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "13.40 wk_gadgetmap needed",
-        "score": 18,
+        "score": 21,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfmt0h/1340_wk_gadgetmap_needed/",
         "createdAt": "2026-09-13T23:15:17.000Z"
       },
@@ -164,23 +164,15 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "**[WIP] PS2 ISO Companion App (PS4 PKG) - No More Rebuilding FPKGs Every Time You Want to Fix a Bug!**",
-        "score": 16,
+        "score": 19,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wfzic3/wip_ps2_iso_companion_app_ps4_pkg_no_more/",
         "createdAt": "2026-09-14T10:20:59.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 IDU Kiosk Console Disc Merge Project for a PS4 Kiosk",
-        "score": 16,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wfrzpw/ps4_idu_kiosk_console_disc_merge_project_for_a/",
-        "createdAt": "2026-09-14T03:17:29.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "A Full Week of Restmode after Jailbreak let's see if I encounter any issues..",
-        "score": 16,
+        "score": 17,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wftc8g/a_full_week_of_restmode_after_jailbreak_lets_see/",
         "createdAt": "2026-09-14T04:24:19.000Z"
       },
@@ -188,7 +180,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Why the fpkg doesn't support 11.60 while EchoStretch marked it as supported in his a53_exploit.c ?",
-        "score": 16,
+        "score": 15,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfnipc/why_the_fpkg_doesnt_support_1160_while/",
         "createdAt": "2026-09-13T23:47:45.000Z"
       },
@@ -196,7 +188,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Use alternate controllers/keyboard instead of PS4 Controllers",
-        "score": 11,
+        "score": 13,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wgbm4b/use_alternate_controllerskeyboard_instead_off_ps4/",
         "createdAt": "2026-09-14T18:24:57.000Z"
       },
@@ -204,15 +196,23 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How games works on jb PS5?",
-        "score": 9,
+        "score": 12,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wgccef/how_games_works_on_jb_ps5/",
         "createdAt": "2026-09-14T18:50:21.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "FPKG Working great! Except with Ghost of Yotei and Tsushima- FW11.20",
+        "score": 11,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wgbduq/fpkg_working_great_except_with_ghost_of_yotei_and/",
+        "createdAt": "2026-09-14T18:17:06.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "About 11 Hours, and My .Exfat doesn't finish yet...",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wfr56x/about_11_hours_and_my_exfat_doesnt_finish_yet/",
         "createdAt": "2026-09-14T02:35:38.000Z"
       },
@@ -220,33 +220,25 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "IPTV on Ps5",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wfps1z/iptv_on_ps5/",
         "createdAt": "2026-09-14T01:31:49.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "After I jailbreak can I keep playing on the same user?",
-        "score": 8,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfjbc9/after_i_jailbreak_can_i_keep_playing_on_the_same/",
-        "createdAt": "2026-09-13T20:49:46.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "FPKG Working great! Except with Ghost of Yotei and Tsushima- FW11.20",
-        "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wgbduq/fpkg_working_great_except_with_ghost_of_yotei_and/",
-        "createdAt": "2026-09-14T18:17:06.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Which Primary DNS to use to block updates on PS5?",
-        "score": 6,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfm9v2/which_primary_dns_to_use_to_block_updates_on_ps5/",
         "createdAt": "2026-09-13T22:51:30.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "How long will you let a 12.70 try and JB before starting over? It's not frozen but it's run almost double the expected 50 minutes without completing...",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wg5em0/how_long_will_you_let_a_1270_try_and_jb_before/",
+        "createdAt": "2026-09-14T14:44:23.000Z"
       },
       {
         "platform": "Reddit",
@@ -258,19 +250,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How long will you let a 12.70 try and JB before starting over? It's not frozen but it's run almost double the expected 50 minutes without completing...",
+        "community": "ps4homebrew",
+        "title": "9.03! Got my old ps4 dusted off!",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wg5em0/how_long_will_you_let_a_1270_try_and_jb_before/",
-        "createdAt": "2026-09-14T14:44:23.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wgcftq/903_got_my_old_ps4_dusted_off/",
+        "createdAt": "2026-09-14T18:53:46.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "System software error message everytime I jb with ytjb",
+        "community": "PS4Mods",
+        "title": "Is the 13.02 jailbreak real ?",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfldra/system_software_error_message_everytime_i_jb_with/",
-        "createdAt": "2026-09-13T22:13:20.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wg2zdp/is_the_1302_jailbreak_real/",
+        "createdAt": "2026-09-14T13:08:52.000Z"
       },
       {
         "platform": "Reddit",
@@ -282,19 +274,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "FW 14.00 is officially out now!!",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wfruqw/fw_1400_is_officially_out_now/",
-        "createdAt": "2026-09-14T03:10:30.000Z"
+        "community": "ps4homebrew",
+        "title": "i reuploaded due to requests - still no solid proof",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wg2g17/i_reuploaded_due_to_requests_still_no_solid_proof/",
+        "createdAt": "2026-09-14T12:46:49.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Is the 13.02 jailbreak real ?",
+        "title": "FW 14.00 is officially out now!!",
         "score": 4,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wg2zdp/is_the_1302_jailbreak_real/",
-        "createdAt": "2026-09-14T13:08:52.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wfruqw/fw_1400_is_officially_out_now/",
+        "createdAt": "2026-09-14T03:10:30.000Z"
       },
       {
         "platform": "Reddit",
@@ -314,30 +306,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Understanding the jailbreak scenario",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfy6lm/understanding_the_jailbreak_scenario/",
-        "createdAt": "2026-09-14T09:02:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Use alternate controllers/keyboard instead off PS4 Controllers",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wgbmc5/use_alternate_controllerskeyboard_instead_off_ps4/",
-        "createdAt": "2026-09-14T18:25:09.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "i reuploaded due to requests - still no solid proof",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wg2g17/i_reuploaded_due_to_requests_still_no_solid_proof/",
-        "createdAt": "2026-09-14T12:46:49.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Linux Help",
         "score": 2,
@@ -354,11 +322,19 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Vale a pena destravar um PS4 original?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wgc4we/vale_a_pena_destravar_um_ps4_original/",
+        "createdAt": "2026-09-14T18:43:01.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "9.03! Got my old ps4 dusted off!",
+        "title": "Use alternate controllers/keyboard instead off PS4 Controllers",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wgcftq/903_got_my_old_ps4_dusted_off/",
-        "createdAt": "2026-09-14T18:53:46.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wgbmc5/use_alternate_controllerskeyboard_instead_off_ps4/",
+        "createdAt": "2026-09-14T18:25:09.000Z"
       },
       {
         "platform": "Reddit",
@@ -378,11 +354,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Two Playstation - Do i switch for jailbreak on Pro?",
+        "community": "ps5homebrew",
+        "title": "Ps5 PRO",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfluwr/two_playstation_do_i_switch_for_jailbreak_on_pro/",
-        "createdAt": "2026-09-13T22:33:06.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wfpe9a/ps5_pro/",
+        "createdAt": "2026-09-14T01:13:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Understanding the jailbreak scenario",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfy6lm/understanding_the_jailbreak_scenario/",
+        "createdAt": "2026-09-14T09:02:19.000Z"
       },
       {
         "platform": "Reddit",
@@ -410,35 +394,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Is this a PS4 Dev Kit?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wfk62r/is_this_a_ps4_dev_kit/",
-        "createdAt": "2026-09-13T21:23:50.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Convince me",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wgeg5r/convince_me/",
-        "createdAt": "2026-09-14T20:04:32.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "FPKG Working great! Except with Ghost of Yotei and Tsushima- FW11.20",
         "score": 0,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wgbdzr/fpkg_working_great_except_with_ghost_of_yotei_and/",
         "createdAt": "2026-09-14T18:17:14.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Ps5 PRO",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wfpe9a/ps5_pro/",
-        "createdAt": "2026-09-14T01:13:39.000Z"
       },
       {
         "platform": "Reddit",
@@ -466,11 +426,43 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "I need config cracking psn acc",
+        "community": "ps5homebrew",
+        "title": "Convince me",
         "score": 0,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wfl9ou/i_need_config_cracking_psn_acc/",
-        "createdAt": "2026-09-13T22:08:48.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wgeg5r/convince_me/",
+        "createdAt": "2026-09-14T20:04:32.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Any way to activate the PSN account for Remote Play without Elf Arsenal?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wgdmw9/any_way_to_activate_the_psn_account_for_remote/",
+        "createdAt": "2026-09-14T19:35:42.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Restoring Backup on Older Firmware",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfzx9h/restoring_backup_on_older_firmware/",
+        "createdAt": "2026-09-14T10:44:04.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Ghost of yotei no audio language",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wfpgkl/ghost_of_yotei_no_audio_language/",
+        "createdAt": "2026-09-14T01:16:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "what is the average time for new releases to be backported?",
+        "score": 0,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wg6972/what_is_the_average_time_for_new_releases_to_be/",
+        "createdAt": "2026-09-14T15:15:59.000Z"
       },
       {
         "platform": "Reddit",
@@ -485,7 +477,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "SSPI 5.11 beta is now available",
-      "score": 137,
+      "score": 145,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1wftw8v/sspi_511_beta_is_now_available/",
       "createdAt": "2026-09-14T04:53:52.000Z"
     },
@@ -494,7 +486,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "SSPI 5.11 beta is now available",
-        "score": 137,
+        "score": 145,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wftw8v/sspi_511_beta_is_now_available/",
         "createdAt": "2026-09-14T04:53:52.000Z"
       },
@@ -502,7 +494,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "About 11 Hours, and My .Exfat doesn't finish yet...",
-        "score": 8,
+        "score": 9,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wfr56x/about_11_hours_and_my_exfat_doesnt_finish_yet/",
         "createdAt": "2026-09-14T02:35:38.000Z"
       },
@@ -510,7 +502,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I don't get the GTA 6 FOMO",
-        "score": 71,
+        "score": 86,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wg5anb/i_dont_get_the_gta_6_fomo/",
         "createdAt": "2026-09-14T14:40:10.000Z"
       },
@@ -527,7 +519,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Use alternate controllers/keyboard instead of PS4 Controllers",
-        "score": 11,
+        "score": 13,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wgbm4b/use_alternate_controllerskeyboard_instead_off_ps4/",
         "createdAt": "2026-09-14T18:24:57.000Z"
       }
@@ -536,7 +528,7 @@
       {
         "name": "r/ps4homebrew",
         "ok": true,
-        "count": 15
+        "count": 14
       },
       {
         "name": "r/ps5homebrew",
@@ -551,7 +543,7 @@
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 3
+        "count": 2
       },
       {
         "name": "r/PS4Jailbreak",
@@ -561,7 +553,7 @@
       {
         "name": "r/PS4Mods",
         "ok": true,
-        "count": 5
+        "count": 6
       }
     ]
   },
@@ -571,7 +563,7 @@
         "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ TEST Clair Obscur: Expedition 33 FPKG on PS5 7.01 🔥🧐",
-        "score": 5,
+        "score": 7,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mvilwh6mac22",
         "createdAt": "2026-09-14T17:07:44.666Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mvilwh6mac22:bafyreie23c4afluprknttser23ifooifzd5v5xxe4z7w6vz4fld77xo73u"
@@ -589,7 +581,7 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "😂🖤",
-        "score": 0,
+        "score": 1,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mvifboeshk2f",
         "createdAt": "2026-09-14T15:08:42.559Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mvifboeshk2f:bafyreiabmawppolt2dkwkctjvmwtsrm6zycrd6hxc35ozm5infov2mhqaa"
@@ -599,7 +591,7 @@
       "platform": "Bluesky",
       "community": "following:dravszoo.bsky.social",
       "title": "➭ TEST Clair Obscur: Expedition 33 FPKG on PS5 7.01 🔥🧐",
-      "score": 5,
+      "score": 7,
       "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mvilwh6mac22",
       "createdAt": "2026-09-14T17:07:44.666Z",
       "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mvilwh6mac22:bafyreie23c4afluprknttser23ifooifzd5v5xxe4z7w6vz4fld77xo73u"
