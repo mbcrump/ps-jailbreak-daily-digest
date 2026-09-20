@@ -1,11 +1,17 @@
 {
-  "generatedAt": "2026-09-20T16:47:06.881Z",
-  "runTimePacific": "09/20/2026, 09:47 PDT",
-  "windowStartPacific": "09/19/2026, 09:47 PDT",
-  "windowEndPacific": "09/20/2026, 09:47 PDT",
+  "generatedAt": "2026-09-20T19:03:24.262Z",
+  "runTimePacific": "09/20/2026, 12:03 PDT",
+  "windowStartPacific": "09/19/2026, 12:03 PDT",
+  "windowEndPacific": "09/20/2026, 12:03 PDT",
   "status": "complete",
   "youtube": {
-    "latest": null,
+    "latest": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "PS5 Save Mounter v2.0.1 #Shorts",
+      "url": "https://www.youtube.com/watch?v=B3JtSvnEBQo",
+      "createdAt": "2026-09-20T17:01:02.000Z"
+    },
     "latestHomebrewNews": {
       "platform": "YouTube",
       "community": "PlayStation Hacks & Exploits | Michael Crump",
@@ -95,7 +101,7 @@
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 1
+        "count": 2
       },
       {
         "name": "YouTube Homebrew News",
@@ -110,7 +116,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PKG for everyone soon !",
-        "score": 381,
+        "score": 390,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wkz2br/pkg_for_everyone_soon/",
         "createdAt": "2026-09-19T22:06:32.000Z"
       },
@@ -118,7 +124,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "The situation right now",
-        "score": 340,
+        "score": 360,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl07jl/the_situation_right_now/",
         "createdAt": "2026-09-19T22:56:34.000Z"
       },
@@ -126,7 +132,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Congratulations! Raw game did it.",
-        "score": 309,
+        "score": 311,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wkxp67/congratulations_raw_game_did_it/",
         "createdAt": "2026-09-19T21:09:09.000Z"
       },
@@ -134,23 +140,23 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "GOLDHEN UPDATED FOR NEW FIRMWARE",
-        "score": 190,
+        "score": 214,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wl9rx8/goldhen_updated_for_new_firmware/",
         "createdAt": "2026-09-20T06:53:46.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Have some empathy for the devs",
-        "score": 143,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wkscy2/have_some_empathy_for_the_devs/",
-        "createdAt": "2026-09-19T17:37:24.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "The exploit is ready. As soon as PSN access is cut off, it'll go public.",
+        "score": 179,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wlnmf6/the_exploit_is_ready_as_soon_as_psn_access_is_cut/",
+        "createdAt": "2026-09-20T17:46:08.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "this is majestic",
-        "score": 123,
+        "score": 166,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wlbzna/this_is_majestic/",
         "createdAt": "2026-09-20T09:00:10.000Z"
       },
@@ -158,7 +164,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "FPKG now supports 11.60",
-        "score": 114,
+        "score": 121,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl456j/fpkg_now_supports_1160/",
         "createdAt": "2026-09-20T01:59:37.000Z"
       },
@@ -166,7 +172,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Wassup everyone",
-        "score": 106,
+        "score": 109,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wl0dex/wassup_everyone/",
         "createdAt": "2026-09-19T23:03:22.000Z"
       },
@@ -174,55 +180,79 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "PS4 13.52 and lower jailbreak is out!",
-        "score": 102,
+        "score": 109,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wkze99/ps4_1352_and_lower_jailbreak_is_out/",
         "createdAt": "2026-09-19T22:20:54.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "FPKG will be avail up to 13.60 PS5",
+        "score": 104,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wllfj0/fpkg_will_be_avail_up_to_1360_ps5/",
+        "createdAt": "2026-09-20T16:22:51.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS4 jailbreak by mansoor is here",
-        "score": 95,
+        "score": 99,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wl8ar0/ps4_jailbreak_by_mansoor_is_here/",
         "createdAt": "2026-09-20T05:33:24.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Finally, the Hen For version 13.52",
-        "score": 92,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wl0d87/finally_the_hen_for_version_1352/",
-        "createdAt": "2026-09-19T23:03:08.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Did it work lol ? What do I do now ?",
-        "score": 88,
+        "score": 97,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wl0icp/did_it_work_lol_what_do_i_do_now/",
         "createdAt": "2026-09-19T23:09:24.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Finally, the Hen For version 13.52",
+        "score": 96,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wl0d87/finally_the_hen_for_version_1352/",
+        "createdAt": "2026-09-19T23:03:08.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "windows running on ps5",
+        "score": 87,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wlj8bv/windows_running_on_ps5/",
+        "createdAt": "2026-09-20T14:57:18.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Ps5 jb soon?",
-        "score": 83,
+        "score": 86,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wkywvf/ps5_jb_soon/",
         "createdAt": "2026-09-19T22:00:22.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "windows running on ps5",
-        "score": 61,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wlj8bv/windows_running_on_ps5/",
-        "createdAt": "2026-09-20T14:57:18.000Z"
+        "title": "FPKG IS AVAILABLE GUYS ON 13.60",
+        "score": 76,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wllw2r/fpkg_is_available_guys_on_1360/",
+        "createdAt": "2026-09-20T16:40:07.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "FPKG for 13.6 👌",
+        "score": 75,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wllse4/fpkg_for_136/",
+        "createdAt": "2026-09-20T16:36:15.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "GOLDHEN 13.52 💪🏼",
-        "score": 50,
+        "score": 62,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wlfypo/goldhen_1352/",
         "createdAt": "2026-09-20T12:36:05.000Z"
       },
@@ -230,7 +260,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "My first game !",
-        "score": 50,
+        "score": 52,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wl2o6o/my_first_game/",
         "createdAt": "2026-09-20T00:48:40.000Z"
       },
@@ -238,7 +268,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "13.XX JAILBREAK!!",
-        "score": 45,
+        "score": 42,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wkxtys/13xx_jailbreak/",
         "createdAt": "2026-09-19T21:14:40.000Z"
       },
@@ -246,15 +276,31 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Finally",
-        "score": 26,
+        "score": 35,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wlebsl/finally/",
         "createdAt": "2026-09-20T11:13:37.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "PS4 13.52 GoldHEN Jailbreak – My Step-by-Step Experience",
+        "score": 32,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wlnkey/ps4_1352_goldhen_jailbreak_my_stepbystep/",
+        "createdAt": "2026-09-20T17:44:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "EA SPORTS FC 27 PS4",
+        "score": 31,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wljz3e/ea_sports_fc_27_ps4/",
+        "createdAt": "2026-09-20T15:26:23.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Will fpkg will be the standard on 13.60?",
-        "score": 26,
+        "score": 27,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wkuole/will_fpkg_will_be_the_standard_on_1360/",
         "createdAt": "2026-09-19T19:08:28.000Z"
       },
@@ -262,7 +308,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "that's was fast 😭❤️",
-        "score": 23,
+        "score": 25,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wlc5hr/thats_was_fast/",
         "createdAt": "2026-09-20T09:09:34.000Z"
       },
@@ -277,10 +323,34 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "EA SPORTS FC 27 PS4",
-        "score": 13,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wljz3e/ea_sports_fc_27_ps4/",
-        "createdAt": "2026-09-20T15:26:23.000Z"
+        "title": "Which of Those Jailbreak Links Should I Use?",
+        "score": 12,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wlep0r/which_of_those_jailbreak_links_should_i_use/",
+        "createdAt": "2026-09-20T11:33:33.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "+ They got goldhen before us omg",
+        "score": 12,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wlls34/they_got_goldhen_before_us_omg/",
+        "createdAt": "2026-09-20T16:35:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "With FPKG on 13.60, any reason not to update and pair my disk drive again?",
+        "score": 11,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wlm14n/with_fpkg_on_1360_any_reason_not_to_update_and/",
+        "createdAt": "2026-09-20T16:45:30.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "4.03 fpkg failing to launch",
+        "score": 11,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl7wt3/403_fpkg_failing_to_launch/",
+        "createdAt": "2026-09-20T05:12:53.000Z"
       },
       {
         "platform": "Reddit",
@@ -292,43 +362,59 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Soo how’s everyone doing with the jailbreak?",
+        "score": 10,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wljeqh/soo_hows_everyone_doing_with_the_jailbreak/",
+        "createdAt": "2026-09-20T15:04:05.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "How can I delete a game entirely from the ps5",
-        "score": 10,
+        "score": 9,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wkxaw3/how_can_i_delete_a_game_entirely_from_the_ps5/",
         "createdAt": "2026-09-19T20:53:09.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "How can I play my disc games without having to insert the disc?",
+        "community": "PS4Mods",
+        "title": "Installing games without the USB",
         "score": 9,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wle9qi/how_can_i_play_my_disc_games_without_having_to/",
-        "createdAt": "2026-09-20T11:10:32.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Which of Those Jailbreak Links Should I Use?",
-        "score": 9,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wlep0r/which_of_those_jailbreak_links_should_i_use/",
-        "createdAt": "2026-09-20T11:33:33.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wlogjh/installing_games_without_the_usb/",
+        "createdAt": "2026-09-20T18:17:52.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "So we got some new news....",
-        "score": 9,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wkxk1v/so_we_got_some_new_news/",
         "createdAt": "2026-09-19T21:03:20.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "4.03 fpkg failing to launch",
+        "community": "ps4homebrew",
+        "title": "This is NUTS",
         "score": 8,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl7wt3/403_fpkg_failing_to_launch/",
-        "createdAt": "2026-09-20T05:12:53.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wlp4xi/this_is_nuts/",
+        "createdAt": "2026-09-20T18:43:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "GoldHen is available now?",
+        "score": 8,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wldlza/goldhen_is_available_now/",
+        "createdAt": "2026-09-20T10:34:10.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How can I play my disc games without having to insert the disc?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wle9qi/how_can_i_play_my_disc_games_without_having_to/",
+        "createdAt": "2026-09-20T11:10:32.000Z"
       },
       {
         "platform": "Reddit",
@@ -341,34 +427,34 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "what is this folder location?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl5r0n/what_is_this_folder_location/",
-        "createdAt": "2026-09-20T03:20:18.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "GoldHen is available now?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wldlza/goldhen_is_available_now/",
-        "createdAt": "2026-09-20T10:34:10.000Z"
+        "title": "A way to check playtime? Or daily activity.",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wlcu7g/a_way_to_check_playtime_or_daily_activity/",
+        "createdAt": "2026-09-20T09:50:19.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Jellyfin on PS5 after JB?",
+        "title": "about ps5 jb on 13.6",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl33ho/jellyfin_on_ps5_after_jb/",
-        "createdAt": "2026-09-20T01:08:32.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl81ca/about_ps5_jb_on_136/",
+        "createdAt": "2026-09-20T05:19:31.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "PS4 13.52 unlock how to install games, store",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wl21p5/ps4_1352_desbloqueio_como_instalar_jogosloja/",
+        "createdAt": "2026-09-20T00:19:09.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Soo how’s everyone doing with the jailbreak?",
+        "title": "13.52 FTP transfert",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wljeqh/soo_hows_everyone_doing_with_the_jailbreak/",
-        "createdAt": "2026-09-20T15:04:05.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wl10sa/1352_ftp_transfert/",
+        "createdAt": "2026-09-19T23:32:11.000Z"
       },
       {
         "platform": "Reddit",
@@ -380,83 +466,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Are we sure that the jailbreak is safe?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wl0e73/are_we_sure_that_the_jailbreak_is_safe/",
-        "createdAt": "2026-09-19T23:04:18.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "guide: how to use plugins",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wl8fra/guide_how_to_use_plugins/",
-        "createdAt": "2026-09-20T05:41:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "A way to check playtime? Or daily activity.",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wlcu7g/a_way_to_check_playtime_or_daily_activity/",
-        "createdAt": "2026-09-20T09:50:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "PS4 13.52 unlock how to install games, store",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wl21p5/ps4_1352_desbloqueio_como_instalar_jogosloja/",
-        "createdAt": "2026-09-20T00:19:09.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "13.52 FTP transfert",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wl10sa/1352_ftp_transfert/",
-        "createdAt": "2026-09-19T23:32:11.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Can someone explain why if 13.02 can be jailbroken people say that we need to wait for 13.52 psn to be fully cut down?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wkzorz/can_someone_explain_why_if_1302_can_be_jailbroken/",
-        "createdAt": "2026-09-19T22:33:29.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Guys I have 2 questions regarding trophies on different formats of game dumps and the the upcoming 13.60 JB. Answers Appreciated!",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl57f9/guys_i_have_2_questions_regarding_trophies_on/",
-        "createdAt": "2026-09-20T02:53:06.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Kstuff fpkg support ?",
+        "community": "ps5homebrew",
+        "title": "Y2jb fails 100%, help please",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wlhf57/kstuff_fpkg_support/",
-        "createdAt": "2026-09-20T13:41:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Faster way to load webkit autoloader?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wle6ks/faster_way_to_load_webkit_autoloader/",
-        "createdAt": "2026-09-20T11:05:45.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "about ps5 jb on 13.6",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl81ca/about_ps5_jb_on_136/",
-        "createdAt": "2026-09-20T05:19:31.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wlm7je/y2jb_fails_100_help_please/",
+        "createdAt": "2026-09-20T16:52:27.000Z"
       },
       {
         "platform": "Reddit",
@@ -469,10 +483,18 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Just jailbroke a PS5 - Overclocking",
+        "title": "Just jailbroke a ps5 - Overclocking",
         "score": 1,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wkz2fo/just_jailbroke_a_ps5_overclocking/",
         "createdAt": "2026-09-19T22:06:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "Riesgo de baneo Ps4 13.52 Gold Hen",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wlpfil/riesgo_de_baneo_ps4_1352_gold_hen/",
+        "createdAt": "2026-09-20T18:54:16.000Z"
       },
       {
         "platform": "Reddit",
@@ -505,6 +527,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wl9avm/ps4_1352_only_hen/",
         "createdAt": "2026-09-20T06:27:48.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Hacks2",
+        "title": "Hello Everyone RawModz Here With another PS4/PS5 BO2 Port Menu This One We are Hosting Online on retail console can edit stats, Rank, Prestige Ect, Check us out join our team on Discord we are always looking for our Fellow Modders to join the team",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wkyarl/hello_everyone_rawmodz_here_with_another_ps4ps5/",
+        "createdAt": "2026-09-19T21:34:00.000Z"
       },
       {
         "platform": "Reddit",
@@ -561,21 +591,13 @@
         "score": 0,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wle9lh/should_i_update_to_1352_from_1302/",
         "createdAt": "2026-09-20T11:10:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Hacks2",
-        "title": "Hello Everyone RawModz Here With another PS4/PS5 BO2 Port Menu This One We are Hosting Online on retail console can edit stats, Rank, Prestige Ect, Check us out join our team on Discord we are always looking for our Fellow Modders to join the team",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wkyarl/hello_everyone_rawmodz_here_with_another_ps4ps5/",
-        "createdAt": "2026-09-19T21:34:00.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "PKG for everyone soon !",
-      "score": 381,
+      "score": 390,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wkz2br/pkg_for_everyone_soon/",
       "createdAt": "2026-09-19T22:06:32.000Z"
     },
@@ -584,23 +606,23 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Congratulations! Raw game did it.",
-        "score": 309,
+        "score": 311,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wkxp67/congratulations_raw_game_did_it/",
         "createdAt": "2026-09-19T21:09:09.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Just jailbroke a PS5 - Overclocking",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wkz2fo/just_jailbroke_a_ps5_overclocking/",
-        "createdAt": "2026-09-19T22:06:39.000Z"
+        "title": "Y2jb fails 100%, help please",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wlm7je/y2jb_fails_100_help_please/",
+        "createdAt": "2026-09-20T16:52:27.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "PKG for everyone soon !",
-        "score": 381,
+        "score": 390,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wkz2br/pkg_for_everyone_soon/",
         "createdAt": "2026-09-19T22:06:32.000Z"
       },
@@ -608,7 +630,7 @@
         "platform": "Reddit",
         "community": "PS4Hacks2",
         "title": "PS4 13.52 unlock how to install games, store",
-        "score": 4,
+        "score": 5,
         "url": "https://www.reddit.com/r/PS4Hacks2/comments/1wl21p5/ps4_1352_desbloqueio_como_instalar_jogosloja/",
         "createdAt": "2026-09-20T00:19:09.000Z"
       },
@@ -616,10 +638,10 @@
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Have some empathy for the devs",
-        "score": 143,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wkscy2/have_some_empathy_for_the_devs/",
-        "createdAt": "2026-09-19T17:37:24.000Z"
+        "title": "PS4 13.52 and lower jailbreak is out!",
+        "score": 109,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wkze99/ps4_1352_and_lower_jailbreak_is_out/",
+        "createdAt": "2026-09-19T22:20:54.000Z"
       }
     },
     "sources": [
@@ -631,7 +653,7 @@
       {
         "name": "r/ps5homebrew",
         "ok": true,
-        "count": 7
+        "count": 8
       },
       {
         "name": "r/PS5_Jailbreak",
@@ -641,7 +663,7 @@
       {
         "name": "r/PS4Hacks2",
         "ok": true,
-        "count": 8
+        "count": 9
       },
       {
         "name": "r/PS4Jailbreak",
@@ -659,15 +681,6 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!\n\nWatch Here: youtu.be/P2hOdoLzQ38",
-        "score": 23,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mvv6hw3nbs2n",
-        "createdAt": "2026-09-19T17:11:34.566Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mvv6hw3nbs2n:bafyreif3eppzle5r7oarqywcr52qkokd7puiy3h25qiyddxmbajavdzmna"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:maj0r",
         "title": "A jailbreak for PS4 13.02 to 13.52 is out; however, before doing anything, pay attention to these tips. I don't recommend using a legitimate account for anyone on 13.52 with PSN active (be careful)\nThe HEN that is on the jailbreak is open source, but it's very limited: it causes a kernel panic after reaching 30 minutes—wait for GoldHEN",
         "score": 21,
@@ -679,10 +692,28 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "I've learned today from this video's comments that cats and dogs unanimously did not like the chain breaking boot animation.\n\nRough stuff.",
-        "score": 14,
+        "score": 15,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mvvs6eqtrk2n",
         "createdAt": "2026-09-19T23:04:07.665Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mvvs6eqtrk2n:bafyreibk7xdp5b2fxget2i7yyxkjax4dv7cni5ythvl7uovah3vdwjifn4"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:PS5 JAILBREAKS",
+        "title": "🚨 Amazing Fpkg upto 13.60:\nKing @arksama.bsky.social 👑",
+        "score": 14,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mvxludroak2l",
+        "createdAt": "2026-09-20T16:16:28.966Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mvxludroak2l:bafyreifoy5py3lsag7riuqpr7wudlcakygdo3kohocndfkpc7lp3sjdg3i"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ PS4 13.52 hack is out🔥🧐\nraw13g.github.io",
+        "score": 12,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mvvz5h2yik22",
+        "createdAt": "2026-09-20T01:08:53.058Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mvvz5h2yik22:bafyreiefl33nqczv5lvvcuz3gqrtzrnmsazrtf2vqowdgglacetsjfh5ci"
       },
       {
         "platform": "Bluesky",
@@ -695,27 +726,45 @@
       },
       {
         "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ PS4 13.52 hack is out🔥🧐\nraw13g.github.io",
-        "score": 11,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mvvz5h2yik22",
-        "createdAt": "2026-09-20T01:08:53.058Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mvvz5h2yik22:bafyreiefl33nqczv5lvvcuz3gqrtzrnmsazrtf2vqowdgglacetsjfh5ci"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS4 News:\n\nSistro has released GoldHEN for 13.52\nSupport for 13.02/13.04/13.50 will be added later.\n\nko-fi.com/s/ccbe9f7bf0",
-        "score": 8,
+        "score": 10,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvx3hzll2k2i",
         "createdAt": "2026-09-20T11:23:16.262Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvx3hzll2k2i:bafyreihi63y6sbeqn42wbp2an3ykb55klvvmebqn4knz33gzfgkzg4flpu"
       },
       {
         "platform": "Bluesky",
+        "community": "following:PS5 JAILBREAKS",
+        "title": "💣 Soon... Thanks to @ufm42, @sonic-iso.bsky.social",
+        "score": 9,
+        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mvxq77oprc2l",
+        "createdAt": "2026-09-20T17:34:09.459Z",
+        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mvxq77oprc2l:bafyreia2r3byebuyd4hlbczocpeml277ifhlzb7h7znq7e4hmaipsf6lue"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:dravszoo.bsky.social",
+        "title": "➭ GoldHen v2.4b18.11 released 🧐\nko-fi.com/s/ccbe9f7bf0",
+        "score": 9,
+        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mvx2lfazrc2x",
+        "createdAt": "2026-09-20T11:07:19.465Z",
+        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mvx2lfazrc2x:bafyreid7nyfsoqrhefnomqeyilmpu4iljdj5votslzb6j5yw4yp32uagiu"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nDeveloper Arksama succeeded into getting FPKG to work on firmware 13.60\n\ntwitter-thread.com/t/2101705270...",
+        "score": 8,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvxnztncl22h",
+        "createdAt": "2026-09-20T16:55:19.759Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvxnztncl22h:bafyreiavvozaexsisyk37akx3gom6gcrhcmpvsvgzkgd6xv6at43rh5tbq"
+      },
+      {
+        "platform": "Bluesky",
         "community": "following:dravszoo.bsky.social",
         "title": "➭ EA SPORTS FC 27 by Haider Kiara It's out on PS4 Jailbreak 🔥🧐",
-        "score": 7,
+        "score": 8,
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mvvzihu6fk22",
         "createdAt": "2026-09-20T01:15:05.867Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mvvzihu6fk22:bafyreievlazzo7vsxqo2ymlh5rk6rr7lpgs3cagn3g4fr37yoz4alqasqi"
@@ -724,7 +773,7 @@
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "The first ban has officially happened.",
-        "score": 6,
+        "score": 7,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvx4sdkrr22i",
         "createdAt": "2026-09-20T11:46:56.262Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvx4sdkrr22i:bafyreicbtdknrrvonfxvkfjtag4hv3ysvgcabotyfley5xvpygbzsbq5je"
@@ -732,57 +781,21 @@
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "The Homebrew Store and Itemzflow work.",
-        "score": 6,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvvpzyv5qs2a",
-        "createdAt": "2026-09-19T22:25:57.560Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvvpzyv5qs2a:bafyreicsduzlr7r5izhlsrluaobpcnqpkjuwwlvh2fbon6ah2akqe5qtri"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ GoldHen v2.4b18.11 released 🧐\nko-fi.com/s/ccbe9f7bf0",
-        "score": 6,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mvx2lfazrc2x",
-        "createdAt": "2026-09-20T11:07:19.465Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mvx2lfazrc2x:bafyreid7nyfsoqrhefnomqeyilmpu4iljdj5votslzb6j5yw4yp32uagiu"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
         "title": "PS4 News:\n\nMansoor0x added the leaked kernel to his webkit userland and is now live at\n\nmansoor0x.github.io/polpNO/\n\nHe claims to have added GoldHEN but thats likely only for 13.00 and below.\n\nThe host appears to be unstable but should be fixed soon.\n\ntwitter-thread.com/t/2101593533...",
-        "score": 5,
+        "score": 6,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mvwxjipzu223",
         "createdAt": "2026-09-20T10:12:28.757Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mvwxjipzu223:bafyreiflp2hfsrcr5yp267b2ez24ragoxzq3ahuw6otdm5xh3bc7hcuspa"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:PS5 JAILBREAKS",
-        "title": "🚨 Amazing Fpkg upto 13.60:\nKing @arksama.bsky.social 👑",
-        "score": 4,
-        "url": "https://bsky.app/profile/mkgorgi.bsky.social/post/3mvxludroak2l",
-        "createdAt": "2026-09-20T16:16:28.966Z",
-        "key": "at://did:plc:aim4wpqu2c4wtr4a2bj7wxsu/app.bsky.feed.post/3mvxludroak2l:bafyreifoy5py3lsag7riuqpr7wudlcakygdo3kohocndfkpc7lp3sjdg3i"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "As was replied: this has nothing to do with the tool. GitHub deprecated the type of SSL cert that is compatible with the PS3 in the modern day.",
-        "score": 1,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mvv6khpbkc2n",
-        "createdAt": "2026-09-19T17:12:58.964Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mvv6khpbkc2n:bafyreieaegtvovw7wcvr2c4kwypanxhfxmhldzrkedcfa7ys2d3ldfpj54"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:MrMario2011",
-      "title": "XeUnshackle Max: Auto-Start, Custom Boot Animations, and More for Bad Update or ABadAvatar!\n\nWatch Here: youtu.be/P2hOdoLzQ38",
-      "score": 23,
-      "url": "https://bsky.app/profile/mrmario2011.com/post/3mvv6hw3nbs2n",
-      "createdAt": "2026-09-19T17:11:34.566Z",
-      "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mvv6hw3nbs2n:bafyreif3eppzle5r7oarqywcr52qkokd7puiy3h25qiyddxmbajavdzmna"
+      "community": "following:maj0r",
+      "title": "A jailbreak for PS4 13.02 to 13.52 is out; however, before doing anything, pay attention to these tips. I don't recommend using a legitimate account for anyone on 13.52 with PSN active (be careful)\nThe HEN that is on the jailbreak is open source, but it's very limited: it causes a kernel panic after reaching 30 minutes—wait for GoldHEN",
+      "score": 21,
+      "url": "https://bsky.app/profile/gamenadarepublican.bsky.social/post/3mvvszp6sms2g",
+      "createdAt": "2026-09-19T23:19:26.666Z",
+      "key": "at://did:plc:ecp6anpqy6gnoz6ftronfu2o/app.bsky.feed.post/3mvvszp6sms2g:bafyreihcbpm57jymtligwvrblvhu57klag6zpdusv6hv3u6ygrn5xik7xq"
     },
     "sources": [
       {
