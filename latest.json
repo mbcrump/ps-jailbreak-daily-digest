@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-07T21:35:30.776Z",
-  "runTimePacific": "10/07/2026, 14:35 PDT",
-  "windowStartPacific": "10/06/2026, 14:35 PDT",
-  "windowEndPacific": "10/07/2026, 14:35 PDT",
+  "generatedAt": "2026-10-07T23:49:37.460Z",
+  "runTimePacific": "10/07/2026, 16:49 PDT",
+  "windowStartPacific": "10/06/2026, 16:49 PDT",
+  "windowEndPacific": "10/07/2026, 16:49 PDT",
   "status": "complete",
   "youtube": {
     "latest": {
@@ -39,7 +39,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "RPCS3 emulator Ported and launched on PlayStation 4",
-        "score": 252,
+        "score": 262,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzp6ut/rpcs3_emulator_ported_and_launched_on_playstation/",
         "createdAt": "2026-10-07T06:17:45.000Z"
       },
@@ -47,15 +47,23 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "ported steam to the ps5 running natively.",
-        "score": 217,
+        "score": 250,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wzwya4/ported_steam_to_the_ps5_running_natively/",
         "createdAt": "2026-10-07T13:45:41.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "They said it was impossible. They said it couldn't be done",
+        "score": 209,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x05qtn/they_said_it_was_impossible_they_said_it_couldnt/",
+        "createdAt": "2026-10-07T19:24:58.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "In Development: Crema the WII U emulator for PS4",
-        "score": 193,
+        "score": 197,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzjc0n/in_development_crema_the_wii_u_emulator_for_ps4/",
         "createdAt": "2026-10-07T00:55:00.000Z"
       },
@@ -63,47 +71,47 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Made an app to install games from my home storage",
-        "score": 155,
+        "score": 162,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzij9i/made_an_app_to_install_games_from_my_home_storage/",
         "createdAt": "2026-10-07T00:15:53.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "They said it was impossible. They said it couldn't be done",
-        "score": 131,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x05qtn/they_said_it_was_impossible_they_said_it_couldnt/",
-        "createdAt": "2026-10-07T19:24:58.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "New PS5 Homebrew Store Release!",
-        "score": 102,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzh8uy/new_ps5_homebrew_store_release/",
-        "createdAt": "2026-10-06T23:14:23.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "GitHub - RafaelNGP/xbox-cloud-gaming-ps5: Xbox Cloud Gaming app for PS5 Homebrew",
-        "score": 100,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzpufh/github_rafaelngpxboxcloudgamingps5_xbox_cloud/",
-        "createdAt": "2026-10-07T06:59:57.000Z"
+        "title": "How it feels being on 14.0 right now",
+        "score": 133,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x05bmm/how_it_feels_being_on_140_rn/",
+        "createdAt": "2026-10-07T19:08:32.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Project to connect Meta Quest 3 to the PS5",
-        "score": 93,
+        "score": 126,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x0580w/project_to_connect_meta_quest_3_to_the_ps5/",
         "createdAt": "2026-10-07T19:04:32.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "GitHub - RafaelNGP/xbox-cloud-gaming-ps5: Xbox Cloud Gaming app for PS5 Homebrew",
+        "score": 104,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzpufh/github_rafaelngpxboxcloudgamingps5_xbox_cloud/",
+        "createdAt": "2026-10-07T06:59:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 Forwarder (formerly ProsperoEdenForwarder) — The Ultimate Custom Emulator & App Launcher",
+        "score": 100,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x09279/ps5_forwarder_formerly_prosperoedenforwarder_the/",
+        "createdAt": "2026-10-07T21:34:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "PSXS5 2.0.0 Released  - Native PS1 Emulation Gets GPU Rendering & PGXP",
-        "score": 87,
+        "score": 89,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wztpwz/psxs5_200_released_native_ps1_emulation_gets_gpu/",
         "createdAt": "2026-10-07T11:09:42.000Z"
       },
@@ -111,103 +119,103 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Man it has been such a great time lately, not only I can play every PS5 game I've wanted to play I can now play Switch games with Prospero Eden starting with Bayonetta 2",
-        "score": 72,
+        "score": 81,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzquxh/man_it_has_been_such_a_great_time_lately_not_only/",
         "createdAt": "2026-10-07T08:06:53.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How it feels being on 14.0 rn",
-        "score": 65,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x05bmm/how_it_feels_being_on_140_rn/",
-        "createdAt": "2026-10-07T19:08:32.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Appreciation post",
-        "score": 54,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzjbqx/appreciation_post/",
-        "createdAt": "2026-10-07T00:54:37.000Z"
+        "community": "ps4homebrew",
+        "title": "I always wanted to play Fallout 2 from the comfort of my bed so my friend Claude and I we ported it to the PS4",
+        "score": 64,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x032ru/i_always_wanted_to_play_fallout_2_from_the/",
+        "createdAt": "2026-10-07T17:43:18.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Update: Stremio on PS5 v1.0",
-        "score": 53,
+        "score": 61,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x03kei/update_stremio_on_ps5_v10/",
         "createdAt": "2026-10-07T18:01:45.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "RPCS3 running natively on a jailbroken PS5 Pro: NFS Carbon at 60 fps (source + build scripts)",
-        "score": 49,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzm4hr/rpcs3_running_natively_on_a_jailbroken_ps5_pro/",
-        "createdAt": "2026-10-07T03:17:50.000Z"
+        "title": "[Release] PSSwanStation – PS1 on PS5 with built-in frame generation, FSR, network-share games and an Aurora-style 3D library",
+        "score": 59,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x06h4e/release_psswanstation_ps1_on_ps5_with_builtin/",
+        "createdAt": "2026-10-07T19:58:05.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Appreciation post",
+        "score": 53,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzjbqx/appreciation_post/",
+        "createdAt": "2026-10-07T00:54:37.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PKG Pocket 1.0.2 is out — install PS4 PKGs directly from your Android phone over LAN",
-        "score": 47,
+        "score": 52,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzkquf/pkg_pocket_102_is_out_install_ps4_pkgs_directly/",
         "createdAt": "2026-10-07T02:05:46.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I always wanted to play Fallout 2 from the comfort of my bed so my friend Claude and I we ported it to the PS4",
-        "score": 46,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x032ru/i_always_wanted_to_play_fallout_2_from_the/",
-        "createdAt": "2026-10-07T17:43:18.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "RPCS3 running natively on a jailbroken PS5 Pro: NFS Carbon at 60 fps (source + build scripts)",
+        "score": 51,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzm4hr/rpcs3_running_natively_on_a_jailbroken_ps5_pro/",
+        "createdAt": "2026-10-07T03:17:50.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "PS5 homebrew GUI's",
+        "score": 42,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x00q2k/ps5_homebrew_guis/",
+        "createdAt": "2026-10-07T16:14:20.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "RPCS3 emulator Ported and launched on PlayStation 4",
-        "score": 38,
+        "score": 40,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wzp6py/rpcs3_emulator_ported_and_launched_on_playstation/",
         "createdAt": "2026-10-07T06:17:28.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "It works.",
-        "score": 34,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzpcrq/it_works/",
-        "createdAt": "2026-10-07T06:28:30.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "PS5 homebrew GUI's",
-        "score": 33,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x00q2k/ps5_homebrew_guis/",
-        "createdAt": "2026-10-07T16:14:20.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "We will finally see the potential of the PS4.",
-        "score": 30,
+        "score": 36,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1x00dsx/we_will_finally_see_the_potential_of_the_ps4/",
         "createdAt": "2026-10-07T16:01:34.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "It works.",
+        "score": 36,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzpcrq/it_works/",
+        "createdAt": "2026-10-07T06:28:30.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "[Release] PSSwanStation – PS1 on PS5 with built-in frame generation, FSR, network-share games and an Aurora-style 3D library",
-        "score": 30,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x06h4e/release_psswanstation_ps1_on_ps5_with_builtin/",
-        "createdAt": "2026-10-07T19:58:05.000Z"
+        "title": "Guys we have a serious \"Other\" storage problem",
+        "score": 28,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x02cdo/guys_we_have_a_serious_other_storage_problem/",
+        "createdAt": "2026-10-07T17:15:37.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "[Release] NX on Orbis: experimental Eden (Switch emulator) port to PS4 Pro. MK8D races at ~15 fps. Closed experiment, open source for anyone who wants to continue",
-        "score": 19,
+        "score": 22,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1x003dt/release_nx_on_orbis_experimental_eden_switch/",
         "createdAt": "2026-10-07T15:50:51.000Z"
       },
@@ -221,27 +229,43 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Guys we have a serious \"Other\" storage problem",
-        "score": 16,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x02cdo/guys_we_have_a_serious_other_storage_problem/",
-        "createdAt": "2026-10-07T17:15:37.000Z"
+        "community": "ps4homebrew",
+        "title": "Bramble - 3DS and DS Emulation on PS4",
+        "score": 17,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x0azg4/bramble_3ds_and_ds_emulation_on_ps4/",
+        "createdAt": "2026-10-07T22:56:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Update: Stremio on PS5 v1.0",
+        "score": 15,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x03kfc/update_stremio_on_ps5_v10/",
+        "createdAt": "2026-10-07T18:01:46.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "GitHub - cy33hc/ez-webdav-server",
+        "title": "Wolverine fix (at least for me)",
         "score": 15,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzgmc3/github_cy33hcezwebdavserver/",
-        "createdAt": "2026-10-06T22:45:29.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1x09x86/wolverine_fix_at_least_for_me/",
+        "createdAt": "2026-10-07T22:09:59.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Atomic Bomberman on PS5",
-        "score": 14,
+        "score": 15,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzi31a/atomic_bomberman_on_ps5/",
         "createdAt": "2026-10-06T23:55:09.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Not asking for a tutorial, but how accessing a website let you play all games for free? What goldhen actually does?",
+        "score": 12,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzqscr/not_asking_for_a_tutorial_but_how_accessing_a/",
+        "createdAt": "2026-10-07T08:01:47.000Z"
       },
       {
         "platform": "Reddit",
@@ -255,25 +279,9 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Mod Is Completed",
-        "score": 11,
+        "score": 12,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wzxlpe/mod_is_completed/",
         "createdAt": "2026-10-07T14:12:37.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Not asking for a tutorial, but how accessing a website let you play all games for free? What goldhen actually does?",
-        "score": 10,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzqscr/not_asking_for_a_tutorial_but_how_accessing_a/",
-        "createdAt": "2026-10-07T08:01:47.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Update: Stremio on PS5 v1.0",
-        "score": 10,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x03kfc/update_stremio_on_ps5_v10/",
-        "createdAt": "2026-10-07T18:01:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -293,19 +301,35 @@
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "[Release] Crash Team Racing: Turbocharged for PS4 - native port of the CTR decomp PC port, 60 fps (v0.1.2)",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x0b2ei/release_crash_team_racing_turbocharged_for_ps4/",
+        "createdAt": "2026-10-07T22:59:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "[Release] PSSwanStation – PS1 on PS5 with built-in frame generation, FSR, network-share games and an Aurora-style 3D library",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x07lvp/release_psswanstation_ps1_on_ps5_with_builtin/",
+        "createdAt": "2026-10-07T20:38:16.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS4Mods",
         "title": "How to download games on ps4?",
-        "score": 8,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1x004l0/how_to_download_games_on_ps4/",
         "createdAt": "2026-10-07T15:52:05.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "GitHub - cy33hc/ez-webdav-server",
-        "score": 7,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzgkce/github_cy33hcezwebdavserver/",
-        "createdAt": "2026-10-06T22:42:53.000Z"
+        "title": "Ps4 slim and ps4 pro",
+        "score": 6,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wznhoz/ps4_slim_and_ps4_pro/",
+        "createdAt": "2026-10-07T04:34:36.000Z"
       },
       {
         "platform": "Reddit",
@@ -325,35 +349,43 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Will I get banned?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wznap9/will_i_get_banned/",
-        "createdAt": "2026-10-07T04:23:10.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Ps4 slim and ps4 pro",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wznhoz/ps4_slim_and_ps4_pro/",
-        "createdAt": "2026-10-07T04:34:36.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Welp got banned from ps5/jailbreak for sharing sources(Pegasus dl)",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x04q1j/welp_got_banned_from_ps5jailbreak_for_sharing/",
-        "createdAt": "2026-10-07T18:45:51.000Z"
+        "title": "[Release] Nubix – Xbox Cloud Gaming on jailbroken PS5 (open source)",
+        "score": 6,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x07uoe/release_nubix_xbox_cloud_gaming_on_jailbroken_ps5/",
+        "createdAt": "2026-10-07T20:47:31.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "What is this?",
-        "score": 5,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wzmtfk/what_is_this/",
         "createdAt": "2026-10-07T03:56:27.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Xbox on PS5",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x01gfl/xbox_on_ps5/",
+        "createdAt": "2026-10-07T16:42:14.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Tip for 13.42 JB users about game compressor app.",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wzrxpb/tip_for_1342_jb_users_about_game_compressor_app/",
+        "createdAt": "2026-10-07T09:18:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Will I get banned?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1wznap9/will_i_get_banned/",
+        "createdAt": "2026-10-07T04:23:10.000Z"
       },
       {
         "platform": "Reddit",
@@ -365,35 +397,35 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Xbox on PS5",
+        "community": "ps4homebrew",
+        "title": "How do I get into NFS Underground",
         "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x01gfl/xbox_on_ps5/",
-        "createdAt": "2026-10-07T16:42:14.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x075xl/how_do_i_get_into_nfs_underground/",
+        "createdAt": "2026-10-07T20:22:12.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Tip for 13.42 JB users about game compressor app.",
+        "title": "PS4/PS5] I built P5 Manager — a self-hosted dashboard for payloads, files, library management and Remote Play",
         "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wzrxpb/tip_for_1342_jb_users_about_game_compressor_app/",
-        "createdAt": "2026-10-07T09:18:39.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x0actl/ps4ps5_i_built_p5_manager_a_selfhosted_dashboard/",
+        "createdAt": "2026-10-07T22:28:43.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "[Release] Nubix – Xbox Cloud Gaming on jailbroken PS5 (open source)",
+        "title": "OpenRCT2: PS5 Native Port",
         "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x07uoe/release_nubix_xbox_cloud_gaming_on_jailbroken_ps5/",
-        "createdAt": "2026-10-07T20:47:31.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wzsi5k/openrct2_ps5_native_port/",
+        "createdAt": "2026-10-07T09:55:48.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "[Release] PSSwanStation – PS1 on PS5 with built-in frame generation, FSR, network-share games and an Aurora-style 3D library",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x07lvp/release_psswanstation_ps1_on_ps5_with_builtin/",
-        "createdAt": "2026-10-07T20:38:16.000Z"
+        "community": "ps4homebrew",
+        "title": "Updated Plex NoPSN pkg",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x08ooz/updated_plex_nopsn_pkg/",
+        "createdAt": "2026-10-07T21:19:27.000Z"
       },
       {
         "platform": "Reddit",
@@ -406,18 +438,10 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "OpenRCT2: PS5 Native Port",
+        "title": "PS5 Forwarder - The Ultimate Custom Emulator & App Launcher",
         "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wzsi5k/openrct2_ps5_native_port/",
-        "createdAt": "2026-10-07T09:55:48.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Saturn on Retroarch",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1wznmtc/saturn_on_retroarch/",
-        "createdAt": "2026-10-07T04:42:53.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1x099f1/ps5_forwarder_the_ultimate_custom_emulator_app/",
+        "createdAt": "2026-10-07T21:42:29.000Z"
       },
       {
         "platform": "Reddit",
@@ -426,6 +450,14 @@
         "score": 3,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1x06blq/baixar_jogos_de_ps4/",
         "createdAt": "2026-10-07T19:51:41.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "gold hen ps4 v.14.00",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1x02d8i/gold_hen_ps4_v1400/",
+        "createdAt": "2026-10-07T17:16:33.000Z"
       },
       {
         "platform": "Reddit",
@@ -446,42 +478,10 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "DNS",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1wzfvd4/dns/",
-        "createdAt": "2026-10-06T22:11:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Any advice? Wanting to Jb",
+        "title": "Bramble - 3DS and DS Emulation on PS4",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1wznoy5/any_advice_wanting_to_jb/",
-        "createdAt": "2026-10-07T04:46:25.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Updated Plex NoPSN pkg",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x08ooz/updated_plex_nopsn_pkg/",
-        "createdAt": "2026-10-07T21:19:27.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "How do I get into NFS Underground",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1x075xl/how_do_i_get_into_nfs_underground/",
-        "createdAt": "2026-10-07T20:22:12.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "gold hen ps4 v.14.00",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1x02d8i/gold_hen_ps4_v1400/",
-        "createdAt": "2026-10-07T17:16:33.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1x0b027/bramble_3ds_and_ds_emulation_on_ps4/",
+        "createdAt": "2026-10-07T22:56:47.000Z"
       },
       {
         "platform": "Reddit",
@@ -520,7 +520,7 @@
       "platform": "Reddit",
       "community": "ps4homebrew",
       "title": "RPCS3 emulator Ported and launched on PlayStation 4",
-      "score": 252,
+      "score": 262,
       "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzp6ut/rpcs3_emulator_ported_and_launched_on_playstation/",
       "createdAt": "2026-10-07T06:17:45.000Z"
     },
@@ -529,7 +529,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "RPCS3 emulator Ported and launched on PlayStation 4",
-        "score": 252,
+        "score": 262,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1wzp6ut/rpcs3_emulator_ported_and_launched_on_playstation/",
         "createdAt": "2026-10-07T06:17:45.000Z"
       },
@@ -537,7 +537,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "ported steam to the ps5 running natively.",
-        "score": 217,
+        "score": 250,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1wzwya4/ported_steam_to_the_ps5_running_natively/",
         "createdAt": "2026-10-07T13:45:41.000Z"
       },
@@ -545,7 +545,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Made an app to install games from my home storage",
-        "score": 155,
+        "score": 162,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wzij9i/made_an_app_to_install_games_from_my_home_storage/",
         "createdAt": "2026-10-07T00:15:53.000Z"
       },
@@ -555,7 +555,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "RPCS3 emulator Ported and launched on PlayStation 4",
-        "score": 38,
+        "score": 40,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1wzp6py/rpcs3_emulator_ported_and_launched_on_playstation/",
         "createdAt": "2026-10-07T06:17:28.000Z"
       }
@@ -599,7 +599,7 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "The impossible has happened thanks to Grimdoomer! This is a tried and true softmod for the Xbox 360. Put some files on a USB drive, do an installation, and you're done. Modified console on coldboot using software only!\n\nThanks for the release, Grim 🖤\n\ngithub.com/grimdoomer/X...",
-        "score": 37,
+        "score": 43,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3mxckgfar4s2u",
         "createdAt": "2026-10-07T18:15:16.466Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mxckgfar4s2u:bafyreic3gcuutv733ceqx2zdalgectwaq5x2fklgvi7hbcuzasn6fhnlr4"
@@ -612,6 +612,15 @@
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mxbxonsj3k23",
         "createdAt": "2026-10-07T12:39:54.568Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mxbxonsj3k23:bafyreigb3pzuym7auevmdak53mrnyqys2oiwzievhiwz64uf6uub2a72bi"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:MrMario2011",
+        "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!\n\nWatch Here: youtu.be/G8ceM_xXlO8",
+        "score": 8,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mxcn5hlj522u",
+        "createdAt": "2026-10-07T19:03:58.770Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mxcn5hlj522u:bafyreib6hf5zhhc77pauejagkrk2576x4b5ltrbyy52mnizsfggbtxtabi"
       },
       {
         "platform": "Bluesky",
@@ -634,11 +643,11 @@
       {
         "platform": "Bluesky",
         "community": "following:MrMario2011",
-        "title": "How to Softmod the Xbox 360 - Peer Pressure Beginner Setup for Homebrew, Backups, and More!\n\nWatch Here: youtu.be/G8ceM_xXlO8",
+        "title": "This was the stack of games I've been shuffling around my office. I was using them when testing Peer Pressure. Now they can go back to the game room!\n\nI have no doubt that Lily is relieved.",
         "score": 5,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mxcn5hlj522u",
-        "createdAt": "2026-10-07T19:03:58.770Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mxcn5hlj522u:bafyreib6hf5zhhc77pauejagkrk2576x4b5ltrbyy52mnizsfggbtxtabi"
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mxcxpwudp22r",
+        "createdAt": "2026-10-07T22:13:20.465Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mxcxpwudp22r:bafyreidxyxptcryma2nqkpjc53g3xou5o3wcaebsh6vypkompw66aqb3dy"
       },
       {
         "platform": "Bluesky",
@@ -648,6 +657,15 @@
         "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mxceojkwis2b",
         "createdAt": "2026-10-07T16:32:26.368Z",
         "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mxceojkwis2b:bafyreib37vjrklnk3chzf5gf22ylncgibvtnjarvcaea4z53rdjsu7nq6e"
+      },
+      {
+        "platform": "Bluesky",
+        "community": "following:Consolefacts",
+        "title": "PS5 News:\n\nA compiled build of the PS3 emulator has been released!\n\ngithub.com/dmzebro/PS5_...",
+        "score": 2,
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mxd3cvbwq22z",
+        "createdAt": "2026-10-07T23:17:32.958Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mxd3cvbwq22z:bafyreigiiwlxynoecyruoomec2fpum7s6kwx2laohzlehe2mopxjrouami"
       },
       {
         "platform": "Bluesky",
@@ -672,7 +690,7 @@
       "platform": "Bluesky",
       "community": "following:MrMario2011",
       "title": "The impossible has happened thanks to Grimdoomer! This is a tried and true softmod for the Xbox 360. Put some files on a USB drive, do an installation, and you're done. Modified console on coldboot using software only!\n\nThanks for the release, Grim 🖤\n\ngithub.com/grimdoomer/X...",
-      "score": 37,
+      "score": 43,
       "url": "https://bsky.app/profile/mrmario2011.com/post/3mxckgfar4s2u",
       "createdAt": "2026-10-07T18:15:16.466Z",
       "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mxckgfar4s2u:bafyreic3gcuutv733ceqx2zdalgectwaq5x2fklgvi7hbcuzasn6fhnlr4"
