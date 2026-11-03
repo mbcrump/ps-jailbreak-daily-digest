@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T23:41:05.624Z",
-  "runTimePacific": "11/02/2026, 15:41 PST",
-  "windowStartPacific": "11/01/2026, 15:41 PST",
-  "windowEndPacific": "11/02/2026, 15:41 PST",
+  "generatedAt": "2026-11-03T01:47:25.834Z",
+  "runTimePacific": "11/02/2026, 17:47 PST",
+  "windowStartPacific": "11/01/2026, 17:47 PST",
+  "windowEndPacific": "11/02/2026, 17:47 PST",
   "status": "partial",
   "youtube": {
     "latest": null,
@@ -22,31 +22,31 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Nintendo Switch 2 Emulator is out! Eglantine PS5",
-        "score": 458,
+        "score": 578,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm98i4/nintendo_switch_2_emulator_is_out_eglantine_ps5/",
         "createdAt": "2026-11-02T20:55:56.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "It hasn’t even been 30 days, and Sony has already released the third firmware update.",
-        "score": 375,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xllcqq/its_not_even_been_30_days_and_sony_has_already/",
-        "createdAt": "2026-11-02T02:21:05.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "GTA 6 now requires PS5 firmware 14.22, as the fight against jailbreaks heats up",
-        "score": 359,
+        "score": 389,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm0xq1/gta_6_now_requires_ps5_firmware_1422_as_the_fight/",
         "createdAt": "2026-11-02T15:55:17.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "It hasn’t even been 30 days, and Sony has already released the third firmware update.",
+        "score": 381,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xllcqq/its_not_even_been_30_days_and_sony_has_already/",
+        "createdAt": "2026-11-02T02:21:05.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "All that game formats - explained in one post",
-        "score": 317,
+        "score": 348,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm4xjg/all_that_game_formats_explained_in_one_post/",
         "createdAt": "2026-11-02T18:18:28.000Z"
       },
@@ -54,7 +54,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "[RELEASE] OneFamily v1.2.1 - Connect Any Controller to your PS4! (Xbox Series/One/360, PS5 DualSense Wireless via Bluetooth, Switch Pro & Generic Gamepads with Full Rumble & In-App UI)",
-        "score": 313,
+        "score": 326,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1xluy87/release_onefamily_v121_connect_any_controller_to/",
         "createdAt": "2026-11-02T11:41:47.000Z"
       },
@@ -62,7 +62,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Ps4 14.00 web jailbreak done",
-        "score": 214,
+        "score": 266,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xm5o5b/ps4_1400_web_jailbreak_done/",
         "createdAt": "2026-11-02T18:44:20.000Z"
       },
@@ -70,7 +70,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "MihawkOS (PS5Proton) - Over 150 Games reported",
-        "score": 137,
+        "score": 148,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlwhxf/mihawkos_ps5proton_over_150_games_reported/",
         "createdAt": "2026-11-02T12:59:14.000Z"
       },
@@ -78,15 +78,23 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Pixel Museum | PlayStation 5 Launch Trailer | Now available",
-        "score": 104,
+        "score": 106,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlvthq/pixel_museum_playstation_5_launch_trailer_now/",
         "createdAt": "2026-11-02T12:26:34.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS4 Firmware v14.00 WebKit Exploit (GoldHEN)",
+        "score": 102,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm97e5/ps4_firmware_v1400_webkit_exploit_goldhen/",
+        "createdAt": "2026-11-02T20:54:43.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Reverse-engineering PS5 DualSense authentication to build a universal controller adapter",
-        "score": 91,
+        "score": 93,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xluhnk/reverseengineering_ps5_dualsense_authentication/",
         "createdAt": "2026-11-02T11:15:55.000Z"
       },
@@ -94,7 +102,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "GhostVR: PSVR games on PS5 (WIP)",
-        "score": 88,
+        "score": 89,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlkrcx/ghostvr_psvr_games_on_ps5_wip/",
         "createdAt": "2026-11-02T01:52:03.000Z"
       },
@@ -102,23 +110,15 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Pokopia on PS5",
-        "score": 78,
+        "score": 85,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlpb5n/pokopia_on_ps5/",
         "createdAt": "2026-11-02T05:52:52.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS4 Firmware v14.00 WebKit Exploit (GoldHEN)",
-        "score": 76,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm97e5/ps4_firmware_v1400_webkit_exploit_goldhen/",
-        "createdAt": "2026-11-02T20:54:43.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Jailbreak News: 14.22 Released, GoldHEN on 14.00, CivSwitch, BD-JB Relapse, FPKG Update & More!",
-        "score": 73,
+        "score": 75,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlskf9/jailbreak_news_1422_released_goldhen_on_1400/",
         "createdAt": "2026-11-02T09:19:19.000Z"
       },
@@ -126,23 +126,15 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "For people that want to get into PS5 Linux, here is an updated guide I published",
-        "score": 66,
+        "score": 69,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm1lus/for_people_that_want_to_get_into_ps5_linux_here/",
         "createdAt": "2026-11-02T16:19:26.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Anyone know what this is about?",
-        "score": 65,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlizqq/anyone_know_what_this_is_about/",
-        "createdAt": "2026-11-02T00:25:49.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Dante Inferno ported to PS4 natively",
-        "score": 61,
+        "score": 65,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1xlu2dy/dante_inferno_ported_to_ps4_natively/",
         "createdAt": "2026-11-02T10:51:54.000Z"
       },
@@ -157,48 +149,56 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Pokopia on PS5 has made me too happy",
+        "score": 48,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm5rd9/pokopia_on_ps5_has_made_me_too_happy/",
+        "createdAt": "2026-11-02T18:47:32.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Infinity Blade I–III Ports for PS5",
-        "score": 41,
+        "score": 43,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlp69k/infinity_blade_iiii_ports_for_ps5/",
         "createdAt": "2026-11-02T05:44:47.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Pokopia on PS5 has made me too happy",
-        "score": 37,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm5rd9/pokopia_on_ps5_has_made_me_too_happy/",
-        "createdAt": "2026-11-02T18:47:32.000Z"
+        "title": "I see that many people are having trouble getting Pokopia to run, so I’ve recorded a video showing what the file structure should look like",
+        "score": 39,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xmbcvy/i_see_that_many_people_are_having_trouble_getting/",
+        "createdAt": "2026-11-02T22:17:25.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "I found a webkit for 14.00 goldhen",
-        "score": 31,
+        "score": 35,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xm3wmb/i_found_a_webkit_for_1400_goldhen/",
         "createdAt": "2026-11-02T17:42:26.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Scam alert",
-        "score": 30,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm2tqo/scam_alert/",
-        "createdAt": "2026-11-02T17:04:03.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Red Alert 2 on PS5",
-        "score": 29,
+        "score": 34,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlz3cd/red_alert_2_on_ps5/",
         "createdAt": "2026-11-02T14:45:38.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "Scam alert",
+        "score": 33,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm2tqo/scam_alert/",
+        "createdAt": "2026-11-02T17:04:03.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "YouTube AdBlock + SponsorBlock Fix",
-        "score": 27,
+        "score": 28,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1xlyt6g/youtube_adblock_sponsorblock_fix/",
         "createdAt": "2026-11-02T14:34:27.000Z"
       },
@@ -206,15 +206,23 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Mortal Kombat Kollection & Ghost Recon: Future Soldier Recomps Out Now with Online Multiplayer | Army of Two: The Devil's Cartel COMING SOON! | Join the Discord!",
-        "score": 26,
+        "score": 23,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xlstmd/mortal_kombat_kollection_ghost_recon_future/",
         "createdAt": "2026-11-02T09:35:54.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Created some ports, do I ask for permission to release?",
+        "score": 15,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm8sdv/created_some_ports_do_i_ask_for_permission_to/",
+        "createdAt": "2026-11-02T20:38:11.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Red Alert 2 on PS5",
-        "score": 12,
+        "score": 15,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlz2qy/red_alert_2_on_ps5/",
         "createdAt": "2026-11-02T14:44:59.000Z"
       },
@@ -222,17 +230,17 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "127.0.0.1 vs 127.0.0.2 help me understand",
-        "score": 11,
+        "score": 12,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xm2zn0/127001_vs_127002_help_me_understand/",
         "createdAt": "2026-11-02T17:10:01.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Created some ports, do I ask for permission to release?",
-        "score": 9,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm8sdv/created_some_ports_do_i_ask_for_permission_to/",
-        "createdAt": "2026-11-02T20:38:11.000Z"
+        "community": "ps5homebrew",
+        "title": "Jailbreak News: 14.22 Released, GoldHEN on 14.00, CivSwitch, BD-JB Relapse, FPKG Update & More!",
+        "score": 10,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlttha/jailbreak_news_1422_released_goldhen_on_1400/",
+        "createdAt": "2026-11-02T10:37:05.000Z"
       },
       {
         "platform": "Reddit",
@@ -245,32 +253,16 @@
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Jailbreak News: 14.22 Released, GoldHEN on 14.00, CivSwitch, BD-JB Relapse, FPKG Update & More!",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlttha/jailbreak_news_1422_released_goldhen_on_1400/",
-        "createdAt": "2026-11-02T10:37:05.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Is there a Webbrowser?",
-        "score": 7,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xlzx6b/is_there_a_webbrowser/",
-        "createdAt": "2026-11-02T15:17:10.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Mouse and Keyboard support in any PS5 game, no adapter.",
-        "score": 7,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlivol/mouse_and_keyboard_support_in_any_ps5_game_no/",
-        "createdAt": "2026-11-02T00:20:21.000Z"
+        "title": "Pokopia on PS5 has made me too happy",
+        "score": 9,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xm5ruv/pokopia_on_ps5_has_made_me_too_happy/",
+        "createdAt": "2026-11-02T18:48:02.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Pixel Museum | PlayStation 5 Launch Trailer | Now available",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlvrwp/pixel_museum_playstation_5_launch_trailer_now/",
         "createdAt": "2026-11-02T12:24:21.000Z"
       },
@@ -278,25 +270,25 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "PS4 games which website",
-        "score": 7,
+        "score": 8,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xlqiye/ps4_games_which_website/",
         "createdAt": "2026-11-02T07:06:24.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Scumm VM PS4 RC1",
+        "title": "Is there a Webbrowser?",
         "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm8pww/scumm_vm_ps4_rc1/",
-        "createdAt": "2026-11-02T20:35:36.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xlzx6b/is_there_a_webbrowser/",
+        "createdAt": "2026-11-02T15:17:10.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Anyone know what this is about?",
+        "community": "ps4homebrew",
+        "title": "I rescued my PS4 from the bottom of the trunk",
         "score": 6,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlizzc/anyone_know_what_this_is_about/",
-        "createdAt": "2026-11-02T00:26:10.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm6i4s/i_rescued_my_ps4_from_the_bottom_of_the_trunk/",
+        "createdAt": "2026-11-02T19:13:57.000Z"
       },
       {
         "platform": "Reddit",
@@ -308,19 +300,35 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "For people that want to get into PS5 Linux, here is an updated guide I published",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xm1mws/for_people_that_want_to_get_into_ps5_linux_here/",
-        "createdAt": "2026-11-02T16:20:30.000Z"
+        "community": "ps4homebrew",
+        "title": "Scumm VM PS4 RC1",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm8pww/scumm_vm_ps4_rc1/",
+        "createdAt": "2026-11-02T20:35:36.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Pokopia on PS5 has made me too happy",
+        "title": "Switch emulator in PS5-ECAM starting games much quicker than ProsperoEden",
         "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xm5ruv/pokopia_on_ps5_has_made_me_too_happy/",
-        "createdAt": "2026-11-02T18:48:02.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xmea1y/switch_emulator_in_ps5ecam_starting_games_much/",
+        "createdAt": "2026-11-03T00:20:20.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Gamesir G7 Pro 8k on PS5?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlulua/gamesir_g7_pro_8k_on_ps5/",
+        "createdAt": "2026-11-02T11:22:48.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "ps4 JB",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xmeopv/ps4_jb/",
+        "createdAt": "2026-11-03T00:39:17.000Z"
       },
       {
         "platform": "Reddit",
@@ -333,34 +341,18 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Question for dlpsgames",
+        "title": "Comparta sus discos, pkg y cambie el entorno NP.",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xlnpq9/question_for_dlpsgames/",
-        "createdAt": "2026-11-02T04:23:38.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I rescued my PS4 from the bottom of the trunk",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm6i4s/i_rescued_my_ps4_from_the_bottom_of_the_trunk/",
-        "createdAt": "2026-11-02T19:13:57.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xm5ywi/comparta_sus_discos_pkg_y_cambie_el_entorno_np/",
+        "createdAt": "2026-11-02T18:54:56.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Gamesir G7 Pro 8k on PS5?",
+        "title": "For people that want to get into PS5 Linux, here is an updated guide I published",
         "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlulua/gamesir_g7_pro_8k_on_ps5/",
-        "createdAt": "2026-11-02T11:22:48.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "45.56.67.85 DNS + Disable automatic updates = enough to keep jb console safe?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xm1t1f/45566785_dns_disable_automatic_updates_enough_to/",
-        "createdAt": "2026-11-02T16:26:58.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xm1mws/for_people_that_want_to_get_into_ps5_linux_here/",
+        "createdAt": "2026-11-02T16:20:30.000Z"
       },
       {
         "platform": "Reddit",
@@ -373,18 +365,26 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Comparta sus discos, pkg y cambie el entorno NP.",
-        "score": 4,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xm5ywi/comparta_sus_discos_pkg_y_cambie_el_entorno_np/",
-        "createdAt": "2026-11-02T18:54:56.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
         "title": "Please bro",
         "score": 4,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xlsfvr/please_bro/",
         "createdAt": "2026-11-02T09:10:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Question for dlpsgames",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xlnpq9/question_for_dlpsgames/",
+        "createdAt": "2026-11-02T04:23:38.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Accidentally got a 9.00 Pro",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xmf4xz/accidentally_got_a_900_pro/",
+        "createdAt": "2026-11-03T01:00:17.000Z"
       },
       {
         "platform": "Reddit",
@@ -404,11 +404,27 @@
       },
       {
         "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "45.56.67.85 DNS + Disable automatic updates = enough to keep jb console safe?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xm1t1f/45566785_dns_disable_automatic_updates_enough_to/",
+        "createdAt": "2026-11-02T16:26:58.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Jailbroken PS5 pro",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlncvy/jailbroken_ps5_pro/",
+        "createdAt": "2026-11-02T04:04:32.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Igual que ayer... y que mañana",
+        "title": "I should be ok to use my profile if the console has the private DNS?",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm5o60/igual_que_ayer_y_que_mañana/",
-        "createdAt": "2026-11-02T18:44:22.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xmdgs5/i_should_be_ok_to_use_my_profile_if_the_console/",
+        "createdAt": "2026-11-02T23:45:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -421,26 +437,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Updating games",
+        "title": "Igual que ayer... y que mañana",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm4np7/updating_games/",
-        "createdAt": "2026-11-02T18:08:57.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm5o60/igual_que_ayer_y_que_mañana/",
+        "createdAt": "2026-11-02T18:44:22.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I want to play newer games on ps4 but it wants to update.",
+        "community": "ps5homebrew",
+        "title": "PoorDS4 not working on emulators.",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xm0fxo/i_want_to_play_newer_games_on_ps4_but_it_wants_to/",
-        "createdAt": "2026-11-02T15:36:30.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "is there any website or app to check if the DS4 controller I'm buying is original or a copy ?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xliia7/is_there_any_website_or_app_to_check_if_the_ds4/",
-        "createdAt": "2026-11-02T00:03:01.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xmbu49/poords4_not_working_on_emulators/",
+        "createdAt": "2026-11-02T22:37:07.000Z"
       },
       {
         "platform": "Reddit",
@@ -477,18 +485,10 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "I wanna update from 12.50 to 13.52",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xlidu4/i_wanna_update_from_1250_to_1352/",
-        "createdAt": "2026-11-01T23:58:33.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Deco mesh bypassing manual DNS settings for jailbreaking",
+        "title": "ALGUÉM TEM LINK DO PKG DA ULTIMA VERSÃO DO DEMON SLAYER 2 COM TODAS DLCS 😭🙏🏼🙏🏼? E DO UFC 4 TBM PRA ADICIONAR O POATAN E O TOPURIA",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xmbx3h/deco_mesh_bypassing_manual_dns_settings_for/",
-        "createdAt": "2026-11-02T22:40:29.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xmdz9s/alguém_tem_link_do_pkg_da_ultima_versão_do_demon/",
+        "createdAt": "2026-11-03T00:06:57.000Z"
       },
       {
         "platform": "Reddit",
@@ -503,7 +503,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "Nintendo Switch 2 Emulator is out! Eglantine PS5",
-      "score": 458,
+      "score": 578,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm98i4/nintendo_switch_2_emulator_is_out_eglantine_ps5/",
       "createdAt": "2026-11-02T20:55:56.000Z"
     },
@@ -512,7 +512,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "[RELEASE] OneFamily v1.2.1 - Connect Any Controller to your PS4! (Xbox Series/One/360, PS5 DualSense Wireless via Bluetooth, Switch Pro & Generic Gamepads with Full Rumble & In-App UI)",
-        "score": 313,
+        "score": 326,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1xluy87/release_onefamily_v121_connect_any_controller_to/",
         "createdAt": "2026-11-02T11:41:47.000Z"
       },
@@ -520,7 +520,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "MihawkOS (PS5Proton) - Over 150 Games reported",
-        "score": 137,
+        "score": 148,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xlwhxf/mihawkos_ps5proton_over_150_games_reported/",
         "createdAt": "2026-11-02T12:59:14.000Z"
       },
@@ -528,7 +528,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Nintendo Switch 2 Emulator is out! Eglantine PS5",
-        "score": 458,
+        "score": 578,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xm98i4/nintendo_switch_2_emulator_is_out_eglantine_ps5/",
         "createdAt": "2026-11-02T20:55:56.000Z"
       },
@@ -538,7 +538,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Ps4 14.00 web jailbreak done",
-        "score": 214,
+        "score": 266,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xm5o5b/ps4_1400_web_jailbreak_done/",
         "createdAt": "2026-11-02T18:44:20.000Z"
       }
@@ -608,29 +608,11 @@
       {
         "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nSony released a new firmware update: Version 14.22.\n\nEveryone on 14.20 do NOT update if you want a jailbreak.\n\nDisable internet on your console ASAP.",
-        "score": 1,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzc64qk3c22k",
-        "createdAt": "2026-11-02T01:25:31.382Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzc64qk3c22k:bafyreiff6736lyhvyyb6ivefnpx5ybnxkz4hbxhanlp7sbqxboarp7nace"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
         "title": "PS5 News:\n\nZeco mentions that Sony patched the hypervisor again.\nThis could indicate that Arksama's FPKG method likely got patched on 14.22.\n\ntwitter-thread.com/t/2117317422...",
         "score": 0,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzdzqlow7225",
         "createdAt": "2026-11-02T19:12:25.878Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzdzqlow7225:bafyreidtwevyyufeb52vwpocwznwuvgg3mvepjfvnrsusac4pgyoxjxop4"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "Note: This means GTA 6 won’t work on 14.20 and now has 14.22 as its minimum firmware requirement.",
-        "score": 0,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzc67gmgws2k",
-        "createdAt": "2026-11-02T01:27:00.078Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzc67gmgws2k:bafyreiey7uabrow7xa5wuw3i3ig4qnjthgeczaqun64rc6gmd7rzx2jvry"
       }
     ],
     "topOverall": {
