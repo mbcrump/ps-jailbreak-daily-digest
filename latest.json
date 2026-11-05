@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-11-05T00:31:16.604Z",
-  "runTimePacific": "11/04/2026, 16:31 PST",
-  "windowStartPacific": "11/03/2026, 16:31 PST",
-  "windowEndPacific": "11/04/2026, 16:31 PST",
+  "generatedAt": "2026-11-05T20:38:21.704Z",
+  "runTimePacific": "11/05/2026, 12:38 PST",
+  "windowStartPacific": "11/04/2026, 12:38 PST",
+  "windowEndPacific": "11/05/2026, 12:38 PST",
   "status": "partial",
   "youtube": {
-    "latest": {
-      "platform": "YouTube",
-      "community": "PlayStation Hacks & Exploits | Michael Crump",
-      "title": "CivSwitch Setup Guide for Switch 2: Step by Step",
-      "url": "https://www.youtube.com/watch?v=sxFJqAfduHU",
-      "createdAt": "2026-11-04T01:57:50.000Z"
-    },
+    "latest": null,
     "latestHomebrewNews": null,
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 1
+        "count": 0
       },
       {
         "name": "YouTube Homebrew News",
@@ -32,386 +26,354 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Progress is happening, sonic not happy",
-        "score": 456,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnxh7s/progress_is_happening_sonic_not_happy/",
-        "createdAt": "2026-11-04T19:31:18.000Z"
+        "title": "hello 14.22",
+        "score": 657,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xohwj8/hello_1422/",
+        "createdAt": "2026-11-05T12:54:00.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Broke ASLR on PS5 firmware 14.10",
-        "score": 436,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xntarz/broke_aslr_on_ps5_firmware_1410/",
-        "createdAt": "2026-11-04T16:53:49.000Z"
+        "title": "Folder system for PS5 COMPLETE",
+        "score": 261,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xo5e9u/folder_system_for_ps5_complete/",
+        "createdAt": "2026-11-05T01:00:56.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "PS5Upload 11: Play Together. Friends join the game on your PS5 as Player 2–4 from a link, no PS5 or app needed (free, open source)",
-        "score": 177,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnhjiq/ps5upload_11_play_together_friends_join_the_game/",
-        "createdAt": "2026-11-04T06:56:32.000Z"
+        "title": "14.10 Just got hit with this",
+        "score": 162,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xo3q0y/1410_just_got_hit_with_this/",
+        "createdAt": "2026-11-04T23:45:16.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "14.00/10 Users I request you to NOT update!!",
-        "score": 167,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnexfs/140010_users_i_request_you_to_not_update/",
-        "createdAt": "2026-11-04T04:29:20.000Z"
+        "title": "Some people think Sonic just wants to keep these exploits under wraps until the right time (the GTA 6 release) and is now frustrated that they're being revealed too early",
+        "score": 131,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xob4pd/some_people_think_sonic_just_wants_to_keep_these/",
+        "createdAt": "2026-11-05T05:58:58.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "[RELEASE] Plugins Manager – Manage PS4 Plugins Directly From Your",
-        "score": 113,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xno8zv/release_plugins_manager_manage_ps4_plugins/",
-        "createdAt": "2026-11-04T13:30:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Well, Prolapse won’t work on PS5 14.00+",
-        "score": 80,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnby2f/well_prolapse_wont_work_on_ps5_1400/",
-        "createdAt": "2026-11-04T01:59:23.000Z"
+        "community": "PS4Mods",
+        "title": "My first time homebrewing a PS4 (And it's the best decision I've ever made!)",
+        "score": 69,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xodj02/my_first_time_homebrewing_a_ps4_and_its_the_best/",
+        "createdAt": "2026-11-05T08:31:18.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Mario Kart WORLD running on PS5 via Linux.",
-        "score": 80,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xns6zl/mario_kart_world_running_on_ps5_via_linux/",
-        "createdAt": "2026-11-04T16:11:21.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "[PS4] Metal Gear Rising - Revengenance",
-        "score": 76,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnhqt6/ps4_metal_gear_rising_revengenance/",
-        "createdAt": "2026-11-04T07:08:43.000Z"
+        "title": "PSVR2 port: games working on PSVR2 as of now",
+        "score": 62,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xo3rdl/psvr2_port_games_working_on_psvr2_as_of_now/",
+        "createdAt": "2026-11-04T23:46:58.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Jose Coixao: Chances of coming Prolapse Jailbreak to PS5 are close to zero",
-        "score": 76,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnb3ys/jose_coixao_chances_of_coming_prolapse_jailbreak/",
-        "createdAt": "2026-11-04T01:18:40.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Looks like hes been working on a seperate exploit",
-        "score": 74,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnfd0d/looks_like_hes_been_working_on_a_seperate_exploit/",
-        "createdAt": "2026-11-04T04:52:16.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "refree: automatic PS5 re-jailbreak after a reboot (open source, Linux/macOS)",
-        "score": 65,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnsv0m/refree_automatic_ps5_rejailbreak_after_a_reboot/",
-        "createdAt": "2026-11-04T16:37:07.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Never thought I'd be playing a modded PS2 game on the PS4",
-        "score": 54,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xne9l8/never_thought_id_be_playing_a_modded_ps2_game_on/",
-        "createdAt": "2026-11-04T03:55:03.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "New update out for GTA IV on the Recomp store",
-        "score": 47,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnd71p/new_update_out_for_gta_iv_on_the_recomp_store/",
-        "createdAt": "2026-11-04T03:01:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Go Online PSN through WebKitty",
-        "score": 43,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnw6un/go_online_psn_through_webkitty/",
-        "createdAt": "2026-11-04T18:41:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "My Streets of Rage Recompilation is out for the PS5",
+        "title": "Play using the controller you want, not what Sony makes you use!",
         "score": 41,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xng9kw/my_streets_of_rage_recompilation_is_out_for_the/",
-        "createdAt": "2026-11-04T05:41:32.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xo09ak/play_using_the_controller_you_want_not_what_sony/",
+        "createdAt": "2026-11-04T21:19:17.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS5 Medievil Remake 4k Patch.",
-        "score": 40,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnf083/ps5_medievil_remake_4k_patch/",
-        "createdAt": "2026-11-04T04:33:14.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Mario Kart WORLD running on PS5 via Linux",
+        "community": "ps4homebrew",
+        "title": "[RELEASE] Atlas Trophy Tool 1.0",
         "score": 39,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xns8jj/mario_kart_world_running_on_ps5_via_linux/",
-        "createdAt": "2026-11-04T16:13:02.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Any news about FPKG on 13.60?",
-        "score": 30,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xndn2v/any_news_about_fpkg_on_1360/",
-        "createdAt": "2026-11-04T03:22:47.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS5 14.00 & 14.10 Users, No Hope for Prolapse? Zeco Confirms It’s Unlikely",
-        "score": 25,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xndkam/ps5_1400_1410_users_no_hope_for_prolapse_zeco/",
-        "createdAt": "2026-11-04T03:18:59.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Opinions??",
-        "score": 23,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnxmtu/opinions/",
-        "createdAt": "2026-11-04T19:37:13.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Army of Two: The Devil's Cartel Recomp Out Now with Online Co-op!",
-        "score": 22,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xncjvi/army_of_two_the_devils_cartel_recomp_out_now_with/",
-        "createdAt": "2026-11-04T02:28:31.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "The new ogbox emulator is amazing",
-        "score": 21,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xneplb/the_new_ogbox_emulator_is_amazing/",
-        "createdAt": "2026-11-04T04:17:53.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "What’s the issue with my ps4 slim?",
-        "score": 13,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnrqrb/whats_the_issue_with_my_ps4_slim/",
-        "createdAt": "2026-11-04T15:53:57.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Help needed - gta4-ps4",
-        "score": 12,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xo1ivt/help_needed_gta4ps4/",
-        "createdAt": "2026-11-04T22:10:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "What's next, finally done it",
-        "score": 12,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xniknq/whats_next_finally_done_it/",
-        "createdAt": "2026-11-04T08:00:45.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "I modified the PS5 Upload to back up to Google Drive.",
-        "score": 11,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnbaqe/i_modified_the_ps5_upload_to_back_up_to_google/",
-        "createdAt": "2026-11-04T01:27:31.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Halo",
-        "score": 8,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnh4b5/halo/",
-        "createdAt": "2026-11-04T06:30:43.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "[RELEASE] Plugins Manager – Manage PS4 Plugins Directly From Your",
-        "score": 8,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xno9ez/release_plugins_manager_manage_ps4_plugins/",
-        "createdAt": "2026-11-04T13:31:22.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xoipz5/release_atlas_trophy_tool_10/",
+        "createdAt": "2026-11-05T13:32:06.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Play using the controller you want, not what Sony makes you use!",
-        "score": 7,
+        "score": 35,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1xo0bem/play_using_the_controller_you_want_not_what_sony/",
         "createdAt": "2026-11-04T21:21:37.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Why there no pic",
-        "score": 7,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnsjmh/why_there_no_pic/",
-        "createdAt": "2026-11-04T16:24:47.000Z"
+        "title": "Help needed - gta4-ps4",
+        "score": 32,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xo1ivt/help_needed_gta4ps4/",
+        "createdAt": "2026-11-04T22:10:28.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Diddy Kong Racing – native PS4 port (1080p widescreen, not an emulator)",
+        "score": 27,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xom3ni/diddy_kong_racing_native_ps4_port_1080p/",
+        "createdAt": "2026-11-05T15:50:39.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Who needs the link?",
+        "score": 26,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xok48e/who_needs_the_link/",
+        "createdAt": "2026-11-05T14:31:59.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Following up on JAPAN-exclusive console. It's JB-able!",
+        "score": 23,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xono7g/following_up_on_japanexclusive_console_its_jbable/",
+        "createdAt": "2026-11-05T16:50:58.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "[RELEASE] Nuvio Torrent Edition for PS5 – Native, direct torrent streaming is finally here",
+        "score": 21,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xogafs/release_nuvio_torrent_edition_for_ps5_native/",
+        "createdAt": "2026-11-05T11:28:09.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "PSVR2 port: games working on PSVR2 as of now",
-        "score": 7,
+        "score": 15,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xo3t6y/psvr2_port_games_working_on_psvr2_as_of_now/",
         "createdAt": "2026-11-04T23:49:15.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Is LZ4 the best format after FPKG for PS5 games?",
+        "score": 12,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xofnh0/is_lz4_the_best_format_after_fpkg_for_ps5_games/",
+        "createdAt": "2026-11-05T10:50:43.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "6.00 FW PS5 Help.",
+        "title": "[RELEASE] Nuvio Torrent Edition for PS5 – Native, direct torrent streaming is finally here",
+        "score": 11,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xogyao/release_nuvio_torrent_edition_for_ps5_native/",
+        "createdAt": "2026-11-05T12:04:22.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Sparking zero (switch 1) port being worked on privately by some homebrewer",
+        "score": 9,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xotdie/sparking_zero_switch_1_port_being_worked_on/",
+        "createdAt": "2026-11-05T20:29:21.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "ytps5 — block YouTube ads on PS5 with one ELF (8.20 + 11.40 verified)",
+        "score": 9,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xocxoo/ytps5_block_youtube_ads_on_ps5_with_one_elf_820/",
+        "createdAt": "2026-11-05T07:52:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 Sync Clock payload",
+        "score": 9,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xoevdg/ps5_sync_clock_payload/",
+        "createdAt": "2026-11-05T10:01:46.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Trying to move a game to my M2 SSD corrupted my PS5...",
+        "score": 9,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xo0c8z/trying_to_move_a_game_to_my_m2_ssd_corrupted_my/",
+        "createdAt": "2026-11-04T21:22:35.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "FIFA Street graphics??",
+        "score": 8,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xoiqwb/fifa_street_graphics/",
+        "createdAt": "2026-11-05T13:33:12.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Play using the controller you want, not what Sony makes you use!",
         "score": 7,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnzhja/600_fw_ps5_help/",
-        "createdAt": "2026-11-04T20:49:48.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "[Release] PS5-HLTB – Track Your Play Time & Auto-Sync with HowLongToBeat Directly from Your Console",
-        "score": 7,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnoreg/release_ps5hltb_track_your_play_time_autosync/",
-        "createdAt": "2026-11-04T13:54:00.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Looking for a PS5 Gen4 M.2 2MB Header Dump for Gen3 NVMe Unlock (FW 12.xx)",
-        "score": 7,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnnq3o/looking_for_a_ps5_gen4_m2_2mb_header_dump_for/",
-        "createdAt": "2026-11-04T13:06:03.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Nuvio Torrent Edition for PS5 (v1.0.0.5) – Nuvio Max'd client with native torrent & magnet streaming added (No Debrid/PC needed)",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnshmv/nuvio_torrent_edition_for_ps5_v1005_nuvio_maxd/",
-        "createdAt": "2026-11-04T16:22:45.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Could a port of The Elder Scrolls IV: Oblivion (PS3) for PS4 be possible?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnuwms/could_a_port_of_the_elder_scrolls_iv_oblivion_ps3/",
-        "createdAt": "2026-11-04T17:52:58.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Tra poco mi arriva ps4",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnrjoq/tra_poco_mi_arriva_ps4/",
-        "createdAt": "2026-11-04T15:46:08.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "PS5 14.00 & 14.10 Users, No Hope for Prolapse? Zeco Confirms It's Unlikely",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xndl32/ps5_1400_1410_users_no_hope_for_prolapse_zeco/",
-        "createdAt": "2026-11-04T03:20:07.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "There will be no prolapse jailbreak for PS5 14.00 and 14.10",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnb6d9/there_will_be_no_prolapse_jailbreak_for_ps5_1400/",
-        "createdAt": "2026-11-04T01:21:48.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Best Current PC Games Payload/App? dont care for online or steam",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnj647/best_current_pc_games_payloadapp_dont_care_for/",
-        "createdAt": "2026-11-04T08:39:25.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Error",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnhazd/error/",
-        "createdAt": "2026-11-04T06:41:58.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Is it possible to use YouTube on jailbroken ps4?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnf0ta/is_it_possible_to_use_youtube_on_jailbroken_ps4/",
-        "createdAt": "2026-11-04T04:34:05.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Is there any difference between the websites used?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnmtza/is_there_any_difference_between_the_websites_used/",
-        "createdAt": "2026-11-04T12:22:10.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Repack games on PC5 or PlayDen possible?",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnufem/repack_games_on_pc5_or_playden_possible/",
-        "createdAt": "2026-11-04T17:35:19.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnzysh/play_using_the_controller_you_want_not_what_sony/",
+        "createdAt": "2026-11-04T21:08:01.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "problem with the 14.00 ps4 jailbreak",
-        "score": 4,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xo2e6b/problem_with_the_1400_ps4_jailbreak/",
         "createdAt": "2026-11-04T22:46:54.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "12.50",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnz5qe/1250/",
-        "createdAt": "2026-11-04T20:36:32.000Z"
+        "community": "ps5homebrew",
+        "title": "6.00 FW PS5 Help.",
+        "score": 6,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnzhja/600_fw_ps5_help/",
+        "createdAt": "2026-11-04T20:49:48.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Launch PS5 fw 1.11",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnqwgi/launch_ps5_fw_111/",
-        "createdAt": "2026-11-04T15:20:41.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "How to transfer save from jailbroken ps4 to jailbroken ps5?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xoers2/how_to_transfer_save_from_jailbroken_ps4_to/",
+        "createdAt": "2026-11-05T09:55:28.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Problem regarding ps4 14.00 Jailbreak",
+        "title": "Play using the controller you want, not what Sony makes you use!",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xo0b1y/play_using_the_controller_you_want_not_what_sony/",
+        "createdAt": "2026-11-04T21:21:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "If you could ask for ONE port. Which game would you pick?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xosett/if_you_could_ask_for_one_port_which_game_would/",
+        "createdAt": "2026-11-05T19:51:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Plex from the Homebrew Store stuck on \"problem connecting\"? It's fixed.",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xohr8r/plex_from_the_homebrew_store_stuck_on_problem/",
+        "createdAt": "2026-11-05T12:46:30.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "OGBox - hakuX port for PS5 (XBOX emulator)",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xo1ldt/ogbox_hakux_port_for_ps5_xbox_emulator/",
+        "createdAt": "2026-11-04T22:13:17.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 Linux bootloader fails to boot/find external SSD unless I disconnect and reconnect it.",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xo9dz6/ps5_linux_bootloader_fails_to_bootfind_external/",
+        "createdAt": "2026-11-05T04:19:24.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Ps5 stuck at bootload",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xojz2k/ps5_stuck_at_bootload/",
+        "createdAt": "2026-11-05T14:25:57.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Assassin’s creed unity freeze",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xo79ub/assassins_creed_unity_freeze/",
+        "createdAt": "2026-11-05T02:32:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Every games have versions of software mentions in PKG files which are all mentions upto 13.52. will 14.00 run those games?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xoovpk/every_games_have_versions_of_software_mentions_in/",
+        "createdAt": "2026-11-05T17:36:28.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Do I need to sign out/delete my psn account before jailbreaking?",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnova6/problem_regarding_ps4_1400_jailbreak/",
-        "createdAt": "2026-11-04T13:58:38.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xokd98/do_i_need_to_sign_outdelete_my_psn_account_before/",
+        "createdAt": "2026-11-05T14:42:32.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Ps4-xplorer 2.o with firmware 13.04 USB to HDD",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xocf9z/ps4xplorer_2o_with_firmware_1304_usb_to_hdd/",
+        "createdAt": "2026-11-05T07:18:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "How to Fix Scarface PKG to run on PS4",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xo6daw/how_to_fix_scarface_pkg_to_run_on_ps4/",
+        "createdAt": "2026-11-05T01:48:28.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Jogos dando erro",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xo0wox/jogos_dando_erro/",
+        "createdAt": "2026-11-04T21:45:27.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "FIFA Street graphics??",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xoiurc/fifa_street_graphics/",
+        "createdAt": "2026-11-05T13:38:11.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "stupid question about buying a factory reset ps5",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xoeuvg/stupid_question_about_buying_a_factory_reset_ps5/",
+        "createdAt": "2026-11-05T10:00:56.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Used external HDD - firmware lurking?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xofbsp/used_external_hdd_firmware_lurking/",
+        "createdAt": "2026-11-05T10:29:59.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What's the best way to send PKG files from my laptop to my PS4 console without LAN or USB?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xokavo/whats_the_best_way_to_send_pkg_files_from_my/",
+        "createdAt": "2026-11-05T14:39:51.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What does this no offline thing means?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xoo86u/what_does_this_no_offline_thing_means/",
+        "createdAt": "2026-11-05T17:11:59.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Need a little help,",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xo7r85/need_a_little_help/",
+        "createdAt": "2026-11-05T02:56:34.000Z"
       },
       {
         "platform": "Reddit",
@@ -424,134 +386,166 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Need help understand my Ps4 ⛓️‍💥 problems",
+        "title": "Mini update on the status of the Sonic 3 A.I.R. port.",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnv9io/need_help_understand_my_ps4_problems/",
-        "createdAt": "2026-11-04T18:06:23.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xosedu/mini_update_on_the_status_of_the_sonic_3_air_port/",
+        "createdAt": "2026-11-05T19:50:42.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Help about downloading the new updating but not installing",
+        "title": "Is there a way to download updates for a phisical game?",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xnoyy6/help_about_downloading_the_new_updating_but_not/",
-        "createdAt": "2026-11-04T14:02:17.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xomzha/is_there_a_way_to_download_updates_for_a_phisical/",
+        "createdAt": "2026-11-05T16:24:44.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Minecraft nn atualiza",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xo49vn/minecraft_nn_atualiza/",
+        "createdAt": "2026-11-05T00:09:24.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Question for LInux Windows on Ps5, is it maybe possible to run there Minecraft and Clients and mods?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xoqo9m/question_for_linux_windows_on_ps5_is_it_maybe/",
+        "createdAt": "2026-11-05T18:43:48.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Safe Connect, A small PS5 update blocker via the folder method.",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xodgko/safe_connect_a_small_ps5_update_blocker_via_the/",
+        "createdAt": "2026-11-05T08:26:52.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Play using the controller you want, not what Sony makes you use!",
+        "title": "Reformatting hdd",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xo0b1y/play_using_the_controller_you_want_not_what_sony/",
-        "createdAt": "2026-11-04T21:21:13.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xohp0v/reformatting_hdd/",
+        "createdAt": "2026-11-05T12:43:23.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "pra quem procura horizon zero dawn em PT-BR, na infinity tem 👍🏼",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnyt71/pra_quem_procura_horizon_zero_dawn_em_ptbr_na/",
-        "createdAt": "2026-11-04T20:22:38.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "STOREXGAMER PKG",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnt5da/storexgamer_pkg/",
-        "createdAt": "2026-11-04T16:48:06.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Ps4 Slim Verkauf",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnsygz/ps4_slim_verkauf/",
-        "createdAt": "2026-11-04T16:40:49.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Should I logout of my account or delete my account from ps before jailbreaking?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnnx6u/should_i_logout_of_my_account_or_delete_my/",
-        "createdAt": "2026-11-04T13:15:28.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "I Get error while downloading wwe 2k25, my fw13.52",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnlr5o/i_get_error_while_downloading_wwe_2k25_my_fw1352/",
-        "createdAt": "2026-11-04T11:23:05.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Does anyone tried PS MTP explorer on ps4 14.00 version? is it working?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnfcxt/does_anyone_tried_ps_mtp_explorer_on_ps4_1400/",
-        "createdAt": "2026-11-04T04:52:10.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "DNS Problem 14.00",
+        "community": "ps5homebrew",
+        "title": "Possible Asobi app?",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnzvzh/dns_problem_1400/",
-        "createdAt": "2026-11-04T21:05:05.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xoquej/possible_asobi_app/",
+        "createdAt": "2026-11-05T18:50:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "11.40 slim no disc vs 13.00 slim with working disc drive",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xomyk5/1140_slim_no_disc_vs_1300_slim_with_working_disc/",
+        "createdAt": "2026-11-05T16:23:47.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "OG PS5 on firmware 10.60 — safest route for homebrew and emulators?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xojs9n/og_ps5_on_firmware_1060_safest_route_for_homebrew/",
+        "createdAt": "2026-11-05T14:18:04.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Can you sync save files between a Thor running Eden and a PS5 running prosperoeden",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xoijd4/can_you_sync_save_files_between_a_thor_running/",
+        "createdAt": "2026-11-05T13:23:44.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Voice chat ps4 jailbreak",
+        "title": "favorite ftp client(s) to ftp to ps4 from android?",
         "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xnzdfg/voice_chat_ps4_jailbreak/",
-        "createdAt": "2026-11-04T20:45:11.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xorth3/favorite_ftp_clients_to_ftp_to_ps4_from_android/",
+        "createdAt": "2026-11-05T19:27:38.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "EA FC 27 in trial mode",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xortdk/ea_fc_27_in_trial_mode/",
+        "createdAt": "2026-11-05T19:27:33.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "HELP HOW DO I GET GAMES",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xoqwot/help_how_do_i_get_games/",
+        "createdAt": "2026-11-05T18:52:35.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "pkg files error issue",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xoplbw/pkg_files_error_issue/",
+        "createdAt": "2026-11-05T18:02:42.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Is mtp explorer safe to use?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xop1qq/is_mtp_explorer_safe_to_use/",
+        "createdAt": "2026-11-05T17:42:49.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
-      "title": "Progress is happening, sonic not happy",
-      "score": 456,
-      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnxh7s/progress_is_happening_sonic_not_happy/",
-      "createdAt": "2026-11-04T19:31:18.000Z"
+      "title": "hello 14.22",
+      "score": 657,
+      "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xohwj8/hello_1422/",
+      "createdAt": "2026-11-05T12:54:00.000Z"
     },
     "topByCommunity": {
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "[RELEASE] Plugins Manager – Manage PS4 Plugins Directly From Your",
-        "score": 113,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xno8zv/release_plugins_manager_manage_ps4_plugins/",
-        "createdAt": "2026-11-04T13:30:51.000Z"
+        "title": "[RELEASE] Atlas Trophy Tool 1.0",
+        "score": 39,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xoipz5/release_atlas_trophy_tool_10/",
+        "createdAt": "2026-11-05T13:32:06.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Well, Prolapse won’t work on PS5 14.00+",
-        "score": 80,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xnby2f/well_prolapse_wont_work_on_ps5_1400/",
-        "createdAt": "2026-11-04T01:59:23.000Z"
+        "title": "PSVR2 port: games working on PSVR2 as of now",
+        "score": 15,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xo3t6y/psvr2_port_games_working_on_psvr2_as_of_now/",
+        "createdAt": "2026-11-04T23:49:15.000Z"
       },
       "PS5_Jailbreak": {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Progress is happening, sonic not happy",
-        "score": 456,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xnxh7s/progress_is_happening_sonic_not_happy/",
-        "createdAt": "2026-11-04T19:31:18.000Z"
+        "title": "hello 14.22",
+        "score": 657,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xohwj8/hello_1422/",
+        "createdAt": "2026-11-05T12:54:00.000Z"
       },
       "PS4Hacks2": null,
       "PS4Jailbreak": null,
       "PS4Mods": {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "What's next, finally done it",
-        "score": 12,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xniknq/whats_next_finally_done_it/",
-        "createdAt": "2026-11-04T08:00:45.000Z"
+        "title": "My first time homebrewing a PS4 (And it's the best decision I've ever made!)",
+        "score": 69,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xodj02/my_first_time_homebrewing_a_ps4_and_its_the_best/",
+        "createdAt": "2026-11-05T08:31:18.000Z"
       }
     },
     "sources": [
@@ -591,103 +585,31 @@
     "posts": [
       {
         "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "Yet another day of Lily being confused for a Shiba Inu.\n\nI'm not complaining! I'm proud of my bootleg one 🖤",
-        "score": 10,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mzixamczi22q",
-        "createdAt": "2026-11-04T18:11:01.582Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mzixamczi22q:bafyreicuiprwax4wy4g5v3df37ceghih3sdzqvehtftkzwof52nocpecre"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:MrMario2011",
-        "title": "In case you didn't see it, @webhdx.bsky.social has created Dolphin Depot - a homebrew app store for the GameCube! Available via web or on a GameCube. It works great!\n\ndolphindepot.org",
-        "score": 6,
-        "url": "https://bsky.app/profile/consolemods.org/post/3mzit23esrs2a",
-        "createdAt": "2026-11-04T16:55:46.681Z",
-        "key": "at://did:plc:7kctrb6igigxj4xal3j6e2uh/app.bsky.feed.post/3mzit23esrs2a:bafyreibmmknmznhh7f6pb74dw2wz5vx4lu7mneillhltv7l3bkk6muzt3q"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ NEW PS4 System Software Update 14.02 👀",
-        "score": 4,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mzhwe63dvk2s",
-        "createdAt": "2026-11-04T08:22:28.277Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mzhwe63dvk2s:bafyreiaup5szyqlzba5ltxngy33efobui2gelrzec5vqmo66pzfpckrwau"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ Resident Evil 2 PS5 Dump by DARKFLiX 🧐",
-        "score": 2,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mzid3n5yfs2s",
-        "createdAt": "2026-11-04T12:10:22.097Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mzid3n5yfs2s:bafyreihv3ni6g67hnje7tnxudnbt2jgad3ouxsupvfhxy7ba6i7hucb7h4"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:dravszoo.bsky.social",
-        "title": "➭ NEW PS5 Game Dumps by DLPS Team & Desesperado3 🧐",
-        "score": 2,
-        "url": "https://bsky.app/profile/dravszoo.bsky.social/post/3mzhwqjpeyk2s",
-        "createdAt": "2026-11-04T08:29:24.273Z",
-        "key": "at://did:plc:6zbijuxht2yrnxztqwnprcm7/app.bsky.feed.post/3mzhwqjpeyk2s:bafyreidymp6ydrtovk7frpu3ainm4nvaozjsv7lomv6byjywx5a6m3awfm"
-      },
-      {
-        "platform": "Bluesky",
         "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nMansoor0x revealed his new webkit userland for 14.02.\n\nRemember: Userland is not a full jailbreak.\n\ntwitter-thread.com/t/2118005276...",
+        "title": "PS4 News:\n\nSaudiDos found a new kernel zero day exploit for 14.02.\n\nHe has no plans to release it after the recent drama.\n\nMore info that here:\ntwitter-thread.com/t/2116278931...\n\ntwitter-thread.com/t/2118300762...",
         "score": 1,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mziweilq6s25",
-        "createdAt": "2026-11-04T17:55:17.879Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mziweilq6s25:bafyreibatgqxby7swiox7lz44tzge6vefr6w5wtiwksb2jb2q6r6va63v4"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS5 News:\n\nJailbreak for 14.00 & 14.10 has been cancelled.\n\nZeco confirmed the new Prolapse jailbreak only works on PS4, not PS5.\n\nDon't update though if you're on these firmwares. Another jailbreak will surely come along someday.\n\ntwitter-thread.com/t/2117778223...",
-        "score": 1,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzhxhepsmc2a",
-        "createdAt": "2026-11-04T08:42:07.970Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzhxhepsmc2a:bafyreiaiubqglpxd73bjzy2egduz73n7usezbsp57gso32r2lur6ka2cke"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nSony released firmware update 14.02 for the PS4.\n\nThis highly likely patches the leaked Prolapse jailbreak.\n\nExpect PSN to be closed off on 14.00 in a few days to a week.\n\nDo NOT update. You won't be able to jailbreak anymore if you do.",
-        "score": 1,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzhxdw3nhc2a",
-        "createdAt": "2026-11-04T08:40:14.484Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzhxdw3nhc2a:bafyreigvg67znwn7xdycvhfogadqd63wusrmrqunikcfc6edoqaaw6o2xe"
-      },
-      {
-        "platform": "Bluesky",
-        "community": "following:Consolefacts",
-        "title": "PS4 News:\n\nResearcher SaudiDos confirmed the BD-JB userland has been patched in 14.02\n\ntwitter-thread.com/t/2117870459...",
-        "score": 0,
-        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzic6yjpls2z",
-        "createdAt": "2026-11-04T11:54:18.571Z",
-        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzic6yjpls2z:bafyreifmm22quayx3vq2czox477me33qlalzsk3hqznts6u63gb7tu3q5y"
+        "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzkskepjkc2k",
+        "createdAt": "2026-11-05T11:52:20.970Z",
+        "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzkskepjkc2k:bafyreie3znvzjwsqobp5xg2fsh23stj6fb2sx55ot2hvoz5ktzk5oeo6ri"
       },
       {
         "platform": "Bluesky",
         "community": "following:MrMario2011",
-        "title": "😂",
-        "score": 0,
-        "url": "https://bsky.app/profile/mrmario2011.com/post/3mzhlba7iw22y",
-        "createdAt": "2026-11-04T05:03:57.183Z",
-        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mzhlba7iw22y:bafyreiht4vclpovmexcyluijzqgjngxuawexmkokkymzlpbnwupqsmrkke"
+        "title": "youtu.be/YR874ykoLfs",
+        "score": 1,
+        "url": "https://bsky.app/profile/mrmario2011.com/post/3mzlkdyecv22x",
+        "createdAt": "2026-11-05T18:58:14.187Z",
+        "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mzlkdyecv22x:bafyreidgk6n7qdt3mpqdqc7h7vfxoeyxwwrz6e33t5ibhdcr3wxss5srbm"
       }
     ],
     "topOverall": {
       "platform": "Bluesky",
-      "community": "following:MrMario2011",
-      "title": "Yet another day of Lily being confused for a Shiba Inu.\n\nI'm not complaining! I'm proud of my bootleg one 🖤",
-      "score": 10,
-      "url": "https://bsky.app/profile/mrmario2011.com/post/3mzixamczi22q",
-      "createdAt": "2026-11-04T18:11:01.582Z",
-      "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3mzixamczi22q:bafyreicuiprwax4wy4g5v3df37ceghih3sdzqvehtftkzwof52nocpecre"
+      "community": "following:Consolefacts",
+      "title": "PS4 News:\n\nSaudiDos found a new kernel zero day exploit for 14.02.\n\nHe has no plans to release it after the recent drama.\n\nMore info that here:\ntwitter-thread.com/t/2116278931...\n\ntwitter-thread.com/t/2118300762...",
+      "score": 1,
+      "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3mzkskepjkc2k",
+      "createdAt": "2026-11-05T11:52:20.970Z",
+      "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3mzkskepjkc2k:bafyreie3znvzjwsqobp5xg2fsh23stj6fb2sx55ot2hvoz5ktzk5oeo6ri"
     },
     "sources": [
       {
