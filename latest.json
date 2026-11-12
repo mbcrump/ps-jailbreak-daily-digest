@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-11-11T23:03:41.916Z",
-  "runTimePacific": "11/11/2026, 15:03 PST",
-  "windowStartPacific": "11/10/2026, 15:03 PST",
-  "windowEndPacific": "11/11/2026, 15:03 PST",
+  "generatedAt": "2026-11-12T01:40:18.627Z",
+  "runTimePacific": "11/11/2026, 17:40 PST",
+  "windowStartPacific": "11/10/2026, 17:40 PST",
+  "windowEndPacific": "11/11/2026, 17:40 PST",
   "status": "partial",
   "youtube": {
-    "latest": null,
+    "latest": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "GTA 6 PS5 Unboxing: What's Actually in the Box?",
+      "url": "https://www.youtube.com/watch?v=puxHnMcGaX4",
+      "createdAt": "2026-11-12T00:40:23.000Z"
+    },
     "latestHomebrewNews": null,
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 0
+        "count": 1
       },
       {
         "name": "YouTube Homebrew News",
@@ -27,7 +33,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "I love my jailbroken PS5",
-        "score": 291,
+        "score": 317,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xta4sf/i_love_my_jailbroken_ps5/",
         "createdAt": "2026-11-11T06:02:32.000Z"
       },
@@ -35,7 +41,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "God of War III Remastered 4K 120 FPS patch for PS5",
-        "score": 240,
+        "score": 249,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtdd66/god_of_war_iii_remastered_4k_120_fps_patch_for_ps5/",
         "createdAt": "2026-11-11T09:21:51.000Z"
       },
@@ -43,15 +49,23 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Managed to get this beast for $330, used but in perfect condition, but I have a question",
-        "score": 113,
+        "score": 128,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtd8di/managed_to_get_this_beast_for_330_used_but_in/",
         "createdAt": "2026-11-11T09:12:52.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "PS5 emulator for PS4",
+        "score": 88,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtcpa2/ps5_emulator_for_ps4/",
+        "createdAt": "2026-11-11T08:39:04.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "I tested PS5Upload's Play Together feature and thought it was simply amazing",
-        "score": 85,
+        "score": 88,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtfbvm/i_tested_ps5uploads_play_together_feature_and/",
         "createdAt": "2026-11-11T11:24:15.000Z"
       },
@@ -65,17 +79,17 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "PS5 emulator for PS4",
-        "score": 81,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtcpa2/ps5_emulator_for_ps4/",
-        "createdAt": "2026-11-11T08:39:04.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "Jailbreak News: PS4 14.02 GoldHEN & Linux Update, PS5 Bounties, GTA 6 vs PS5-JB, & Switch 2 Updates!",
+        "score": 36,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtx9lj/jailbreak_news_ps4_1402_goldhen_linux_update_ps5/",
+        "createdAt": "2026-11-11T23:35:28.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Custom Welcome Hub Widgets (Update 11/10)",
-        "score": 34,
+        "score": 35,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xt6ul7/custom_welcome_hub_widgets_update_1110/",
         "createdAt": "2026-11-11T03:07:32.000Z"
       },
@@ -83,33 +97,57 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Custom Welcome Hub Widgets (Update 11/10)",
-        "score": 23,
+        "score": 24,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xt6w1e/custom_welcome_hub_widgets_update_1110/",
         "createdAt": "2026-11-11T03:09:27.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Jailbreakable PS5 trade?",
-        "score": 22,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xt25qn/jailbreakable_ps5_trade/",
-        "createdAt": "2026-11-10T23:30:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
         "title": "God of War III Remastered 4k 120 FPS patch for PS5",
-        "score": 18,
+        "score": 19,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtdd8e/god_of_war_iii_remastered_4k_120_fps_patch_for_ps5/",
         "createdAt": "2026-11-11T09:21:59.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
+        "title": "Harissa64 v0.3, a Nintendo 64 emulator for jailbroken PS4",
+        "score": 17,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtw3z1/harissa64_v03_a_nintendo_64_emulator_for/",
+        "createdAt": "2026-11-11T22:45:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "RDR2 v1.00 (PS4 on PS5): 1440p + 60fps Payload",
+        "score": 14,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtw2it/rdr2_v100_ps4_on_ps5_1440p_60fps_payload/",
+        "createdAt": "2026-11-11T22:43:33.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS4 14.02 GoldHEN & Linux Update, PS5 Bounties, GTA 6 vs PS5-JB, & Switch 2 Updates!",
+        "score": 11,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtw243/ps4_1402_goldhen_linux_update_ps5_bounties_gta_6/",
+        "createdAt": "2026-11-11T22:43:04.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
         "title": "Homebrew Store app icons prohlem",
-        "score": 9,
+        "score": 10,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1xt6anu/homebrew_store_app_icons_prohlem/",
         "createdAt": "2026-11-11T02:40:25.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Red Dead Redemption 2 Mod Menu hep",
+        "score": 8,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xttfa0/red_dead_redemption_2_mod_menu_hep/",
+        "createdAt": "2026-11-11T20:56:50.000Z"
       },
       {
         "platform": "Reddit",
@@ -121,11 +159,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How's EglantinePS5 been after the last few updates?",
+        "community": "ps4homebrew",
+        "title": "Soo what did I do wrong?",
         "score": 8,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xt67sg/hows_eglantineps5_been_after_the_last_few_updates/",
-        "createdAt": "2026-11-11T02:36:31.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtgrqm/soo_what_did_i_do_wrong/",
+        "createdAt": "2026-11-11T12:42:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "QWEN 3.5 9 BILLION PARAMETERS ON THE PS4 - 100% local AI & Open source",
+        "score": 8,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtuwkf/qwen_35_9_billion_parameters_on_the_ps4_100_local/",
+        "createdAt": "2026-11-11T21:55:49.000Z"
       },
       {
         "platform": "Reddit",
@@ -137,19 +183,19 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Soo what did I do wrong?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtgrqm/soo_what_did_i_do_wrong/",
-        "createdAt": "2026-11-11T12:42:23.000Z"
+        "community": "ps5homebrew",
+        "title": "Is there any way to get Apple Music working on a jailbroken PS5?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtpxa9/is_there_any_way_to_get_apple_music_working_on_a/",
+        "createdAt": "2026-11-11T18:43:04.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Red Dead Redemption 2 Mod Menu hep",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xttfa0/red_dead_redemption_2_mod_menu_hep/",
-        "createdAt": "2026-11-11T20:56:50.000Z"
+        "community": "PS5_Jailbreak",
+        "title": "How to quit out of bazzite deck to ps5 without incorrect shutdown? And fan setting?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtqhv6/how_to_quit_out_of_bazzite_deck_to_ps5_without/",
+        "createdAt": "2026-11-11T19:04:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -161,35 +207,51 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Is there any way to get Apple Music working on a jailbroken PS5?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtpxa9/is_there_any_way_to_get_apple_music_working_on_a/",
-        "createdAt": "2026-11-11T18:43:04.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How to quit out of bazzite deck to ps5 without incorrect shutdown? And fan setting?",
-        "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtqhv6/how_to_quit_out_of_bazzite_deck_to_ps5_without/",
-        "createdAt": "2026-11-11T19:04:25.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Can't get DBZ Sparkling Zero to work",
-        "score": 5,
+        "score": 6,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtqsww/cant_get_dbz_sparkling_zero_to_work/",
         "createdAt": "2026-11-11T19:15:37.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Shadowmountplus not detecting game from external ssd",
+        "title": "How do I completely reset my jailbroken PS5 Pro (13.60) before selling it?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtpasl/how_do_i_completely_reset_my_jailbroken_ps5_pro/",
+        "createdAt": "2026-11-11T18:19:40.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "How's EglantinePS5 been after the last few updates?",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xt67sg/hows_eglantineps5_been_after_the_last_few_updates/",
+        "createdAt": "2026-11-11T02:36:31.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Is there anyway to jailbreak ps4 ver 14.02 firm?",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtavwk/shadowmountplus_not_detecting_game_from_external/",
-        "createdAt": "2026-11-11T06:46:56.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xty0gf/is_there_anyway_to_jailbreak_ps4_ver_1402_firm/",
+        "createdAt": "2026-11-12T00:07:54.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Has anyone got this error on a pkg?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xti1k3/has_anyone_got_this_error_on_a_pkg/",
+        "createdAt": "2026-11-11T13:42:04.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "download result from super***, should I ignore this??",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xt5x30/download_result_from_super_should_i_ignore_this/",
+        "createdAt": "2026-11-11T02:22:15.000Z"
       },
       {
         "platform": "Reddit",
@@ -201,19 +263,35 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Has anyone got this error on a pkg?",
+        "community": "PS5_Jailbreak",
+        "title": "Shadowmountplus not detecting game from external ssd",
         "score": 4,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xti1k3/has_anyone_got_this_error_on_a_pkg/",
-        "createdAt": "2026-11-11T13:42:04.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtavwk/shadowmountplus_not_detecting_game_from_external/",
+        "createdAt": "2026-11-11T06:46:56.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "download result from super***, should I ignore this??",
+        "title": "GoldHen crashes my PS4 when I load the Jailbreak (14.00)",
         "score": 4,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xt5x30/download_result_from_super_should_i_ignore_this/",
-        "createdAt": "2026-11-11T02:22:15.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtfyaa/goldhen_crashes_my_ps4_when_i_load_the_jailbreak/",
+        "createdAt": "2026-11-11T12:00:14.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "I’ve recently jailbroken my PS4 version 12.50 was just wondering if anyone could help find a safe website so I can download some PS1/PS2 games",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xta3wg/ive_recently_jailbroken_my_ps4_version_1250_was/",
+        "createdAt": "2026-11-11T06:01:09.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "I've modded my ps4 already with only 355gb left but there's only issue updates after booting games?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xto3im/ive_modded_my_ps4_already_with_only_355gb_left/",
+        "createdAt": "2026-11-11T17:35:56.000Z"
       },
       {
         "platform": "Reddit",
@@ -225,14 +303,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I'm getting a ps4 soon and I'll mod it , I'll have to let it plugged to the electricity so it won't lose the jailbreak?",
-        "score": 3,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xt2w5p/im_getting_a_ps4_soon_and_ill_mod_it_ill_have_to/",
-        "createdAt": "2026-11-11T00:01:33.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "I tested PS5Upload's Play Together feature and thought it was simply amazing",
         "score": 3,
@@ -241,11 +311,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "How do I completely reset my jailbroken PS5 Pro (13.60) before selling it?",
+        "community": "ps5homebrew",
+        "title": "Jailbreak News: PS4 14.02 GoldHEN & Linux Update, PS5 Bounties, GTA 6 vs PS5-JB, & Switch 2 Updates!",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtpasl/how_do_i_completely_reset_my_jailbroken_ps5_pro/",
-        "createdAt": "2026-11-11T18:19:40.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtx9rq/jailbreak_news_ps4_1402_goldhen_linux_update_ps5/",
+        "createdAt": "2026-11-11T23:35:41.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Did anyone manage to play Zelda on the slim or fat PS5?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtw5ux/did_anyone_manage_to_play_zelda_on_the_slim_or/",
+        "createdAt": "2026-11-11T22:47:32.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Ghost of yotei on fw 13.6",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtvht9/ghost_of_yotei_on_fw_136/",
+        "createdAt": "2026-11-11T22:19:32.000Z"
       },
       {
         "platform": "Reddit",
@@ -258,50 +344,18 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Is there already a 14.02 Jailbreak?",
+        "title": "PS4 Jailbreak Remove",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtuugd/is_there_already_a_1402_jailbreak/",
-        "createdAt": "2026-11-11T21:53:25.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xts2rw/ps4_jailbreak_remove/",
+        "createdAt": "2026-11-11T20:03:35.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "GoldHen crashes my PS4 when I load the Jailbreak (14.00)",
+        "title": "Jailbreak ps4",
         "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtfyaa/goldhen_crashes_my_ps4_when_i_load_the_jailbreak/",
-        "createdAt": "2026-11-11T12:00:14.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "I’ve recently jailbroken my PS4 version 12.50 was just wondering if anyone could help find a safe website so I can download some PS1/PS2 games",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xta3wg/ive_recently_jailbroken_my_ps4_version_1250_was/",
-        "createdAt": "2026-11-11T06:01:09.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Ps5 on ps4",
-        "score": 3,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xt6enn/ps5_on_ps4/",
-        "createdAt": "2026-11-11T02:45:46.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I've modded my ps4 already with only 355gb left but there's only issue updates after booting games?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xto3im/ive_modded_my_ps4_already_with_only_355gb_left/",
-        "createdAt": "2026-11-11T17:35:56.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "The games still have the lock icon even after I activate GoldHen.",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtiuz3/the_games_still_have_the_lock_icon_even_after_i/",
-        "createdAt": "2026-11-11T14:16:36.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtjos8/jailbreak_ps4/",
+        "createdAt": "2026-11-11T14:50:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -329,38 +383,6 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Psvr2 en 7.00",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xt4g2q/psvr2_en_700/",
-        "createdAt": "2026-11-11T01:11:43.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Ghost of yotei on fw 13.6",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtvht9/ghost_of_yotei_on_fw_136/",
-        "createdAt": "2026-11-11T22:19:32.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Unable to manual save in Ghost of Yotei",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtptgo/unable_to_manual_save_in_ghost_of_yotei/",
-        "createdAt": "2026-11-11T18:39:16.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Game in folder format, dlc in pkg",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtmhfs/game_in_folder_format_dlc_in_pkg/",
-        "createdAt": "2026-11-11T16:37:35.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS4Mods",
         "title": "Is there a way to play overwatch 2 or marvel rivals on jb ps4?",
         "score": 2,
@@ -370,10 +392,10 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "PS4 Jailbreak Remove",
+        "title": "Is there already a 14.02 Jailbreak?",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xts2rw/ps4_jailbreak_remove/",
-        "createdAt": "2026-11-11T20:03:35.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtuugd/is_there_already_a_1402_jailbreak/",
+        "createdAt": "2026-11-11T21:53:25.000Z"
       },
       {
         "platform": "Reddit",
@@ -386,14 +408,6 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Jailbreak ps4",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtjos8/jailbreak_ps4/",
-        "createdAt": "2026-11-11T14:50:46.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
         "title": "Method help please",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xthgu9/method_help_please/",
@@ -402,10 +416,10 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Ayuda con juego de ps4",
+        "title": "Ps5 on ps4",
         "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xt29mc/ayuda_con_juego_de_ps4/",
-        "createdAt": "2026-11-10T23:35:08.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xt6enn/ps5_on_ps4/",
+        "createdAt": "2026-11-11T02:45:46.000Z"
       },
       {
         "platform": "Reddit",
@@ -418,26 +432,26 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Having trouble runing linux",
+        "title": "The games still have the lock icon even after I activate GoldHen.",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtrlux/having_trouble_runing_linux/",
-        "createdAt": "2026-11-11T19:45:50.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtiuz3/the_games_still_have_the_lock_icon_even_after_i/",
+        "createdAt": "2026-11-11T14:16:36.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "PS4 COD B02 v1.11 update file?",
+        "title": "What's the best way to install linux on a modded ps4",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xto12d/ps4_cod_b02_v111_update_file/",
-        "createdAt": "2026-11-11T17:33:21.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtyjsh/whats_the_best_way_to_install_linux_on_a_modded/",
+        "createdAt": "2026-11-12T00:32:12.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Help with Apollo",
+        "title": "Hilfe patches installieren",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtha7k/help_with_apollo/",
-        "createdAt": "2026-11-11T13:07:23.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtvylr/hilfe_patches_installieren/",
+        "createdAt": "2026-11-11T22:39:09.000Z"
       },
       {
         "platform": "Reddit",
@@ -474,6 +488,14 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
+        "title": "Ya se puede liberar la versión 14.2 ?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtyp8y/ya_se_puede_liberar_la_versión_142/",
+        "createdAt": "2026-11-12T00:39:19.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
         "title": "Having trouble runing linux",
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1xtrm8p/having_trouble_runing_linux/",
@@ -481,34 +503,18 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Trying to \"mod\" apollo justice ace attorney trilogy, searching people that have experience modding his games",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1xtnuig/trying_to_mod_apollo_justice_ace_attorney_trilogy/",
-        "createdAt": "2026-11-11T17:26:33.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Anybody got itemzflow pkg?",
+        "title": "QUESTION?",
         "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtto8v/anybody_got_itemzflow_pkg/",
-        "createdAt": "2026-11-11T21:06:27.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "thoughts??",
-        "score": 0,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtlutf/thoughts/",
-        "createdAt": "2026-11-11T16:14:06.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1xtwl7t/question/",
+        "createdAt": "2026-11-11T23:05:40.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "ps5homebrew",
       "title": "I love my jailbroken PS5",
-      "score": 291,
+      "score": 317,
       "url": "https://www.reddit.com/r/ps5homebrew/comments/1xta4sf/i_love_my_jailbroken_ps5/",
       "createdAt": "2026-11-11T06:02:32.000Z"
     },
@@ -517,7 +523,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "PS5 emulator for PS4",
-        "score": 81,
+        "score": 88,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1xtcpa2/ps5_emulator_for_ps4/",
         "createdAt": "2026-11-11T08:39:04.000Z"
       },
@@ -525,7 +531,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "I love my jailbroken PS5",
-        "score": 291,
+        "score": 317,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1xta4sf/i_love_my_jailbroken_ps5/",
         "createdAt": "2026-11-11T06:02:32.000Z"
       },
@@ -533,7 +539,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "God of War III Remastered 4K 120 FPS patch for PS5",
-        "score": 240,
+        "score": 249,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xtdd66/god_of_war_iii_remastered_4k_120_fps_patch_for_ps5/",
         "createdAt": "2026-11-11T09:21:51.000Z"
       },
@@ -587,7 +593,7 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "DIWhy wired Xbox 360 controller I got in a bag of free controllers.\n\nWorth it just for the laughs 😂",
-        "score": 22,
+        "score": 25,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3n22kbq454k2t",
         "createdAt": "2026-11-11T18:06:58.372Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3n22kbq454k2t:bafyreicsbgqfqyxxrgadncicuavmtqv45kfgrjvr3hmhkwexuh5pe4u5mq"
@@ -615,7 +621,7 @@
       "platform": "Bluesky",
       "community": "following:MrMario2011",
       "title": "DIWhy wired Xbox 360 controller I got in a bag of free controllers.\n\nWorth it just for the laughs 😂",
-      "score": 22,
+      "score": 25,
       "url": "https://bsky.app/profile/mrmario2011.com/post/3n22kbq454k2t",
       "createdAt": "2026-11-11T18:06:58.372Z",
       "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3n22kbq454k2t:bafyreicsbgqfqyxxrgadncicuavmtqv45kfgrjvr3hmhkwexuh5pe4u5mq"
