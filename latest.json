@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-21T21:53:50.780Z",
-  "runTimePacific": "11/21/2026, 13:53 PST",
-  "windowStartPacific": "11/20/2026, 13:53 PST",
-  "windowEndPacific": "11/21/2026, 13:53 PST",
+  "generatedAt": "2026-11-21T23:55:15.548Z",
+  "runTimePacific": "11/21/2026, 15:55 PST",
+  "windowStartPacific": "11/20/2026, 15:55 PST",
+  "windowEndPacific": "11/21/2026, 15:55 PST",
   "status": "partial",
   "youtube": {
     "latest": {
@@ -33,7 +33,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Random X user @meltedsx showcases his supposed 14.23 webkit jailbreak.",
-        "score": 212,
+        "score": 220,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1zxpe/random_x_user_meltedsx_showcases_his_supposed/",
         "createdAt": "2026-11-21T15:41:11.000Z"
       },
@@ -41,23 +41,15 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Install and Run Fake Packages up to 13.60 with TitanCore",
-        "score": 150,
+        "score": 155,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1ulyq/install_and_run_fake_packages_up_to_1360_with/",
         "createdAt": "2026-11-21T11:10:08.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Did I just find an exploit path?",
-        "score": 93,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1gn2y/did_i_just_find_an_exploit_path/",
-        "createdAt": "2026-11-20T22:23:04.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "It turns out that X user who supposedly had a 14.23 jb was just grifting lol",
-        "score": 74,
+        "score": 98,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y24ehg/it_turns_out_that_x_user_who_supposedly_had_a/",
         "createdAt": "2026-11-21T18:50:01.000Z"
       },
@@ -65,7 +57,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Ready to play FC27, 100% LICENSED?",
-        "score": 50,
+        "score": 53,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1xvw4/ready_to_play_fc27_100_licensed/",
         "createdAt": "2026-11-21T14:07:38.000Z"
       },
@@ -73,7 +65,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Custom themes via ZhiThemes",
-        "score": 41,
+        "score": 47,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1su66/custom_themes_via_zhithemes/",
         "createdAt": "2026-11-21T09:17:07.000Z"
       },
@@ -81,7 +73,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "[Release] CachyOS for PS5: kernel 7.3.5 + improved updater (PS5 Pro Bluetooth, one-press controller pairing)",
-        "score": 38,
+        "score": 44,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y22c8p/release_cachyos_for_ps5_kernel_735_improved/",
         "createdAt": "2026-11-21T17:23:02.000Z"
       },
@@ -89,15 +81,15 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "OrbisDesk:  run Windows applications and games on PS4 (Alpha  2)",
-        "score": 26,
+        "score": 43,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y25t88/orbisdesk_run_windows_applications_and_games_on/",
         "createdAt": "2026-11-21T19:50:36.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Boot game of your choice directly from your PS4 onto your PC with Launchbox or any frontend of your choice",
-        "score": 22,
+        "title": "Boot the game of your choice directly from your PS4 onto your PC with Launchbox or any frontend of your choice",
+        "score": 28,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y218fo/boot_game_of_your_choice_directly_from_your_ps4/",
         "createdAt": "2026-11-21T16:36:21.000Z"
       },
@@ -105,7 +97,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Install and Run Fake Packages up to 13.60 with TitanCore",
-        "score": 19,
+        "score": 22,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y1v4g9/install_and_run_fake_packages_up_to_1360_with/",
         "createdAt": "2026-11-21T11:42:00.000Z"
       },
@@ -120,50 +112,42 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Running Lichii-bc250 and KytyPS5-native on a PS5 Pro",
-        "score": 15,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1kcvv/running_lichiibc250_and_kytyps5native_on_a_ps5_pro/",
-        "createdAt": "2026-11-21T01:15:44.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "PS5-CachyOS, btrfs edition: a fork tuned for the PS5 Pro, with BC-250 GPU work, AI/LLM support and PS5/Switch 2 emulators",
-        "score": 14,
+        "score": 15,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y22cur/ps5cachyos_btrfs_edition_a_fork_tuned_for_the_ps5/",
         "createdAt": "2026-11-21T17:23:48.000Z"
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Running Lichii-bc250 and KytyPS5-native on a PS5 Pro",
+        "score": 14,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1kcvv/running_lichiibc250_and_kytyps5native_on_a_ps5_pro/",
+        "createdAt": "2026-11-21T01:15:44.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "(Release) SuperTuxKart for PS4 (With mod support!)",
-        "score": 11,
+        "score": 10,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1o2pq/release_supertuxkart_for_ps4_with_mod_support/",
         "createdAt": "2026-11-21T04:31:34.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "Shadowmout does not install automatically",
-        "score": 10,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1hytf/shadowmout_does_not_install_automatically/",
-        "createdAt": "2026-11-20T23:22:40.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "I was using this emulator on ps4 slim then the power is out later when i tried to open the emulator this massage appears since yesterday is there a solution?",
-        "score": 8,
+        "score": 10,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1xwyb/i_was_using_this_emulator_on_ps4_slim_then_the/",
         "createdAt": "2026-11-21T14:09:06.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "(Release) SuperTuxKart for PS4 (With mod support!)",
-        "score": 8,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y1o21r/release_supertuxkart_for_ps4_with_mod_support/",
-        "createdAt": "2026-11-21T04:30:31.000Z"
+        "community": "ps4homebrew",
+        "title": "Will emulators run better on ssd?",
+        "score": 7,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1sh5x/will_emulators_run_better_on_ssd/",
+        "createdAt": "2026-11-21T08:53:52.000Z"
       },
       {
         "platform": "Reddit",
@@ -175,19 +159,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS5_Jailbreak",
-        "title": "PS5 Pro on 12.20 throwing 108262-9 on JB",
+        "community": "PS4Mods",
+        "title": "(Release) SuperTuxKart for PS4 (With mod support!)",
         "score": 7,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1hrjs/ps5_pro_on_1220_throwing_1082629_on_jb/",
-        "createdAt": "2026-11-20T23:13:16.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Will emulators run better on ssd?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1sh5x/will_emulators_run_better_on_ssd/",
-        "createdAt": "2026-11-21T08:53:52.000Z"
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y1o21r/release_supertuxkart_for_ps4_with_mod_support/",
+        "createdAt": "2026-11-21T04:30:31.000Z"
       },
       {
         "platform": "Reddit",
@@ -207,6 +183,30 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "OrbisDesk:  run Windows applications and games on PS4 (Alpha  2)",
+        "score": 6,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y25tnc/orbisdesk_run_windows_applications_and_games_on/",
+        "createdAt": "2026-11-21T19:51:08.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Migrating to Y2JB",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y225e1/migrating_to_y2jb/",
+        "createdAt": "2026-11-21T17:14:56.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "Anyone tried running a PC recomp on the PS5?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y29jhf/anyone_tried_running_a_pc_recomp_on_the_ps5/",
+        "createdAt": "2026-11-21T22:38:08.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Problem with RE: requiem",
         "score": 5,
@@ -215,19 +215,11 @@
       },
       {
         "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "OrbisDesk:  run Windows applications and games on PS4 (Alpha  2)",
+        "community": "PS5_Jailbreak",
+        "title": "Can you use the sata ssd for both booting linux and storing memory on it?",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y25tnc/orbisdesk_run_windows_applications_and_games_on/",
-        "createdAt": "2026-11-21T19:51:08.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Migrating to Y2JB",
-        "score": 4,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y225e1/migrating_to_y2jb/",
-        "createdAt": "2026-11-21T17:14:56.000Z"
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1ssnb/can_you_use_the_sata_ssd_for_both_booting_linux/",
+        "createdAt": "2026-11-21T09:14:29.000Z"
       },
       {
         "platform": "Reddit",
@@ -239,11 +231,43 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Should I be worried?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y1pjdt/should_i_be_worried/",
+        "createdAt": "2026-11-21T05:52:51.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "lce native mod loader beta now out",
         "score": 3,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y2176a/lce_native_mod_loader_beta_now_out/",
         "createdAt": "2026-11-21T16:34:52.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "webkitty vs gamerhack",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1nzzv/webkitty_vs_gamerhack/",
+        "createdAt": "2026-11-21T04:27:17.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "What is the main difference between 13.40 and 13.60?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y20xwq/what_is_the_main_difference_between_1340_and_1360/",
+        "createdAt": "2026-11-21T16:24:01.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Need Alan wake 2 save file",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y1y02u/need_alan_wake_2_save_file/",
+        "createdAt": "2026-11-21T14:13:12.000Z"
       },
       {
         "platform": "Reddit",
@@ -255,27 +279,35 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS5_Jailbreak",
+        "title": "PS5 (FW 13.42) freezes when playing ps5 native games",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y2063p/ps5_fw_1342_freezes_when_playing_ps5_native_games/",
+        "createdAt": "2026-11-21T15:51:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Ps5 Dualsense on Ps4?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y295qq/ps5_dualsense_on_ps4/",
+        "createdAt": "2026-11-21T22:19:37.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Apollo CE 34878-0. WTF",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y245bv/apollo_ce_348780_wtf/",
+        "createdAt": "2026-11-21T18:39:13.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Is 84Ciss's Beach Mod Menu (GTA 5) still maintained? Ko-fi page is down",
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1tkhj/is_84cisss_beach_mod_menu_gta_5_still_maintained/",
         "createdAt": "2026-11-21T10:04:57.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Retroarch error",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1im9r/retroarch_error/",
-        "createdAt": "2026-11-20T23:53:43.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "What is the main difference between 13.40 and 13.60?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y20xwq/what_is_the_main_difference_between_1340_and_1360/",
-        "createdAt": "2026-11-21T16:24:01.000Z"
       },
       {
         "platform": "Reddit",
@@ -308,14 +340,6 @@
         "score": 2,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y1yufa/table_top_simulatorsteam_on_ps5/",
         "createdAt": "2026-11-21T14:52:19.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Need Alan wake 2 save file",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y1y02u/need_alan_wake_2_save_file/",
-        "createdAt": "2026-11-21T14:13:12.000Z"
       },
       {
         "platform": "Reddit",
@@ -376,14 +400,6 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Should I be worried?",
-        "score": 2,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y1pjdt/should_i_be_worried/",
-        "createdAt": "2026-11-21T05:52:51.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
         "title": "Dillian Workman",
         "score": 2,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1y1ny6n/dillian_workman/",
@@ -392,10 +408,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "webkitty vs gamerhack",
+        "title": "Does anyone have PES 2021 on PS4?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1nzzv/webkitty_vs_gamerhack/",
-        "createdAt": "2026-11-21T04:27:17.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y29wu5/does_anyone_have_pes_2021_on_ps4/",
+        "createdAt": "2026-11-21T22:55:56.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Real trouble on my PS4 Pro FW 11.00 (probably)",
+        "score": 1,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y29bfz/real_trouble_on_my_ps4_pro_fw_1100_probably/",
+        "createdAt": "2026-11-21T22:27:17.000Z"
       },
       {
         "platform": "Reddit",
@@ -416,14 +440,6 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Apollo CE 34878-0. WTF",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y245bv/apollo_ce_348780_wtf/",
-        "createdAt": "2026-11-21T18:39:13.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "I need help with ps mtp explorer",
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y21wxv/i_need_help_with_ps_mtp_explorer/",
@@ -431,27 +447,27 @@
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "I keep getting error with PS2-FPKG",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1xj9i/i_keep_getting_error_with_ps2fpkg/",
-        "createdAt": "2026-11-21T13:51:08.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "if sony drops a new firmware update, how can I still sync unlocked trophies?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y1vrgy/if_sony_drops_a_new_firmware_update_how_can_i/",
-        "createdAt": "2026-11-21T12:18:43.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "How to play Fortnite online on 13.60",
+        "title": "Pokémon Prosperous Platinum released",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y1yq27/how_to_play_fortnite_online_on_1360/",
-        "createdAt": "2026-11-21T14:46:40.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y2avog/pokémon_prosperous_platinum_released/",
+        "createdAt": "2026-11-21T23:43:17.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Does anyone have PES 2021 on PS4?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y29vnh/does_anyone_have_pes_2021_on_ps4/",
+        "createdAt": "2026-11-21T22:54:22.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Ps5 Dualsense on Ps4?",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y296o9/ps5_dualsense_on_ps4/",
+        "createdAt": "2026-11-21T22:20:49.000Z"
       },
       {
         "platform": "Reddit",
@@ -492,29 +508,13 @@
         "score": 1,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1y1wrfy/help_me_with_linux/",
         "createdAt": "2026-11-21T13:12:15.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Kernel Panic 14.00",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y1vqi0/kernel_panic_1400/",
-        "createdAt": "2026-11-21T12:17:15.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Como está o uso do JailBreak via WebKit na versão 14.02 do PS4 ?",
-        "score": 1,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y1tgg2/como_está_o_uso_do_jailbreak_via_webkit_na_versão/",
-        "createdAt": "2026-11-21T09:58:31.000Z"
       }
     ],
     "topOverall": {
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "Random X user @meltedsx showcases his supposed 14.23 webkit jailbreak.",
-      "score": 212,
+      "score": 220,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1zxpe/random_x_user_meltedsx_showcases_his_supposed/",
       "createdAt": "2026-11-21T15:41:11.000Z"
     },
@@ -523,7 +523,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "OrbisDesk:  run Windows applications and games on PS4 (Alpha  2)",
-        "score": 26,
+        "score": 43,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y25t88/orbisdesk_run_windows_applications_and_games_on/",
         "createdAt": "2026-11-21T19:50:36.000Z"
       },
@@ -531,7 +531,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "[Release] CachyOS for PS5: kernel 7.3.5 + improved updater (PS5 Pro Bluetooth, one-press controller pairing)",
-        "score": 38,
+        "score": 44,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y22c8p/release_cachyos_for_ps5_kernel_735_improved/",
         "createdAt": "2026-11-21T17:23:02.000Z"
       },
@@ -539,7 +539,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Random X user @meltedsx showcases his supposed 14.23 webkit jailbreak.",
-        "score": 212,
+        "score": 220,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y1zxpe/random_x_user_meltedsx_showcases_his_supposed/",
         "createdAt": "2026-11-21T15:41:11.000Z"
       },
@@ -549,7 +549,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "(Release) SuperTuxKart for PS4 (With mod support!)",
-        "score": 8,
+        "score": 7,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1y1o21r/release_supertuxkart_for_ps4_with_mod_support/",
         "createdAt": "2026-11-21T04:30:31.000Z"
       }
@@ -611,7 +611,7 @@
         "platform": "Bluesky",
         "community": "following:Consolefacts",
         "title": "PS4 News:\n\nNew homebrew released that allows you to stream Steam games from your PC to your PS4\n\ngithub.com/ivanopolo30-...",
-        "score": 0,
+        "score": 1,
         "url": "https://bsky.app/profile/consolefacts.bsky.social/post/3n2tzk5nef22q",
         "createdAt": "2026-11-21T21:16:38.646Z",
         "key": "at://did:plc:u5543hkwxyhmhegvrqqovz74/app.bsky.feed.post/3n2tzk5nef22q:bafyreia3v7lbsaaksrnzh227lbgmvo5ool5wjzwr4o5sefdtavmmkrt4iu"
