@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-11-27T21:56:32.992Z",
-  "runTimePacific": "11/27/2026, 13:56 PST",
-  "windowStartPacific": "11/26/2026, 13:56 PST",
-  "windowEndPacific": "11/27/2026, 13:56 PST",
+  "generatedAt": "2026-11-28T00:14:19.897Z",
+  "runTimePacific": "11/27/2026, 16:14 PST",
+  "windowStartPacific": "11/26/2026, 16:14 PST",
+  "windowEndPacific": "11/27/2026, 16:14 PST",
   "status": "partial",
   "youtube": {
-    "latest": null,
+    "latest": {
+      "platform": "YouTube",
+      "community": "PlayStation Hacks & Exploits | Michael Crump",
+      "title": "What's real about the PS5 GTA6 JB Release?",
+      "url": "https://www.youtube.com/watch?v=-dAFANTQUaE",
+      "createdAt": "2026-11-27T22:45:26.000Z"
+    },
     "latestHomebrewNews": null,
     "sources": [
       {
         "name": "YouTube RSS",
         "ok": true,
-        "count": 0
+        "count": 1
       },
       {
         "name": "YouTube Homebrew News",
@@ -27,7 +33,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "NO JASON DON’T UPDATE",
-        "score": 1167,
+        "score": 1283,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6uck1/no_jason_dont_update/",
         "createdAt": "2026-11-27T14:18:27.000Z"
       },
@@ -35,7 +41,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "VI-Patch: Weather fix, Mandy replaces Lucia, Skip intro logos and much more",
-        "score": 781,
+        "score": 790,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6n5a5/vipatch_weather_fix_mandy_replaces_lucia_skip/",
         "createdAt": "2026-11-27T07:22:13.000Z"
       },
@@ -43,23 +49,15 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "To the FPKG Support Devs: THANK YOU, THANK YOU, THANK YOU!!!",
-        "score": 424,
+        "score": 438,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6jg4y/to_the_fpkg_support_devs_thank_you_thank_you/",
         "createdAt": "2026-11-27T03:48:58.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Phantom Blade Zero dump confirmed coming soon",
-        "score": 361,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6f2xy/phantom_blade_zero_dump_confirmed_coming_soon/",
-        "createdAt": "2026-11-26T23:51:24.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "GTA6 Playable on 9.60",
-        "score": 357,
+        "score": 364,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6fkl9/gta6_playable_on_960/",
         "createdAt": "2026-11-27T00:14:50.000Z"
       },
@@ -67,103 +65,95 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "Can someone please switch Lucia with Ms. Shirley?",
-        "score": 248,
+        "score": 324,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y718bo/can_someone_pls_switch_lucia_wth_ms_shirley/",
         "createdAt": "2026-11-27T19:03:54.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Do it to your Base PS5 before playing GTA VI",
-        "score": 244,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6qia5/do_it_to_your_base_ps5_before_playing_gta_vi/",
-        "createdAt": "2026-11-27T10:56:55.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS5_Jailbreak",
         "title": "Progress - NX2 Emulation on PS5",
-        "score": 236,
+        "score": 253,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6r799/progress_nx2_emulation_on_ps5/",
         "createdAt": "2026-11-27T11:38:58.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "[Release] Disk Space Analyzer for PS5: See What’s Taking Up “Other” Storage",
-        "score": 186,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6pcpo/release_disk_space_analyzer_for_ps5_see_whats/",
-        "createdAt": "2026-11-27T09:44:24.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "Now that GTA6 is jailbroken, may we please have a payload to fix this horrible vignetting",
-        "score": 183,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6f6od/now_that_gta6_is_jailbroken_may_we_please_have_a/",
-        "createdAt": "2026-11-26T23:57:03.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Drakmor releases fourth test payload for 13.60 FPKG, focused on 12.XX compatibility",
-        "score": 176,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6si3m/drakmor_releases_fourth_test_payload_for_1360/",
-        "createdAt": "2026-11-27T12:51:37.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "We need more x360 games",
-        "score": 175,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6je6j/we_need_more_x360_game/",
-        "createdAt": "2026-11-27T03:45:50.000Z"
+        "title": "Do it to your Base PS5 before playing GTA VI",
+        "score": 251,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6qia5/do_it_to_your_base_ps5_before_playing_gta_vi/",
+        "createdAt": "2026-11-27T10:56:55.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Grand Theft Auto 4",
-        "score": 171,
+        "score": 203,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6uhxj/grand_theft_auto_4/",
         "createdAt": "2026-11-27T14:25:18.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Finally! GTA6 on 13.60, with Kstuff v1.15 Test3 Stable!",
-        "score": 167,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6d4y2/finally_gta6_on_1360_with_kstuff_v115_test3_stable/",
-        "createdAt": "2026-11-26T22:11:28.000Z"
+        "title": "[Release] Disk Space Analyzer for PS5: See What’s Taking Up “Other” Storage",
+        "score": 196,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6pcpo/release_disk_space_analyzer_for_ps5_see_whats/",
+        "createdAt": "2026-11-27T09:44:24.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "Enjoy GTA VI and Vice city, fellows!",
-        "score": 122,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6vl6x/enjoy_gta_vi_and_vice_city_fellows/",
-        "createdAt": "2026-11-27T15:11:34.000Z"
+        "title": "Drakmor releases fourth test payload for 13.60 FPKG, focused on 12.XX compatibility",
+        "score": 185,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6si3m/drakmor_releases_fourth_test_payload_for_1360/",
+        "createdAt": "2026-11-27T12:51:37.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "We need more x360 game",
+        "score": 181,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6je6j/we_need_more_x360_game/",
+        "createdAt": "2026-11-27T03:45:50.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "New bounty via HackerOne program",
-        "score": 119,
+        "score": 128,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6q4h1/new_bounty_via_hackerone_program/",
         "createdAt": "2026-11-27T10:31:36.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "Enjoy GTA VI and Vice city, fellows!",
+        "score": 127,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6vl6x/enjoy_gta_vi_and_vice_city_fellows/",
+        "createdAt": "2026-11-27T15:11:34.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "GTA VI Basic Trainer (Cheatrunner)",
-        "score": 119,
+        "score": 124,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6hex8/gta_vi_basic_trainer_cheatrunner/",
         "createdAt": "2026-11-27T01:56:26.000Z"
       },
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
+        "title": "First Native 4K Grand Theft Auto VI Screenshot",
+        "score": 106,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y72pcy/first_native_4k_grand_theft_auto_vi_screenshot/",
+        "createdAt": "2026-11-27T20:06:17.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS5_Jailbreak",
         "title": "Personal patches for Miami Man Simulator: First person view toggle, FPS unlock, resolution downscaling, more",
-        "score": 104,
+        "score": 106,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6ot9l/personal_patches_for_miami_man_simulator_first/",
         "createdAt": "2026-11-27T09:09:53.000Z"
       },
@@ -171,7 +161,7 @@
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Gta IV on ps4",
-        "score": 96,
+        "score": 105,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6sk40/gta_iv_on_ps4/",
         "createdAt": "2026-11-27T12:54:02.000Z"
       },
@@ -179,7 +169,7 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Progress - NX2 Emulation on PS5",
-        "score": 90,
+        "score": 97,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6ra1s/progress_nx2_emulation_on_ps5/",
         "createdAt": "2026-11-27T11:43:47.000Z"
       },
@@ -194,64 +184,56 @@
       {
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
-        "title": "First Native 4K Grand Theft Auto VI Screenshot",
-        "score": 74,
-        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y72pcy/first_native_4k_grand_theft_auto_vi_screenshot/",
-        "createdAt": "2026-11-27T20:06:17.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
-        "title": "GTA6 telemetry to Rockstar",
-        "score": 33,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6e7qx/gta6_telemetry_to_rockstar/",
-        "createdAt": "2026-11-26T23:06:32.000Z"
+        "title": "GTA VI working on PS5 Pro FW 13.00 with kstuff-1.15-dr-test3-stable",
+        "score": 67,
+        "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6p81j/gta_vi_working_on_ps5_pro_fw_1300_with/",
+        "createdAt": "2026-11-27T09:36:04.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "RDR2 at 60fps",
-        "score": 32,
+        "score": 40,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6u9ro/rdr2_at_60fps/",
         "createdAt": "2026-11-27T14:15:04.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
+        "title": "Playden 0.12.0: GOG games and online Steam",
+        "score": 36,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6uu13/playden_0120_gog_games_and_online_steam/",
+        "createdAt": "2026-11-27T14:39:37.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
         "title": "Could help others maybe.",
-        "score": 32,
+        "score": 33,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6t440/could_help_others_maybe/",
         "createdAt": "2026-11-27T13:20:32.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Playden 0.12.0: GOG games and online Steam",
+        "title": "Personal patches for Miami Man Simulator: First person view toggle, FPS unlock, resolution downscaling, more",
         "score": 31,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6uu13/playden_0120_gog_games_and_online_steam/",
-        "createdAt": "2026-11-27T14:39:37.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6yi11/personal_patches_for_miami_man_simulator_first/",
+        "createdAt": "2026-11-27T17:11:45.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "NPS64 - New standalone Nintendo 64 emulator for PS4 appears",
-        "score": 26,
+        "score": 29,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6sla8/nps64_new_standalone_nintendo_64_emulator_for_ps4/",
         "createdAt": "2026-11-27T12:55:43.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Personal patches for Miami Man Simulator: First person view toggle, FPS unlock, resolution downscaling, more",
-        "score": 24,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6yi11/personal_patches_for_miami_man_simulator_first/",
-        "createdAt": "2026-11-27T17:11:45.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps5homebrew",
         "title": "GTA 6 crashing when closing on 13.60",
-        "score": 23,
+        "score": 22,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6mzl6/gta_6_crashing_when_closing_on_1360/",
         "createdAt": "2026-11-27T07:12:31.000Z"
       },
@@ -259,7 +241,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "New Version of Plugin Manager V1.50",
-        "score": 16,
+        "score": 20,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1y72l7f/new_version_of_plugins_manger_v150/",
         "createdAt": "2026-11-27T20:01:21.000Z"
       },
@@ -267,23 +249,15 @@
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Cheatrunner Runs on GTA6 13.60!!",
-        "score": 15,
+        "score": 16,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6t8vl/cheatrunner_runs_on_gta6_1360/",
         "createdAt": "2026-11-27T13:27:04.000Z"
       },
       {
         "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Tem como ouvir música enquanto jogo?",
-        "score": 12,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6eya1/tem_como_ouvir_música_enquanto_jogo/",
-        "createdAt": "2026-11-26T23:44:33.000Z"
-      },
-      {
-        "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Staying on 12.20 vs updating now to 13.60?",
-        "score": 10,
+        "score": 8,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6qxdv/staying_on_1220_vs_updating_now_to_1360/",
         "createdAt": "2026-11-27T11:22:07.000Z"
       },
@@ -297,51 +271,107 @@
       },
       {
         "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "What should i do upgrade gpu or buy second hand console",
+        "score": 7,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y6u3a7/what_should_i_do_upgrade_gpu_or_buy_second_hand/",
+        "createdAt": "2026-11-27T14:06:43.000Z"
+      },
+      {
+        "platform": "Reddit",
         "community": "ps4homebrew",
         "title": "Roberix launcher",
-        "score": 6,
+        "score": 5,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6g0ct/roberix_launcher/",
         "createdAt": "2026-11-27T00:38:14.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
+        "title": "Close Game error fix For GT@ VI?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y760wg/close_game_error_fix_for_gt_vi/",
+        "createdAt": "2026-11-27T22:33:15.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
         "title": "[Update] ProsperoSunshine 0.6.9 – co-op from several devices, web UI, keyboard & mouse, more firmwares",
-        "score": 6,
+        "score": 5,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6nuij/update_prosperosunshine_069_coop_from_several/",
         "createdAt": "2026-11-27T08:06:29.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
-        "title": "Parallax Browser: a fast web browser, with GPU-accelerated WebGL/WebGPU, 8K hardware video and PSVR2 support.",
-        "score": 6,
-        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6skei/parallax_browser_a_fast_web_browser_with/",
-        "createdAt": "2026-11-27T12:54:26.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Isn’t there a way to install games or homebrew directly on ps4 ?",
-        "score": 6,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y72333/isnt_there_a_way_to_install_games_or_homebrew/",
-        "createdAt": "2026-11-27T19:40:16.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "What should i do upgrade gpu or buy second hand console",
+        "title": "OnionHEN fan settings..",
         "score": 5,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y6u3a7/what_should_i_do_upgrade_gpu_or_buy_second_hand/",
-        "createdAt": "2026-11-27T14:06:43.000Z"
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y73hyl/onionhen_fan_settings/",
+        "createdAt": "2026-11-27T20:40:12.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Gta 6 .pkg not starting?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y74xo2/gta_6_pkg_not_starting/",
+        "createdAt": "2026-11-27T21:43:40.000Z"
       },
       {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "Stuck on \"Please wait...\" when trying to launch GTA VI",
-        "score": 4,
+        "score": 5,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6zgsc/stuck_on_please_wait_when_trying_to_launch_gta_vi/",
         "createdAt": "2026-11-27T17:50:59.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Isn’t there a way to install games or homebrew directly on ps4 ?",
+        "score": 5,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y72333/isnt_there_a_way_to_install_games_or_homebrew/",
+        "createdAt": "2026-11-27T19:40:16.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Slow install",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6rigp/slow_install/",
+        "createdAt": "2026-11-27T11:57:26.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Wanted help with knowing what's the best stores to install games cuz there's too much",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6wzht/wanted_help_with_knowing_whats_the_best_stores_to/",
+        "createdAt": "2026-11-27T16:10:12.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps5homebrew",
+        "title": "Parallax Browser: a fast web browser, with GPU-accelerated WebGL/WebGPU, 8K hardware video and PSVR2 support.",
+        "score": 4,
+        "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6skei/parallax_browser_a_fast_web_browser_with/",
+        "createdAt": "2026-11-27T12:54:26.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Is there any way to run fable?",
+        "score": 3,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y73uyo/is_there_any_way_to_run_fable/",
+        "createdAt": "2026-11-27T20:56:02.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Theme: Temple of Time",
+        "score": 3,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y75oew/theme_temple_of_time/",
+        "createdAt": "2026-11-27T22:17:35.000Z"
       },
       {
         "platform": "Reddit",
@@ -354,10 +384,18 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Is there any way to run fable?",
+        "title": "Issue with Vue After Free",
         "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y73uyo/is_there_any_way_to_run_fable/",
-        "createdAt": "2026-11-27T20:56:02.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y76axp/issue_with_vue_after_free/",
+        "createdAt": "2026-11-27T22:46:13.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "ps4homebrew",
+        "title": "Pes 2021 mod problem",
+        "score": 2,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y73zaz/pes_2021_mod_problem/",
+        "createdAt": "2026-11-27T21:01:14.000Z"
       },
       {
         "platform": "Reddit",
@@ -370,26 +408,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Wanted help with knowing what's the best stores to install games cuz there's too much",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6wzht/wanted_help_with_knowing_whats_the_best_stores_to/",
-        "createdAt": "2026-11-27T16:10:12.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
         "title": "No sure where else to post this. What could have happened?",
         "score": 2,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6jozr/no_sure_where_else_to_post_this_what_could_have/",
         "createdAt": "2026-11-27T04:02:42.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "A bit of help here",
-        "score": 2,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6d01k/a_bit_of_help_here/",
-        "createdAt": "2026-11-26T22:04:41.000Z"
       },
       {
         "platform": "Reddit",
@@ -402,18 +424,10 @@
       {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "Slow install",
+        "title": "Alguem tem save com caws da aew no wwe 2k25 versão europeia, e que possa compartilhar?",
         "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6rigp/slow_install/",
-        "createdAt": "2026-11-27T11:57:26.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "ps4homebrew",
-        "title": "Pes 2021 mod problem",
-        "score": 1,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y73zaz/pes_2021_mod_problem/",
-        "createdAt": "2026-11-27T21:01:14.000Z"
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y77acx/alguem_tem_save_com_caws_da_aew_no_wwe_2k25/",
+        "createdAt": "2026-11-27T23:32:16.000Z"
       },
       {
         "platform": "Reddit",
@@ -422,6 +436,14 @@
         "score": 1,
         "url": "https://www.reddit.com/r/ps4homebrew/comments/1y73wtj/6221038117_not_working_for_anyone_else/",
         "createdAt": "2026-11-27T20:58:23.000Z"
+      },
+      {
+        "platform": "Reddit",
+        "community": "PS4Mods",
+        "title": "Ghost of tsushima: directors cut version 2.24 eu goldhen patch ( need help )",
+        "score": 1,
+        "url": "https://www.reddit.com/r/PS4Mods/comments/1y76od9/ghost_of_tsushima_directors_cut_version_224_eu/",
+        "createdAt": "2026-11-27T23:03:12.000Z"
       },
       {
         "platform": "Reddit",
@@ -474,22 +496,6 @@
       {
         "platform": "Reddit",
         "community": "PS4Mods",
-        "title": "Hello guys, I have a jailbroken PS4 on firmware 14.00. If I update the system to the latest version, sign in with my Sony account, and activate the jailbreak, will my account get banned? I want to earn trophies and things like that on my own Sony account.😔",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y6evsr/hello_guys_i_have_a_jailbroken_ps4_on_firmware/",
-        "createdAt": "2026-11-26T23:41:37.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
-        "title": "Why not inject the xbox one ui onto the ps4?",
-        "score": 0,
-        "url": "https://www.reddit.com/r/PS4Mods/comments/1y6dj8f/why_not_inject_the_xbox_one_ui_onto_the_ps4/",
-        "createdAt": "2026-11-26T22:31:14.000Z"
-      },
-      {
-        "platform": "Reddit",
-        "community": "PS4Mods",
         "title": "Busco información de sobre posibles port de GTA 6 a ps4",
         "score": 0,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1y6gwj7/busco_información_de_sobre_posibles_port_de_gta_6/",
@@ -500,7 +506,7 @@
       "platform": "Reddit",
       "community": "PS5_Jailbreak",
       "title": "NO JASON DON’T UPDATE",
-      "score": 1167,
+      "score": 1283,
       "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6uck1/no_jason_dont_update/",
       "createdAt": "2026-11-27T14:18:27.000Z"
     },
@@ -508,16 +514,16 @@
       "ps4homebrew": {
         "platform": "Reddit",
         "community": "ps4homebrew",
-        "title": "We need more x360 games",
-        "score": 175,
-        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6je6j/we_need_more_x360_game/",
-        "createdAt": "2026-11-27T03:45:50.000Z"
+        "title": "Grand Theft Auto 4",
+        "score": 203,
+        "url": "https://www.reddit.com/r/ps4homebrew/comments/1y6uhxj/grand_theft_auto_4/",
+        "createdAt": "2026-11-27T14:25:18.000Z"
       },
       "ps5homebrew": {
         "platform": "Reddit",
         "community": "ps5homebrew",
         "title": "[Release] Disk Space Analyzer for PS5: See What’s Taking Up “Other” Storage",
-        "score": 186,
+        "score": 196,
         "url": "https://www.reddit.com/r/ps5homebrew/comments/1y6pcpo/release_disk_space_analyzer_for_ps5_see_whats/",
         "createdAt": "2026-11-27T09:44:24.000Z"
       },
@@ -525,7 +531,7 @@
         "platform": "Reddit",
         "community": "PS5_Jailbreak",
         "title": "NO JASON DON’T UPDATE",
-        "score": 1167,
+        "score": 1283,
         "url": "https://www.reddit.com/r/PS5_Jailbreak/comments/1y6uck1/no_jason_dont_update/",
         "createdAt": "2026-11-27T14:18:27.000Z"
       },
@@ -535,7 +541,7 @@
         "platform": "Reddit",
         "community": "PS4Mods",
         "title": "New Version of Plugin Manager V1.50",
-        "score": 16,
+        "score": 20,
         "url": "https://www.reddit.com/r/PS4Mods/comments/1y72l7f/new_version_of_plugins_manger_v150/",
         "createdAt": "2026-11-27T20:01:21.000Z"
       }
@@ -606,7 +612,7 @@
         "platform": "Bluesky",
         "community": "following:MrMario2011",
         "title": "Telling Lucia that you agree to help Mattia and Kat when she asks you starts the finale of Chapter 1 in GTA VI\n\nI'm sharing this for anyone trying to avoid looking things up, because I had no idea until it was too late 🥲",
-        "score": 2,
+        "score": 3,
         "url": "https://bsky.app/profile/mrmario2011.com/post/3n3cnm6nddk2y",
         "createdAt": "2026-11-27T16:52:56.153Z",
         "key": "at://did:plc:ctp7mtxklyh4h4k57ly2rgk3/app.bsky.feed.post/3n3cnm6nddk2y:bafyreibjfumelwyv3utgf7lmaldxa5jbidqn44f3ngacnkvisce3paoiby"
